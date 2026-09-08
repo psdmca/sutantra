@@ -591,7 +591,7 @@
 #### 📁 இணைக்கப்பட்டுள்ள கோப்புகள்:
 
 **உரைகள் / விளக்க உரைகள்:**
-- 📖 [ஔவையாரின் “விநாயகர் அகவல்” -உரை - பாகம் 2.txt](யாப்பு_பிரபந்தங்கள்/உரை/ஔவையாரின்%20“விநாயகர்%20அகவல்”%20-உரை%20-%20பாகம்%202.txt)
+- 📖 [விநாயகர் அகவல் - த. ச. மீனாட்சிசுந்தரம் பிள்ளை உரை.txt](%E0%AE%AF%E0%AE%BE%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81_%E0%AE%AA%E0%AE%BF%E0%AE%B0%E0%AE%AA%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D/%E0%AE%89%E0%AE%B0%E0%AF%88/%E0%AE%B5%E0%AE%BF%E0%AE%A8%E0%AE%BE%E0%AE%AF%E0%AE%95%E0%AE%B0%E0%AF%8D%20%E0%AE%85%E0%AE%95%E0%AE%B5%E0%AE%B2%E0%AF%8D%20-%20%E0%AE%A4.%20%E0%AE%9A.%20%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9A%E0%AE%BF%E0%AE%9A%E0%AF%81%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D%20%E0%AE%AA%E0%AE%BF%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AF%88%20%E0%AE%89%E0%AE%B0%E0%AF%88.txt)
 
 ---
 
@@ -3757,7 +3757,7 @@
 #### 📁 இணைக்கப்பட்டுள்ள கோப்புகள்:
 
 **உரைகள் / விளக்க உரைகள்:**
-- 📖 [புலியூர் வெண்பா(சுப்பராய செட்டியார் உரையோடு).txt](யாப்பு_பிரபந்தங்கள்/உரை/புலியூர்%20வெண்பா%28சுப்பராய%20செட்டியார்%20உரையோடு%29.txt)
+- 📖 [புலியூர் வெண்பா (சுப்பராய செட்டியார் உரை).txt](%E0%AE%AF%E0%AE%BE%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81_%E0%AE%AA%E0%AE%BF%E0%AE%B0%E0%AE%AA%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D/%E0%AE%89%E0%AE%B0%E0%AF%88/%E0%AE%AA%E0%AF%81%E0%AE%B2%E0%AE%BF%E0%AE%AF%E0%AF%82%E0%AE%B0%E0%AF%8D%20%E0%AE%B5%E0%AF%86%E0%AE%A3%E0%AF%8D%E0%AE%AA%E0%AE%BE%20%28%E0%AE%9A%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%B0%E0%AE%BE%E0%AE%AF%20%E0%AE%9A%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%B0%E0%AF%8D%20%E0%AE%89%E0%AE%B0%E0%AF%88%29.txt)
 
 ---
 
