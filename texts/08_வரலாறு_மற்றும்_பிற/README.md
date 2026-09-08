@@ -173,11 +173,7 @@
 
 #### 📁 இணைக்கப்பட்டுள்ள கோப்புகள்:
 **மூல நூல்கள் / பாகங்கள்:**
-- 📄 [என் சரித்திரம் - பாகம் 1 (உ.வே. சாமிநாதையர்).txt](வாழ்க்கை_வரலாறு/என்%20சரித்திரம்%20-%20பாகம்%201%20%28உ.வே.%20சாமிநாதையர்%29.txt)
-- 📄 [என் சரித்திரம் - பாகம் 2 (உ.வே. சாமிநாதையர்).txt](வாழ்க்கை_வரலாறு/என்%20சரித்திரம்%20-%20பாகம்%202%20%28உ.வே.%20சாமிநாதையர்%29.txt)
-- 📄 [என் சரித்திரம் - பாகம் 3 (உ.வே. சாமிநாதையர்).txt](வாழ்க்கை_வரலாறு/என்%20சரித்திரம்%20-%20பாகம்%203%20%28உ.வே.%20சாமிநாதையர்%29.txt)
-- 📄 [என் சரித்திரம் - பாகம் 4 (உ.வே. சாமிநாதையர்).txt](வாழ்க்கை_வரலாறு/என்%20சரித்திரம்%20-%20பாகம்%204%20%28உ.வே.%20சாமிநாதையர்%29.txt)
-- 📄 [என் சரித்திரம் - பாகம் 5.txt](வாழ்க்கை_வரலாறு/என்%20சரித்திரம்%20-%20பாகம்%205.txt)
+- 📄 [என் சரித்திரம் (உ.வே. சாமிநாதையர்).txt](%E0%AE%B5%E0%AE%BE%E0%AE%B4%E0%AF%8D%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%88_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81/%E0%AE%8E%E0%AE%A9%E0%AF%8D%20%E0%AE%9A%E0%AE%B0%E0%AE%BF%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AE%AE%E0%AF%8D%20%28%E0%AE%89.%E0%AE%B5%E0%AF%87.%20%E0%AE%9A%E0%AE%BE%E0%AE%AE%E0%AE%BF%E0%AE%A8%E0%AE%BE%E0%AE%A4%E0%AF%88%E0%AE%AF%E0%AE%B0%E0%AF%8D%29.txt)
 
 ---
 
@@ -529,8 +525,7 @@
 
 #### 📁 இணைக்கப்பட்டுள்ள கோப்புகள்:
 **மூல நூல்கள் / பாகங்கள்:**
-- 📄 [ஸ்ரீ மீனாட்சிசுந்தரம் பிள்ளை சரித்திரம் - பாகம் 1 (உ.வே. சாமிநாதையர்).txt](%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_%E0%AE%AE%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%AE%E0%AF%8D_%E0%AE%9A%E0%AE%B0%E0%AE%BF%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AE%AE%E0%AF%8D/%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80%20%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9A%E0%AE%BF%E0%AE%9A%E0%AF%81%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D%20%E0%AE%AA%E0%AE%BF%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AF%88%20%E0%AE%9A%E0%AE%B0%E0%AE%BF%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AE%AE%E0%AF%8D%20-%20%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AE%AE%E0%AF%8D%201%20%28%E0%AE%89.%E0%AE%B5%E0%AF%87.%20%E0%AE%9A%E0%AE%BE%E0%AE%AE%E0%AE%BF%E0%AE%A8%E0%AE%BE%E0%AE%A4%E0%AF%88%E0%AE%AF%E0%AE%B0%E0%AF%8D%29.txt)
-- 📄 [ஸ்ரீ மீனாட்சிசுந்தரம் பிள்ளை சரித்திரம் - பாகம் 2 (உ.வே. சாமிநாதையர்).txt](%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_%E0%AE%AE%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%AE%E0%AF%8D_%E0%AE%9A%E0%AE%B0%E0%AE%BF%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AE%AE%E0%AF%8D/%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80%20%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9A%E0%AE%BF%E0%AE%9A%E0%AF%81%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D%20%E0%AE%AA%E0%AE%BF%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AF%88%20%E0%AE%9A%E0%AE%B0%E0%AE%BF%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AE%AE%E0%AF%8D%20-%20%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AE%AE%E0%AF%8D%202%20%28%E0%AE%89.%E0%AE%B5%E0%AF%87.%20%E0%AE%9A%E0%AE%BE%E0%AE%AE%E0%AE%BF%E0%AE%A8%E0%AE%BE%E0%AE%A4%E0%AF%88%E0%AE%AF%E0%AE%B0%E0%AF%8D%29.txt)
+- 📄 [ஸ்ரீ மீனாட்சிசுந்தரம் பிள்ளை சரித்திரம் (உ.வே. சாமிநாதையர்).txt](%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_%E0%AE%AE%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%AE%E0%AF%8D_%E0%AE%9A%E0%AE%B0%E0%AE%BF%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AE%AE%E0%AF%8D/%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80%20%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9A%E0%AE%BF%E0%AE%9A%E0%AF%81%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D%20%E0%AE%AA%E0%AE%BF%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AF%88%20%E0%AE%9A%E0%AE%B0%E0%AE%BF%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AE%AE%E0%AF%8D%20%28%E0%AE%89.%E0%AE%B5%E0%AF%87.%20%E0%AE%9A%E0%AE%BE%E0%AE%AE%E0%AE%BF%E0%AE%A8%E0%AE%BE%E0%AE%A4%E0%AF%88%E0%AE%AF%E0%AE%B0%E0%AF%8D%29.txt)
 
 ---
 
