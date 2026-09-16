@@ -1,0 +1,24 @@
+# 9. அறநூல்கள் மற்றும் நீதிநூல்கள் (Didactic & Moral Literature)
+
+> [🔙 முதன்மைப் பொருளடக்கம் (Main Texts Index)](../README.md)
+
+*ஔவையாரின் ஆத்திசூடி, கொன்றைவேந்தன், மூதுரை, நல்வழி, குமரகுருபரரின் நீதிநெறி விளக்கம், நன்னெறி, உலகநீதி, விவேக சிந்தாமணி உள்ளிட்ட நீதிப் பெட்டகம்.*
+
+**மொத்தக் கோப்புகள்**: 11 கோப்புகள்
+
+---
+
+## 📜 முதன்மை நூல்கள் (11 நூல்கள்)
+
+- 📄 [அருள் நெறி முழக்கம் (சொற்பொழிவுகள்)](%E0%AE%85%E0%AE%B0%E0%AF%81%E0%AE%B3%E0%AF%8D%20%E0%AE%A8%E0%AF%86%E0%AE%B1%E0%AE%BF%20%E0%AE%AE%E0%AF%81%E0%AE%B4%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D%20%28%E0%AE%9A%E0%AF%8A%E0%AE%B1%E0%AF%8D%E0%AE%AA%E0%AF%8A%E0%AE%B4%E0%AE%BF%E0%AE%B5%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D%29.txt)
+- 📄 [அறநெறிச்சாரம்](%E0%AE%85%E0%AE%B1%E0%AE%A8%E0%AF%86%E0%AE%B1%E0%AE%BF%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%BE%E0%AE%B0%E0%AE%AE%E0%AF%8D.txt)
+- 📄 [ஆத்திச்சூடி வெண்பா](%E0%AE%86%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AF%82%E0%AE%9F%E0%AE%BF%20%E0%AE%B5%E0%AF%86%E0%AE%A3%E0%AF%8D%E0%AE%AA%E0%AE%BE.txt)
+- 📄 [உலகநீதி](%E0%AE%89%E0%AE%B2%E0%AE%95%E0%AE%A8%E0%AF%80%E0%AE%A4%E0%AE%BF.txt)
+- 📄 [ஒளவையார் தனிப்பாடல்கள்](%E0%AE%92%E0%AE%B3%E0%AE%B5%E0%AF%88%E0%AE%AF%E0%AE%BE%E0%AE%B0%E0%AF%8D%20%E0%AE%A4%E0%AE%A9%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AE%B2%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D.txt)
+- 📄 [ஔவையார் நூல்கள் (ஆத்திசூடி, கொன்றை வேந்தன், நல்வழி, மூதுரை)](%E0%AE%94%E0%AE%B5%E0%AF%88%E0%AE%AF%E0%AE%BE%E0%AE%B0%E0%AF%8D%20%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D%20%28%E0%AE%86%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%9A%E0%AF%82%E0%AE%9F%E0%AE%BF%2C%20%E0%AE%95%E0%AF%8A%E0%AE%A9%E0%AF%8D%E0%AE%B1%E0%AF%88%20%E0%AE%B5%E0%AF%87%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%A9%E0%AF%8D%2C%20%E0%AE%A8%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AE%B4%E0%AE%BF%2C%20%E0%AE%AE%E0%AF%82%E0%AE%A4%E0%AF%81%E0%AE%B0%E0%AF%88%29.txt)
+- 📄 [குறள்மூலம்](%E0%AE%95%E0%AF%81%E0%AE%B1%E0%AE%B3%E0%AF%8D%E0%AE%AE%E0%AF%82%E0%AE%B2%E0%AE%AE%E0%AF%8D.txt)
+- 📄 [நன்னெறி](%E0%AE%A8%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%86%E0%AE%B1%E0%AE%BF.txt)
+- 📄 [நீதித்திரட்டு (ஆசிரிய மாலை, குண்டலகேசித் திரட்டு, பெரும்பொருள் விளக்கம்)](%E0%AE%A8%E0%AF%80%E0%AE%A4%E0%AE%BF%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%20%28%E0%AE%86%E0%AE%9A%E0%AE%BF%E0%AE%B0%E0%AE%BF%E0%AE%AF%20%E0%AE%AE%E0%AE%BE%E0%AE%B2%E0%AF%88%2C%20%E0%AE%95%E0%AF%81%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AE%B2%E0%AE%95%E0%AF%87%E0%AE%9A%E0%AE%BF%E0%AE%A4%E0%AF%8D%20%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%2C%20%E0%AE%AA%E0%AF%86%E0%AE%B0%E0%AF%81%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%8A%E0%AE%B0%E0%AF%81%E0%AE%B3%E0%AF%8D%20%E0%AE%B5%E0%AE%BF%E0%AE%B3%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D%29.txt)
+- 📄 [மகாராஜா துறவு](%E0%AE%AE%E0%AE%95%E0%AE%BE%E0%AE%B0%E0%AE%BE%E0%AE%9C%E0%AE%BE%20%E0%AE%A4%E0%AF%81%E0%AE%B1%E0%AE%B5%E0%AF%81.txt)
+- 📄 [விவேக சிந்தாமணி](%E0%AE%B5%E0%AE%BF%E0%AE%B5%E0%AF%87%E0%AE%95%20%E0%AE%9A%E0%AE%BF%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BE%E0%AE%AE%E0%AE%A3%E0%AE%BF.txt)
+

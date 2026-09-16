@@ -1,0 +1,32 @@
+# 2. பதினெண்கீழ்க்கணக்கு (18 Didactic & Ethical Works)
+
+> [🔙 முதன்மைப் பொருளடக்கம் (Main Texts Index)](../README.md)
+
+*மனித குல வாழ்வியலுக்கு அறநெறி வழிகாட்டும் உலகப் பொதுமறையாம் திருக்குறள், நாலடியார் உள்ளிட்ட பதினெண் கீழ்க்கணக்கு அற, அக, புற நூல்கள்.*
+
+**மொத்தக் கோப்புகள்**: 19 கோப்புகள்
+
+---
+
+## 📜 முதன்மை நூல்கள் (19 நூல்கள்)
+
+- 📄 [01_நாலடியார்](01_%E0%AE%A8%E0%AE%BE%E0%AE%B2%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%B0%E0%AF%8D.txt)
+- 📄 [02_நான்மணிக்கடிகை](02_%E0%AE%A8%E0%AE%BE%E0%AE%A9%E0%AF%8D%E0%AE%AE%E0%AE%A3%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%9F%E0%AE%BF%E0%AE%95%E0%AF%88.txt)
+- 📄 [03_இன்னா நாற்பது](03_%E0%AE%87%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AE%BE%20%E0%AE%A8%E0%AE%BE%E0%AE%B1%E0%AF%8D%E0%AE%AA%E0%AE%A4%E0%AF%81.txt)
+- 📄 [04_இனியவை நாற்பது](04_%E0%AE%87%E0%AE%A9%E0%AE%BF%E0%AE%AF%E0%AE%B5%E0%AF%88%20%E0%AE%A8%E0%AE%BE%E0%AE%B1%E0%AF%8D%E0%AE%AA%E0%AE%A4%E0%AF%81.txt)
+- 📄 [05_கார் நாற்பது](05_%E0%AE%95%E0%AE%BE%E0%AE%B0%E0%AF%8D%20%E0%AE%A8%E0%AE%BE%E0%AE%B1%E0%AF%8D%E0%AE%AA%E0%AE%A4%E0%AF%81.txt)
+- 📄 [06_களவழி நாற்பது](06_%E0%AE%95%E0%AE%B3%E0%AE%B5%E0%AE%B4%E0%AE%BF%20%E0%AE%A8%E0%AE%BE%E0%AE%B1%E0%AF%8D%E0%AE%AA%E0%AE%A4%E0%AF%81.txt)
+- 📄 [07_ஐந்திணை ஐம்பது](07_%E0%AE%90%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%A3%E0%AF%88%20%E0%AE%90%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AE%A4%E0%AF%81.txt)
+- 📄 [08_திணைமொழி ஐம்பது](08_%E0%AE%A4%E0%AE%BF%E0%AE%A3%E0%AF%88%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF%20%E0%AE%90%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AE%A4%E0%AF%81.txt)
+- 📄 [09_ஐந்திணை எழுபது](09_%E0%AE%90%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%A3%E0%AF%88%20%E0%AE%8E%E0%AE%B4%E0%AF%81%E0%AE%AA%E0%AE%A4%E0%AF%81.txt)
+- 📄 [10_திணைமாலை நூற்றைம்பது](10_%E0%AE%A4%E0%AE%BF%E0%AE%A3%E0%AF%88%E0%AE%AE%E0%AE%BE%E0%AE%B2%E0%AF%88%20%E0%AE%A8%E0%AF%82%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%88%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AE%A4%E0%AF%81.txt)
+- 📄 [11_திருக்குறள்](11_%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%B1%E0%AE%B3%E0%AF%8D.txt)
+- 📄 [12_திரிகடுகம்](12_%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AE%BF%E0%AE%95%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%AE%E0%AF%8D.txt)
+- 📄 [13_ஆசாரக்கோவை](13_%E0%AE%86%E0%AE%9A%E0%AE%BE%E0%AE%B0%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8B%E0%AE%B5%E0%AF%88.txt)
+- 📄 [14_பழமொழி நானூறு](14_%E0%AE%AA%E0%AE%B4%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF%20%E0%AE%A8%E0%AE%BE%E0%AE%A9%E0%AF%82%E0%AE%B1%E0%AF%81.txt)
+- 📄 [15_சிறுபஞ்சமூலம்](15_%E0%AE%9A%E0%AE%BF%E0%AE%B1%E0%AF%81%E0%AE%AA%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%AE%E0%AF%82%E0%AE%B2%E0%AE%AE%E0%AF%8D.txt)
+- 📄 [16_முதுமொழிக்காஞ்சி](16_%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AF%81%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BF.txt)
+- 📄 [17_ஏலாதி](17_%E0%AE%8F%E0%AE%B2%E0%AE%BE%E0%AE%A4%E0%AE%BF.txt)
+- 📄 [18_இன்னிலை](18_%E0%AE%87%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AE%BF%E0%AE%B2%E0%AF%88.txt)
+- 📄 [18_கைந்நிலை](18_%E0%AE%95%E0%AF%88%E0%AE%A8%E0%AF%8D%E0%AE%A8%E0%AE%BF%E0%AE%B2%E0%AF%88.txt)
+
