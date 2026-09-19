@@ -583,12 +583,34 @@ def get_page_image_info(pdf_bytes, obj_positions, page_num):
     return (raw_stream, '.bin', width, height)
 
 
+def find_tesseract_command(tesseract_cmd='tesseract'):
+    """
+    Finds tesseract executable path and environment.
+    Supports system tesseract and user-space installation in ~/.cache/tesseract/root.
+    Returns (tess_path, env_dict).
+    """
+    env = os.environ.copy()
+    tess_path = shutil.which(tesseract_cmd)
+    if tess_path:
+        return tess_path, env
+
+    user_tess = os.path.expanduser('~/.cache/tesseract/root/usr/bin/tesseract')
+    if os.path.exists(user_tess):
+        lib_dir = os.path.expanduser('~/.cache/tesseract/root/usr/lib/x86_64-linux-gnu')
+        tessdata_dir = os.path.expanduser('~/.cache/tesseract/root/usr/share/tesseract-ocr/5/tessdata')
+        env['LD_LIBRARY_PATH'] = lib_dir + ':' + env.get('LD_LIBRARY_PATH', '')
+        env['TESSDATA_PREFIX'] = tessdata_dir
+        return user_tess, env
+
+    return None, env
+
+
 def run_tesseract_ocr(image_bytes, image_ext, lang='tam+eng', tesseract_cmd='tesseract'):
     """
     Executes Tesseract OCR on in-memory image bytes.
     Returns recognized text string or None if Tesseract is not found.
     """
-    tess_path = shutil.which(tesseract_cmd)
+    tess_path, env = find_tesseract_command(tesseract_cmd)
     if not tess_path:
         return None
 
@@ -599,7 +621,7 @@ def run_tesseract_ocr(image_bytes, image_ext, lang='tam+eng', tesseract_cmd='tes
     tmp_out_base = tmp_in_path + "_ocr"
     try:
         cmd = [tess_path, tmp_in_path, tmp_out_base, '-l', lang]
-        proc = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+        proc = subprocess.run(cmd, env=env, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
         if proc.returncode != 0:
             return ""
         out_txt = tmp_out_base + ".txt"
@@ -785,7 +807,8 @@ def extract_pdf_to_text(pdf_path, output_txt_path=None, enable_ocr=False,
 
     # Check if OCR is needed
     if pages_with_text == 0 or enable_ocr:
-        tess_installed = shutil.which('tesseract') is not None
+        tess_path, _ = find_tesseract_command()
+        tess_installed = (tess_path is not None)
 
         if not tess_installed:
             print("\n" + "="*74)
