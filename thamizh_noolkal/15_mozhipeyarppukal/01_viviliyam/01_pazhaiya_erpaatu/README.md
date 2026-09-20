@@ -1,0 +1,38 @@
+# 01_pazhaiya_erpaatu - பழைய ஏற்பாடு
+
+> [🔙 01_viviliyam - விவிலியம்](../README.md)
+
+---
+
+## 📚 நூல்கள் பட்டியல் (30 நூல்கள் / books)
+
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 01 - தொடக்கநூல்](viviliyam_pazhaiya_erpaatu_01_thotakkanool.txt)
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 02 - விடுதலைப் பயணம்](viviliyam_pazhaiya_erpaatu_02_vituthalaip_payanam.txt)
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 03 - லேவியர்](viviliyam_pazhaiya_erpaatu_03_leviyar.txt)
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 04 - எண்ணிக்கை](viviliyam_pazhaiya_erpaatu_04_ennikkai.txt)
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 05 - இணைச் சட்டம்](viviliyam_pazhaiya_erpaatu_05_inais_sattam.txt)
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 06 - யோசுவா](viviliyam_pazhaiya_erpaatu_06_yosuvaa.txt)
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 07 - நீதித்தலைவர்கள்](viviliyam_pazhaiya_erpaatu_07_neethiththalaivarkal.txt)
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 08 - ரூத்து](viviliyam_pazhaiya_erpaatu_08_rooththu.txt)
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 09 - சாமுவேல் முதல் நூல்](viviliyam_pazhaiya_erpaatu_09_saamuvel_muthal_nool.txt)
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 10 - சாமுவேல் இரண்டாம் நூல்](viviliyam_pazhaiya_erpaatu_10_saamuvel_irantaam_nool.txt)
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 11 - அரசர்கள் முதல் நூல்](viviliyam_pazhaiya_erpaatu_11_arasarkal_muthal_nool.txt)
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 12 - அரசர்கள் இரண்டாம் நூல்](viviliyam_pazhaiya_erpaatu_12_arasarkal_irantaam_nool.txt)
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 13 - குறிப்பேடு முதல் நூல்](viviliyam_pazhaiya_erpaatu_13_kurippetu_muthal_nool.txt)
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 15 - எஸ்ரா](viviliyam_pazhaiya_erpaatu_15_esraa.txt)
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 16 - நெகேமியா](viviliyam_pazhaiya_erpaatu_16_nekemiyaa.txt)
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 17 - எஸ்தர்](viviliyam_pazhaiya_erpaatu_17_esthar.txt)
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 18 - யோபு](viviliyam_pazhaiya_erpaatu_18_yopu.txt)
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 19 - திருப்பாடல்கள்](viviliyam_pazhaiya_erpaatu_19_thiruppaatalkal.txt)
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 20 - நீதிமொழிகள்](viviliyam_pazhaiya_erpaatu_20_neethimozhikal.txt)
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 21-22 - சபை உரையாளர் & இனிமைமிகு பாடல்](viviliyam_pazhaiya_erpaatu_21_22_sapai_uraiyaalar_inimaimiku_paatal.txt)
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 23 - எசாயா](viviliyam_pazhaiya_erpaatu_23_esaayaa.txt)
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 24 - எரேமியா](viviliyam_pazhaiya_erpaatu_24_eremiyaa.txt)
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 25 - புலம்பல்](viviliyam_pazhaiya_erpaatu_25_pulampal.txt)
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 26 - எசேக்கியேல்](viviliyam_pazhaiya_erpaatu_26_esekkiyel.txt)
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 27 - தானியேல்](viviliyam_pazhaiya_erpaatu_27_thaaniyel.txt)
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 28 - ஒசேயா](viviliyam_pazhaiya_erpaatu_28_oseyaa.txt)
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 29-38 - யோவேல் முதல் செக்கரியா வரை](viviliyam_pazhaiya_erpaatu_29_38_yovel_muthal_sekkariyaa_varai.txt)
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 39-43 - மலாக்கி முதல் சாலமோனின் ஞானம் வரை](viviliyam_pazhaiya_erpaatu_39_43_malaakki_muthal_saalamonin_njaanam_varai.txt)
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 44-45 - சீராக்கின் ஞானம் & பாரூக்கு](viviliyam_pazhaiya_erpaatu_44_45_seeraakkin_njaanam_paarookku.txt)
+- 📄 [விவிலியம் - பழைய ஏற்பாடு - 46-48 - தானியேல் இணைப்புகள் & மக்கபேயர் 1-2](viviliyam_pazhaiya_erpaatu_46_48_thaaniyel_inaippukal_makkapeyar_1_2.txt)

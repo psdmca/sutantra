@@ -10,26 +10,30 @@
 
 ஒவ்வொரு இலக்கியப் பிரிவிற்கும் தனித்தனியாக விரிவான விளக்கக் கையேடுகள் அந்தந்தக் கோப்புறைகளிலேயே (`README.md`) அமைக்கப்பட்டுள்ளன:
 
-👉 **[முழுமையான நூலகப் பொருளடக்கம் (tamil_books/README.md)](tamil_books/README.md)**
+👉 **[முழுமையான நூலகப் பொருளடக்கம் (thamizh_noolkal/README.md)](thamizh_noolkal/README.md)**
 
 ---
 
-## 🏛️ நூலகப் பகுப்பு மற்றும் புள்ளிவிவரங்கள் (11 முதன்மைப் பிரிவுகள்)
+## 🏛️ நூலகப் பகுப்பு மற்றும் புள்ளிவிவரங்கள் (15 முதன்மைப் பிரிவுகள்)
 
-| எண் | கோப்புறை (Directory) | உள்ளடக்க விபரம் | நூல்கள் எண்ணிக்கை |
-|:---:|---|---|:---:|
-| **01** | [`01_sangam_literature`](tamil_books/01_sangam_literature/README.md) | எட்டுத்தொகை (8 நூல்கள்), பத்துப்பாட்டு (10 நூல்கள்) | **18** |
-| **02** | [`02_grammar_and_linguistics`](tamil_books/02_grammar_and_linguistics/README.md) | தொல்காப்பியம், நன்னூல், யாப்பருங்கலம், தண்டியலங்காரம், நிகண்டுகள் | **15** |
-| **03** | [`03_ethics_and_didactic_literature`](tamil_books/03_ethics_and_didactic_literature/README.md) | பதினெண்கீழ்க்கணக்கு (20 நூல்கள்), பிற்கால அறநூல்கள் (14 நூல்கள்) | **34** |
-| **04** | [`04_epics_and_puranas`](tamil_books/04_epics_and_puranas/README.md) | ஐம்பெருங்காப்பியங்கள், ஐஞ்சிறுகாப்பியங்கள், கம்பராமாயணம், சீறாப்புராணம், தலபுராணங்கள் | **49** |
-| **05** | [`05_devotional_literature`](tamil_books/05_devotional_literature/README.md) | சைவத் திருமுறைகள் 1-11, சைவ சித்தாந்தம், திருவருட்பா, முருகன் இலக்கியம், வைணவம், பௌத்தம் | **62** |
-| **06** | [`06_siddhar_literature`](tamil_books/06_siddhar_literature/README.md) | மெய்ஞ்ஞானப் பாடல்கள், சித்த மருத்துவம் & யோகம் | **11** |
-| **07** | [`07_minor_literature_prabandhas`](tamil_books/07_minor_literature_prabandhas/README.md) | பிள்ளைத்தமிழ், மாலை, அந்தாதி, உலா, கலம்பகம், பரணி உள்ளிட்ட 96 வகை பிரபந்தங்கள் | **384** |
-| **08** | [`08_commentaries_and_explanations`](tamil_books/08_commentaries_and_explanations/README.md) | தொல்காப்பியம், திருக்குறள், சங்க இலக்கியம், காப்பிய உரைகள் | **72** |
-| **09** | [`09_history_and_research`](tamil_books/09_history_and_research/README.md) | தமிழ் இலக்கிய வரலாறு, தமிழக வரலாறு, சுயசரிதைகள், கல்வெட்டு & சுவடி ஆய்வுகள் | **42** |
-| **10** | [`10_modern_tamil_literature`](tamil_books/10_modern_tamil_literature/README.md) | நாவல்கள், சிறுகதைகள், கவிதைகள், நாடகங்கள், ஆய்வுக் கட்டுரைகள் | **356** |
-| **11** | [`11_translations`](tamil_books/11_translations/README.md) | பரிசுத்த விவிலியம், உலகப் பொதுமறைகள், காப்பிய/செவ்விலக்கிய மொழிபெயர்ப்புகள் | **100** |
-| **மொத்தம்** | **11 முதன்மைத் துறைகள்** | **தமிழ் மொழியின் முழுமையான எண்ம இலக்கியப் பெட்டகம்** | **1,143 நூல்கள்** |
+| எண் | கோப்புறை (Directory) | இலக்கியத் துறை | உள்ளடக்க விபரம் | நூல்கள் எண்ணிக்கை |
+|:---:|---|---|---|:---:|
+| **01** | [`01_sangka_ilakkiyam`](thamizh_noolkal/01_sangka_ilakkiyam/README.md) | **சங்க இலக்கியம்** | எட்டுத்தொகையும் பத்துப்பாட்டும் உள்ளடக்கிய 2,000 ஆ... | **18** |
+| **02** | [`02_ilakkanam`](thamizh_noolkal/02_ilakkanam/README.md) | **இலக்கணம்** | தொல்காப்பியம், நன்னூல், யாப்பருங்கலக்காரிகை, தண்டி... | **12** |
+| **03** | [`03_mozhiyiyal_marrum_akaraathikal`](thamizh_noolkal/03_mozhiyiyal_marrum_akaraathikal/README.md) | **மொழியியல் மற்றும் அகராதிகள்** | திவாகர நிகண்டு, சூடாமணி நிகண்டு, உரிச்சொல் நிகண்டு... | **3** |
+| **04** | [`04_neethi_ilakkiyam`](thamizh_noolkal/04_neethi_ilakkiyam/README.md) | **நீதி இலக்கியம் (பதினெண்கீழ்க்கணக்கு)** | திருக்குறள், நாலடியார், பழமொழி நானூறு உள்ளிட்ட சங்... | **20** |
+| **05** | [`05_ara_ilakkiyam`](thamizh_noolkal/05_ara_ilakkiyam/README.md) | **அற இலக்கியம் (பிற்கால அறநூல்கள்)** | ஔவையாரின் ஆத்திச்சூடி, கொன்றைவேந்தன், மூதுரை, நல்வ... | **14** |
+| **06** | [`06_kaappiyangkal`](thamizh_noolkal/06_kaappiyangkal/README.md) | **காப்பியங்கள் மற்றும் இதிகாசங்கள்** | ஐம்பெருங்காப்பியங்கள், ஐஞ்சிறுகாப்பியங்கள், கம்பரா... | **23** |
+| **07** | [`07_puraanangkal`](thamizh_noolkal/07_puraanangkal/README.md) | **புராணங்கள் மற்றும் தலபுராணங்கள்** | கந்தபுராணம், பெரியபுராணம், திருவிளையாடற் புராணம் உ... | **26** |
+| **08** | [`08_pakthi_samaya_ilakkiyam`](thamizh_noolkal/08_pakthi_samaya_ilakkiyam/README.md) | **பக்தி மற்றும் சமய இலக்கியம்** | பன்னிரு திருமுறைகள், சைவ சித்தாந்த சாத்திரங்கள், த... | **62** |
+| **09** | [`09_siththar_ilakkiyam`](thamizh_noolkal/09_siththar_ilakkiyam/README.md) | **சித்தர் இலக்கியம்** | அகத்தியர், போகர் உள்ளிட்ட பதினெண் சித்தர்களின் மெய... | **11** |
+| **10** | [`10_sirrilakkiyangkal`](thamizh_noolkal/10_sirrilakkiyangkal/README.md) | **சிற்றிலக்கியங்கள் (பிரபந்தங்கள்)** | பிள்ளைத்தமிழ், மாலை, அந்தாதி, உலா, கலம்பகம், பரணி ... | **384** |
+| **11** | [`11_urainoolkal`](thamizh_noolkal/11_urainoolkal/README.md) | **உரைநூல்கள் மற்றும் விளக்கவுரைகள்** | தொல்காப்பியம், திருக்குறள், சங்க இலக்கியம், காப்பி... | **72** |
+| **12** | [`12_varalaaru`](thamizh_noolkal/12_varalaaru/README.md) | **வரலாறு மற்றும் வாழ்க்கை வரலாறு** | தமிழ் இலக்கிய வரலாறு, தமிழக வரலாறு, கல்வெட்டு ஆய்வ... | **39** |
+| **13** | [`13_aayvunoolkal`](thamizh_noolkal/13_aayvunoolkal/README.md) | **ஆய்வுநூல்கள் மற்றும் சுவடிகள்** | சுவடியியல் ஆய்வுகள், தமிழ்மொழி ஆராய்ச்சி மற்றும் இ... | **3** |
+| **14** | [`14_naveena_thamizh_ilakkiyam`](thamizh_noolkal/14_naveena_thamizh_ilakkiyam/README.md) | **நவீன தமிழ் இலக்கியம்** | நவீன நாவல்கள், சிறுகதைத் தொகுப்புகள், கவிதைகள், நா... | **356** |
+| **15** | [`15_mozhipeyarppukal`](thamizh_noolkal/15_mozhipeyarppukal/README.md) | **உலக இலக்கிய மொழிபெயர்ப்புகள்** | பரிசுத்த விவிலியம், உலகப் பொதுமறைகள், செவ்விலக்கிய... | **100** |
+| **மொத்தம்** | **15 முதன்மைத் துறைகள்** | **முழுமையான தமிழ் செவ்விலக்கியக் களஞ்சியம்** | **2,500 ஆண்டுகாலப் பொக்கிஷம்** | **1143 நூல்கள்** |
 
 ---
 
@@ -39,10 +43,10 @@
 - கணினியில் `find` அல்லது `grep` கட்டளைகளைப் பயன்படுத்தலாம்:
   ```bash
   # திருக்குறள் கோப்பைக் கண்டறிய:
-  find tamil_books -name "*திருக்குறள்*.txt"
+  find thamizh_noolkal -name "*thirukkural*.txt"
 
   # குறிப்பிட்ட சொல்லை நூல்களில் தேட:
-  grep -rn "யாதும் ஊரே" tamil_books/
+  grep -rn "யாதும் ஊரே" thamizh_noolkal/
   ```
 
 ---
