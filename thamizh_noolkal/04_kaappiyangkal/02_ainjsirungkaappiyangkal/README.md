@@ -1,14 +1,20 @@
-# 02_ainjsirungkaappiyangkal - ஐஞ்சிறுங்காப்பியங்கள்
+# ஐஞ்சிறுங்காப்பியங்கள்
 
-> [🔙 04_kaappiyangkal - காப்பியங்கள் & இதிகாசங்கள்](../README.md)
+> **கோப்பகம் (Directory):** `thamizh_noolkal/04_kaappiyangkal/02_ainjsirungkaappiyangkal`  
+> **மொத்த நூல்கள் (Total Texts):** **5**
 
 ---
 
-## 📚 நூல்கள் பட்டியல் (5 நூல்கள் / books)
+## 📜 நூல்கள் பட்டியல் (List of Texts)
 
-- 📄 [01_சூளாமணி](01_soolaamani.txt)
-- 📄 [02_நீலகேசி](02_neelakesi.txt)
-- 📄 [03_உதயணகுமார காவியம்](03_uthayanakumaara_kaaviyam.txt)
-- 📄 [04_யசோதர காவியம்](04_yasothara_kaaviyam.txt)
-- 📄 [05_நாக குமார காவியம்](05_naaka_kumaara_kaaviyam.txt)
+| எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
+| :---: | :--- | :--- | :---: |
+| 01 | `01_soolaamani.txt` | **Soolaamani** | [வாசிக்க ↗](01_soolaamani.txt) |
+| 02 | `02_neelakesi.txt` | **Neelakesi** | [வாசிக்க ↗](02_neelakesi.txt) |
+| 03 | `03_uthayanakumaara_kaaviyam.txt` | **Uthayanakumaara Kaaviyam** | [வாசிக்க ↗](03_uthayanakumaara_kaaviyam.txt) |
+| 04 | `04_yasothara_kaaviyam.txt` | **Yasothara Kaaviyam** | [வாசிக்க ↗](04_yasothara_kaaviyam.txt) |
+| 05 | `05_naaka_kumaara_kaaviyam.txt` | **Naaka Kumaara Kaaviyam** | [வாசிக்க ↗](05_naaka_kumaara_kaaviyam.txt) |
 
+---
+
+[⬅️ முதன்மைப் பக்கத்திற்குத் திரும்புக (Back to Archive Index)](../../README.md)

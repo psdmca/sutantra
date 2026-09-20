@@ -1,12 +1,18 @@
-# 05_pakthi_samaya_ilakkiyam - பக்தி & சமய இலக்கியங்கள்
+# 05. பக்தி & சமய இலக்கியங்கள்
 
-> [🔙 முதன்மைப் பொருளடக்கம் (Main Directory)](../README.md)
+> **கோப்பகம் (Directory):** `thamizh_noolkal/05_pakthi_samaya_ilakkiyam`  
+> **மொத்த நூல்கள் (Total Texts):** **62**
 
 ---
 
-## 📂 உட்பிரிவுகள் (3)
+## 📂 உட்பிரிவுகள் (Sub-categories)
 
-- 📁 [**01_saiva_ilakkiyam - சைவ இலக்கியம்**](01_saiva_ilakkiyam/README.md) (58 நூல்கள்)
-- 📁 [**02_vainava_ilakkiyam - வைணவ இலக்கியம்**](02_vainava_ilakkiyam/README.md) (3 நூல்கள்)
-- 📁 [**03_pira_samaya_ilakkiyam - பிற சமய இலக்கியங்கள் / திரட்டுகள்**](03_pira_samaya_ilakkiyam/README.md) (1 நூல்கள்)
+| எண் | உட்பிரிவு (Sub-directory) | தலைப்பு (Title) | நூல்கள் (Count) | இணைப்பு |
+| :---: | :--- | :--- | :---: | :---: |
+| 01 | `01_saivam` | **சைவ இலக்கியம்** | 58 | [சைவ இலக்கியம் ↗](01_saivam/README.md) |
+| 02 | `02_vainavam` | **வைணவ இலக்கியம்** | 3 | [வைணவ இலக்கியம் ↗](02_vainavam/README.md) |
+| 03 | `03_samana_boutha_pira_samayam` | **சமணம், பௌத்தம் மற்றும் பிற சமயம்** | 1 | [சமணம், பௌத்தம் மற்றும் பிற சமயம் ↗](03_samana_boutha_pira_samayam/README.md) |
 
+---
+
+[⬅️ முதன்மைப் பக்கத்திற்குத் திரும்புக (Back to Archive Index)](../README.md)

@@ -1,11 +1,17 @@
-# 01_sangka_ilakkiyam - சங்க இலக்கியம் (பதினெண்மேற்கணக்கு)
+# 01. சங்க இலக்கியம் (பதினெண்மேற்கணக்கு & பதினெண்கீழ்க்கணக்கு)
 
-> [🔙 முதன்மைப் பொருளடக்கம் (Main Directory)](../README.md)
+> **கோப்பகம் (Directory):** `thamizh_noolkal/01_sangka_ilakkiyam`  
+> **மொத்த நூல்கள் (Total Texts):** **37**
 
 ---
 
-## 📂 உட்பிரிவுகள் (2)
+## 📂 உட்பிரிவுகள் (Sub-categories)
 
-- 📁 [**01_ettuththokai - எட்டுத்தொகை**](01_ettuththokai/README.md) (8 நூல்கள்)
-- 📁 [**02_paththuppaattu - பத்துப்பாட்டு**](02_paththuppaattu/README.md) (10 நூல்கள்)
+| எண் | உட்பிரிவு (Sub-directory) | தலைப்பு (Title) | நூல்கள் (Count) | இணைப்பு |
+| :---: | :--- | :--- | :---: | :---: |
+| 01 | `01_pathinenmerkkanakku` | **பதினெண்மேற்கணக்கு** | 18 | [பதினெண்மேற்கணக்கு ↗](01_pathinenmerkkanakku/README.md) |
+| 02 | `02_pathinenkeezhkanakku` | **பதினெண்கீழ்க்கணக்கு** | 19 | [பதினெண்கீழ்க்கணக்கு ↗](02_pathinenkeezhkanakku/README.md) |
 
+---
+
+[⬅️ முதன்மைப் பக்கத்திற்குத் திரும்புக (Back to Archive Index)](../README.md)

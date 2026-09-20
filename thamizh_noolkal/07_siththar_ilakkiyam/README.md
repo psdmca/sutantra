@@ -1,11 +1,17 @@
-# 07_siththar_ilakkiyam - சித்தர் இலக்கியம்
+# 07. சித்தர் இலக்கியம்
 
-> [🔙 முதன்மைப் பொருளடக்கம் (Main Directory)](../README.md)
+> **கோப்பகம் (Directory):** `thamizh_noolkal/07_siththar_ilakkiyam`  
+> **மொத்த நூல்கள் (Total Texts):** **11**
 
 ---
 
-## 📂 உட்பிரிவுகள் (2)
+## 📂 உட்பிரிவுகள் (Sub-categories)
 
-- 📁 [**01_meinjnaana_paatalkal - மெய்ஞ்ஞானப் பாடல்கள்**](01_meinjnaana_paatalkal/README.md) (8 நூல்கள்)
-- 📁 [**02_maruththuvam_marrum_yogam - சித்த மருத்துவம் மற்றும் யோகம்**](02_maruththuvam_marrum_yogam/README.md) (3 நூல்கள்)
+| எண் | உட்பிரிவு (Sub-directory) | தலைப்பு (Title) | நூல்கள் (Count) | இணைப்பு |
+| :---: | :--- | :--- | :---: | :---: |
+| 01 | `01_thaththuvam_marrum_paatalkal` | **சித்தர் தத்துவம் & பாடல்கள்** | 8 | [சித்தர் தத்துவம் & பாடல்கள் ↗](01_thaththuvam_marrum_paatalkal/README.md) |
+| 02 | `02_maruththuvam_marrum_vaasiyogam` | **சித்த மருத்துவம் & வாசியோகம்** | 3 | [சித்த மருத்துவம் & வாசியோகம் ↗](02_maruththuvam_marrum_vaasiyogam/README.md) |
 
+---
+
+[⬅️ முதன்மைப் பக்கத்திற்குத் திரும்புக (Back to Archive Index)](../README.md)

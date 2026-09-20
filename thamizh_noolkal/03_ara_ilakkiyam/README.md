@@ -1,11 +1,17 @@
-# 03_ara_ilakkiyam - அற இலக்கியம் & நீதி இலக்கியம்
+# 03. அற இலக்கியம் & நீதி இலக்கியம்
 
-> [🔙 முதன்மைப் பொருளடக்கம் (Main Directory)](../README.md)
+> **கோப்பகம் (Directory):** `thamizh_noolkal/03_ara_ilakkiyam`  
+> **மொத்த நூல்கள் (Total Texts):** **15**
 
 ---
 
-## 📂 உட்பிரிவுகள் (2)
+## 📂 உட்பிரிவுகள் (Sub-categories)
 
-- 📁 [**01_pathinenkeezhkanakku - பதினெண்கீழ்க்கணக்கு நூல்கள்**](01_pathinenkeezhkanakku/README.md) (19 நூல்கள்)
-- 📁 [**02_pirkaala_aranoolkal - பிற்கால அறநூல்கள்**](02_pirkaala_aranoolkal/README.md) (15 நூல்கள்)
+| எண் | உட்பிரிவு (Sub-directory) | தலைப்பு (Title) | நூல்கள் (Count) | இணைப்பு |
+| :---: | :--- | :--- | :---: | :---: |
+| 01 | `01_neethi_noolkal_athichudi_marrum_aathichudi_vakai` | **நீதி நூல்கள் (ஆத்திசூடி மற்றும் பிற)** | 7 | [நீதி நூல்கள் (ஆத்திசூடி மற்றும் பிற) ↗](01_neethi_noolkal_athichudi_marrum_aathichudi_vakai/README.md) |
+| 02 | `02_pirkaala_aranoolkal` | **பிற்கால அறநூல்கள்** | 8 | [பிற்கால அறநூல்கள் ↗](02_pirkaala_aranoolkal/README.md) |
 
+---
+
+[⬅️ முதன்மைப் பக்கத்திற்குத் திரும்புக (Back to Archive Index)](../README.md)

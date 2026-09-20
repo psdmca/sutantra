@@ -1,12 +1,18 @@
-# 04_seeraappuraanam - சீறாப்புராணம்
+# சீறாப்புராணம்
 
-> [🔙 04_kaappiyangkal - காப்பியங்கள் & இதிகாசங்கள்](../README.md)
+> **கோப்பகம் (Directory):** `thamizh_noolkal/04_kaappiyangkal/04_seeraappuraanam`  
+> **மொத்த நூல்கள் (Total Texts):** **3**
 
 ---
 
-## 📚 நூல்கள் பட்டியல் (3 நூல்கள் / books)
+## 📜 நூல்கள் பட்டியல் (List of Texts)
 
-- 📄 [01_சீறாப்புராணம் - விலாதத்துக் காண்டம்](01_seeraappuraanam_vilaathaththuk_kaantam.txt)
-- 📄 [02_சீறாப்புராணம் - நுபுவ்வத்துக் காண்டம்](02_seeraappuraanam_nupuvvaththuk_kaantam.txt)
-- 📄 [03_சீறாப்புராணம் - ஹிஜ்றத்துக் காண்டம்](03_seeraappuraanam_hijraththuk_kaantam.txt)
+| எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
+| :---: | :--- | :--- | :---: |
+| 01 | `01_seeraappuraanam_vilaathaththuk_kaantam.txt` | **Seeraappuraanam Vilaathaththuk Kaantam** | [வாசிக்க ↗](01_seeraappuraanam_vilaathaththuk_kaantam.txt) |
+| 02 | `02_seeraappuraanam_nupuvvaththuk_kaantam.txt` | **Seeraappuraanam Nupuvvaththuk Kaantam** | [வாசிக்க ↗](02_seeraappuraanam_nupuvvaththuk_kaantam.txt) |
+| 03 | `03_seeraappuraanam_hijraththuk_kaantam.txt` | **Seeraappuraanam Hijraththuk Kaantam** | [வாசிக்க ↗](03_seeraappuraanam_hijraththuk_kaantam.txt) |
 
+---
+
+[⬅️ முதன்மைப் பக்கத்திற்குத் திரும்புக (Back to Archive Index)](../../README.md)

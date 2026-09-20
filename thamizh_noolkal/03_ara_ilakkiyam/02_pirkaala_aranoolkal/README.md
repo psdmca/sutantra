@@ -1,25 +1,23 @@
-# 02_pirkaala_aranoolkal - பிற்கால அறநூல்கள்
+# பிற்கால அறநூல்கள்
 
-> [🔙 03_ara_ilakkiyam - அற இலக்கியம் & நீதி இலக்கியம்](../README.md)
-
-*ஔவையாரின் ஆத்திசூடி, கொன்றைவேந்தன், மூதுரை, நல்வழி, ஞானக்குறள் மற்றும் வெற்றிவேற்கை, உலகநீதி உள்ளிட்ட பிற்கால நீதிநூல்கள் (காலவரிசைப்படி தொகுக்கப்பட்டவை).*
+> **கோப்பகம் (Directory):** `thamizh_noolkal/03_ara_ilakkiyam/02_pirkaala_aranoolkal`  
+> **மொத்த நூல்கள் (Total Texts):** **8**
 
 ---
 
-## 📚 நூல்கள் பட்டியல் (15 நூல்கள் / books)
+## 📜 நூல்கள் பட்டியல் (List of Texts)
 
-- 📄 [01_திருவள்ளுவமாலை (சங்கப் புலவர்கள் / பழங்காலம்)](01_thiruvalluvamaalai.txt)
-- 📄 [02_ஆத்திசூடி (ஔவையார் - கி.பி. 12-ஆம் நூற்றாண்டு)](02_aaththisooti.txt)
-- 📄 [03_கொன்றை வேந்தன் (ஔவையார் - கி.பி. 12-ஆம் நூற்றாண்டு)](03_konrai_venthan.txt)
-- 📄 [04_மூதுரை (ஔவையார் - கி.பி. 12-ஆம் நூற்றாண்டு)](04_moothurai.txt)
-- 📄 [05_நல்வழி (ஔவையார் - கி.பி. 12-ஆம் நூற்றாண்டு)](05_nalvazhi.txt)
-- 📄 [06_ஒளவையார் தனிப்பாடல்கள் (ஔவையார் - கி.பி. 12-ஆம் நூற்றாண்டு)](06_olavaiyaar_thanippaatalkal.txt)
-- 📄 [07_ஔவை குறள் / ஞானக்குறள் (ஔவையார் - கி.பி. 12-ஆம் நூற்றாண்டு)](07_olavai_kural_njaanakkural.txt)
-- 📄 [08_அறநெறிச்சாரம் (முனைப்பாடியார் - கி.பி. 13-ஆம் நூற்றாண்டு)](08_aranerissaaram.txt)
-- 📄 [09_வெற்றிவேற்கை / நறுந்தொகை (அதிவீரராம பாண்டியர் - கி.பி. 16-ஆம் நூற்றாண்டு)](09_verriverkai_narunthokai.txt)
-- 📄 [10_உலகநீதி (உலகநாத பண்டிதர் - கி.பி. 16-17-ஆம் நூற்றாண்டு)](10_ulakaneethi.txt)
-- 📄 [11_மகாராஜா துறவு (குமாரதேவர் - கி.பி. 17-ஆம் நூற்றாண்டு)](11_makaaraajaa_thuravu.txt)
-- 📄 [12_விவேக சிந்தாமணி (பல்வேறு புலவர்கள் / இடைக்கால நீதித்திரட்டு)](12_viveka_sinthaamani.txt)
-- 📄 [13_ஆத்திச்சூடி வெண்பா (இராமபாரதி - கி.பி. 19-ஆம் நூற்றாண்டு)](13_aaththissooti_venpaa.txt)
-- 📄 [14_இலக்கியக் காட்சிகள் / வெற்றிவேற்கை உரை (டாக்டர் சி. பாலசுப்பிரமணியன் - 1980)](14_verriverkai_uraiyum_kathaikkurippum.txt)
-- 📄 [15_அருள் நெறி முழக்கம் (சொற்பொழிவுகள்) (தவத்திரு குன்றக்குடி அடிகளார் - 20-ஆம் நூற்றாண்டு)](15_arul_neri_muzhakkam_sorpozhivukal.txt)
+| எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
+| :---: | :--- | :--- | :---: |
+| 01 | `01_thiruvalluvamaalai.txt` | **Thiruvalluvamaalai** | [வாசிக்க ↗](01_thiruvalluvamaalai.txt) |
+| 02 | `02_aranerissaaram.txt` | **Aranerissaaram** | [வாசிக்க ↗](02_aranerissaaram.txt) |
+| 03 | `03_verriverkai_narunthokai.txt` | **Verriverkai Narunthokai** | [வாசிக்க ↗](03_verriverkai_narunthokai.txt) |
+| 04 | `04_ulakaneethi.txt` | **Ulakaneethi** | [வாசிக்க ↗](04_ulakaneethi.txt) |
+| 05 | `05_makaaraajaa_thuravu.txt` | **Makaaraajaa Thuravu** | [வாசிக்க ↗](05_makaaraajaa_thuravu.txt) |
+| 06 | `06_viveka_sinthaamani.txt` | **Viveka Sinthaamani** | [வாசிக்க ↗](06_viveka_sinthaamani.txt) |
+| 07 | `07_verriverkai_uraiyum_kathaikkurippum.txt` | **Verriverkai Uraiyum Kathaikkurippum** | [வாசிக்க ↗](07_verriverkai_uraiyum_kathaikkurippum.txt) |
+| 08 | `08_arul_neri_muzhakkam_sorpozhivukal.txt` | **Arul Neri Muzhakkam Sorpozhivukal** | [வாசிக்க ↗](08_arul_neri_muzhakkam_sorpozhivukal.txt) |
+
+---
+
+[⬅️ முதன்மைப் பக்கத்திற்குத் திரும்புக (Back to Archive Index)](../../README.md)
