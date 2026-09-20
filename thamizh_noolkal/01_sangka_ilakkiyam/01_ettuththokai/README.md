@@ -1,6 +1,6 @@
 # 01_ettuththokai - எட்டுத்தொகை
 
-> [🔙 01_sangka_ilakkiyam - சங்க இலக்கியம்](../README.md)
+> [🔙 01_sangka_ilakkiyam - சங்க இலக்கியம் (பதினெண்மேற்கணக்கு)](../README.md)
 
 ---
 
@@ -14,3 +14,4 @@
 - 📄 [06_கலித்தொகை](06_kaliththokai.txt)
 - 📄 [07_அகநானூறு](07_akanaanooru.txt)
 - 📄 [08_புறநானூறு](08_puranaanooru.txt)
+

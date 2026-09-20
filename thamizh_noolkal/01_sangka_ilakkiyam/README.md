@@ -1,12 +1,11 @@
-# 01_sangka_ilakkiyam - சங்க இலக்கியம்
+# 01_sangka_ilakkiyam - சங்க இலக்கியம் (பதினெண்மேற்கணக்கு)
 
 > [🔙 முதன்மைப் பொருளடக்கம் (Main Directory)](../README.md)
 
-*எட்டுத்தொகையும் பத்துப்பாட்டும் உள்ளடக்கிய 2,000 ஆண்டுகாலப் பழந்தமிழ்ச் செவ்விலக்கியப் பெட்டகம்.*
-
 ---
 
-## 📂 உட்பிரிவுகள் (Subdirectories)
+## 📂 உட்பிரிவுகள் (2)
 
-- 📁 [01_ettuththokai - எட்டுத்தொகை (8 நூல்கள் / books)](01_ettuththokai/README.md)
-- 📁 [02_paththuppaattu - பத்துப்பாட்டு (10 நூல்கள் / books)](02_paththuppaattu/README.md)
+- 📁 [**01_ettuththokai - எட்டுத்தொகை**](01_ettuththokai/README.md) (8 நூல்கள்)
+- 📁 [**02_paththuppaattu - பத்துப்பாட்டு**](02_paththuppaattu/README.md) (10 நூல்கள்)
+

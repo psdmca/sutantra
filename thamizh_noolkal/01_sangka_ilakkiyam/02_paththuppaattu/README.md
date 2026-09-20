@@ -1,6 +1,6 @@
 # 02_paththuppaattu - பத்துப்பாட்டு
 
-> [🔙 01_sangka_ilakkiyam - சங்க இலக்கியம்](../README.md)
+> [🔙 01_sangka_ilakkiyam - சங்க இலக்கியம் (பதினெண்மேற்கணக்கு)](../README.md)
 
 ---
 
@@ -16,3 +16,4 @@
 - 📄 [08_குறிஞ்சிப்பாட்டு](08_kurinjsippaattu.txt)
 - 📄 [09_பட்டினப்பாலை](09_pattinappaalai.txt)
 - 📄 [10_மலைபடுகடாம்](10_malaipatukataam.txt)
+
