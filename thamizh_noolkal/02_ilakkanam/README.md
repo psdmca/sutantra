@@ -8,7 +8,5 @@
 
 ## 📂 உட்பிரிவுகள் (Subdirectories)
 
-- 📁 [01_tholkaappiyam - தொல்காப்பியம் (1 நூல்கள் / books)](01_tholkaappiyam/README.md)
-- 📁 [02_ilakkana_noolkal - இலக்கண நூல்கள் (6 நூல்கள் / books)](02_ilakkana_noolkal/README.md)
-- 📁 [03_yaappu_marrum_paattiyal - யாப்பு மற்றும் பாட்டியல் (4 நூல்கள் / books)](03_yaappu_marrum_paattiyal/README.md)
-- 📁 [04_aniyillakanam - அணியிலக்கணம் (1 நூல்கள் / books)](04_aniyillakanam/README.md)
+- 📁 [01_ilakkana_noolkal - இலக்கண நூல்கள் (7 நூல்கள் / books)](01_ilakkana_noolkal/README.md)
+- 📁 [02_yaappu_marrum_ani - யாப்பு மற்றும் அணி இலக்கணம் (5 நூல்கள் / books)](02_yaappu_marrum_ani/README.md)

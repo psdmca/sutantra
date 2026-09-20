@@ -38,25 +38,20 @@
 ### 2. 02_ilakkanam - இலக்கணம்
 - **கோப்பகம்**: [`02_ilakkanam/`](02_ilakkanam/README.md)
 - **உட்பிரிவுகள்**:
-  - 📁 [`01_tholkaappiyam/`](02_ilakkanam/01_tholkaappiyam/README.md) — **1 நூல்கள் (தொல்காப்பியம்)**
-  - 📁 [`02_ilakkana_noolkal/`](02_ilakkanam/02_ilakkana_noolkal/README.md) — **6 நூல்கள் (இலக்கண நூல்கள்)**
-  - 📁 [`03_yaappu_marrum_paattiyal/`](02_ilakkanam/03_yaappu_marrum_paattiyal/README.md) — **4 நூல்கள் (யாப்பு மற்றும் பாட்டியல்)**
-  - 📁 [`04_aniyillakanam/`](02_ilakkanam/04_aniyillakanam/README.md) — **1 நூல்கள் (அணியிலக்கணம்)**
+  - 📁 [`01_ilakkana_noolkal/`](02_ilakkanam/01_ilakkana_noolkal/README.md) — **7 நூல்கள் (இலக்கண நூல்கள்)**
+  - 📁 [`02_yaappu_marrum_ani/`](02_ilakkanam/02_yaappu_marrum_ani/README.md) — **5 நூல்கள் (யாப்பு மற்றும் அணி இலக்கணம்)**
 
 ### 3. 03_mozhiyiyal_marrum_akaraathikal - மொழியியல் மற்றும் அகராதிகள்
 - **கோப்பகம்**: [`03_mozhiyiyal_marrum_akaraathikal/`](03_mozhiyiyal_marrum_akaraathikal/README.md)
-- **உட்பிரிவுகள்**:
-  - 📁 [`01_nikantukal_marrum_akaraathikal/`](03_mozhiyiyal_marrum_akaraathikal/01_nikantukal_marrum_akaraathikal/README.md) — **3 நூல்கள் (நிகண்டுகள் மற்றும் அகராதிகள்)**
+- **நேரடி நூல்கள்**: **3 நூல்கள்** (நேரடியாக அடைவிலேயே உள்ளன)
 
 ### 4. 04_neethi_ilakkiyam - நீதி இலக்கியம் (பதினெண்கீழ்க்கணக்கு)
 - **கோப்பகம்**: [`04_neethi_ilakkiyam/`](04_neethi_ilakkiyam/README.md)
-- **உட்பிரிவுகள்**:
-  - 📁 [`01_pathinenkeezhkanakku/`](04_neethi_ilakkiyam/01_pathinenkeezhkanakku/README.md) — **20 நூல்கள் (பதினெண்கீழ்க்கணக்கு)**
+- **நேரடி நூல்கள்**: **20 நூல்கள்** (நேரடியாக அடைவிலேயே உள்ளன)
 
 ### 5. 05_ara_ilakkiyam - அற இலக்கியம் (பிற்கால அறநூல்கள்)
 - **கோப்பகம்**: [`05_ara_ilakkiyam/`](05_ara_ilakkiyam/README.md)
-- **உட்பிரிவுகள்**:
-  - 📁 [`01_pirkaala_aranoolkal/`](05_ara_ilakkiyam/01_pirkaala_aranoolkal/README.md) — **14 நூல்கள் (பிற்கால அறநூல்கள்)**
+- **நேரடி நூல்கள்**: **14 நூல்கள்** (நேரடியாக அடைவிலேயே உள்ளன)
 
 ### 6. 06_kaappiyangkal - காப்பியங்கள் மற்றும் இதிகாசங்கள்
 - **கோப்பகம்**: [`06_kaappiyangkal/`](06_kaappiyangkal/README.md)
@@ -69,8 +64,7 @@
 
 ### 7. 07_puraanangkal - புராணங்கள் மற்றும் தலபுராணங்கள்
 - **கோப்பகம்**: [`07_puraanangkal/`](07_puraanangkal/README.md)
-- **உட்பிரிவுகள்**:
-  - 📁 [`01_puraanangkal_marrum_thalapuraanangkal/`](07_puraanangkal/01_puraanangkal_marrum_thalapuraanangkal/README.md) — **26 நூல்கள் (புராணங்கள் மற்றும் தலபுராணங்கள்)**
+- **நேரடி நூல்கள்**: **26 நூல்கள்** (நேரடியாக அடைவிலேயே உள்ளன)
 
 ### 8. 08_pakthi_samaya_ilakkiyam - பக்தி மற்றும் சமய இலக்கியம்
 - **கோப்பகம்**: [`08_pakthi_samaya_ilakkiyam/`](08_pakthi_samaya_ilakkiyam/README.md)
@@ -124,8 +118,7 @@
 
 ### 13. 13_aayvunoolkal - ஆய்வுநூல்கள் மற்றும் சுவடிகள்
 - **கோப்பகம்**: [`13_aayvunoolkal/`](13_aayvunoolkal/README.md)
-- **உட்பிரிவுகள்**:
-  - 📁 [`01_suvatikal_marrum_aayvukal/`](13_aayvunoolkal/01_suvatikal_marrum_aayvukal/README.md) — **3 நூல்கள் (சுவடிகள் மற்றும் ஆய்வுகள்)**
+- **நேரடி நூல்கள்**: **3 நூல்கள்** (நேரடியாக அடைவிலேயே உள்ளன)
 
 ### 14. 14_naveena_thamizh_ilakkiyam - நவீன தமிழ் இலக்கியம்
 - **கோப்பகம்**: [`14_naveena_thamizh_ilakkiyam/`](14_naveena_thamizh_ilakkiyam/README.md)

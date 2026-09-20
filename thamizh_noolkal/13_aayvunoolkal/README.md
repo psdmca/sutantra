@@ -6,6 +6,8 @@
 
 ---
 
-## 📂 உட்பிரிவுகள் (Subdirectories)
+## 📚 நூல்கள் பட்டியல் (3 நூல்கள் / books)
 
-- 📁 [01_suvatikal_marrum_aayvukal - சுவடிகள் மற்றும் ஆய்வுகள் (3 நூல்கள் / books)](01_suvatikal_marrum_aayvukal/README.md)
+- 📄 [எக்காலக் கண்ணி](ekkaalak_kanni.txt)
+- 📄 [பாண்டிய; சோழ; விஜயநகர அரசர் மெய்கீர்த்திகள்](paantiya_sozha_vijayanakara_arasar_meykeerththikal.txt)
+- 📄 [பாடற்றிரட்டு](paatarrirattu.txt)
