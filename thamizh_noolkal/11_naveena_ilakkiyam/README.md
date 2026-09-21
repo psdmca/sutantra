@@ -13,7 +13,7 @@
 | 02 | `02_sirukathaikal` | **சிறுகதைகள்** | 57 | [சிறுகதைகள் ↗](02_sirukathaikal/README.md) |
 | 03 | `03_puthukkavithai_marabukkavithai` | **புதுக்கவிதை & மரபுக்கவிதை** | 66 | [புதுக்கவிதை & மரபுக்கவிதை ↗](03_puthukkavithai_marabukkavithai/README.md) |
 | 04 | `04_naadakangkal` | **நாடகங்கள்** | 29 | [நாடகங்கள் ↗](04_naadakangkal/README.md) |
-| 05 | `05_katturaikal_marrum_aayvukal` | **கட்டுரைகள் மற்றும் ஆய்வுகள்** | 133 | [கட்டுரைகள் மற்றும் ஆய்வுகள் ↗](05_katturaikal_marrum_aayvukal/README.md) |
+| 05 | `05_katturaikal` | **கட்டுரைகள்** | 133 | [கட்டுரைகள் ↗](05_katturaikal/README.md) |
 
 ---
 

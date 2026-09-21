@@ -10,7 +10,7 @@
 | எண் | உட்பிரிவு (Sub-directory) | தலைப்பு (Title) | நூல்கள் (Count) | இணைப்பு |
 | :---: | :--- | :--- | :---: | :---: |
 | 01 | `01_pazhaiya_uraikal` | **பழைய செவ்வியல் உரைகள்** | 51 | [பழைய செவ்வியல் உரைகள் ↗](01_pazhaiya_uraikal/README.md) |
-| 02 | `02_naveena_uraikal_marrum_aayvukal` | **நவீன உரைகள் மற்றும் இலக்கிய ஆய்வுகள்** | 21 | [நவீன உரைகள் மற்றும் இலக்கிய ஆய்வுகள் ↗](02_naveena_uraikal_marrum_aayvukal/README.md) |
+| 02 | `02_naveena_uraikal` | **நவீன உரைகள்** | 21 | [நவீன உரைகள் ↗](02_naveena_uraikal/README.md) |
 
 ---
 

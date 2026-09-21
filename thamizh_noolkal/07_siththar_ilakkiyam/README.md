@@ -9,8 +9,9 @@
 
 | எண் | உட்பிரிவு (Sub-directory) | தலைப்பு (Title) | நூல்கள் (Count) | இணைப்பு |
 | :---: | :--- | :--- | :---: | :---: |
-| 01 | `01_thaththuvam_marrum_paatalkal` | **சித்தர் தத்துவம் & பாடல்கள்** | 6 | [சித்தர் தத்துவம் & பாடல்கள் ↗](01_thaththuvam_marrum_paatalkal/README.md) |
-| 02 | `02_maruththuvam_marrum_vaasiyogam` | **சித்த மருத்துவம் & வாசியோகம்** | 2 | [சித்த மருத்துவம் & வாசியோகம் ↗](02_maruththuvam_marrum_vaasiyogam/README.md) |
+| 01 | `01_siththar_paatalkal` | **சித்தர் பாடல்கள்** | 6 | [சித்தர் பாடல்கள் ↗](01_siththar_paatalkal/README.md) |
+| 02 | `02_maruththuvam` | **சித்த மருத்துவம்** | 1 | [சித்த மருத்துவம் ↗](02_maruththuvam/README.md) |
+| 03 | `03_vaasiyogam` | **வாசியோகம்** | 1 | [வாசியோகம் ↗](03_vaasiyogam/README.md) |
 
 ---
 
