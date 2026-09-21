@@ -1,7 +1,7 @@
 # புதினங்கள் & நாவல்கள்
 
 > **கோப்பகம் (Directory):** `thamizh_noolkal/11_naveena_ilakkiyam/01_puthinangkal`  
-> **மொத்த நூல்கள் (Total Texts):** **72**
+> **மொத்த நூல்கள் (Total Texts):** **74**
 
 ---
 
@@ -53,33 +53,35 @@
 | 33 | `paathaiyil_pathintha_atikal.txt` | **Paathaiyil Pathintha Atikal** | [வாசிக்க ↗](paathaiyil_pathintha_atikal.txt) |
 | 34 | `parimala_kesavan_thuppariyum_naaval.txt` | **Parimala Kesavan Thuppariyum Naaval** | [வாசிக்க ↗](parimala_kesavan_thuppariyum_naaval.txt) |
 | 35 | `pen_kural.txt` | **Pen Kural** | [வாசிக்க ↗](pen_kural.txt) |
-| 36 | `poymaan_karatu.txt` | **Poymaan Karatu** | [வாசிக்க ↗](poymaan_karatu.txt) |
-| 37 | `puthiya_thiripurangkal_kelvith_thee.txt` | **Puthiya Thiripurangkal Kelvith Thee** | [வாசிக்க ↗](puthiya_thiripurangkal_kelvith_thee.txt) |
-| 38 | `raani_mangkammaal.txt` | **Raani Mangkammaal** | [வாசிக்க ↗](raani_mangkammaal.txt) |
-| 39 | `rangkon_raathaa_naaval.txt` | **Rangkon Raathaa Naaval** | [வாசிக்க ↗](rangkon_raathaa_naaval.txt) |
-| 40 | `saamiyaatikal_naaval_sanmukasuntharam.txt` | **Saamiyaatikal Naaval Sanmukasuntharam** | [வாசிக்க ↗](saamiyaatikal_naaval_sanmukasuntharam.txt) |
-| 41 | `samuthaaya_veethi_naaval.txt` | **Samuthaaya Veethi Naaval** | [வாசிக்க ↗](samuthaaya_veethi_naaval.txt) |
-| 42 | `serril_manitharkal_samooka_naaval.txt` | **Serril Manitharkal Samooka Naaval** | [வாசிக்க ↗](serril_manitharkal_samooka_naaval.txt) |
-| 43 | `solaimalai_ilavarasi.txt` | **Solaimalai Ilavarasi** | [வாசிக்க ↗](solaimalai_ilavarasi.txt) |
-| 44 | `sukunasunthari_sariththiram.txt` | **Sukunasunthari Sariththiram** | [வாசிக்க ↗](sukunasunthari_sariththiram.txt) |
-| 45 | `suzhalil_mithakkum_theepangkal.txt` | **Suzhalil Mithakkum Theepangkal** | [வாசிக்க ↗](suzhalil_mithakkum_theepangkal.txt) |
-| 46 | `thaazhampoo_naaval_naa_paarththasaarathi.txt` | **Thaazhampoo Naaval Naa Paarththasaarathi** | [வாசிக்க ↗](thaazhampoo_naaval_naa_paarththasaarathi.txt) |
-| 47 | `thivaan_lotapata_sing_pakathoor.txt` | **Thivaan Lotapata Sing Pakathoor** | [வாசிக்க ↗](thivaan_lotapata_sing_pakathoor.txt) |
-| 48 | `thiyaaka_poomi.txt` | **Thiyaaka Poomi** | [வாசிக்க ↗](thiyaaka_poomi.txt) |
-| 49 | `thulasi_maatam.txt` | **Thulasi Maatam** | [வாசிக்க ↗](thulasi_maatam.txt) |
-| 50 | `uththarakaantam.txt` | **Uththarakaantam** | [வாசிக்க ↗](uththarakaantam.txt) |
-| 51 | `vaashingtanil_thirumanam.txt` | **Vaashingtanil Thirumanam** | [வாசிக்க ↗](vaashingtanil_thirumanam.txt) |
-| 52 | `vaataa_malli_su_samuththiram.txt` | **Vaataa Malli Su Samuththiram** | [வாசிக்க ↗](vaataa_malli_su_samuththiram.txt) |
-| 53 | `valarppu_makal_aar_sanmukasuntharam.txt` | **Valarppu Makal Aar Sanmukasuntharam** | [வாசிக்க ↗](valarppu_makal_aar_sanmukasuntharam.txt) |
-| 54 | `valarppu_makal_naaval.txt` | **Valarppu Makal Naaval** | [வாசிக்க ↗](valarppu_makal_naaval.txt) |
-| 55 | `vanatheviyin_maintharkal.txt` | **Vanatheviyin Maintharkal** | [வாசிக்க ↗](vanatheviyin_maintharkal.txt) |
-| 56 | `vanjsimaanakaram.txt` | **Vanjsimaanakaram** | [வாசிக்க ↗](vanjsimaanakaram.txt) |
-| 57 | `vasantha_kokilam.txt` | **Vasantha Kokilam** | [வாசிக்க ↗](vasantha_kokilam.txt) |
-| 58 | `vatam_pitikka_vaangka_jappaanukku.txt` | **Vatam Pitikka Vaangka Jappaanukku** | [வாசிக்க ↗](vatam_pitikka_vaangka_jappaanukku.txt) |
-| 59 | `vellai_maalikaiyil.txt` | **Vellai Maalikaiyil** | [வாசிக்க ↗](vellai_maalikaiyil.txt) |
-| 60 | `verukku_neer.txt` | **Verukku Neer** | [வாசிக்க ↗](verukku_neer.txt) |
-| 61 | `vetha_viththu_naaval.txt` | **Vetha Viththu Naaval** | [வாசிக்க ↗](vetha_viththu_naaval.txt) |
-| 62 | `visiri_vaazhai_kaathal_naveenam.txt` | **Visiri Vaazhai Kaathal Naveenam** | [வாசிக்க ↗](visiri_vaazhai_kaathal_naveenam.txt) |
+| 36 | `pirathaapa_muthaliyaar_sariththiram.txt` | **Pirathaapa Muthaliyaar Sariththiram** | [வாசிக்க ↗](pirathaapa_muthaliyaar_sariththiram.txt) |
+| 37 | `poymaan_karatu.txt` | **Poymaan Karatu** | [வாசிக்க ↗](poymaan_karatu.txt) |
+| 38 | `puthiya_thiripurangkal_kelvith_thee.txt` | **Puthiya Thiripurangkal Kelvith Thee** | [வாசிக்க ↗](puthiya_thiripurangkal_kelvith_thee.txt) |
+| 39 | `raani_mangkammaal.txt` | **Raani Mangkammaal** | [வாசிக்க ↗](raani_mangkammaal.txt) |
+| 40 | `rangkon_raathaa_naaval.txt` | **Rangkon Raathaa Naaval** | [வாசிக்க ↗](rangkon_raathaa_naaval.txt) |
+| 41 | `saamiyaatikal_naaval_sanmukasuntharam.txt` | **Saamiyaatikal Naaval Sanmukasuntharam** | [வாசிக்க ↗](saamiyaatikal_naaval_sanmukasuntharam.txt) |
+| 42 | `samuthaaya_veethi_naaval.txt` | **Samuthaaya Veethi Naaval** | [வாசிக்க ↗](samuthaaya_veethi_naaval.txt) |
+| 43 | `serril_manitharkal_samooka_naaval.txt` | **Serril Manitharkal Samooka Naaval** | [வாசிக்க ↗](serril_manitharkal_samooka_naaval.txt) |
+| 44 | `solaimalai_ilavarasi.txt` | **Solaimalai Ilavarasi** | [வாசிக்க ↗](solaimalai_ilavarasi.txt) |
+| 45 | `sukunasunthari_sariththiram.txt` | **Sukunasunthari Sariththiram** | [வாசிக்க ↗](sukunasunthari_sariththiram.txt) |
+| 46 | `suzhalil_mithakkum_theepangkal.txt` | **Suzhalil Mithakkum Theepangkal** | [வாசிக்க ↗](suzhalil_mithakkum_theepangkal.txt) |
+| 47 | `thaazhampoo_naaval_naa_paarththasaarathi.txt` | **Thaazhampoo Naaval Naa Paarththasaarathi** | [வாசிக்க ↗](thaazhampoo_naaval_naa_paarththasaarathi.txt) |
+| 48 | `thivaan_lotapata_sing_pakathoor.txt` | **Thivaan Lotapata Sing Pakathoor** | [வாசிக்க ↗](thivaan_lotapata_sing_pakathoor.txt) |
+| 49 | `thiyaaka_poomi.txt` | **Thiyaaka Poomi** | [வாசிக்க ↗](thiyaaka_poomi.txt) |
+| 50 | `thulasi_maatam.txt` | **Thulasi Maatam** | [வாசிக்க ↗](thulasi_maatam.txt) |
+| 51 | `umaar_kayaam_naaval.txt` | **Umaar Kayaam Naaval** | [வாசிக்க ↗](umaar_kayaam_naaval.txt) |
+| 52 | `uththarakaantam.txt` | **Uththarakaantam** | [வாசிக்க ↗](uththarakaantam.txt) |
+| 53 | `vaashingtanil_thirumanam.txt` | **Vaashingtanil Thirumanam** | [வாசிக்க ↗](vaashingtanil_thirumanam.txt) |
+| 54 | `vaataa_malli_su_samuththiram.txt` | **Vaataa Malli Su Samuththiram** | [வாசிக்க ↗](vaataa_malli_su_samuththiram.txt) |
+| 55 | `valarppu_makal_aar_sanmukasuntharam.txt` | **Valarppu Makal Aar Sanmukasuntharam** | [வாசிக்க ↗](valarppu_makal_aar_sanmukasuntharam.txt) |
+| 56 | `valarppu_makal_naaval.txt` | **Valarppu Makal Naaval** | [வாசிக்க ↗](valarppu_makal_naaval.txt) |
+| 57 | `vanatheviyin_maintharkal.txt` | **Vanatheviyin Maintharkal** | [வாசிக்க ↗](vanatheviyin_maintharkal.txt) |
+| 58 | `vanjsimaanakaram.txt` | **Vanjsimaanakaram** | [வாசிக்க ↗](vanjsimaanakaram.txt) |
+| 59 | `vasantha_kokilam.txt` | **Vasantha Kokilam** | [வாசிக்க ↗](vasantha_kokilam.txt) |
+| 60 | `vatam_pitikka_vaangka_jappaanukku.txt` | **Vatam Pitikka Vaangka Jappaanukku** | [வாசிக்க ↗](vatam_pitikka_vaangka_jappaanukku.txt) |
+| 61 | `vellai_maalikaiyil.txt` | **Vellai Maalikaiyil** | [வாசிக்க ↗](vellai_maalikaiyil.txt) |
+| 62 | `verukku_neer.txt` | **Verukku Neer** | [வாசிக்க ↗](verukku_neer.txt) |
+| 63 | `vetha_viththu_naaval.txt` | **Vetha Viththu Naaval** | [வாசிக்க ↗](vetha_viththu_naaval.txt) |
+| 64 | `visiri_vaazhai_kaathal_naveenam.txt` | **Visiri Vaazhai Kaathal Naveenam** | [வாசிக்க ↗](visiri_vaazhai_kaathal_naveenam.txt) |
 
 ---
 

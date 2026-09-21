@@ -1,6 +1,6 @@
-# புதுக்கவிதை & மரபுக்கவிதை
+# கவிதைகள் (புதுக்கவிதை & மரபுக்கவிதை)
 
-> **கோப்பகம் (Directory):** `thamizh_noolkal/11_naveena_ilakkiyam/03_puthukkavithai_marabukkavithai`  
+> **கோப்பகம் (Directory):** `thamizh_noolkal/11_naveena_ilakkiyam/03_kavithaikal`  
 > **மொத்த நூல்கள் (Total Texts):** **66**
 
 ---

@@ -1,7 +1,7 @@
 # 11. நவீனத் தமிழ் இலக்கியம்
 
 > **கோப்பகம் (Directory):** `thamizh_noolkal/11_naveena_ilakkiyam`  
-> **மொத்த நூல்கள் (Total Texts):** **357**
+> **மொத்த நூல்கள் (Total Texts):** **359**
 
 ---
 
@@ -9,9 +9,9 @@
 
 | எண் | உட்பிரிவு (Sub-directory) | தலைப்பு (Title) | நூல்கள் (Count) | இணைப்பு |
 | :---: | :--- | :--- | :---: | :---: |
-| 01 | `01_puthinangkal` | **புதினங்கள் & நாவல்கள்** | 72 | [புதினங்கள் & நாவல்கள் ↗](01_puthinangkal/README.md) |
+| 01 | `01_puthinangkal` | **புதினங்கள் & நாவல்கள்** | 74 | [புதினங்கள் & நாவல்கள் ↗](01_puthinangkal/README.md) |
 | 02 | `02_sirukathaikal` | **சிறுகதைகள்** | 57 | [சிறுகதைகள் ↗](02_sirukathaikal/README.md) |
-| 03 | `03_puthukkavithai_marabukkavithai` | **புதுக்கவிதை & மரபுக்கவிதை** | 66 | [புதுக்கவிதை & மரபுக்கவிதை ↗](03_puthukkavithai_marabukkavithai/README.md) |
+| 03 | `03_kavithaikal` | **கவிதைகள் (புதுக்கவிதை & மரபுக்கவிதை)** | 66 | [கவிதைகள் (புதுக்கவிதை & மரபுக்கவிதை) ↗](03_kavithaikal/README.md) |
 | 04 | `04_naadakangkal` | **நாடகங்கள்** | 29 | [நாடகங்கள் ↗](04_naadakangkal/README.md) |
 | 05 | `05_katturaikal` | **கட்டுரைகள்** | 133 | [கட்டுரைகள் ↗](05_katturaikal/README.md) |
 
