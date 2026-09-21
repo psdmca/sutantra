@@ -37,7 +37,7 @@
 | 26 | `oru_kiraamaththup_pennin_thalaip_pirasavam.txt` | **Oru Kiraamaththup Pennin Thalaip Pirasavam** | [வாசிக்க ↗](oru_kiraamaththup_pennin_thalaip_pirasavam.txt) |
 | 27 | `oru_maamaramum_marangkoththip_paravaikalum.txt` | **Oru Maamaramum Marangkoththip Paravaikalum** | [வாசிக்க ↗](oru_maamaramum_marangkoththip_paravaikalum.txt) |
 | 28 | `oru_saththiyaththin_azhukai.txt` | **Oru Saththiyaththin Azhukai** | [வாசிக்க ↗](oru_saththiyaththin_azhukai.txt) |
-| 29 | `pallikkus_senra_sittukkuruvikal_paavalar_naaraa_naassiyappan.txt` | **Pallikkus Senra Sittukkuruvikal Paavalar Naaraa Naassiyappan** | [வாசிக்க ↗](pallikkus_senra_sittukkuruvikal_paavalar_naaraa_naassiyappan.txt) |
+| 29 | `pallikkus_senra_sittukkuruvikal.txt` | **பள்ளிக்குச் சென்ற சிட்டுக்குருவிகள்** | [வாசிக்க ↗](pallikkus_senra_sittukkuruvikal.txt) |
 | 30 | `paniththuli.txt` | **Paniththuli** | [வாசிக்க ↗](paniththuli.txt) |
 | 31 | `panjsa_thanthirak_kathaikal.txt` | **Panjsa Thanthirak Kathaikal** | [வாசிக்க ↗](panjsa_thanthirak_kathaikal.txt) |
 | 32 | `piththalai_alla_ponne_thaan.txt` | **Piththalai Alla Ponne Thaan** | [வாசிக்க ↗](piththalai_alla_ponne_thaan.txt) |
@@ -45,10 +45,10 @@
 | 34 | `pudhumaipithan_sirukathaikal_thokuppu_3.txt` | **Pudhumaipithan Sirukathaikal Thokuppu 3** | [வாசிக்க ↗](pudhumaipithan_sirukathaikal_thokuppu_3.txt) |
 | 35 | `puthiya_thamizhs_sirukathaikal.txt` | **Puthiya Thamizhs Sirukathaikal** | [வாசிக்க ↗](puthiya_thamizhs_sirukathaikal.txt) |
 | 36 | `puthu_meruku_sirukathaith_thokuppu.txt` | **Puthu Meruku Sirukathaith Thokuppu** | [வாசிக்க ↗](puthu_meruku_sirukathaith_thokuppu.txt) |
-| 37 | `puthumaippiththan_sirukathaikal_thokuppu_1_puthumaippiththan.txt` | **Puthumaippiththan Sirukathaikal Thokuppu 1 Puthumaippiththan** | [வாசிக்க ↗](puthumaippiththan_sirukathaikal_thokuppu_1_puthumaippiththan.txt) |
-| 38 | `puthumaippiththan_sirukathaikal_thokuppu_2_puthumaippiththan.txt` | **Puthumaippiththan Sirukathaikal Thokuppu 2 Puthumaippiththan** | [வாசிக்க ↗](puthumaippiththan_sirukathaikal_thokuppu_2_puthumaippiththan.txt) |
-| 39 | `puthumaippiththan_sirukathaikal_thokuppu_4_puthumaippiththan.txt` | **Puthumaippiththan Sirukathaikal Thokuppu 4 Puthumaippiththan** | [வாசிக்க ↗](puthumaippiththan_sirukathaikal_thokuppu_4_puthumaippiththan.txt) |
-| 40 | `puthumaippiththan_sirukathaikal_thokuppu_5_puthumaippiththan.txt` | **Puthumaippiththan Sirukathaikal Thokuppu 5 Puthumaippiththan** | [வாசிக்க ↗](puthumaippiththan_sirukathaikal_thokuppu_5_puthumaippiththan.txt) |
+| 37 | `puthumaippiththan_sirukathaikal_thokuppu_1.txt` | **புதுமைப்பித்தன் சிறுகதைகள் (தொகுப்பு 1)** | [வாசிக்க ↗](puthumaippiththan_sirukathaikal_thokuppu_1.txt) |
+| 38 | `puthumaippiththan_sirukathaikal_thokuppu_2.txt` | **புதுமைப்பித்தன் சிறுகதைகள் (தொகுப்பு 2)** | [வாசிக்க ↗](puthumaippiththan_sirukathaikal_thokuppu_2.txt) |
+| 39 | `puthumaippiththan_sirukathaikal_thokuppu_4.txt` | **புதுமைப்பித்தன் சிறுகதைகள் (தொகுப்பு 4)** | [வாசிக்க ↗](puthumaippiththan_sirukathaikal_thokuppu_4.txt) |
+| 40 | `puthumaippiththan_sirukathaikal_thokuppu_5.txt` | **புதுமைப்பித்தன் சிறுகதைகள் (தொகுப்பு 5)** | [வாசிக்க ↗](puthumaippiththan_sirukathaikal_thokuppu_5.txt) |
 | 41 | `santhirikaiyin_kathai.txt` | **Santhirikaiyin Kathai** | [வாசிக்க ↗](santhirikaiyin_kathai.txt) |
 | 42 | `sevvaazhai_muthaliya_4_sirukathaikal.txt` | **Sevvaazhai Muthaliya 4 Sirukathaikal** | [வாசிக்க ↗](sevvaazhai_muthaliya_4_sirukathaikal.txt) |
 | 43 | `sikkimukkik_karkal.txt` | **Sikkimukkik Karkal** | [வாசிக்க ↗](sikkimukkik_karkal.txt) |
@@ -61,7 +61,7 @@
 | 50 | `theerththa_yaaththirai.txt` | **Theerththa Yaaththirai** | [வாசிக்க ↗](theerththa_yaaththirai.txt) |
 | 51 | `thikatasakkaram.txt` | **Thikatasakkaram** | [வாசிக்க ↗](thikatasakkaram.txt) |
 | 52 | `vaakkum_vakkum.txt` | **Vaakkum Vakkum** | [வாசிக்க ↗](vaakkum_vakkum.txt) |
-| 53 | `vallikkannan_kathaikal_vallikkannan.txt` | **Vallikkannan Kathaikal Vallikkannan** | [வாசிக்க ↗](vallikkannan_kathaikal_vallikkannan.txt) |
+| 53 | `vallikkannan_kathaikal.txt` | **வல்லிக்கண்ணன் கதைகள்** | [வாசிக்க ↗](vallikkannan_kathaikal.txt) |
 | 54 | `vamsa_viruththi.txt` | **Vamsa Viruththi** | [வாசிக்க ↗](vamsa_viruththi.txt) |
 | 55 | `vatakku_veethi_sirukathaith_thokuppu.txt` | **Vatakku Veethi Sirukathaith Thokuppu** | [வாசிக்க ↗](vatakku_veethi_sirukathaith_thokuppu.txt) |
 | 56 | `vathsalaavin_vaazhkkai_sirukathaikal.txt` | **Vathsalaavin Vaazhkkai Sirukathaikal** | [வாசிக்க ↗](vathsalaavin_vaazhkkai_sirukathaikal.txt) |

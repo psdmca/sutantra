@@ -10,7 +10,7 @@
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
 | 01 | `01_iraasaraasa_thevarulaa.txt` | **Iraasaraasa Thevarulaa** | [வாசிக்க ↗](01_iraasaraasa_thevarulaa.txt) |
-| 02 | `02_moovarulaa_vikkirama_sozhanulaa_kuloththungka_sozhanulaa_iraasaraasa_sozhanulaa.txt` | **Moovarulaa Vikkirama Sozhanulaa Kuloththungka Sozhanulaa Iraasaraasa Sozhanulaa** | [வாசிக்க ↗](02_moovarulaa_vikkirama_sozhanulaa_kuloththungka_sozhanulaa_iraasaraasa_sozhanulaa.txt) |
+| 02 | `02_moovarulaa.txt` | **மூவருலா (விக்கிரம சோழனுலா, குலோத்துங்க சோழனுலா, இராசராச சோழனுலா - ஒட்டக்கூத்தர்)** | [வாசிக்க ↗](02_moovarulaa.txt) |
 | 03 | `03_muppanthottiyulaa.txt` | **Muppanthottiyulaa** | [வாசிக்க ↗](03_muppanthottiyulaa.txt) |
 | 04 | `04_suntharar_ulaa.txt` | **Suntharar Ulaa** | [வாசிக்க ↗](04_suntharar_ulaa.txt) |
 | 05 | `05_thevaiyulaa.txt` | **Thevaiyulaa** | [வாசிக்க ↗](05_thevaiyulaa.txt) |

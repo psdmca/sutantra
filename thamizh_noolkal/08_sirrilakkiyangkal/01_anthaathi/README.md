@@ -9,7 +9,7 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
-| 01 | `01_anthaathik_koththu_thokuthi_1_santhirasekaran_thokuppu.txt` | **Anthaathik Koththu Thokuthi 1 Santhirasekaran Thokuppu** | [வாசிக்க ↗](01_anthaathik_koththu_thokuthi_1_santhirasekaran_thokuppu.txt) |
+| 01 | `01_anthaathik_koththu.txt` | **அந்தாதிக் கொத்து (தொகுதி 1 - சந்திரசேகரன் தொகுப்பு)** | [வாசிக்க ↗](01_anthaathik_koththu.txt) |
 | 02 | `02_arunakiri_anthaathi.txt` | **Arunakiri Anthaathi** | [வாசிக்க ↗](02_arunakiri_anthaathi.txt) |
 | 03 | `03_aththikiri_varathan_anthaathi_maalai.txt` | **Aththikiri Varathan Anthaathi Maalai** | [வாசிக்க ↗](03_aththikiri_varathan_anthaathi_maalai.txt) |
 | 04 | `04_aththikiri_yanthaathi.txt` | **Aththikiri Yanthaathi** | [வாசிக்க ↗](04_aththikiri_yanthaathi.txt) |

@@ -14,11 +14,11 @@
 | 03 | `kalevalaa_seyyul_natai.txt` | **Kalevalaa Seyyul Natai** | [வாசிக்க ↗](kalevalaa_seyyul_natai.txt) |
 | 04 | `kalevalaa_sorrokuthi.txt` | **Kalevalaa Sorrokuthi** | [வாசிக்க ↗](kalevalaa_sorrokuthi.txt) |
 | 05 | `kalevalaa_urainatai.txt` | **Kalevalaa Urainatai** | [வாசிக்க ↗](kalevalaa_urainatai.txt) |
-| 06 | `manimekalai_manimekalai_mozhipeyarppu_english_translation.txt` | **Manimekalai Manimekalai Mozhipeyarppu English Translation** | [வாசிக்க ↗](manimekalai_manimekalai_mozhipeyarppu_english_translation.txt) |
+| 06 | `manimekalai_english_kausalya_hart.txt` | **Manimekalai English Kausalya Hart** | [வாசிக்க ↗](manimekalai_english_kausalya_hart.txt) |
 | 07 | `manimekalai_tamil_classics_in_english.txt` | **Manimekalai Tamil Classics In English** | [வாசிக்க ↗](manimekalai_tamil_classics_in_english.txt) |
-| 08 | `saanthikku_maarkkam_va_u_sithamparam_pillai_mozhipeyarppu.txt` | **Saanthikku Maarkkam Va U Sithamparam Pillai Mozhipeyarppu** | [வாசிக்க ↗](saanthikku_maarkkam_va_u_sithamparam_pillai_mozhipeyarppu.txt) |
-| 09 | `valimaikku_maarkkam_va_u_sithamparam_pillai_mozhipeyarppu.txt` | **Valimaikku Maarkkam Va U Sithamparam Pillai Mozhipeyarppu** | [வாசிக்க ↗](valimaikku_maarkkam_va_u_sithamparam_pillai_mozhipeyarppu.txt) |
-| 10 | `veeravanap_puraanammeenaatsi_suntharam_pillai_mozhi_peyarppu.txt` | **Veeravanap Puraanammeenaatsi Suntharam Pillai Mozhi Peyarppu** | [வாசிக்க ↗](veeravanap_puraanammeenaatsi_suntharam_pillai_mozhi_peyarppu.txt) |
+| 08 | `saanthikku_maarkkam_vovusi.txt` | **Saanthikku Maarkkam Vovusi** | [வாசிக்க ↗](saanthikku_maarkkam_vovusi.txt) |
+| 09 | `valimaikku_maarkkam_vovusi.txt` | **Valimaikku Maarkkam Vovusi** | [வாசிக்க ↗](valimaikku_maarkkam_vovusi.txt) |
+| 10 | `veeravanap_puraanam.txt` | **Veeravanap Puraanam** | [வாசிக்க ↗](veeravanap_puraanam.txt) |
 
 ---
 

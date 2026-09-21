@@ -1,7 +1,7 @@
 # அகவல் நூல்கள்
 
 > **கோப்பகம் (Directory):** `thamizh_noolkal/08_sirrilakkiyangkal/19_akaval`  
-> **மொத்த நூல்கள் (Total Texts):** **10**
+> **மொத்த நூல்கள் (Total Texts):** **14**
 
 ---
 
@@ -18,7 +18,11 @@
 | 07 | `07_thiruvaavatuthurai_aatheenaththuk_kuruparamparaiyakaval.txt` | **Thiruvaavatuthurai Aatheenaththuk Kuruparamparaiyakaval** | [வாசிக்க ↗](07_thiruvaavatuthurai_aatheenaththuk_kuruparamparaiyakaval.txt) |
 | 08 | `08_valaiyaapathi_akaval.txt` | **Valaiyaapathi Akaval** | [வாசிக்க ↗](08_valaiyaapathi_akaval.txt) |
 | 09 | `09_vinaayakar_akaval.txt` | **Vinaayakar Akaval** | [வாசிக்க ↗](09_vinaayakar_akaval.txt) |
-| 10 | `10_vinaayakar_akaval_2_muththivinaayakar_akaval_3_vinaayakar_thiruvakaval.txt` | **Vinaayakar Akaval 2 Muththivinaayakar Akaval 3 Vinaayakar Thiruvakaval** | [வாசிக்க ↗](10_vinaayakar_akaval_2_muththivinaayakar_akaval_3_vinaayakar_thiruvakaval.txt) |
+| 10 | `10_vinaayakar_akaval_auvaiyaar.txt` | **விநாயகர் அகவல் (ஔவையார்)** | [வாசிக்க ↗](10_vinaayakar_akaval_auvaiyaar.txt) |
+| 11 | `11_muththivinaayakar_akaval_arunakirinaathar.txt` | **முத்தி விநாயகர் அகவல் (அருணகிரிநாதர்)** | [வாசிக்க ↗](11_muththivinaayakar_akaval_arunakirinaathar.txt) |
+| 12 | `12_vinaayakar_thiruvakaval_nakkeerar.txt` | **விநாயகர் திருவகவல் (நக்கீரர்)** | [வாசிக்க ↗](12_vinaayakar_thiruvakaval_nakkeerar.txt) |
+| 13 | `13_senthoorakaval.txt` | **செந்தூரகவல் (நா. பிச்சுமணி)** | [வாசிக்க ↗](13_senthoorakaval.txt) |
+| 14 | `14_vengkatesa_akaval.txt` | **வேங்கடேச அகவல் (நா. பிச்சுமணி)** | [வாசிக்க ↗](14_vengkatesa_akaval.txt) |
 
 ---
 

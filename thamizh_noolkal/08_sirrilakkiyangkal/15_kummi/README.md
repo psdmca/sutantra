@@ -13,7 +13,7 @@
 | 02 | `02_arissanthiran_kummi.txt` | **Arissanthiran Kummi** | [வாசிக்க ↗](02_arissanthiran_kummi.txt) |
 | 03 | `03_inthiyas_sariththirak_kummi.txt` | **Inthiyas Sariththirak Kummi** | [வாசிக்க ↗](03_inthiyas_sariththirak_kummi.txt) |
 | 04 | `04_kovarththanak_kummi.txt` | **Kovarththanak Kummi** | [வாசிக்க ↗](04_kovarththanak_kummi.txt) |
-| 05 | `05_maanikkavaasakar_sariththira_kummi_aavitaiyaar_kovil_aathmanaathayyar.txt` | **Maanikkavaasakar Sariththira Kummi Aavitaiyaar Kovil Aathmanaathayyar** | [வாசிக்க ↗](05_maanikkavaasakar_sariththira_kummi_aavitaiyaar_kovil_aathmanaathayyar.txt) |
+| 05 | `05_maanikkavaasakar_sariththirak_kummi.txt` | **மாணிக்கவாசகர் சரித்திரக் கும்மி** | [வாசிக்க ↗](05_maanikkavaasakar_sariththirak_kummi.txt) |
 | 06 | `06_maayooram_thulaa_kaaveri_kummi_sirumanavoor_munisaami_muthaliyaar.txt` | **Maayooram Thulaa Kaaveri Kummi Sirumanavoor Munisaami Muthaliyaar** | [வாசிக்க ↗](06_maayooram_thulaa_kaaveri_kummi_sirumanavoor_munisaami_muthaliyaar.txt) |
 | 07 | `07_meenaakshi_suntharesvarar_thiruvilaiyaatal_kolaattak_kummi.txt` | **Meenaakshi Suntharesvarar Thiruvilaiyaatal Kolaattak Kummi** | [வாசிக்க ↗](07_meenaakshi_suntharesvarar_thiruvilaiyaatal_kolaattak_kummi.txt) |
 | 08 | `08_naakoor_aantavar_therisanakkummi.txt` | **Naakoor Aantavar Therisanakkummi** | [வாசிக்க ↗](08_naakoor_aantavar_therisanakkummi.txt) |
@@ -26,7 +26,7 @@
 | 15 | `15_sri_maariyamman_thiruvarut_pathikam_sinthu_kummi.txt` | **Sri Maariyamman Thiruvarut Pathikam Sinthu Kummi** | [வாசிக்க ↗](15_sri_maariyamman_thiruvarut_pathikam_sinthu_kummi.txt) |
 | 16 | `16_sri_math_iraamayana_sariththirak_kummi.txt` | **Sri Math Iraamayana Sariththirak Kummi** | [வாசிக்க ↗](16_sri_math_iraamayana_sariththirak_kummi.txt) |
 | 17 | `17_thiruvannaamalai_theerththakkummi_sirumanavoor_munisaami_muthaliyaar.txt` | **Thiruvannaamalai Theerththakkummi Sirumanavoor Munisaami Muthaliyaar** | [வாசிக்க ↗](17_thiruvannaamalai_theerththakkummi_sirumanavoor_munisaami_muthaliyaar.txt) |
-| 18 | `18_thiruvannaamalai_vallaalamakaaraajan_sariththirakkummi_sirumanavoor_munisaami_muthaliyaar.txt` | **Thiruvannaamalai Vallaalamakaaraajan Sariththirakkummi Sirumanavoor Munisaami Muthaliyaar** | [வாசிக்க ↗](18_thiruvannaamalai_vallaalamakaaraajan_sariththirakkummi_sirumanavoor_munisaami_muthaliyaar.txt) |
+| 18 | `18_thiruvannaamalai_vallaalamakaaraajan_sariththirakkummi.txt` | **திருவண்ணாமலை வல்லாளமகாராஜன் சரித்திரக் கும்மி** | [வாசிக்க ↗](18_thiruvannaamalai_vallaalamakaaraajan_sariththirakkummi.txt) |
 | 19 | `19_urukkumani_kaliyaanakkummi.txt` | **Urukkumani Kaliyaanakkummi** | [வாசிக்க ↗](19_urukkumani_kaliyaanakkummi.txt) |
 | 20 | `20_ushaa_kalyaanakkummi.txt` | **Ushaa Kalyaanakkummi** | [வாசிக்க ↗](20_ushaa_kalyaanakkummi.txt) |
 | 21 | `21_vaalaik_kummi.txt` | **Vaalaik Kummi** | [வாசிக்க ↗](21_vaalaik_kummi.txt) |

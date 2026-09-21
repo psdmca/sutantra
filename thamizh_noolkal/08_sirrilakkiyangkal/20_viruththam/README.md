@@ -1,7 +1,7 @@
 # விருத்தம், கழிநெடில் & கலித்துறை
 
 > **கோப்பகம் (Directory):** `thamizh_noolkal/08_sirrilakkiyangkal/20_viruththam`  
-> **மொத்த நூல்கள் (Total Texts):** **14**
+> **மொத்த நூல்கள் (Total Texts):** **15**
 
 ---
 
@@ -14,15 +14,16 @@
 | 03 | `03_kaanjsipuram_sengkunthar_kaamaatsi_amman_viruththam.txt` | **Kaanjsipuram Sengkunthar Kaamaatsi Amman Viruththam** | [வாசிக்க ↗](03_kaanjsipuram_sengkunthar_kaamaatsi_amman_viruththam.txt) |
 | 04 | `04_kassi_aanantharuththiresar_kazhinedil.txt` | **Kassi Aanantharuththiresar Kazhinedil** | [வாசிக்க ↗](04_kassi_aanantharuththiresar_kazhinedil.txt) |
 | 05 | `05_mathurai_meenaatsiyammai_kalivenpaa.txt` | **Mathurai Meenaatsiyammai Kalivenpaa** | [வாசிக்க ↗](05_mathurai_meenaatsiyammai_kalivenpaa.txt) |
-| 06 | `06_mathurai_meenaatsiyamman_somasuntharak_katavul_peril_atimatakku_aasiriyaviruththam.txt` | **Mathurai Meenaatsiyamman Somasuntharak Katavul Peril Atimatakku Aasiriyaviruththam** | [வாசிக்க ↗](06_mathurai_meenaatsiyamman_somasuntharak_katavul_peril_atimatakku_aasiriyaviruththam.txt) |
-| 07 | `07_melaissithamparam_enkira_peroor_passainaayakiyammai_aasiriyaviruththam.txt` | **Melaissithamparam Enkira Peroor Passainaayakiyammai Aasiriyaviruththam** | [வாசிக்க ↗](07_melaissithamparam_enkira_peroor_passainaayakiyammai_aasiriyaviruththam.txt) |
+| 06 | `06_mathurai_meenaatsiyamman_atimatakku_aasiriyaviruththam.txt` | **மதுரை மீனாட்சியம்மன் அடிமடக்கு ஆசிரியவிருத்தம்** | [வாசிக்க ↗](06_mathurai_meenaatsiyamman_atimatakku_aasiriyaviruththam.txt) |
+| 07 | `07_peroor_passainaayakiyammai_aasiriyaviruththam.txt` | **பேரூர் பச்சைநாயகியம்மை ஆசிரியவிருத்தம்** | [வாசிக்க ↗](07_peroor_passainaayakiyammai_aasiriyaviruththam.txt) |
 | 08 | `08_nari_viruththam.txt` | **Nari Viruththam** | [வாசிக்க ↗](08_nari_viruththam.txt) |
 | 09 | `09_periyanaayakiyammai_kaliththurai.txt` | **Periyanaayakiyammai Kaliththurai** | [வாசிக்க ↗](09_periyanaayakiyammai_kaliththurai.txt) |
-| 10 | `10_senthoorakaval_vengkatesa_akaval_komathi_amman_muppaththu_viruththam.txt` | **Senthoorakaval Vengkatesa Akaval Komathi Amman Muppaththu Viruththam** | [வாசிக்க ↗](10_senthoorakaval_vengkatesa_akaval_komathi_amman_muppaththu_viruththam.txt) |
+| 10 | `10_komathi_amman_muppaththu_viruththam.txt` | **கோமதி அம்மன் பேரில் முப்பத்து விருத்தம் (நா. பிச்சுமணி)** | [வாசிக்க ↗](10_komathi_amman_muppaththu_viruththam.txt) |
 | 11 | `11_sokkanaatha_venpaa_sokkanaatha_kaliththurai.txt` | **Sokkanaatha Venpaa Sokkanaatha Kaliththurai** | [வாசிக்க ↗](11_sokkanaatha_venpaa_sokkanaatha_kaliththurai.txt) |
 | 12 | `12_sri_natesar_kalivenpaa.txt` | **Sri Natesar Kalivenpaa** | [வாசிக்க ↗](12_sri_natesar_kalivenpaa.txt) |
-| 13 | `13_suppiramaniyar_thiruviruththam_thiruththanikaith_thiruviruththam.txt` | **Suppiramaniyar Thiruviruththam Thiruththanikaith Thiruviruththam** | [வாசிக்க ↗](13_suppiramaniyar_thiruviruththam_thiruththanikaith_thiruviruththam.txt) |
-| 14 | `14_thirupporoor_mayil_viruththam.txt` | **Thirupporoor Mayil Viruththam** | [வாசிக்க ↗](14_thirupporoor_mayil_viruththam.txt) |
+| 13 | `13_suppiramaniyar_thiruviruththam.txt` | **சுப்பிரமணியர் திருவிருத்தம்** | [வாசிக்க ↗](13_suppiramaniyar_thiruviruththam.txt) |
+| 14 | `14_thiruththanikaith_thiruviruththam.txt` | **திருத்தணிகைத் திருவிருத்தம் (கந்தப்பையர்)** | [வாசிக்க ↗](14_thiruththanikaith_thiruviruththam.txt) |
+| 15 | `15_thirupporoor_mayil_viruththam.txt` | **Thirupporoor Mayil Viruththam** | [வாசிக்க ↗](15_thirupporoor_mayil_viruththam.txt) |
 
 ---
 

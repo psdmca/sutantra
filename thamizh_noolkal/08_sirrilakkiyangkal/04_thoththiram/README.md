@@ -9,7 +9,7 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
-| 01 | `01_sithamparath_thoththiraththirattum_sirantha_sila_seyyutkalum.txt` | **Sithamparath Thoththiraththirattum Sirantha Sila Seyyutkalum** | [வாசிக்க ↗](01_sithamparath_thoththiraththirattum_sirantha_sila_seyyutkalum.txt) |
+| 01 | `01_sithamparath_thoththiraththirattu.txt` | **சிதம்பரத் தோத்திரத்திரட்டு** | [வாசிக்க ↗](01_sithamparath_thoththiraththirattu.txt) |
 | 02 | `02_thiruvallikkeni_singkaaravelar_panjsaraththinam.txt` | **Thiruvallikkeni Singkaaravelar Panjsaraththinam** | [வாசிக்க ↗](02_thiruvallikkeni_singkaaravelar_panjsaraththinam.txt) |
 | 03 | `03_thuthikavikal.txt` | **Thuthikavikal** | [வாசிக்க ↗](03_thuthikavikal.txt) |
 

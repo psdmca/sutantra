@@ -1,7 +1,7 @@
 # பிரபந்தத் திரட்டு & பிற சிற்றிலக்கியங்கள்
 
 > **கோப்பகம் (Directory):** `thamizh_noolkal/08_sirrilakkiyangkal/26_pirapanthath_thirattu_pira`  
-> **மொத்த நூல்கள் (Total Texts):** **22**
+> **மொத்த நூல்கள் (Total Texts):** **23**
 
 ---
 
@@ -14,7 +14,7 @@
 | 03 | `03_haasya_manjsari.txt` | **Haasya Manjsari** | [வாசிக்க ↗](03_haasya_manjsari.txt) |
 | 04 | `04_kuthiraippanthaya_laavani.txt` | **Kuthiraippanthaya Laavani** | [வாசிக்க ↗](04_kuthiraippanthaya_laavani.txt) |
 | 05 | `05_muththollaayiram.txt` | **Muththollaayiram** | [வாசிக்க ↗](05_muththollaayiram.txt) |
-| 06 | `06_paavanaasam_ennum_singkaip_pirapanthath_thirattu_namassivaayak_kaviraayar.txt` | **Paavanaasam Ennum Singkaip Pirapanthath Thirattu Namassivaayak Kaviraayar** | [வாசிக்க ↗](06_paavanaasam_ennum_singkaip_pirapanthath_thirattu_namassivaayak_kaviraayar.txt) |
+| 06 | `06_paavanaasam_singkaip_pirapanthath_thirattu.txt` | **பாவநாசம் சிங்கைப் பிரபந்தத் திரட்டு** | [வாசிக்க ↗](06_paavanaasam_singkaip_pirapanthath_thirattu.txt) |
 | 07 | `07_pirapanthath_thirattu.txt` | **Pirapanthath Thirattu** | [வாசிக்க ↗](07_pirapanthath_thirattu.txt) |
 | 08 | `08_pirapanthaththirattu_pakuthi_1.txt` | **Pirapanthaththirattu Pakuthi 1** | [வாசிக்க ↗](08_pirapanthaththirattu_pakuthi_1.txt) |
 | 09 | `09_seettukkavith_thirattu.txt` | **Seettukkavith Thirattu** | [வாசிக்க ↗](09_seettukkavith_thirattu.txt) |
@@ -27,10 +27,11 @@
 | 16 | `16_thirupporoor_sannithimuraip_pirapanthangkal.txt` | **Thirupporoor Sannithimuraip Pirapanthangkal** | [வாசிக்க ↗](16_thirupporoor_sannithimuraip_pirapanthangkal.txt) |
 | 17 | `17_thirupporoor_sithampara_suvaamikal_sariththiram.txt` | **Thirupporoor Sithampara Suvaamikal Sariththiram** | [வாசிக்க ↗](17_thirupporoor_sithampara_suvaamikal_sariththiram.txt) |
 | 18 | `18_thiruvezhukoorrirukkai.txt` | **Thiruvezhukoorrirukkai** | [வாசிக்க ↗](18_thiruvezhukoorrirukkai.txt) |
-| 19 | `19_thontai_naattuth_thiruppathip_panjsaraththinangkal_pallikontaan_pillai_pirapanthath_thirattu.txt` | **Thontai Naattuth Thiruppathip Panjsaraththinangkal Pallikontaan Pillai Pirapanthath Thirattu** | [வாசிக்க ↗](19_thontai_naattuth_thiruppathip_panjsaraththinangkal_pallikontaan_pillai_pirapanthath_thirattu.txt) |
+| 19 | `19_thontai_naattuth_thiruppathip_panjsaraththinangkal.txt` | **தொண்டை நாட்டுத்திருப்பதிப் பஞ்சரத்தினங்கள்** | [வாசிக்க ↗](19_thontai_naattuth_thiruppathip_panjsaraththinangkal.txt) |
 | 20 | `20_vallinaayaki_sirrilakkiyak_kalanjsiyam.txt` | **Vallinaayaki Sirrilakkiyak Kalanjsiyam** | [வாசிக்க ↗](20_vallinaayaki_sirrilakkiyak_kalanjsiyam.txt) |
 | 21 | `21_vanjsulavalli_yesal.txt` | **Vanjsulavalli Yesal** | [வாசிக்க ↗](21_vanjsulavalli_yesal.txt) |
 | 22 | `22_vannath_thirattu.txt` | **Vannath Thirattu** | [வாசிக்க ↗](22_vannath_thirattu.txt) |
+| 23 | `23_sri_sivanjaanapaalaiya_suvaamikal_thiruppalliyezhussi.txt` | **சிவஞானபாலைய சுவாமிகள் திருப்பள்ளியெழுச்சி (துறைமங்கலம் சிவப்பிரகாசர்)** | [வாசிக்க ↗](23_sri_sivanjaanapaalaiya_suvaamikal_thiruppalliyezhussi.txt) |
 
 ---
 

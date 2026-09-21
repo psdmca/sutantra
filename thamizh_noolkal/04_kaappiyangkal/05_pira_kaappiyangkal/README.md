@@ -9,7 +9,7 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
-| 01 | `01_uthayanan_sariththiras_surukkam_perungkathaiyaith_thazhuviya_vasanam.txt` | **Uthayanan Sariththiras Surukkam Perungkathaiyaith Thazhuviya Vasanam** | [வாசிக்க ↗](01_uthayanan_sariththiras_surukkam_perungkathaiyaith_thazhuviya_vasanam.txt) |
+| 01 | `01_uthayanan_sariththiras_surukkam.txt` | **உதயணன் சரித்திரச் சுருக்கம்** | [வாசிக்க ↗](01_uthayanan_sariththiras_surukkam.txt) |
 | 02 | `02_paaratham.txt` | **Paaratham** | [வாசிக்க ↗](02_paaratham.txt) |
 | 03 | `03_pazhaiya_iraamaayanam.txt` | **Pazhaiya Iraamaayanam** | [வாசிக்க ↗](03_pazhaiya_iraamaayanam.txt) |
 | 04 | `04_naaratha_raamaayanam.txt` | **Naaratha Raamaayanam** | [வாசிக்க ↗](04_naaratha_raamaayanam.txt) |

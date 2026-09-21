@@ -46,9 +46,9 @@
 | 35 | `35_sornapuri_ampikai_pillaiththamizh.txt` | **Sornapuri Ampikai Pillaiththamizh** | [வாசிக்க ↗](35_sornapuri_ampikai_pillaiththamizh.txt) |
 | 36 | `36_sri_aantaal_pillaiththamizh.txt` | **Sri Aantaal Pillaiththamizh** | [வாசிக்க ↗](36_sri_aantaal_pillaiththamizh.txt) |
 | 37 | `37_sri_ampalavaanathesikar_pillaiththamizh.txt` | **Sri Ampalavaanathesikar Pillaiththamizh** | [வாசிக்க ↗](37_sri_ampalavaanathesikar_pillaiththamizh.txt) |
-| 38 | `38_sri_kuzhaikkaathar_pirapanthaththirattu_kuzhaikkaathar_pillaiththamizh.txt` | **Sri Kuzhaikkaathar Pirapanthaththirattu Kuzhaikkaathar Pillaiththamizh** | [வாசிக்க ↗](38_sri_kuzhaikkaathar_pirapanthaththirattu_kuzhaikkaathar_pillaiththamizh.txt) |
+| 38 | `38_kuzhaikkaathar_pillaiththamizh.txt` | **குழைக்காதர் பிள்ளைத்தமிழ்** | [வாசிக்க ↗](38_kuzhaikkaathar_pillaiththamizh.txt) |
 | 39 | `39_sri_mangkalaampikai_pillaiththamizh.txt` | **Sri Mangkalaampikai Pillaiththamizh** | [வாசிக்க ↗](39_sri_mangkalaampikai_pillaiththamizh.txt) |
-| 40 | `40_suppiramaniyakkatavul_ksheththirakkovaip_pillaiththamizh_kaanjseepuram_sithampara_munivar.txt` | **Suppiramaniyakkatavul Ksheththirakkovaip Pillaiththamizh Kaanjseepuram Sithampara Munivar** | [வாசிக்க ↗](40_suppiramaniyakkatavul_ksheththirakkovaip_pillaiththamizh_kaanjseepuram_sithampara_munivar.txt) |
+| 40 | `40_suppiramaniyakkatavul_ksheththirakkovaip_pillaiththamizh.txt` | **சுப்பிரமணியக்கடவுள் க்ஷேத்திரக்கோவைப் பிள்ளைத்தமிழ்** | [வாசிக்க ↗](40_suppiramaniyakkatavul_ksheththirakkovaip_pillaiththamizh.txt) |
 | 41 | `41_thillai_sivakaamiyammai_pillaiththamizh.txt` | **Thillai Sivakaamiyammai Pillaiththamizh** | [வாசிக்க ↗](41_thillai_sivakaamiyammai_pillaiththamizh.txt) |
 | 42 | `42_thirukkathirakaamap_pillaiththamizh.txt` | **Thirukkathirakaamap Pillaiththamizh** | [வாசிக்க ↗](42_thirukkathirakaamap_pillaiththamizh.txt) |
 | 43 | `43_thirukketheessaraththuk_kaurinaayaki_pillaiththamizh.txt` | **Thirukketheessaraththuk Kaurinaayaki Pillaiththamizh** | [வாசிக்க ↗](43_thirukketheessaraththuk_kaurinaayaki_pillaiththamizh.txt) |
