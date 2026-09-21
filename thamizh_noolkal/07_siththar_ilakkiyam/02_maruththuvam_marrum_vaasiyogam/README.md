@@ -1,7 +1,7 @@
 # சித்த மருத்துவம் & வாசியோகம்
 
 > **கோப்பகம் (Directory):** `thamizh_noolkal/07_siththar_ilakkiyam/02_maruththuvam_marrum_vaasiyogam`  
-> **மொத்த நூல்கள் (Total Texts):** **3**
+> **மொத்த நூல்கள் (Total Texts):** **2**
 
 ---
 
@@ -9,9 +9,8 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
-| 01 | `aathmaratsaamirtha_vaiththiya_saarasangkirakam.txt` | **Aathmaratsaamirtha Vaiththiya Saarasangkirakam** | [வாசிக்க ↗](aathmaratsaamirtha_vaiththiya_saarasangkirakam.txt) |
-| 02 | `iraamathevar_poojaavithi.txt` | **Iraamathevar Poojaavithi** | [வாசிக்க ↗](iraamathevar_poojaavithi.txt) |
-| 03 | `pokar_7000_saptha_kaantam.txt` | **Pokar 7000 Saptha Kaantam** | [வாசிக்க ↗](pokar_7000_saptha_kaantam.txt) |
+| 01 | `01_pokar_7000_saptha_kaantam.txt` | **போகர் 7000 (சப்த காண்டம்)** | [வாசிக்க ↗](01_pokar_7000_saptha_kaantam.txt) |
+| 02 | `02_iraamathevar_poojaavithi.txt` | **இராமதேவர் பூஜாவிதி** | [வாசிக்க ↗](02_iraamathevar_poojaavithi.txt) |
 
 ---
 
