@@ -17,7 +17,7 @@
 | **05** | [`05_pakthi_ilakkiyam`](thamizh_noolkal/05_pakthi_ilakkiyam/README.md) | **05. பக்தி இலக்கியம்** | சைவம் (பன்னிரு திருமுறைகள் - 12 முழுமை, சித்தாந்த சாத்திரங்கள், தோத்தி... | **61** |
 | **06** | [`06_puraanangkal`](thamizh_noolkal/06_puraanangkal/README.md) | **06. புராணங்கள் (தலபுராணங்கள் உள்ளிட்டவை)** | கந்தபுராணம், திருவிளையாடற் புராணம், காஞ்சிப்புராணம் மற்றும் 14 வரலாற்ற... | **25** |
 | **07** | [`07_siththar_ilakkiyam`](thamizh_noolkal/07_siththar_ilakkiyam/README.md) | **07. சித்தர் இலக்கியம்** | சித்தர் பாடல்கள் (பட்டினத்தார், தாயுமானவர், ஞானக்கோவை), சித்த மருத்துவ... | **8** |
-| **08** | [`08_sirrilakkiyangkal_pirapanthangkal`](thamizh_noolkal/08_sirrilakkiyangkal_pirapanthangkal/README.md) | **08. சிற்றிலக்கியங்கள் (பிரபந்தங்கள்)** | அந்தாதி, மாலை, பதிகம், தோத்திரம், பிள்ளைத்தமிழ், உலா, தூது, மடல், பரணி... | **414** |
+| **08** | [`08_sirrilakkiyangkal`](thamizh_noolkal/08_sirrilakkiyangkal/README.md) | **08. சிற்றிலக்கியங்கள் (பிரபந்தங்கள்)** | அந்தாதி, மாலை, பதிகம், தோத்திரம், பிள்ளைத்தமிழ், உலா, தூது, மடல், பரணி... | **414** |
 | **09** | [`09_urainoolkal`](thamizh_noolkal/09_urainoolkal/README.md) | **09. உரைநூல்கள்** | தொல்காப்பியம், திருக்குறள், கீழ்க்கணக்கு, சங்க இலக்கியங்களுக்கான பழைய ... | **72** |
 | **10** | [`10_varalaaru_katturaikal_aayvukal`](thamizh_noolkal/10_varalaaru_katturaikal_aayvukal/README.md) | **10. வரலாறு, கல்வெட்டுகள், ஆவணங்கள் & சுயசரிதைகள்** | தமிழக வரலாறு, கல்வெட்டுகள், செப்பேடுகள், வாழ்க்கை வரலாறுகள் மற்றும் இல... | **41** |
 | **11** | [`11_naveena_ilakkiyam`](thamizh_noolkal/11_naveena_ilakkiyam/README.md) | **11. நவீனத் தமிழ் இலக்கியம்** | புதினங்கள், சிறுகதைகள், புதுக்கவிதை, மரபுக்கவிதை, நாடகங்கள், இலக்கிய ஆ... | **357** |
