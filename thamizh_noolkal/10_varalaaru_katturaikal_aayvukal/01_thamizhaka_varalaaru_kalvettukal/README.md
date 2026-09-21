@@ -1,7 +1,7 @@
 # தமிழக வரலாறு, கல்வெட்டுகள் & செப்பேடுகள்
 
 > **கோப்பகம் (Directory):** `thamizh_noolkal/10_varalaaru_katturaikal_aayvukal/01_thamizhaka_varalaaru_kalvettukal`  
-> **மொத்த நூல்கள் (Total Texts):** **32**
+> **மொத்த நூல்கள் (Total Texts):** **33**
 
 ---
 
@@ -36,11 +36,12 @@
 | 25 | `sri_akaththiya_maamunivar_sariththiram.txt` | **Sri Akaththiya Maamunivar Sariththiram** | [வாசிக்க ↗](sri_akaththiya_maamunivar_sariththiram.txt) |
 | 26 | `sri_meenaatsisuntharam_pillai_sariththiram_u_ve_saaminaathaiyar.txt` | **Sri Meenaatsisuntharam Pillai Sariththiram U Ve Saaminaathaiyar** | [வாசிக்க ↗](sri_meenaatsisuntharam_pillai_sariththiram_u_ve_saaminaathaiyar.txt) |
 | 27 | `suya_sarithai.txt` | **Suya Sarithai** | [வாசிக்க ↗](suya_sarithai.txt) |
-| 28 | `thamizh_ilakkiya_varalaaru_ki_pi_250_ki_pi_600.txt` | **Thamizh Ilakkiya Varalaaru Ki Pi 250 Ki Pi 600** | [வாசிக்க ↗](thamizh_ilakkiya_varalaaru_ki_pi_250_ki_pi_600.txt) |
-| 29 | `thamizhmozhiyin_varalaaru.txt` | **Thamizhmozhiyin Varalaaru** | [வாசிக்க ↗](thamizhmozhiyin_varalaaru.txt) |
-| 30 | `thillaip_perungkoyil_varalaaru.txt` | **Thillaip Perungkoyil Varalaaru** | [வாசிக்க ↗](thillaip_perungkoyil_varalaaru.txt) |
-| 31 | `umaar_kayaam_naaval.txt` | **Umaar Kayaam Naaval** | [வாசிக்க ↗](umaar_kayaam_naaval.txt) |
-| 32 | `velir_varalaaru.txt` | **Velir Varalaaru** | [வாசிக்க ↗](velir_varalaaru.txt) |
+| 28 | `thakadoor_yaaththirai_thirattu.txt` | **தகடூர் யாத்திரை (திரட்டு)** | [வாசிக்க ↗](thakadoor_yaaththirai_thirattu.txt) |
+| 29 | `thamizh_ilakkiya_varalaaru_ki_pi_250_ki_pi_600.txt` | **Thamizh Ilakkiya Varalaaru Ki Pi 250 Ki Pi 600** | [வாசிக்க ↗](thamizh_ilakkiya_varalaaru_ki_pi_250_ki_pi_600.txt) |
+| 30 | `thamizhmozhiyin_varalaaru.txt` | **Thamizhmozhiyin Varalaaru** | [வாசிக்க ↗](thamizhmozhiyin_varalaaru.txt) |
+| 31 | `thillaip_perungkoyil_varalaaru.txt` | **Thillaip Perungkoyil Varalaaru** | [வாசிக்க ↗](thillaip_perungkoyil_varalaaru.txt) |
+| 32 | `umaar_kayaam_naaval.txt` | **Umaar Kayaam Naaval** | [வாசிக்க ↗](umaar_kayaam_naaval.txt) |
+| 33 | `velir_varalaaru.txt` | **Velir Varalaaru** | [வாசிக்க ↗](velir_varalaaru.txt) |
 
 ---
 

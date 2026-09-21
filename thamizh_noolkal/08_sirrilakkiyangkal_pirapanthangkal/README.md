@@ -1,7 +1,7 @@
 # 08. சிற்றிலக்கியங்கள் (பிரபந்தங்கள்)
 
 > **கோப்பகம் (Directory):** `thamizh_noolkal/08_sirrilakkiyangkal_pirapanthangkal`  
-> **மொத்த நூல்கள் (Total Texts):** **384**
+> **மொத்த நூல்கள் (Total Texts):** **385**
 
 ---
 
@@ -13,7 +13,7 @@
 | 02 | `02_pillaiththamizh_ulaa_thoothu` | **பிள்ளைத்தமிழ், உலா & தூது** | 93 | [பிள்ளைத்தமிழ், உலா & தூது ↗](02_pillaiththamizh_ulaa_thoothu/README.md) |
 | 03 | `03_parani_kalampakam_kovai` | **பரணி, கலம்பகம் & கோவை** | 39 | [பரணி, கலம்பகம் & கோவை ↗](03_parani_kalampakam_kovai/README.md) |
 | 04 | `04_pallu_kuravanjsi_nondinaadakam` | **பள்ளு, குறவஞ்சி & நொண்டி நாடகம்** | 52 | [பள்ளு, குறவஞ்சி & நொண்டி நாடகம் ↗](04_pallu_kuravanjsi_nondinaadakam/README.md) |
-| 05 | `05_pira_pirapanthangkal` | **பிற பிரபந்தங்கள் & சதகம்** | 98 | [பிற பிரபந்தங்கள் & சதகம் ↗](05_pira_pirapanthangkal/README.md) |
+| 05 | `05_pira_pirapanthangkal` | **பிற பிரபந்தங்கள் & சதகம்** | 99 | [பிற பிரபந்தங்கள் & சதகம் ↗](05_pira_pirapanthangkal/README.md) |
 
 ---
 

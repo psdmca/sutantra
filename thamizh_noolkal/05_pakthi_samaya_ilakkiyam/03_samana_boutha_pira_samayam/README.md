@@ -9,7 +9,7 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
-| 01 | `neethiththirattu_aasiriya_maalai_kuntalakesith_thirattu_perumporul_vilakkam.txt` | **Neethiththirattu Aasiriya Maalai Kuntalakesith Thirattu Perumporul Vilakkam** | [வாசிக்க ↗](neethiththirattu_aasiriya_maalai_kuntalakesith_thirattu_perumporul_vilakkam.txt) |
+| 01 | `01_kuntalakesith_thirattu.txt` | **குண்டலகேசித் திரட்டு** | [வாசிக்க ↗](01_kuntalakesith_thirattu.txt) |
 
 ---
 

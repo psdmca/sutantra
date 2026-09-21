@@ -1,7 +1,7 @@
 # பிற்கால அறநூல்கள்
 
 > **கோப்பகம் (Directory):** `thamizh_noolkal/03_ara_ilakkiyam/02_pirkaala_aranoolkal`  
-> **மொத்த நூல்கள் (Total Texts):** **8**
+> **மொத்த நூல்கள் (Total Texts):** **9**
 
 ---
 
@@ -17,6 +17,7 @@
 | 06 | `06_viveka_sinthaamani.txt` | **Viveka Sinthaamani** | [வாசிக்க ↗](06_viveka_sinthaamani.txt) |
 | 07 | `07_verriverkai_uraiyum_kathaikkurippum.txt` | **Verriverkai Uraiyum Kathaikkurippum** | [வாசிக்க ↗](07_verriverkai_uraiyum_kathaikkurippum.txt) |
 | 08 | `08_arul_neri_muzhakkam_sorpozhivukal.txt` | **Arul Neri Muzhakkam Sorpozhivukal** | [வாசிக்க ↗](08_arul_neri_muzhakkam_sorpozhivukal.txt) |
+| 09 | `09_perumporul_vilakkam.txt` | **பெரும்பொருள் விளக்கம்** | [வாசிக்க ↗](09_perumporul_vilakkam.txt) |
 
 ---
 
