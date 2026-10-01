@@ -7,12 +7,12 @@
 
 ## 📜 நூல்கள் பட்டியல் (List of Texts)
 
-| எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
-| :---: | :--- | :--- | :---: |
-| 01 | `01_kumarathaalaattu.txt` | **குமாரதாலாட்டு (கவிராச பண்டாரத்தார்)** | [வாசிக்க ↗](01_kumarathaalaattu.txt) |
-| 02 | `02_sithamparaththaalaattu.txt` | **சிதம்பரத்தாலாட்டு** | [வாசிக்க ↗](02_sithamparaththaalaattu.txt) |
-| 03 | `03_mathurai_meenaatsiyamman_thaalaattu.txt` | **மதுரை மீனாட்சியம்மன் தாலாட்டு** | [வாசிக்க ↗](03_mathurai_meenaatsiyamman_thaalaattu.txt) |
-| 04 | `04_sri_sivanjaanapaalaiya_suvaamikal_thaalaattu.txt` | **சிவஞானபாலைய சுவாமிகள் தாலாட்டு (துறைமங்கலம் சிவப்பிரகாசர்)** | [வாசிக்க ↗](04_sri_sivanjaanapaalaiya_suvaamikal_thaalaattu.txt) |
+| எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | ஆசிரியர் (Author) | இணைப்பு |
+| :---: | :--- | :--- | :--- | :---: |
+| 01 | `01_kumarathaalaattu.txt` | **1. நற்கீரதேவர் அருளிச்செய்த குமரதாலாட்டு.** | தெரியவில்லை | [வாசிக்க ↗](01_kumarathaalaattu.txt) |
+| 02 | `02_sithamparaththaalaattu.txt` | **2.   சிதம்பரத்தாலாட்டு.** | தெரியவில்லை | [வாசிக்க ↗](02_sithamparaththaalaattu.txt) |
+| 03 | `03_mathurai_meenaatsiyamman_thaalaattu.txt` | **3.  மதுரை மீனாட்சியம்மன் தாலாட்டு.** | தெரியவில்லை | [வாசிக்க ↗](03_mathurai_meenaatsiyamman_thaalaattu.txt) |
+| 04 | `04_sri_sivanjaanapaalaiya_suvaamikal_thaalaattu.txt` | **சிவஞானபாலைய சுவாமிகள்  தாலாட்டு &** | துறைமங்கலம் சிவப்பிரகாச சுவாமிகள் | [வாசிக்க ↗](04_sri_sivanjaanapaalaiya_suvaamikal_thaalaattu.txt) |
 
 ---
 

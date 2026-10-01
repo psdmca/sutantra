@@ -7,11 +7,11 @@
 
 ## 📜 நூல்கள் பட்டியல் (List of Texts)
 
-| எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
-| :---: | :--- | :--- | :---: |
-| 01 | `01_saaminaatha_poopathi_pallu.txt` | **Saaminaatha Poopathi Pallu** | [வாசிக்க ↗](01_saaminaatha_poopathi_pallu.txt) |
-| 02 | `02_thantikaik_kanakaraayan_pallu.txt` | **Thantikaik Kanakaraayan Pallu** | [வாசிக்க ↗](02_thantikaik_kanakaraayan_pallu.txt) |
-| 03 | `03_thiruvaaroorp_pallu.txt` | **Thiruvaaroorp Pallu** | [வாசிக்க ↗](03_thiruvaaroorp_pallu.txt) |
+| எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | ஆசிரியர் (Author) | இணைப்பு |
+| :---: | :--- | :--- | :--- | :---: |
+| 01 | `01_saaminaatha_poopathi_pallu.txt` | **சாமிநாத பூபதி பள்ளு** | தெரியவில்லை | [வாசிக்க ↗](01_saaminaatha_poopathi_pallu.txt) |
+| 02 | `02_thantikaik_kanakaraayan_pallu.txt` | **தண்டிகைக் கனகராயன் பள்ளு** | மாவைச் சின்னக்குட்டிப் புலவர் | [வாசிக்க ↗](02_thantikaik_kanakaraayan_pallu.txt) |
+| 03 | `03_thiruvaaroorp_pallu.txt` | **திருவாரூர்ப் பள்ளு** | கமலை ஞானப்பிரகாசர் | [வாசிக்க ↗](03_thiruvaaroorp_pallu.txt) |
 
 ---
 
