@@ -1,7 +1,24 @@
-பரத சேனாபதீயம்
-நாட்டியக் கலை பற்றிய நூல்
-Note:
-This is one of the ancient works that were collected by Dr.U.V.Swaminatha Iyer.  The present text is the 'moolam' in the UVS publication, third edition, 1992 and does not contain meaning and commentary included therein. There is no information as to who was the author of this work.
+==================================================
+TITLE: பரத சேனாபதீயம்
+AUTHOR: டாக்டர் உ. வே. சாமிநாதையர் பதிப்பு
+CATEGORY: செவ்வியல் / நாட்டிய சாத்திரம் / உரைநடை
+PERIOD: பண்டைய நூல் / 20-ஆம் நூற்றாண்டு பதிப்பு
+STRUCTURE: பொதுப் பாயிரம் + நாட்டியவியல் சூத்திரங்கள்
+GENRE: நாட்டிய சாத்திரம் / இசைக்கலை
+LANGUAGE: Tamil
+==================================================
+
+## உள்ளுறை
+
+- 1. நூலின் தன்மை
+- பகுதிசால் விளக்கும் பதமலர் தொழுவாம்
+- 1. பாவம்
+- 2. இராகம்
+- 3. தாளம்
+
+--------------------------------------------------
+## மூலப் பாடம் (Content)
+--------------------------------------------------
 
 பொதுப் பாயிரம்
 
@@ -407,3 +424,7 @@ This is one of the ancient works that were collected by Dr.U.V.Swaminatha Iyer. 
 பரத சேனாபதீயம் முற்றும்
 
 ---------------
+
+--------------------------------------------------
+பரத சேனாபதீயம் - முற்றும்
+==================================================
