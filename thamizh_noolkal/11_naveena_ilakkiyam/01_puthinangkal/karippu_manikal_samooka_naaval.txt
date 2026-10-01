@@ -1,31 +1,44 @@
-கரிப்பு மணிகள்
-(இலக்கியச் சிந்தனை பரிசு பெற்ற சமூக நாவல்)
-ஆசிரியர் : ராஜம் கிருஷ்ணன்
+==================================================
+TITLE: கரிப்பு மணிகள்
+AUTHOR: ராஜம் கிருஷ்ணன்
+CATEGORY: நவீன இலக்கியம் / புதினங்கள்
+PERIOD: 20-ஆம் நூற்றாண்டு (1979)
+STRUCTURE: முன்னுரை + 24 அத்தியாயங்கள்
+GENRE: கள ஆய்வு நாவல் / சமூக நாவல்
+LANGUAGE: Tamil
+==================================================
 
-Source:
-கரிப்பு மணிகள்
-(இலக்கியச் சிந்தனை பரிசு பெற்ற சமூக நாவல்)
-ராஜம் கிருஷ்ணன்
-தாகம்
-பு. எண் 34, ப. எண் 35, சாரங்கபாணித் தெரு,
-தி. நகர், சென்னை - 600 017
-ஏழாம் பதிப்பு 2005 (முதல் பதிப்பு 1979)
+## உள்ளுறை
 
--------------
+- அத்தியாயம் 1
+- அத்தியாயம் 2
+- அத்தியாயம் 3
+- அத்தியாயம் 4
+- அத்தியாயம் 5
+- அத்தியாயம் 6
+- அத்தியாயம் 7
+- அத்தியாயம் 8
+- அத்தியாயம் 9
+- அத்தியாயம் 10
+- அத்தியாயம் 11
+- அத்தியாயம் 12
+- அத்தியாயம் 13
+- அத்தியாயம் 14
+- அத்தியாயம் 15
+- அத்தியாயம் 16
+- அத்தியாயம் 17
+- 50 கிலோ...
+- அத்தியாயம் 18
+- அத்தியாயம் 19
+- அத்தியாயம் 20
+- அத்தியாயம் 21
+- அத்தியாயம் 22
+- அத்தியாயம் 23
+- அத்தியாயம் 24
 
-இந்த நாவல் பற்றி.....
-
-Graphic stories portraying the tribulations of industrial workers are few and those that concern  the dumb agricultural labourers are fewer still.  Strangely no one seems to even aware of the  existence of a large disorganized chunk of working class toiling in sub-human conditions in the salt-pan belt of the South East Coastal regions of Tamilnadu, perpetually exploited by a hoard  of heartless capitalists, contractors adn middlemen exposed to total starvation, intense heat, and lurking violence all their lives.  The author has put out her message absolutely clearly and one who reads this novel will grant that we are not a civilised people if these conditions still persists.
-
-The Hindu, 26.6.1979             S.R. Govindarajan
-
-------------------
-
-உப்பு அளங்களை அணுஅணுவாய் அளந்து, அங்கே உலவும் நெஞ்சங்களை உணர்ந்து, இயற்கையின் சீற்றங்களோடு இயைந்து, ஏற்றங்களைப் போற்றிப் படைத்திருக்கிறார் ஆசிரியர்.  புதிய வேட்கையோடு எல்லாப் பக்கங்களையும் அறிந்து கொள்ளும்படி கதை தொய்வின்றிச் செல்கிறது.
-
-திட்டம், 25.6.1979                  மன்னர் மன்னன்.
-
------------------
+--------------------------------------------------
+## மூலப் பாடம் (Content)
+--------------------------------------------------
 
 முன்னுரை
 
@@ -3518,3 +3531,7 @@ The Hindu, 26.6.1979             S.R. Govindarajan
 முற்றும்
 
 ---------------
+
+--------------------------------------------------
+கரிப்பு மணிகள் - முற்றும்
+==================================================

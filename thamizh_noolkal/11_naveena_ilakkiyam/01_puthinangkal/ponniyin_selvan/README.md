@@ -9,12 +9,12 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
-| 01 | `00_ponniyin_selvan_noolatakkam.txt` | **Ponniyin Selvan Noolatakkam** | [வாசிக்க ↗](00_ponniyin_selvan_noolatakkam.txt) |
-| 02 | `01_ponniyin_selvan_paakam_1_puthu_vellam.txt` | **Ponniyin Selvan Paakam 1 Puthu Vellam** | [வாசிக்க ↗](01_ponniyin_selvan_paakam_1_puthu_vellam.txt) |
-| 03 | `02_ponniyin_selvan_paakam_2_suzharkaarru.txt` | **Ponniyin Selvan Paakam 2 Suzharkaarru** | [வாசிக்க ↗](02_ponniyin_selvan_paakam_2_suzharkaarru.txt) |
-| 04 | `03_ponniyin_selvan_paakam_3_kolai_vaal.txt` | **Ponniyin Selvan Paakam 3 Kolai Vaal** | [வாசிக்க ↗](03_ponniyin_selvan_paakam_3_kolai_vaal.txt) |
-| 05 | `04_ponniyin_selvan_paakam_4_manimakutam.txt` | **Ponniyin Selvan Paakam 4 Manimakutam** | [வாசிக்க ↗](04_ponniyin_selvan_paakam_4_manimakutam.txt) |
-| 06 | `05_ponniyin_selvan_paakam_5_thiyaakas_sikaram.txt` | **Ponniyin Selvan Paakam 5 Thiyaakas Sikaram** | [வாசிக்க ↗](05_ponniyin_selvan_paakam_5_thiyaakas_sikaram.txt) |
+| 01 | `00_ponniyin_selvan_noolatakkam.txt` | **பொன்னியின் செல்வன்: நூலடக்கம் (கல்கி)** | [வாசிக்க ↗](00_ponniyin_selvan_noolatakkam.txt) |
+| 02 | `01_ponniyin_selvan_paakam_1_puthu_vellam.txt` | **பொன்னியின் செல்வன் - பாகம் 1: புது வெள்ளம் (கல்கி)** | [வாசிக்க ↗](01_ponniyin_selvan_paakam_1_puthu_vellam.txt) |
+| 03 | `02_ponniyin_selvan_paakam_2_suzharkaarru.txt` | **பொன்னியின் செல்வன் - பாகம் 2: சுழற்காற்று (கல்கி)** | [வாசிக்க ↗](02_ponniyin_selvan_paakam_2_suzharkaarru.txt) |
+| 04 | `03_ponniyin_selvan_paakam_3_kolai_vaal.txt` | **பொன்னியின் செல்வன் - பாகம் 3: கொலை வாள் (கல்கி)** | [வாசிக்க ↗](03_ponniyin_selvan_paakam_3_kolai_vaal.txt) |
+| 05 | `04_ponniyin_selvan_paakam_4_manimakutam.txt` | **பொன்னியின் செல்வன் - பாகம் 4: மணிமகுடம் (கல்கி)** | [வாசிக்க ↗](04_ponniyin_selvan_paakam_4_manimakutam.txt) |
+| 06 | `05_ponniyin_selvan_paakam_5_thiyaakas_sikaram.txt` | **பொன்னியின் செல்வன் - பாகம் 5: தியாகச் சிகரம் (கல்கி)** | [வாசிக்க ↗](05_ponniyin_selvan_paakam_5_thiyaakas_sikaram.txt) |
 
 ---
 
