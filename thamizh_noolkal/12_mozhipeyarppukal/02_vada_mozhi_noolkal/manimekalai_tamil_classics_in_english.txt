@@ -1,17 +1,43 @@
-Manimekalai by A Madhavaiah
-Tamil Classics for English Readers
-Source:
-Manimekalai
-By A. Madhaviah
-Tamil Classics for English Readers
-With a Foreword by  Dr. S. Krishnaswami Aiyangar
-Madras: The Indian Publishing House, Ltd,
+==================================================
+TITLE: Manimekalai (Tamil Classics for English Readers)
+AUTHOR: A. Madhaviah / அ. மாதவையா
+CATEGORY: மொழிபெயர்ப்புகள் / தமிழ் இலக்கிய ஆங்கிலத் தழுவல்
+PERIOD: 20-ஆம் நூற்றாண்டு (1923)
+STRUCTURE: Contents + Foreword + Introduction + 27 Chapters
+GENRE: காப்பிய ஆங்கிலத் தழுவல் கதை / English Prose Adaptation
+LANGUAGE: English / Tamil
+==================================================
 
-1923
-Price Rs. One,
-All Rights Reserved
+## உள்ளுறை
 
-----------------
+- CONTENTS
+- Preface
+- Foreword
+- PREFACE
+- Chapter 1- Introductory
+- Chapter II : The Festival of Indra
+- Chapter III : An Evening in the City
+- Chapter IV : The Meeting in the Grove
+- Chapter V : The Abode of the Dead
+- Chapter VI : Night and Morning
+- Chapter VII : Manimekalai learns her Past
+- Chapter VIII : The Never-Failing Grail
+- Chapter IX : Aravana, the Hoary Sage
+- Chapter X : The Episode of Aputhra
+- Chapter XI : The Story of Athirai
+- Chapter XII : The Story of Kayachandika
+- Chapter XIII : The Prince Pursues His Love
+- Chapter XIV : Prison-House turned Home of Mercy
+- Chapter XV : The Murder of the Prince
+- Chapter XVI : Manimekalai is Imprisoned
+- Chapter XVII : Manimekalai is released
+- Chapter XVIII : Manipallavam Revisited
+- Chapter XIX : "A Tale of Two Cities
+- Chapter XX : The End of the Story
+
+--------------------------------------------------
+## மூலப் பாடம் (Content)
+--------------------------------------------------
 
 CONTENTS
 Foreword:-By Dr. S. Krishnaswami Aiyangar,
@@ -876,3 +902,7 @@ yága—a sacrificial rite.
 yòchanas, yojanas-a measure of distance, about 9 miles.
 
 ---------------
+
+--------------------------------------------------
+Manimekalai (Tamil Classics for English Readers) - முற்றும்
+==================================================

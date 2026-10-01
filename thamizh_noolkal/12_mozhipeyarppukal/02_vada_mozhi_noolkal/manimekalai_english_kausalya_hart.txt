@@ -1,11 +1,27 @@
-சீத்தலை சாத்தனாரின் ”மணிமேகலை”
-ஆங்கில மொழிபெயர்ப்பு - கௌசல்யா ஹார்ட்
-Source:
-The epic "Manimekalai"
-by Seethalai Chathanar
-Translated by Kausalya Hart
+==================================================
+TITLE: Manimekalai - English Translation
+AUTHOR: Seethalai Chathanar / சீத்தலை சாத்தனார் (English Translation by Dr. Kausalya Hart)
+CATEGORY: மொழிபெயர்ப்புகள் / தமிழ் ஐம்பெருங்காப்பியம் ஆங்கில மொழிபெயர்ப்பு
+PERIOD: 5-6-ஆம் நூற்றாண்டு / மொழிபெயர்ப்பு 20-ஆம் நூற்றாண்டு
+STRUCTURE: Introduction + Parts 1 to 7 (30 Cantos Translation)
+GENRE: காப்பியம் / Buddhist Epic Translation
+LANGUAGE: English / Tamil
+==================================================
 
-----------
+## உள்ளுறை
+
+- Introduction for Manimekalai
+- Part 1. Prince Udayakumaran and Manimekalai (Cantos 1-4)
+- Part 2. Manimekalai at Manipallavam (Cantos 5-11)
+- Part 3. Aputhran and the Cow (Cantos 12-14)
+- Part 4. Manimekalai with the Amudhasurabhi Bowl (Cantos 15-20)
+- Part 5. The Truth Revealed and the Death of Udayakumaran (Cantos 21-25)
+- Part 6. Manimekalai in Vanji City (Cantos 26-28)
+- Part 7. Philosophical Teachings and Attainment of Dharma (Cantos 29-30)
+
+--------------------------------------------------
+## மூலப் பாடம் (Content)
+--------------------------------------------------
 
 Introduction for Manimekalai, the Epic of Kūlavānihan Chathanar.
 
@@ -12623,3 +12639,7 @@ Be rid of the darkness in your mind with these four things!”
 
 Aravanar Adigal taught these things to Manimekalai and made her wise. 30-264
 SUBHAM
+
+--------------------------------------------------
+Manimekalai - English Translation - முற்றும்
+==================================================
