@@ -1,44 +1,23 @@
-மான விஜயம் (நாடகம்)
-(வி.கோ. சூரியநாராயண சாஸ்திரியார்  அவர்கள்
-இயற்றிய  நூற்றொகுதி )
+==================================================
+TITLE: மான விஜயம் (நாடகம்)
+AUTHOR: பரிதிமாற்கலைஞர் (வி. கோ. சூரியநாராயண சாஸ்திரியார்)
+CATEGORY: நவீன இலக்கியம் / நாடகங்கள்
+PERIOD: 20-ஆம் நூற்றாண்டு (1900)
+STRUCTURE: முகவுரை + நாடகம்
+GENRE: செந்தமிழ் நாடகம்
+LANGUAGE: Tamil
+==================================================
 
-3. மான விஜயம்
-உரிமையுரை.
+## உள்ளுறை
 
-நேரிசை வெண்பா.
+- முகவுரை
+- நாடக பாத்திரங்கள்
+- மான விஜயம் (முழு நாடகம்)
 
-எம்முடைய நண்ப ரெனப்பெறா தாரெவர்க்குஞ்
-செம்மையுற விஃதுரிமை செய்கின்றா-மம்மவவர்
-யாவேனு மெந்நூ லெடுத்துப் படிக்குறூஉம்
-மாவேட்கை யாளரான் மன்.                         	(1)
+--------------------------------------------------
+## மூலப் பாடம் (Content)
+--------------------------------------------------
 
-உரிமையுரை: மாவேட்கை - பெரு விருப்பம். இச்செய்யுளில், நண்பரல்லா
-தார் நூலினிடத்துக் குற்றம் காணும் நோக்குடையரேனும் நூலினைத் துருவி ஆராய்
-குநர் அவராதலின், அன்னார்க்கு இதனை உரிமை செய்கின்றோம் என்றனர்.
-
---------
-
-INTRODUCTION
-PANDITS are no doubt estimable persons, but if the Vernacular literature of the country is to be improved and made an effective instrument of popular education, they are the not persons who can do it.  They represent an old and antiquated learning, practically useless for purposes of modern life.  Ramayanam and Bharatam are excellent books in a way, but the mind of the modern Indians cannot be nursed on such stale food.  The Indian classical literature is the reflection of a condition of society which prevailed centuries ago,and is now valuable only as the repository of historical materials hidden amidst a mass of myth and fantastic exaggeration; nor does it contain terms and vocabularies that can be utilized directly or in adapted forms to convey ideas of modern science and art.  Practically, for all purposes served by modern literature in European countries for popular instruction and amusement, the bests works in the Vernacular language are almost useless.  These works which form the basis of the Pandits' erudition, differ so entirely in the vocabulary, diction and collocation of words from the language spoken by the most cultured of Indians that it is as difficult to derive amusement or instruction from them as from Greek works. To be able to understand Ramayanam or Silappatikaram in Tamil requires an elaborate previous study prosecuted for years.  The fact is that these works were never written for the benefit of the ordinary class of people, and therefore intelligibility was never aimed at as their chief characteristic.  They were intended for a small coterie of learned men , in many instances for Pandits hanging on to the courts of local rulers, and it was only their approval that was cared for.  For the masses no education of more than an elementary order was thought necessary.  A specially gifted individual, by a peculiar combination of fortunate circumstances, might develop into a poet or a poetess and of such gifted individuals there are several instances in the history of Tamil literature.  But the general bulk of the population, who in those days lived in villages even more largely than at present, were content with such education as could be got in village schools where the curriculam was never of an ambitious nature and was confined mostly to the three R's and such additional information as was useful in the daily pursuits of life.   A Brahmin child perhaps learned the elements of astrology and some elementary ethics in Sanskrit.  A Vaisya boy received a special grounding in accounts, while the higher class Sudra had to be content with even more elementary education.  The great masses were, of course, left altogether illiterate.  The famous University of Madura is not known to have troubled itself with the problem of popular education nor did the most ancient authors of the Jain and the Buddhist faiths.  The Pandits thought and wrote for themselves, While the village communities provided in their own crude way for their educational wants.
-
-The classical literature of Tamil. on which our modern Pundit is nursed, has vary little of that vitality and breadth necessary for the healthy growth of popular intelligence. If the 20 millions of people that speak Tamil are to have their mind reformed on the Westem pattern. the result will not be brought about by Dr. Duncan's pian- The Government of Madras rightly considers that to require our erudite Pandits "to study science in order that they may be the means of introducing a vocabulary of scientific terms into the Vernacular languages would be wrong in principle".  "In English" as Government observes, " new terms and vocabularies are constantly being manufactured from other languages, and if these are to be introduced into Oriental languages similar methods will inevitably present themselves for adoption".  In other words, it is useless trying to manipulate the existing Vernacular vocabulary for new scientific terms; on the other hand, it is more easy to adopt foreign words and terminology than to twist existing Vernacular words for this purpose.  The latter will only make confusion worst confounded.  It is no doubt desirable that in the elementary classes of our schools the boy0s mother-tongue should be made the main medium of instruction, and the importance of doing so has recently been urged on the local Governments by the Government of India.  But to convey instruction by means of the Vernacular language is not the same thing as to coin elongated and jaw-breaking expressions which are as unintelligible to the young mind as any English expressions can be.  In fact, the new Vernacular expressions would be more difficult to the young student because, while he constantly hears his elders at home, in school and elsewhere using the English expressions and becomes more or less familiar with them; the same advantage is absent in the case of Vernacular terms newly coined.
-
-The peculiar condition of India, which makes a close and complete study of English necessary, and really more important in many ways than that of any native language, should not be forgotten, and all higher studies in science have necessarily to be done in English.  The young child forced to use strange Vernacular terms wil have ultimately to forget them, for when he acquires sufficient knowledge fo English and does most of his reading in that language, he will not care to remember, much less to use, his earlier acquisitions in the Vernacular.
-
-Our University, with all the abuse that hasty people heap on it, is producing a class of men who would soon prove the originators of a new useful literature to meet the popular demand that is springing up.  In the absence of the old patrons of learning, Rajahs and nobleman, who no longer think of patronizing authors, but lavishly endow gymkhanas, literature msut become paying before it can attract competent devotees, and we are hopeful that this state will soon arise.  It must be remembered that the best way of diffusing a knowledge of science among the masses is not to begin by placing primers and text-books in their heads.  Primers and text-books have their place after general treatises dealing with outlines in a narrative and popular manner.  Graduates with a sufficiently high education, can, of course, write their treatises better than the Pandits can be expected to do, with their narrow and one-sided culture.
-
-Instead of taking up Pandits for improvement, the educational department should encourage young graduates with linguistic inclinations to aim at higher standard of knowledge in the Classical and Vernacular languages of the country. After all, the literature of a country should represent the contemporary activities and aspirations of the people, and should be the product of minds conversant and in sympathy with these activities and aspirations.  Mythological stories and Puranams of holy places have no doubt a certain merit in that they show the capacity of the language in some respect.  But it is ideas, healthy, stimulating ideas, that are wanted more than feats of literary legerdemain.  English literature does not contain, for instance, fifty words to convey the idea of a lion; the poet, the novelist, the historian, and every species of writer in English employ the same word to imply the king of the beasts.  But Tamil has a whole page of synonyms for lion, and similar concrete objects, and is an entire stranger to what may be called literary economy, by which only one word is employed to indicate one idea.  More wealth of ideas and less redundant vocabulary are wanted to impart the necessary elasticity and expansive to Tamil literature; and this transformation can only be a slow process and brought about by the exertion of minds trained in modern knowledge.
-
-Indeed there are already indications to show that the younger generation of our graduates are rising to a sense of the importance of leading a departure from the old tradition of the Tamil literature and brining into existence a fresh school calculated to meet the wants of the general public rather than the ambition and ideals of small class of erudite Pandits.  They begin to see that, among the considerable class of middle-class people who without being themselves educated in English are yet in touch to some extent with the new ideas and aspirations simulated b Western civilization in the country, there is a growing healthy curiosity to know what transpire in other countries of the world as well as in India and a laudible desire to possess means of satisfying this curiosity.  During the South African War, I was greatly impressed by the curiosity evinced by all but the poorest classes to know the minutest details of the progress and the fortunes of the war from day to day, and the circulation of the Vernacular newspapers rose in exact proportion to the promptitude and fulnes of the information supplied to them.  Nor is this fresh desire for information regarding affairs concerning the world at large, special or spasmodic.  There is reason to believe that this desire is more or less a permanent outcome of the fresh conditions of life, of new thought and activity of the people throughout India.  This desire of young graduates, have the good sense to try to turn to practical account in their own interest as well as in the interest of the fellow countrymen.
-
-In the last two years, there has been a remarkable development in the Vernacular press.  A number of newspapers have been started and most of them have more or less a respectable circulation; at least two of these journals are conducted by graduates and a monthly magazine by name Jnana Bodhini containing well-written and thoughtful articles on religious, social and literary topics, is conducted altogether by graduates of our university.  The Tamil Sangam recently started at Madura by a way of the revivial of the old historic institution for which that capital of ancient Tamil Kingdom is celebrated, is a movement pointing to the welcome departure I have indicated above.  Small debating Societies have been established here and there and are maintained by graduates and under-graduates.  Besides these, literary attempts of a less ephemeral nature are also made by the younger generation of the educated class.  This last is, of course, the most important feature of the new born attitude of the educated Dravidian youths towards their mother-tongue in whose antiquities and fertility now are few and not of a high order.  Most of them are small works of fiction intended to amuse uneducated minds and to bring some addition to the writer's means of livelihood.  Naturally alng with works of fiction, works of a historical nature are also forthcoming.  The life fo the Great Moghul Emperor, Akbar, an account of the ruined city of Vijayanagar in the Bellary District, a sketch of the various Dravidian Kingdoms established in Southern India have recently furnished topics for small volumes in this branch of literature.  A writer has translated a portion of the great epic of John Milton, and another some of Shakespeare's plays.  Works on agriculture and medicine have aso appeared; of translations, new editions and commentaries of a religious character, there have been as usual a large number.  In writing and publishing these books, I believe, the writers have been prompted by a fresh-born confidence in popular literature as paying profession.  I welcome this confidence, because no activity, not supported by some economic basis can be wide or enduring.  The old openings which Public Service and learned professions offered having become more or less overcrowded, our graduates are turning to fresh fields and pastures new.  And of these, literature will not be the least honorable though certainly not the most paying.
-
-Of the new band of graduates who have thus stepped into the field of literature, I am glad to mention as one of the most, if not the most conspicuous amongst them the name fo Pandit V.G. Suryanarayana Sastriar of the Madras Christian College.  Apart from the surviving generation of the old school of Pandits, Pandit Swaminatha Aiyar, for instance, I think I may say that Mr. V.G. Suryanarayana Sastriar is the foremost worker in the cause of the advancement of the Tamil Literature.  As a graduate of the Madras University, his knowledge of English is of a high order.  And this combined with his profound scholarship in Tamil has given him a unique advantage over the vanishing school of the Orthodox Pandits.  He has been a very busy writer and takes great interest in efforts directed towards the improvement of Tamil.  He has written works in Drama, Poetry and fiction, and all of these are of a very  high order.  His conscientious endeavour is to make Tamil composition, in prose as well as in verse, simpler, and more popular than it has been till now and in this  sense I entirely endorse the opinion expressed by that veteran Anglo-Indian Tamil scholar, Dr. G.U. Pope, once well-known in this Presidency, now enjoying his well-earned rest and repose in the serene classic scenary of Oxford with unabated admiration for the literature which he has done more than anybody else to advance the opinion namely, "the herald of a new school of Tamil poets heartily to be welcomed".
-
-The main characteristics of his works may be described to be, (1) to introduce the western system of punctuation, the absence of which in the literature nw extant is a notorious cause of confusion in the minds of young students, (2) a less frequent use of what is known as "sandhi" by which letters run into one another in compounds, often tending to make the meaning less intelligible to the reader, while at the same time preserving rhyme and harmony considered essential in Tamil versification and (3) the employment of less archaic and obscure words and expressions.  He has besides tried to introduce the English system of blank verse and often makes a diversion to discourse upon topics related to modern social and moral ideas, such as the greatness of contentment, the law of causation, the moral Government of God, the necessity of acquiring wealth, the usefulness of the human body, the greatness of honor, etc.  In imitation of Shakespeare and other Western dramatic writers, Mr. V.G. Suryanarayana Sastriar occasionally introduces verses adapted to Hindu Music, a feature entirely strange to the classic works of Tamil.  In the celebrated three-fold classification of Tamil, iyal, isai and Natakam, the last class is not represented so far as it is known by any important work, except that well-known Jain work Silappatikaram.  There is no doubt there must have been works of this nature in former times, because it is well-known that the Tamil Kings were patrons of theatre, buffoons used to be their constant companions and dancing their favourite pastime.  Perhaps these works have been lost in consequence of foreign vandalism.  In reviving this branch of Tamil Literature, Mr. V.G. Suryanarayana Sastriar has done valuable service to the Tamil world by his Natakaviyal (Tamil Dramaturgy) which I understand has been prescribed as a Text-book by the University of Madras for the B.A. Degree Examination of 1903.  He is still young and I hope it will be his distinction and fame to leave behind him enduring marks of the influence of his genius on the new era into which Tamil literature is struggling to enter.
-
-Madras, 20-10-1902                            G. SUBRAMANIA IYER
-Editor, "Hindu"
 முகவுரை.
 
 சேரநாட்டின் தலைநகராகிய கருவூரின்கணிருந்து சேரமான் கணைக்காலிரும்பொறை யென்னும் ஓரரசன் செங்கோல் செலுத்திவந்தான். அவன் நல்லிசைப் புலவராகிய பொய்கையாரிடத்து அறிவு நூல் பல ஐயந்திரிபறக் கற்றுணர்ந்தவன்; பொருட் செல்வமே யன்றிச் செவிச் செல்வமுமுடையான். இத்தகைய அறிவுநசை யுற்ற அண்ணல் தனது நாடுகாவலைப் பெரிதுங் கருதானாயினான். அறிவின்மீதுள்ள அவனது பேரவாப் பிறிதொன்றையும் பற்றி யெண்ணுதற்கு இடந்தரவில்லை. அவன் தனது நாடு முழுவதும் நன்னிலையிலுளதெனவும், தன்போலவே பிறரும் நல்லியல் புடையாரெனவும், நம்பி யொழுகினான். அவன் அவ்வாறு ஒழுகுதல் பிறநாட்டு வெந்தரைத் தன்மீது வஞ்சிசூடி மேற்சென்று சேறுமாறு தூண்டிற்று.
@@ -732,7 +711,7 @@ Editor, "Hindu"
 நன்குதீங் கறியா நலமி லுரையென
 விடுத்து நின்றெமை யடுத்துக் காத்தி.
 
-செங்கணான்: (மன‌மொத்து)
+செங்கணான்: (மனமொத்து)
 185 பொறுத்தன முழையிர்காள்! பொறுத்தனம் போமின்.
 
 வெறுத்துறை யொன்றும் விளம்பலி ரினிமேல்.
@@ -859,7 +838,7 @@ Editor, "Hindu"
 32 மலங்கிய- மயங்கிய
 33 கரப்பென்- ஒளிவேன்.  உன்னுதல்- நினைத்தல்.
 34 நேடி- ஆராய்ந்து. மெய்யுணரா நீதி இல் காவலர்- உண்மை அறியாத நியாயமார்க்கஞ் செல்லாத அரசர்.
-35 இன்வ‌யின் நிற்றி- இவ்விடம் நிற்பாய்.
+35 இன்வயின் நிற்றி- இவ்விடம் நிற்பாய்.
 எவ்விடையும்-எந்த இடமும். செலேல்- செல்லாதி.
 36 ஆணை-கட்டளை.
 
@@ -957,7 +936,7 @@ cf.  "வென்றுளே புலன் களைந்தார் ம�
 கண்ணை மூடுவன்; காதைக் கையாற்
 
 15.  பொத்துவன்; தெற்றுவன்; சித்தங் களிப்பன்;
-தாள‌ம் போடுவன்; நீளங் குறைவன்;
+தாளம் போடுவன்; நீளங் குறைவன்;
 இருப்பன்; எழுவன்; விருப்புட னோக்கி
 நடப்பன்; பாட்டுப் படிப்பன் நன்றே!                    (31)
 
@@ -1172,7 +1151,7 @@ Cf. "நிலையில்லாத் தீவினையு நீதந�
 
 ---------------------
 
-74. உலகநற்றாய் – உலகமாகிய நற்றாய். சராச‌ரங்களை யீன்றெடுத்ததாதலின் உலகினை நற்றாயென்றனர்.
+74. உலகநற்றாய் – உலகமாகிய நற்றாய். சராசரங்களை யீன்றெடுத்ததாதலின் உலகினை நற்றாயென்றனர்.
 75. மகார் – குழந்தைகள்.
 77. பதி – நகரம். அணை – படுக்கை. 83. பேறு – பாக்கியம்.
 86. நவை – குற்றம்.
@@ -1236,7 +1215,7 @@ Cf. "நிலையில்லாத் தீவினையு நீதந�
 
 11. எங்கோ – எவ்விட்த்தோ. ஒரு பேரிராச்சியம் – ஈண்டு முத்தி யுலகைக்
 குறிப்பா னுணர்த்திற்று.
-13. அந்ந‌கரரசன் – முத்திபுரநாதனாகிய சிவனைக் குறிப்பானுணர்த்தியது.
+13. அந்நகரரசன் – முத்திபுரநாதனாகிய சிவனைக் குறிப்பானுணர்த்தியது.
 14.ஏவன் மாக்கள் – சிவகணங்கள் ; எண்மர் – அவர் தலைவர்கள் எண்மர்; பாணன், இராவணன், சண்டீசன், நந்தி, பிருங்கி, ஜடாதரன்,
 பாதுகம்பன், சங்குகன்ன்ன். இராவணனை நீக்கி மாவலியைக் கூறுவாரு முளர்
 
@@ -1312,7 +1291,7 @@ Cf. "நிலையில்லாத் தீவினையு நீதந�
 
 50.  புரைசொல விரும்பி யுரைசெய லொல்லேன்.
 
-கண்ட கனவுகண் மண்டிந‌ம் மாட்டுப்
+கண்ட கனவுகண் மண்டிநம் மாட்டுப்
 பலிக்குறி னவற்றை விலக்குமா றென்னோ?
 
 நின்னா னியலுமோ நேர்வன விலக்கல்?
@@ -1455,7 +1434,7 @@ Cf. "நிலையில்லாத் தீவினையு நீதந�
 (செய். – 47.) இறை உயிர் யாப்பு என – பதி பசு பாசம் என்று, இயம்பும் மூன்றுமே – நூல்களாற் சொல்லப்படும் மூன்றுமே; அறைதரும் பொருள் – உண்மையானவை என்று சொல்லப்படும் பொருள்களாம்; அவை அழிவிலாதன;-
 அறிதிர் – அறிவீராக; என்று; உயிர்களுக்கு – ஆன்மாக்களுக்கு; அருளின் நல்கிய – கருணையால் அறிவுறுத்திய; மறைமுடி வாணனை – வேதாந்தத்தில் வாழ்பவனை; வணங்கி வாழ்த்துவாம் – மெய்யால் வணங்கி வாயால் வாழ்த்துவோமாக. வாணன் வாழ்நன். மெய்வாய்களின் செயல் கூறவே இவற்றிற்கு இன்றியமையாத மனத்தாற் சிந்தித்த்கலும் உபலக்கணத்தாற் பெற்றாம்.
 
-(செய். – 48) தறை – தரை; நிலவுலகம். துறை – வழி. இலங்குறும் – விளங்கும்; தூய – பரிசுத்தமான; செம்பொருள் – மெய்ப்பொருளாகிய; இறைவனை – எல்லாப் பொருளிலும் தங்கிய கடவுளை ; உயிர்க்குயிரென – உயிருக்கு உயிர்போல, அதாவது அந்தராத்துமாவாய் ; விளங்கும் ; நம் பிறைமுடிப் பெரியனை – நமது பிறைத் திங்களை முடியிற்சூடிய பெருமானை; பேணி வாழ்த்துவாம் – விரும்பி வாழ்த்துவேமாக. இறைவன் – ச‌ர்வாந்தரியாமி. செம்பொருள் – அற முமாம்.
+(செய். – 48) தறை – தரை; நிலவுலகம். துறை – வழி. இலங்குறும் – விளங்கும்; தூய – பரிசுத்தமான; செம்பொருள் – மெய்ப்பொருளாகிய; இறைவனை – எல்லாப் பொருளிலும் தங்கிய கடவுளை ; உயிர்க்குயிரென – உயிருக்கு உயிர்போல, அதாவது அந்தராத்துமாவாய் ; விளங்கும் ; நம் பிறைமுடிப் பெரியனை – நமது பிறைத் திங்களை முடியிற்சூடிய பெருமானை; பேணி வாழ்த்துவாம் – விரும்பி வாழ்த்துவேமாக. இறைவன் – சர்வாந்தரியாமி. செம்பொருள் – அற முமாம்.
 
 Cf. "செம்பொருள் கண்டார்வாய்ச் சொல்" (திருக்குறள்.)
 பறையினி லிசையெனப் பாலிற் பூவினி
@@ -2649,7 +2628,7 @@ cf. "பீடின் மன்னர், நோய்ப்பால் வ�
 
 -------------------------------------------
 
-(செய்.-117.) மெய்ப்பொருள்- உண்மைப் பொருள்; நித்திய வஸ்து. நல்லாசான் - ஸதாசாரியன். வேட்கைசான்று - விருப்பமிக்கு. துய்ப்பத‌ற்கு - அநுபவத்திற்கு. எவ்வாற்றாயினும் - எவ்வித்ததாலும். இசைபொருள்கள் - பொருந்திய செல்வங்கள். அனைத்தையுமே - முழுதும். தொலைத்து நின்று - துறந்து. கைப்பு அடைந்து - வெறுப்புற்று. பாரினில் - உலகினில். வாழ்த‌ரல் கருதாய்- வாழ்வதைச் சிந்தியாய். உயங்கும்-வாடும், வருந்தும். சிறைக்க‌ளத்தின் மேவி- சிறைச்சாலையிற் பொருந்தி. ஏய்ப்பு அடைந்து-இளைப்படைந்து.
+(செய்.-117.) மெய்ப்பொருள்- உண்மைப் பொருள்; நித்திய வஸ்து. நல்லாசான் - ஸதாசாரியன். வேட்கைசான்று - விருப்பமிக்கு. துய்ப்பதற்கு - அநுபவத்திற்கு. எவ்வாற்றாயினும் - எவ்வித்ததாலும். இசைபொருள்கள் - பொருந்திய செல்வங்கள். அனைத்தையுமே - முழுதும். தொலைத்து நின்று - துறந்து. கைப்பு அடைந்து - வெறுப்புற்று. பாரினில் - உலகினில். வாழ்தரல் கருதாய்- வாழ்வதைச் சிந்தியாய். உயங்கும்-வாடும், வருந்தும். சிறைக்களத்தின் மேவி- சிறைச்சாலையிற் பொருந்தி. ஏய்ப்பு அடைந்து-இளைப்படைந்து.
 
 303. எற்பிரிந்து-என்னைப் பிரிந்து. புலவர்-பொய்கையார்.
 304. நிற்பிரிவு ஆற்றார்- நின்னைப் பிரிந்திருத்தலைச் சகியாரய். நிலம்-பூமி.இனிது இருந்து-  யோகசாமாதியி லின்பமுற்று வீற்றிருந்து.
@@ -2713,7 +2692,7 @@ cf "இன்னா வெனத்தா னுர்ந்தவை துன�
 "எனைத்தானு மெஞ்ஞான்றும் யார்க்கு மனத்தானா மாணாசெய் யாமை தலை."
 
 (திருக்குறள்: 816; 317.)
-இக்குறள் களினுரையில் பரிமேலழகரும் 'அறமும் பாவமுள‌வாவது மன முளனாய வழியாகலான்' என்றும், "ஈண்டு மனத்தானாகாத வழிப் பாவமில்லை யென்பது பெற்றாம்' என்றும் கூறிய வாக்கியங்கள் கவனிக்கத் தக்கன.
+இக்குறள் களினுரையில் பரிமேலழகரும் 'அறமும் பாவமுளவாவது மன முளனாய வழியாகலான்' என்றும், "ஈண்டு மனத்தானாகாத வழிப் பாவமில்லை யென்பது பெற்றாம்' என்றும் கூறிய வாக்கியங்கள் கவனிக்கத் தக்கன.
 
 "சிந்தை யின்றியும் செய்வினை யுறுமெனும்
 வெந்திற நோன்பிகள் விழுமம் கொள்ளவும்
@@ -2721,7 +2700,7 @@ cf "இன்னா வெனத்தா னுர்ந்தவை துன�
 எய்தா தென்போர்க் கேது வாகவும்
 பயன்கெழு மாமல ரிட்டுக் காட்ட
 மயன்பண் டிழைத்த மரபினது"
-என்ற மணீமேகலை ய‌டிகளால் ( மண்-மலர்: 74-79.) கௌதம புத்தத்தற்கு இக்கொள்கை யுண்டென்பது விளங்கும்.
+என்ற மணீமேகலை யடிகளால் ( மண்-மலர்: 74-79.) கௌதம புத்தத்தற்கு இக்கொள்கை யுண்டென்பது விளங்கும்.
 
 335.  தேவி கண்ட தீக்கன வனைத்தும்
 பாவி யென்வயிற் பலித்தவோ? அறியேன். - (மௌனம்)
@@ -2871,15 +2850,15 @@ cf "இன்னா வெனத்தா னுர்ந்தவை துன�
 380. குயுற்றி- செய்து. 380-381.
 நித்தமூம் இறைவனைக் குறித்து உளத்தைப் பயிற்றுதல் - தினமும் கடவுளைத் தியானித்தலைப் பழகுதல். பண்படுத்தல்- சீர்பெறச் செய்தல். 382. வினைப்பயன் துய்ப்பிடம் - நல்வினை தீவினைகளை அநுபவிக்கும் இடம்.
 
-384. மதனில்- ஆணவத்தால். மதன்-மதம், போலி. செருக்கி- அகங்கரித்து. மருட்கை- மயக்கம். பவ- பலவற்றை. 385. கரைவார் - கூறுவ‌ர்.
+384. மதனில்- ஆணவத்தால். மதன்-மதம், போலி. செருக்கி- அகங்கரித்து. மருட்கை- மயக்கம். பவ- பலவற்றை. 385. கரைவார் - கூறுவர்.
 
-388. துறக்கம்- சுவர்க்கம். வகைகெழு - பலவகைப்பட்ட. பலவகை க‌ரகு - அள்ளல், இரௌரவம், கும்பிபாகம் முதலியன. 389. மாயிரு- மிகப்பெரிய. மதிக்க- கருத.
+388. துறக்கம்- சுவர்க்கம். வகைகெழு - பலவகைப்பட்ட. பலவகை கரகு - அள்ளல், இரௌரவம், கும்பிபாகம் முதலியன. 389. மாயிரு- மிகப்பெரிய. மதிக்க- கருத.
 391. மேதகுமாறு- மேன்மையுண்டாகும்படி. மேற்கொளீஇ- மேற்கொண்டு.
 
 392. காதலின் - விருப்புடன். உய்வல் - பிழைப்பேன், ஈடேறுவேன்.
 
 (செய்.131.) அன்று - அக்காலத்தில், பண்டறி சுட்டு. ஆல்- கல்லால மரம். கீழ் - அடி. நால்வர்- ஸநகர், ஸாந்தனர், ஸநத்குமாரர்,  ஸநத்ஸூஜாதர், மெய்ப்பொருள் - உண்மைப் பொருளை, தத்துவத்தை. அளித்தார் - உபதேசித்தவர்,
-தஷ‌ணாமூர்த்தி. குன்றாத- குறைவற்ற. ஆங்கு  நின்று - சங்கத்தின் முன் நின்று.
+தஷணாமூர்த்தி. குன்றாத- குறைவற்ற. ஆங்கு  நின்று - சங்கத்தின் முன் நின்று.
 
 395.   நின்றாங்குக் கீரனொடு நெடுவழக்குத்
 தொடுப்பவுள  நேர்ந்தார் தாமு
@@ -2916,3 +2895,11 @@ cf. "நாவலந் தீவந் தன்னுண்,
 
 (திருவால. திருவி.)
 மானவிஜயம் முற்றிற்று.
+
+--------------------------------------------------
+மான விஜயம் (நாடகம்) - முற்றும்
+==================================================
+
+--------------------------------------------------
+மான விஜயம் (நாடகம்) - முற்றும்
+==================================================

@@ -1,102 +1,39 @@
-பம்மல் சம்பந்த முதலியார் அவர்களின்
-அமலாதித்யன்  அல்லது
-குர்ஜரத்து அரசிளங் குமரன் (நாடகம்)
-Source:
-அமலாதித்யன்
-அல்லது
-குர்ஜரத்து அரசிளங் குமரன்
-இந்த நாடகம்
-ஷேக்ஸ்பியர் மஹாகவி ஆங்கிலத்தில் எழுதிய
-'ஹாம்லெட்'
-என்னும் நாடகத்தை அனுசரித்து
-ப.சம்பந்த முதலியார், பி.ஏ.,பி.எல்.,
-அவர்களால் இயற்றப்பட்டது.
+==================================================
+TITLE: அமலாதித்யன் (நாடகம்)
+AUTHOR: பம்மல் சம்பந்த முதலியார் (மூலம்: வில்லியம் ஷேக்ஸ்பியர் - Hamlet)
+CATEGORY: நவீன இலக்கியம் / நாடகங்கள்
+PERIOD: 20-ஆம் நூற்றாண்டு (1908)
+STRUCTURE: நாடக பாத்திரங்கள் + 5 அங்கங்கள்
+GENRE: துன்பியல் நாடகம் / ஷேக்ஸ்பியர் தழுவல்
+LANGUAGE: Tamil
+==================================================
 
-( இந்த நூலாசிரியரால் இயற்றப்பட்ட மற்ற நாடகங்கள் :-- "லீலாவதி-
-சுலோசனை" "கள்வர் தலைவன்",  "இரண்டு நண்பர்கள்", "மனோஹரன்".
+## உள்ளுறை
 
-"சத்ருஜித்","சாரங்கதரன்", "யயாதி", "வேதாள உலகம்",  "சாலவரிஷி" முதலியன.)
+- முதல் அங்கம்: முதல் காட்சி
+- முதல் அங்கம் : இரண்டாவது காட்சி
+- முதல் அங்கம்: மூன்றாவது காட்சி
+- முதல் அங்கம்: நான்காவது காட்சி
+- முதல் அங்கம்: ஐந்தாவது காட்சி
+- இரண்டாவது அங்கம்: முதல் காட்சி
+- இரண்டாவது அங்கம்: இரண்டாவது காட்சி
+- மூன்றாவது அங்கம்: முதல் காட்சி
+- மூன்றாவது அங்கம்: இரண்டாவது காட்சி
+- மூன்றாவது அங்கம்: மூன்றாவது காட்சி
+- மூன்றாவது அங்கம்: நான்காவது காட்சி
+- நான்காவது அங்கம்: முதல் காட்சி
+- நான்காவது அங்கம்: இரண்டாவது காட்சி
+- நான்காவது அங்கம்: மூன்றாம் காட்சி
+- நான்காவது அங்கம்: நான்காம் காட்சி
+- நான்காவது அங்கம்: ஐந்தாவது காட்சி
+- நான்காவது அங்கம்: ஆறாவது காட்சி
+- நான்காவது அங்கம்: ஏழாம் காட்சி
+- ஐந்தாம் அங்கம்: முதல் காட்சி
+- ஐந்தாம் அங்கம்: இரண்டாம் காட்சி
 
-----------------------------
-
-சென்னை
-டௌடன் கம்பெனியாரால்   அச்சிடப்பட்டது
-
-1908
-All rights reserved.)                          (விலை ரூபாய் 1.
-
----------------------------
-
-INSCRIBED TO THE BELOVED MEMORY OF MY FATHER.
-
-"He was a man, take him for all in all I shall not look upon his like again"
-Hamlet
-
------------------------------
-
-PREFACE
-
--------
-
-I owe an apology to the public for venturing to consider  Shakespeare's 'Hamlet' capable of adaptation and by me and into Tamil. In making the attempt I had only two objects mainly in view. The first was, that I may help render accessible in however crude a form the treasures and beauties of Shakespeare to my  sisters and brothers of the Tamil land who do not posses the requisite knowledge of English to study and appreciate the original.  In the second place, as one who has devoted the best years of his life to an endeavour to resuscitate and elevate the Indian Stage,
-I was prompted by the hope that such adaptations will serve to exalt  the dramatic idals current in the country. My friedn Mr V. V. S.  seems to think that adaptation is likely to interest even readers  to whom the original is not a sealed book. I shall not quarrel with him especially if he happens to be right. The rendering is what I have called it an adaptation and not a translation. Though I have always endeavoured my bets to translate as literally as conditions permitted, I have not heistated to sacrifice literalness in the rendering of what I conceived to be the reproduction of the names of persons and places, allusions and allegories and puns and proverbial sayings so as to suit the Tamil garb of the rendering.
-
-I am bound to acknowledge that, in my desire to publish the adaptation, I was considerably encouraged by the application of the work generously expressed of some of our eminent men such as Sir S. Subramanai Iyer and The Hon'ble Mr V. Krishnaswami Iyer.
-
-I shall rest satisfied if my attempt to render Shakespeare results in some measure at least in promoting the objects I had mainly in view.
-
-I must not fail to thanks my friend Mr. V. V. Srinivasan for his introduction.
-
-MADRAS,
-24th November 1908.
-
-THE AUTHOR.
-
------------------------------------------------------------
-
-Introduction
-
--------
-
-It was about sixteen years ago that Mr Sambandam began his  career as an author. Endowed with a fine and fetile imagination the ardent and aspiring author would not be content with anything short of original dramas. The conception of a plot was as easy as putting one and two together. The writing of the drama took as long as the physical act of writing down demanded. Scene after scene was written off without
-a single word being scored out and one almost wondered whether it was a point of pride with the budding author.
-
-So it was in the good old days. Since then Mr. Sambandam has written over two dozen dramas of all degrees of excellence. And it would almost seem that it was not till he was tired of being original that a few years back he took to translating inot Tamil some of the plays of Shakespeare.
-
-At first sight it does appear to be the reverse of the order of development. Literary talent sharpened by exercise in translation may be expected to be put later to the more arduous task of original production. When however an author after writing original dramas, some of which are of no mean quality, deliberately turns to devote his time and talents to the comparatively degraded and mechanical task of translating
-and adapting dramas written in other languages, one feels inclined to exclaim that the author's powers must have becaome exhausted and his springs of originality dried up. But it is happily not so. It is not every production to which the term original can be extended that can rank as a literary performance over a translation be its merits however high. Character and quality are not mere matters of class or caste and an unpretentious translation may be a more valuable contribution to a
-literature and language than a whole library of worthless original productions, so called. And when the translation or adaptation is that of a Shakespeare and is not a miseable caricature who can doubt that the language inot which the translation or adaptation is made would be more richly endowed by the effort than by a hundred, even tolerably good stories, told in dialogue and divided into scenes and acts.
-
-It is however beyond my present purpose to estimate the exact value of the contribution to the Tamil language and literature made by Mr. Sambandam in his rendering of Hamlet. My acquaintance with Shakespeare is not that of a scholar and my knowledge of the Tamil language is less than that of an amateur. My chief object however in allowing myself to be induced to write this introduction in English, is, to make for the translation now presented to the public and thereby for such translations generally, a claim that they would abundantly repay perusal even on the part of those who are by reason of their education in a position to study and appreciate original
-in English.  For, the utility of such adaptations to those who are unacquainted with the English language and even to those whose knowledge of it is not sufficient to enable them to understand the finer shades of thought will be readily conceded. It is therefore in respect of persons alone to whom the original work of art, in all its
-pristine beauty, is accessible and open, that the question will be sure to be asked, of what conceivable use to such can these translations or adaptations be, of what use the copy, at best of doubtful accuracy and merit, to him owns the original painting
-of the artist, itself. An answer to this question in the affirmative would be seen to involve necessarily the establishment in a measure of the claim of translation to the rank of a separate literary art. It seems to me that it is even a fine art and that
-when its true nature and function come to be properly recognised, it will be realised how it appeals at once to the refined scholar of language and the student of the art of renderings and re-presentations.
-
-To some indeed such a claim is apt to sound as extravagant. But it is really not so. It is the function of painting to represent the world through the medium of colour so as to body forth the beauty in it. So it is the function of music to represent the world through the medium of sound and give us a glimpse of the divine pulsations in the heart of existence and the infinite harmony of it. Even so is it the function of the fine art of translation to represent an original production in one language through the
-medium of another language so as to body forth the beauty of the original.
-
-The analogy indeed goes even further. As it is to the person who has seen the original of the subject of painting that the painting speaks most eloquently, so is it that a good translation appeals most, not to a person who has never read the original but to him that has perused it a hundred times and lovingly dwelt on each word
-and phrase and on the thousand points of light and shade, of subtle suggestion and inexplicable charm.
-
-It is therefore a mistake to suppose that the translation of a literary work in one language into a different language, is, as is generally supposed, no better than a copy in colours of an original painting. The comparison would, no doubt, be accurate, if the medium of reproduction were identical, as it is in the case of the illustration. Colour is dead matter, however much life may be imparted to it on the canvas by the
-skill of the artist and being dead matter, its identity is preserved whenever and however applied as a medium of expression. But it is not so with language. Language is a living medium and every language has a distinct individuality and character of its own. Hence it is that the translation of a work into a different language is claimed to be its re-presentation through a different medium and as bearing more the relation of a painting to the subject of the painting than that of a copy to its original. In the later case, if the original is available, the other becomes unnecessary; but in the former case even to the most practised student of the beauties of nature, the sight of the painting will be calculated to suggest points and aspects which escaped the mind in the act of direct perception. So also is it with a translation into a foreign language. Far from being useless, it is calculated to suggest to the mind points and aspects in the original which might have escaped the most refined and cultured mind critically studying the original. A sense of the difficulties that had to be encountered, and the measure of success achieved, of the countless rejections made and the selection that prevailed, of the significance attaching to forms of expression, succession of sounds, or any given order of words or ideas, of any differences in the resultant impressions are produced, - these are only a few of
-a large number, that can be mentioned, of the aspects of a translation which enable us to perceive beauties in the original which will not be perceptible on ever so close and critical a study of the original alone.  Let me add that this has been my experience and I have no doubt that a large number of those who read this adaptation of "Hamlet" by Mr Sambandam will be inclined to agree with me.
-
-Of all plays of Shakespeare, 'Hamlet' is perhaps not by any means one of the easiest for purposes of translation and the Tamil language is certainly not the most adapted for such translation. The vocabulary of Tamil may even be said to be poor in terms of descriptive of mental conditions and feelings so abundant in "Hamlet" with its numerous soliloquies. The phrasing and wording have reached such perfection in the play that the lady really hit it off well, who is stated to have exclaimed on reading it, that it was wholly made up of proverbs and familiar quotations. Such currency of expression is, however, attained mainly by elements which are peculiar to each
-language and are therefore not susceptible of translation.  In the language of its origin and existence, every phrase and every word has a soul, a face and features all its own, and lives and moves clothed in its special character and with its chosen companions. It often contains a hidden figure of speech and carries with it the aroma
-of its previous history. Vicissitudes of fortune affect its strength, character and outlook. It contracts many alliances and makes numerous friends and enemies in he course of its long life. All thesecannot be translated, however accurately the idea underlying an expression or the meaning of a word may be; and it is just by such
-elements that the best lines in Hamlet re constituted. Above all, it must be remembered that the highest beauty of literary art consists not so much in what is said as in what is but barely suggested or only remotely hinted at, in a something which is indefinable and whose very charm seems to consist in its eluding definition. This quality is produced for instance by a succession of the same or similar sounds, by the juxtaposition of words, often by a mere trick of grammar, occassionally by an unsuspected pun on the words or conveyed by the etymology of the words used and other devices of a like nature.
-
-The difficult art of translation would thus be seen not to consist in rendering each passage word for word literally, or in loosely paraphrasing the original and writing a paragraph for a phrase. Accuracy of rendering is indispensable. Beauty of rendering is high merit. But a translation may be literally accurate and even beautiful but fail to produce on the mind that totality of effect, of thought and emotion, which is produced by the original. A translation that possess all these qualities is rare to find. I consider it therefore a privilege to be permitted to introduce to the public, my friend's adaptation of "Hamlet", contained in the following pages. There may be faults in it of sorts and kinds. It may indeed be capable of improvement here, there and elsewhere. But to admit all this, is only to admit that it is the work of a human being.  All told however and every deduction made, Mr. Sambandam's rendering of "Hamlet" would for ever remain a specimen of high literary art.
-
-It revealed to me the possibility of translation attaining to the excellence of fine art. It has impressed me with a sense of the untried capacity of the Tamil language. It has discovered to me new ways of understanding and appreciating Shakespeare. It will serve to indicate the direction in which high and useful literary work may be done in this country and what is more, it has set up an almost ideal standard of excellence for all the workers in the same field. And it seems to me that it will for long remain one of the most noteworthy contributions to Tamil language and literature in modern times.
-
-I find I have been criticising, theorising, estimating and even judging without really intending to do so, and what is perhaps more to the point, without the necessary knowledge or right. But it will perhaps be remembered that ignorance far from being a disqualification in a judge, is a quality favouring originality in the pronouncements. And having once assumed the role of a judge, I shall not let my own consciousness of my ignorance, very inconvenient if a somewhat uncommon feature, to stand in my way. Mr. Sambandam, has in his original dramas, not merely refused to be bound by the rules of the Sanskrit drama on which Indian dramas are mostly modelled but succeeded in demolishing and destroying all the well-defined land-marks and boundaries of the region of Tamil language and literature by inaugurating a new form of dramatic composition and insisting on writing in unconventional prose. But in the present venture he has, as the result it would seem of long pre-meditation and design, trespassed far beyond the original limits of that language and literature and annexed large and unexplored tracts to it. It is my conviction that such an audacious act of trespass ought not to be allowed to go without being adequately punished and that he should be condemned for the rest of the natural term of his life, which we pray might be very long, to the rigorous task of translating and adapting into Tamil, all the remaining plays of Shakespeare.
-
-VANI VILAS, 25th October, 1908.                 V. V. SRINIVASAN
-
------------------------------------------------------------
+--------------------------------------------------
+## மூலப் பாடம் (Content)
+--------------------------------------------------
 
 அமலாதித்யன்.
 
@@ -194,7 +131,7 @@ VANI VILAS, 25th October, 1908.                 V. V. SRINIVASAN
 
 ஹ.  அவரி லொருகூறு.
 
-பா.  வாரும், ஹரிஹரரே, வாரும், உத்தம மார‌சீலரே.
+பா.  வாரும், ஹரிஹரரே, வாரும், உத்தம மாரசீலரே.
 
 மா.  என்ன, இன்றிரவு இது மறுபடியும் தோன்றியதோ?
 
@@ -383,7 +320,7 @@ VANI VILAS, 25th October, 1908.                 V. V. SRINIVASAN
 
 அரண்மனையில் கொலு மண்டபம்.
 
-வாத்யகோ‌ஷம்; காலதேவன், கௌரீமணி, அமலாதித்யன்,பாலநேசன், லீலாதரன், வாலிதமண்டலன், கருணாலயன், மந்திரிகள், சேவகர்கள் புடைசூழ வருகின்றனர்.
+வாத்யகோஷம்; காலதேவன், கௌரீமணி, அமலாதித்யன்,பாலநேசன், லீலாதரன், வாலிதமண்டலன், கருணாலயன், மந்திரிகள், சேவகர்கள் புடைசூழ வருகின்றனர்.
 
 கா.  நமது பிரியமான சகோதரர் இறந்து காலம் சிறிதே கடந்த போதிலும்,
 அதன்பொருட்டு மனத்தில் துயரத்தை வகித்தல் முறைமை யாயிடினும், நமது
@@ -392,7 +329,7 @@ VANI VILAS, 25th October, 1908.                 V. V. SRINIVASAN
 விவேகத்தைக் கொண்டு அதனை வென்று, நாம் இறந்தார்க்குத் துயருறுதலுடன்,
 இருந்தார் கடனையும் கருதலானோம். அதன்பொருட்டே இதுவரையில் தங்கை
 முறையாயிருந்த கௌரீமணியைத் தாரமாக்கி, எந்நாளும் ஏதில ரஞ்சும் இந்நாட்டி
-னரசியாக்கினோம். ஆகவே மழுங்கிய மகிழ்ச்சியுடனும், - அழுத கண்ணில் ஆந‌ந்த
+னரசியாக்கினோம். ஆகவே மழுங்கிய மகிழ்ச்சியுடனும், - அழுத கண்ணில் ஆநந்த
 பாஷ்பத்துடனும், ஈமச் சடங்கில் இன்பத்துடனும், மணச் சடங்கில்
 மனத்துயருடனும், இன்ப துனபத்தைச் சம எடையாய்க்கொண்டு. - மணம் முடித்து
 மனைவி கொண்டோம்.இவ்விஷயத்திற்கு இசைந்த உங்கள் இஷ்டத்தைத் தட்டாது
@@ -750,7 +687,7 @@ VANI VILAS, 25th October, 1908.                 V. V. SRINIVASAN
 காதலை வெகு தூரத்தில் அடக்கி வை. கனவிலும் பிறழாக் கற்புடைக் கன்னிகையும்
 சந்திரன்  காணத் தன் சுந்தரத்தை வெளிப்படுத்தின ளாயின் கற்பின் வரம்பினைக்
 கடந்தவளே யாவாள். அருந்ததியாம் அருங் கற்புடையவளும் அவதூறுக்
-காளாக்கப்படுகிறாள். பன்முறை வசந்த காலத்தில், இளம் பு‌ஷ்பங்கள் நன்றாய்
+காளாக்கப்படுகிறாள். பன்முறை வசந்த காலத்தில், இளம் புஷ்பங்கள் நன்றாய்
 மலரு முன்னே கொடுங் கூற்று அவைகளைக் கெட் டலையச் செய்கிறது.
 
 இளம் பருவத்தின் உதய காலத் தரும் பனிநீரை, வற்றச் செய்து வாட்டிவரும்
@@ -854,7 +791,7 @@ VANI VILAS, 25th October, 1908.                 V. V. SRINIVASAN
 
 அவர் பேசவேண்டின், உன்னைக் கட்டளையிடுவதைவிட, அதிகமாய்
 வேண்டும்படி, உன் கௌரவத்தை மேன்மையாய்க் காப்பாற்றிக்கொள். இதை
-உறுதியாய் நம்பு, இளம் ப‌ருவத்தவர் இளவரசர் அமலாதித்யர், அவர் இச்சை வழிச்
+உறுதியாய் நம்பு, இளம் பருவத்தவர் இளவரசர் அமலாதித்யர், அவர் இச்சை வழிச்
 செல்ல ஏற்கு மிவ்வுலகம்; உனக் கது ஏலாது. விவரித்துக் கூறுவானேன்? அபலா,
 அவர் வார்த்தையில் நம்பிக்கை வைத்திடாதே. மேலுக்குக் காட்டுவதேபோல்
 உள்ளே யிராத வெளி வேஷமாம்; எளிதினில் மோசஞ் செய்யும்பொருட்டு
@@ -3487,7 +3424,7 @@ VANI VILAS, 25th October, 1908.                 V. V. SRINIVASAN
 அம.  பயித்தியம்! எனது நாடியைப் பாரும், உமது நாடியைப் போல்
 ஆரோக்கியத்துடன் ஒரே நிதானமாய்த்தான் ஓடிக் கொண்டிருக்கின்றது. நான்
 பேசியது பயித்திய மன்று!  பரிசோதித்துப் பாரும் வேண்டுமென்றால்; ஒரு
-வார்த்தை தவறாது நடந்த விஷ‌யத்தை மறுபடியும் அப்படியே ஒப்பு
+வார்த்தை தவறாது நடந்த விஷயத்தை மறுபடியும் அப்படியே ஒப்பு
 விக்கின்றேன்; பயித்தியம் பிடித் திருந்தால் அதை விட்டு வாய்க்கு வந்தபடி
 பிதற்றுவே னன்றோ? அம்மா, ஈசன் கருணையின்மீது, உமது பாபத்
 தொழிலாலன்றி எனது பயித்தியத்தினால் நான் இவ்வாறு பேசுகின்றேன்
@@ -3519,7 +3456,7 @@ VANI VILAS, 25th October, 1908.                 V. V. SRINIVASAN
 அதற் கப்புறம் அதனிலும் சுலப மாகும். வழக்கமானது  மனுஷ்ய சுபாவத்தின்
 முத்திரையையே மாற்றி, பைசாச குணத்தை அடக்கி ஆளும், அல்லது
 அக்குணமிருக்குமிடத்து அதைப் பலாத்காரமாய் அப்புறப்படுத்தினும்
-படுத்தும். நான் வருகின்றேன். அம்ம‌ணி,நீர் ஆசீர்வதிக்கப்பட
+படுத்தும். நான் வருகின்றேன். அம்மணி,நீர் ஆசீர்வதிக்கப்பட
 வேண்டுமென்று விரும்பும் காலத்தில் நான் உம்மிடம் ஆசீர்  வசனம்
 விரும்பிக் கேட்பேன். இந்த மந்திரியைப்பற்றி  (பாலநேசனைக் குறிப்பிட்டு)
 மன வருத்த மாகத்தா னிருக்கின்றது எனக்கு. இவரை நான் தண்டிக்க
@@ -4105,7 +4042,7 @@ VANI VILAS, 25th October, 1908.                 V. V. SRINIVASAN
 கலகச் சைனியங்களுடன் இளம் வீரன் லீலாதரன் பிரவேசித் திருக்கின்றான்.
 
 மூட ஜனங்கள் அவனைத் தமது தலைவனென அழைக்கின்றனர். இப்பொழுதுதான்
-உலகம் ஆரம்பிப்பது போல், புராதனம் என்பதை மறந்து, வழ‌க்க மென்பதை
+உலகம் ஆரம்பிப்பது போல், புராதனம் என்பதை மறந்து, வழக்க மென்பதை
 யறியாதவராய், அவர்கள் "நாங்கள் கோருகிறோம், லீலாதரன் எங்கள் அரசனாக
 வேண்டும்"என்று கூவுகிறார்கள்; "லீலாதரனே எங்கள் அரசனாக வேண்டும்,
 லீலாதரனே அரசன்' என்று கைகொட்டி, மேக மண்டலம் அதிர்ந்திட
@@ -4201,7 +4138,7 @@ VANI VILAS, 25th October, 1908.                 V. V. SRINIVASAN
 கொண்டுபோகின்றது அறிவிற் கொஞ்சம்.-
 அப.     [பாடுகிறாள்.] பாடை கட்டினாரே, பாவிக ளவருக்கு !
 
-நானா, நன்னானா, நான‌ன்ன, நன்னானா
+நானா, நன்னானா, நானன்ன, நன்னானா
 கண்ணீரால் நனைந்ததுவே, காஷ்டமா தவருக்கு.
 
 பஞ்ச வர்ணக் கிளியே ! போய் வருகிறாயா ?
@@ -4272,10 +4209,10 @@ VANI VILAS, 25th October, 1908.                 V. V. SRINIVASAN
 லீ.    அப்படியே ஆகட்டும். அவர் மடிந்த விதம், ஒருவரு மறியாதபடி அவரை
 அடக்கம் செய்தது, கர்மாக் கிரியைகள் ஒன்றும் செய்யாதது, அவரைப் புதைத்த
 இடத்தில் சமாதி முதலியன ஒன்றும் காட்டாதது, துக்கமும் பாராட்டாதது,
-ஆகாயவாணி பூமிதேவி ய‌றிய அழுகை யொன்றுமில்லாதது, இதற்கெல்லாம்
+ஆகாயவாணி பூமிதேவி யறிய அழுகை யொன்றுமில்லாதது, இதற்கெல்லாம்
 தக்க காரணம் நான் அறியவேண்டும்.
 
-கா.     அப்படியே கேள், கேட் டறிந்து, குற்ற முள்ள‌ விடத்தில், பெருங் கோடாலியால்
+கா.     அப்படியே கேள், கேட் டறிந்து, குற்ற முள்ள விடத்தில், பெருங் கோடாலியால்
 வெட்டு, வா என்னுடன் சொல்லுகிறேன்.                        [போகிறார்கள்.]
 காட்சி முடிகிறது.
 
@@ -4318,11 +4255,11 @@ VANI VILAS, 25th October, 1908.                 V. V. SRINIVASAN
 பிரதி உபகாரம் செய்யவேண்டியவனா யிருக்கிறேன். நான் அனுப்பிய
 நிருபங்களை அரசர் அடையட்டும். யமனிடமிருந்து என்ன வேகமாய் ஓடுவையோ
 அத்தனை வேகமாய் என்னிடம் ஓடி வந்து சேர். நான் உனது செவியில் கூற
-வேண்டிய வார்த்தைகள் சில உள‌, அவைகளைக் கேட்க, உன் வாயடைத்துப்
-போம். அங்ங‌ன மிருந்தும் அவ்விஷயத்தைத் தாங்கி நிற்கச் சக்தி யற்றணவாய்
+வேண்டிய வார்த்தைகள் சில உள, அவைகளைக் கேட்க, உன் வாயடைத்துப்
+போம். அங்ஙன மிருந்தும் அவ்விஷயத்தைத் தாங்கி நிற்கச் சக்தி யற்றணவாய்
 அத்தனை இலேசானவை. இந்த நல்ல ஆசாமிகள் உன்னை நானிருக்குமிடம்
 அழைத்துக்கொண்டு வந்து சேர்ப்பார்கள். ராஜகாந்தனும கிரிதரனும்
-சிங்கள‌த்திற்குப் போய்க்கொண்டிருக்கின்றனர். அவர்களைப்பற்றி உன்னிடம்
+சிங்களத்திற்குப் போய்க்கொண்டிருக்கின்றனர். அவர்களைப்பற்றி உன்னிடம்
 அதிகமாய்க் கூறவேண்டி யிருக்கிறது. நீ சுகமாய் இருப்பாயெனக் கோருகிறேன்.
 
 இங்ஙனம், உன் உள்ள மறிந்தபடி உனக்குச் சொந்தமான
@@ -4540,7 +4477,7 @@ VANI VILAS, 25th October, 1908.                 V. V. SRINIVASAN
 இவ் வுலகத்திலுள்ள விஷ கண்டக மான கிடைத்தற்கரிய சஞ்சீவி
 ஔஷதிகளையெல்லாம் கொண்டுவந்து  அறைத்துக் கட்டினாலும்,
 மரணத்தினின்றும் காப்பாற்ற முடியாது;எனது கத்தி முனையை இவ்விஷத்தில்
-தோய்த்து வைக்கின்றேன்,அவனை நான் கொஞ்சம் கீறின‌போதிலும்
+தோய்த்து வைக்கின்றேன்,அவனை நான் கொஞ்சம் கீறினபோதிலும்
 அவன் மடிவது திண்ண மாகும்படி.
 
 கா.    இன்னும் இதைப்பற்றி நாம் யோசிப்போம்.நம்முடைய  எண்ணத்திற்கு ஏற்றபடி
@@ -4650,7 +4587,7 @@ VANI VILAS, 25th October, 1908.                 V. V. SRINIVASAN
 ஆண்டெங்கொ ஓணு மிண்ணா தூக்கு போட்டுக்கலாம், மூய்கிப் போவலாம்;
 அவங்களே போலே மனுசரு நாம்போ செய்சோ மிண்ணா தப்பு! விட்டு
 கடாசிடா! மம்மட்டி எடுத்துக்கினு நம்போ வேலெயெ பாப்போம். - வெட்டியார
-வேலெக்கி மிஞ்சின வேலெ எதுவு மில்லெ இந்த ஒலக‌த்துல-
+வேலெக்கி மிஞ்சின வேலெ எதுவு மில்லெ இந்த ஒலகத்துல-
 வெ 2.  ஏண்டா அண்ணே அப்டி?
 
 வெ 1.  நம்போதாண்டா அல்லாரையும் மோசத்துக்கு அனுப்பிக்கரோம்!
@@ -4693,7 +4630,7 @@ VANI VILAS, 25th October, 1908.                 V. V. SRINIVASAN
 ஓடப்போவுதா? இந்த மாதிரி யாரானா இன்னொரு தரம் உன்னே கேட்டா,
 "வெட்டியான்" இண்ணு பதில் சொல்லு.வெட்டியான் வெட்ர குயி ஒகாந்த
 காலம் வரைக்கும் அயியாது. போடா எம் மவனே, ஏகங் கிட்ட போயி
-ஒரு ப‌ல்லா கள்ளு வாங்கிக்கினு வா எனக்கு!
+ஒரு பல்லா கள்ளு வாங்கிக்கினு வா எனக்கு!
 
 [ இரண்டாவது வெட்டியான் போகிறான்.]
 வெ* 1. [குழி வெட்டிக் கொண்டு பாடுகிறான்]
@@ -4807,7 +4744,7 @@ VANI VILAS, 25th October, 1908.                 V. V. SRINIVASAN
 மிதிக்கும்படி அத்தனை நாகரீகம் அதிகப்பட்டு விட்டது.-எத்தனை நாளாக
 மயானத்து வெட்டியானா யிருக்கின்றாய் நீ?
 
-வெ 1. வர்சத்திலே இக்கர‌ நாள்லே எல்லாம் நம்போ பயய ராசா, பார்த்திபநேச
+வெ 1. வர்சத்திலே இக்கர நாள்லே எல்லாம் நம்போ பயய ராசா, பார்த்திபநேச
 ராசாவே செயிச்சாரே அந்த நாளு மொதலா,  ஆண்டே-
 அம. அது நடந்து எத்தனை கால மாயது?
 
@@ -5043,7 +4980,7 @@ VANI VILAS, 25th October, 1908.                 V. V. SRINIVASAN
 புறாவைப்போல் தலை வணங்கி முகம் வாடிப் பேசாது வாளா இருப்பான்.
 
 அம.      ஏன் ஐயா? என்னை யேன் இவ்வாறு அவமதிக்கின்றாய்? உன் மீது நான்
-எப்பொழுதும் பிரியம் வைத்திருந்தேனே!- சரி பெரிதல்ல, பீமசேன‌ன் எதிர்த்துப்
+எப்பொழுதும் பிரியம் வைத்திருந்தேனே!- சரி பெரிதல்ல, பீமசேனன் எதிர்த்துப்
 பேசிய போதிலும், பூனை கத்தித்தான்தீரும், நாய் குலைத்துத்தான்தீரும்.
 
 [போகிறான்.]
@@ -5608,7 +5545,7 @@ VANI VILAS, 25th October, 1908.                 V. V. SRINIVASAN
 என்ன யுத்த முழக்கம் இது ?
 
 அச.     பாலை நாட்டி னின்றும் பார்த்திபநேசன் ஜெயத்துடன் வந்தவனாய்
-சிங்கள‌த்திளிருந்து வந்த ராயபாரிகளுக்கு இந்த யுத்த முழக்கத்தைத் தருகின்றான்.
+சிங்களத்திளிருந்து வந்த ராயபாரிகளுக்கு இந்த யுத்த முழக்கத்தைத் தருகின்றான்.
 
 அம.     ஆ ! நான் சாகின்றேன் ! ஹரிஹர ! அக்கொடிய விஷமானது என் ஆவியைக்
 குன்றச் செய்கின்றது. சிங்களத்திலிருந்து வந்த சமாசாரத்தைக் கேடுகுமளவும் என்
@@ -5664,7 +5601,7 @@ VANI VILAS, 25th October, 1908.                 V. V. SRINIVASAN
 ஹ.   இனி தானாகத் தரணியில் பேச ஏலாத அவர் வாயினின்றும் கேட்டபடி
 அவ்விஷயத்தைப் பற்றியும் நான் பேசவேண்டி இருக்கிறது. மனிதர்களுடைய
 மனமெல்லாம் மருண்டு கிடக்கும் பொழுதே, இவ்விஷயம் முதலில் உடனே
-முடித்தாகட்டும், கல‌கங்களும் குற்றங்களும் இன்னும் நேரிடாவண்ணம்.
+முடித்தாகட்டும், கலகங்களும் குற்றங்களும் இன்னும் நேரிடாவண்ணம்.
 
 பா.  மண்டபத்திற்கு, நான்கு சேனைத் தலைவர்கள் மகாராஜாவுக்குரிய
 மரியாதையுடன் அமலாதித்யரை எடுத்துச் செல்லட்டும். அவர் இவ்வரசை
@@ -5683,3 +5620,11 @@ VANI VILAS, 25th October, 1908.                 V. V. SRINIVASAN
 நாடகம் முற்றியது.
 
 ---------------------
+
+--------------------------------------------------
+அமலாதித்யன் (நாடகம்) - முற்றும்
+==================================================
+
+--------------------------------------------------
+அமலாதித்யன் (நாடகம்) - முற்றும்
+==================================================
