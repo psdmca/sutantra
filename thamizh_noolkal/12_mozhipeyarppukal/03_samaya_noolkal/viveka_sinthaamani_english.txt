@@ -1,21 +1,21 @@
-vivEka cintAmaNi
-English Translation by Kausalya Hart
-NOTE: The source verses in Tamil script (unicode) of vivEka cintAmaNi has been published
-earlier under
-PM release # 0059  (opens up in a new webpage!)
-Viveka chinthamani contains 135 poems, but only the first 122 poems speak
-to moral issues.
+==================================================
+TITLE: Viveka Chinthamani - English Translation
+AUTHOR: Traditional / புலவர் பலரால் இயற்றப்பட்டது (English Translation by Dr. Kausalya Hart)
+CATEGORY: மொழிபெயர்ப்புகள் / நீதி இலக்கிய ஆங்கில மொழிபெயர்ப்பு
+PERIOD: இடைக்காலம் / மொழிபெயர்ப்பு 20-ஆம் நூற்றாண்டு
+STRUCTURE: Introduction + 135 Verses Translation
+GENRE: நீதி இலக்கியம் / Didactic Verses Translation
+LANGUAGE: English / Tamil
+==================================================
 
-The poems after 122 describe content from the Mahabharata, the Ramayana and other
-folk literature.
+## உள்ளுறை
 
-Sometimes the meanings are unclear.
+- Introduction
+- Viveka Chinthamani - Verses 1 to 135 Translation
 
-If we worship the good god Ganesa in the temple in Arunai,
-our troubles will be all gone,
-our bad karma will be destroyed,
-any troubles that we will have in this birth will go away,
-and all troubles that might come in future births will go away.
+--------------------------------------------------
+## மூலப் பாடம் (Content)
+--------------------------------------------------
 
 1. There are seven useless things—
 a child who will not help when his parents are in trouble,
@@ -968,3 +968,7 @@ and they will go to hell.
 
 The families of merchants, farmers, kings and Brahmins
 will be destroyed.
+
+--------------------------------------------------
+Viveka Chinthamani - English Translation - முற்றும்
+==================================================

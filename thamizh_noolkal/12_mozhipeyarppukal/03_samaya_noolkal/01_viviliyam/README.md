@@ -1,4 +1,4 @@
-# திருவிவிலியம்
+# திருவிவிலியம் (Holy Bible)
 
 > **கோப்பகம் (Directory):** `thamizh_noolkal/12_mozhipeyarppukal/03_samaya_noolkal/01_viviliyam`  
 > **மொத்த நூல்கள் (Total Texts):** **38**
@@ -14,4 +14,4 @@
 
 ---
 
-[⬅️ முதன்மைப் பக்கத்திற்குத் திரும்புக (Back to Archive Index)](../../../README.md)
+[⬅️ சமய நூல்கள் முதன்மைப் பக்கத்திற்குத் திரும்புக (Back to Religious Translations)](../README.md)

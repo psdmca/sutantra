@@ -1,5 +1,22 @@
-நம்மாழ்வார் அருளிய திருவாய் மொழி (பாகம் 1)
-கௌசல்யா ஹார்ட் அவர்களின் ஆங்கில மொழிபெயர்ப்புடன்
+==================================================
+TITLE: Thiruvaimozhi of Nammazhvar (First Ten) - English Translation
+AUTHOR: Nammazhvar / நம்மாழ்வார் (English Translation by Dr. Kausalya Hart)
+CATEGORY: மொழிபெயர்ப்புகள் / வைணவ இலக்கிய ஆங்கில மொழிபெயர்ப்பு
+PERIOD: கி.பி. 9-ஆம் நூற்றாண்டு / மொழிபெயர்ப்பு 20-ஆம் நூற்றாண்டு
+STRUCTURE: Introduction + Mudhal Pathu (First Centum Pasurams Translation)
+GENRE: திருவாய்மொழி ஆங்கில மொழிபெயர்ப்பு / Devotional Hymns Translation
+LANGUAGE: English / Tamil
+==================================================
+
+## உள்ளுறை
+
+- Introduction
+- Thiruvaimozhi - First Centum (முதல் பத்து - 100 பாசுரங்கள்)
+
+--------------------------------------------------
+## மூலப் பாடம் (Content)
+--------------------------------------------------
+
 திருச்சிற்றம்பலம்
 நம்மாழ்வார் அருளிய திருவாய் மொழி - முதல் பத்து
 Divyaprabhandam -Thiruvaymozhi  - Mutal Pathu (2791 - 2901)
@@ -19941,3 +19958,7 @@ even though they were born in this world.
 SUBHAM - Nammaazhvaree saraṇam.
 
 ----------------
+
+--------------------------------------------------
+Thiruvaimozhi of Nammazhvar (First Ten) - English Translation - முற்றும்
+==================================================

@@ -1,20 +1,23 @@
-"tirukkuRaL" English translation
-by Ramachandra dikshitar
-Source:
-Tirukkural of Tiruvalluvar (in Roman transliteration)
-with English Translation
-by
-V.R. Ramachandra Dikshitar, M.A.,
-Professor of Indian History and Archaeology, University of Madras
-with a Foreword by
-Sir A. Ramaswami Mudaliar, Dewan of Mysore
-The Adyar Library, 1949
-(The Adyar Library Series Nr. 67)
-Price Rs. 3
-Printed by C.Subbarayudu at the Vasanta Press,
-The Theosophical Society, Adyar, Madras
+==================================================
+TITLE: Tirukkural - English Translation
+AUTHOR: Tiruvalluvar / திருவள்ளுவர் (English Translation by Prof. V. R. Ramachandra Dikshitar)
+CATEGORY: மொழிபெயர்ப்புகள் / நீதி இலக்கிய ஆங்கில மொழிபெயர்ப்பு
+PERIOD: சங்க காலம் / மொழிபெயர்ப்பு 20-ஆம் நூற்றாண்டு (1949)
+STRUCTURE: Foreword + Preface + 133 Chapters Translation
+GENRE: திருக்குறள் ஆங்கில மொழிபெயர்ப்பு / Classical Translation
+LANGUAGE: English / Tamil
+==================================================
 
----------
+## உள்ளுறை
+
+- Foreword & Preface
+- Book I: Virtue (அறத்துப்பால் - Chapters 1-38)
+- Book II: Wealth (பொருட்பால் - Chapters 39-108)
+- Book III: Love (காமத்துப்பால் - Chapters 109-133)
+
+--------------------------------------------------
+## மூலப் பாடம் (Content)
+--------------------------------------------------
 
 FOREWORD
 It has been long my desire to get an English translation in simple language of the holy Tirukkural, the teachings of which, to Tamilians, are an eternal inspiration and guide. More than 25 years back, I had invoked the aid and assistance of a great Tamil Pandit with whose collaboration I felt I would be in a position to bring out such a translation but, owing to his untimely demise, I had to give up the project. The happy thought struck me a few years back that, if my esteemed friend, Professor V. R. Ramachandra Dikshitar, could under take this task, it would be the consummation of my hope and desire. Professor Ramachandra Dikshitar readily agreed to my request that he might undertake  to translate the holy Tirukkural. I could not have entrusted the work to a more distinguished scholar of Tamil literature or a better writer of simple and elegant English. Mr. Dikshitar's contribution in research, particularly of Tamil literature, is well known and needs no emphasis.
@@ -9674,3 +9677,7 @@ kūṭi muyaṅkap peṟiṉ.
 end of kamattuppal
 End of Tirukkural
 -------
+
+--------------------------------------------------
+Tirukkural - English Translation - முற்றும்
+==================================================

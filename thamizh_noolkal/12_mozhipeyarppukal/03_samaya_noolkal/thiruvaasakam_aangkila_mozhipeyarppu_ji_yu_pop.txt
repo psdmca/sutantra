@@ -1,19 +1,30 @@
-tiruvAcagam or Sacred Utterances
-of the Tamil Poet, Saint and Sage MAnikka vACagar
-English Translation by Rev.G.U.Pope
-(part I - Hymns 1 -10 )
-Reference Source:
-The Tiruvaacagam or 'Sacred Utterances' of the Tamil Poet,Saint and Sage Maanikka vaacagar,
-Rev.G.U. Pope, Oxford, Clarendon Press, 1900.
+==================================================
+TITLE: The Tiruvacagam or Sacred Utterances - English Translation
+AUTHOR: Manikkavasagar / மாணிக்கவாசகர் (English Translation by Rev. Dr. G. U. Pope)
+CATEGORY: மொழிபெயர்ப்புகள் / சைவத் திருமுறை ஆங்கில மொழிபெயர்ப்பு
+PERIOD: கி.பி. 9-ஆம் நூற்றாண்டு / மொழிபெயர்ப்பு 19-ஆம் நூற்றாண்டு (1900)
+STRUCTURE: Introduction + Hymns 1 to 10 Translation with Notes
+GENRE: திருவாசகம் ஆங்கில மொழிபெயர்ப்பு / Classical Translation & Commentary
+LANGUAGE: English / Tamil
+==================================================
 
-Editorial Note on this release:
+## உள்ளுறை
 
-Rev. Pope has used transliterated form with diacritical markersto cite many Tamil words with grantha characters (such as the first letter of Civan markedwith C-cedilla). To render the English translation using lower case ASCII characters, wehave used the following transliteration scheme with upper-case C for C-cedilla (for the first letter of Civan):
-Vowels: a A i I u U e E ai o O au H;
-Consonants: k ng c nj T N t n p m y r l v z L R n2
-Grantha: j S s h kS SRI
+- Introduction
+- Hymn 1: Civapuranam (Civan's Way of Old)
+- Hymn 2: Kirtti-t-Tiru-v-Agaval (Sacred Renown)
+- Hymn 3: Tiru-v-Andappahudi (The Universe)
+- Hymn 4: Potti-t-Tiru-v-Agaval (In Praise)
+- Hymn 5: Tiru-c-Chathagam (Sacred Cento)
+- Hymn 6: Neethal Vinnappam (Forsaken)
+- Hymn 7: Tiru-v-Embaavai (The Maiden's Song)
+- Hymn 8: Tiru-v-Ammaanai (The Sacred Ammanai)
+- Hymn 9: Tiru-p-Pors-Chunnam (The Gold Powder)
+- Hymn 10: Tiru-k-Kothumbi (The Humming Bee)
 
----------
+--------------------------------------------------
+## மூலப் பாடம் (Content)
+--------------------------------------------------
 
 HYMN  1   (civapurANam)
 Civan's way of Old   (or)
@@ -7421,3 +7432,7 @@ Even me He took as something worth,- like dog in sumptuous litter borne !
 'Twas thus the MOTHER gave me grace: O RAPTURE ! WHO SO BLEST AS I ?                        (36)
 
 END OF TIRUVACAGAM.
+
+--------------------------------------------------
+The Tiruvacagam or Sacred Utterances - English Translation - முற்றும்
+==================================================

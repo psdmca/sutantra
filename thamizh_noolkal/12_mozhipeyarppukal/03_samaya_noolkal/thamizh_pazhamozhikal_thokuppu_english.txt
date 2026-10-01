@@ -1,20 +1,21 @@
-தமிழ் பழமொழிகள்  தொகுப்பும்
-ஆங்கில மொழிபெயர்ப்பும், ஆசிரியர் பெர்சிவால்
-Tamil Proverbs with Their Translation
-by Rev. P. Percival
-Source:
-Tamil Proverbs with their English Translation
-containing upwards of Six thousand proverbs
-By The Rev. P. Percival,
-Chaplain, Madras Military Female Orphan Asylum:
+==================================================
+TITLE: Tamil Proverbs with Their English Translation
+AUTHOR: Rev. P. Percival / அருள்திரு பி. பெர்சிவல்
+CATEGORY: மொழிபெயர்ப்புகள் / பழமொழித் தொகுப்பு ஆங்கில மொழிபெயர்ப்பு
+PERIOD: 19-ஆம் நூற்றாண்டு (1874)
+STRUCTURE: Alphabetical Tamil Proverbs with English Meanings (Proverbs 1-6000)
+GENRE: பழமொழி அகராதி / Proverbs Translation
+LANGUAGE: English / Tamil
+==================================================
 
-Author of the "Land of the Veda" etc.
+## உள்ளுறை
 
-Second Edition, 1874
-Madras: Printed and Published at the Dinavartamani Press,
-Little Bourne, Mylapore
+- Part 1: Tamil Proverbs 1 to 3000
+- Part 2: Tamil Proverbs 3001 to 6000
 
---------------
+--------------------------------------------------
+## மூலப் பாடம் (Content)
+--------------------------------------------------
 
 PREFACE TO THE FIRST EDITION.
 
@@ -25485,3 +25486,7 @@ Carefully persevere in what you undertake.
 ---------------
 
 End of the collection of proverbs
+
+--------------------------------------------------
+Tamil Proverbs with Their English Translation - முற்றும்
+==================================================

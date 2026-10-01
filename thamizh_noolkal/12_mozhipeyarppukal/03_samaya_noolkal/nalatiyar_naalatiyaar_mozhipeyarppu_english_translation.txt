@@ -1,20 +1,24 @@
-நாலடியார்
-ஆங்கில மொழிபெயர்ப்பு - போப் மற்றும் எல்லிஸ்
-Naladiyar verses with English Translation
-by Rev. G.U.Pope and F.W. Ellis
-Source:
-Naladiyar
-with Translations in English by
-Rev. Dr. G.U. Pope and Mr. F.W. Ellis
-Forward by Dr. M. Varadarajanar
-The South Indai Saiva Siddhantha Works Publishing Society
-Tinnevelly, Madras- 1
-© 1963  (first edition March 1958)
-Publication No:  927
+==================================================
+TITLE: Naladiyar - English Translation & Commentary
+AUTHOR: Jain Munivargal / சமண முனிவர்கள் (English Translation by Rev. Dr. G. U. Pope & F. W. Ellis)
+CATEGORY: மொழிபெயர்ப்புகள் / நீதி இலக்கிய ஆங்கில மொழிபெயர்ப்பு
+PERIOD: சங்க மருவிய காலம் / மொழிபெயர்ப்பு 19-ஆம் நூற்றாண்டு
+STRUCTURE: Contents + Introduction + Parts 1 to 3 (40 Chapters Translation)
+GENRE: நீதி இலக்கியம் / Didactic Poetry Translation
+LANGUAGE: English / Tamil
+==================================================
 
-Appar Achakam, Madras-1.
+## உள்ளுறை
 
---------------
+- Contents
+- Introduction
+- Book I: Virtue (அறத்துப்பால்)
+- Book II: Wealth (பொருட்பால்)
+- Book III: Love (காமத்துப்பால்)
+
+--------------------------------------------------
+## மூலப் பாடம் (Content)
+--------------------------------------------------
 
 CONTENTS
 Forward
@@ -7369,3 +7373,7 @@ Ten Tamil Ethics
 Prop T. B. Krishnaswami, M.A.,B.L.
 
 This book is the collection of English Translation in lucid style, of ten ethical poems in Tamil viz., Athisudi, Konrai-Venthan, Ulaga-Neethi, Vetri-Verkai, Muthurai, Nalvazhi, Nanneri, Nithi-Neri-Vilakkam, Neethi-Venba and Aranericharam.  Rs. 4.00
+
+--------------------------------------------------
+Naladiyar - English Translation & Commentary - முற்றும்
+==================================================

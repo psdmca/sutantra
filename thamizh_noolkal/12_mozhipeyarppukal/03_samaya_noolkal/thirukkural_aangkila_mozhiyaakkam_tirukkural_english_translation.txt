@@ -1,6 +1,22 @@
-திருக்குறள் :  குறட்பாக்கள் தமிழிலும்
-கவியோகி மகரிஷி
-சுத்தானந்த பாரதியாரின் ஆங்கில மொழியாக்கமும்
+==================================================
+TITLE: Tirukkural - English Couplets Translation
+AUTHOR: Tiruvalluvar / திருவள்ளுவர் (English Translation by Yogi Shuddhananda Bharati)
+CATEGORY: மொழிபெயர்ப்புகள் / நீதி இலக்கிய ஆங்கில மொழிபெயர்ப்பு
+PERIOD: சங்க காலம் / மொழிபெயர்ப்பு 20-ஆம் நூற்றாண்டு
+STRUCTURE: Book of Virtue + Book of Wealth + Book of Love (1330 Couplets)
+GENRE: திருக்குறள் கவிதை ஆங்கில மொழிபெயர்ப்பு / Poetic Couplets Translation
+LANGUAGE: English / Tamil
+==================================================
+
+## உள்ளுறை
+
+- Part I: Virtue (அறத்துப்பால்)
+- Part II: Wealth (பொருட்பால்)
+- Part III: Love (காமத்துப்பால்)
+
+--------------------------------------------------
+## மூலப் பாடம் (Content)
+--------------------------------------------------
 
 1. அறத்துப்பால் - Part I - VIRTUE
 
@@ -8300,3 +8316,7 @@ Bouderie is lovers' delight
 Its delight grows when they unite            1330
 
 ---------
+
+--------------------------------------------------
+Tirukkural - English Couplets Translation - முற்றும்
+==================================================

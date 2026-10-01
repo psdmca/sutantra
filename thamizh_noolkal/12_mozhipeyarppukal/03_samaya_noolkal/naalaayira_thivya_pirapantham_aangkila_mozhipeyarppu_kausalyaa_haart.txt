@@ -1,22 +1,26 @@
-நாலாயிர திவ்ய பிரபந்தம் - ஆங்கில மொழிபெயர்ப்பு
-மூல பாசுரங்களுடன், ஆசிரியர் -கௌசல்யா ஹார்ட், பாகம் 1
-Note: This English Translation uses diacritical markers to transliterate Tamil  names and the etext file hence used Unicode font Gentium font from SIL (scripts.sil.org). So make sure that you have one such font (Arial Unicode OK) to view the etext correctly.
+==================================================
+TITLE: Nalayira Divya Prabandham (Part 1) - English Translation
+AUTHOR: Azhvars / பன்னிரு ஆழ்வார்கள் (English Translation by Dr. Kausalya Hart)
+CATEGORY: மொழிபெயர்ப்புகள் / சமய நூல்கள் / வைணவ இலக்கிய ஆங்கில மொழிபெயர்ப்பு
+PERIOD: கி.பி. 6-9-ஆம் நூற்றாண்டு / மொழிபெயர்ப்பு 20-ஆம் நூற்றாண்டு
+STRUCTURE: Introduction + Mudhal Aayiram Verses Translation (1-947)
+GENRE: வைணவ பக்திப் பாசுரங்கள் / Devotional Hymns Translation
+LANGUAGE: English / Tamil
+==================================================
 
-THE WORLDLY AZHVARS
-Divyaprabandham
-Seven Azhvars  - Volume 1
-You are the sweetness in  milk.
+## உள்ளுறை
 
-You are the brightness of precious gold.
+- Introduction
+- 1. Thiruppallandu & Periyazhvar Thirumozhi (1-473)
+- 2. Thiruppavai & Nachiyar Thirumozhi (474-616)
+- 3. Perumal Thirumozhi (617-721)
+- 4. Thiruchantha Viruththam (722-841)
+- 5. Thirumalai & Thiruppalliezhuchi (842-896)
+- 6. Amalanathipiran & Kanninun Siruthambu (897-947)
 
-You are the freshness of green moss.
-
-You have the dark color of  bees
-that drink honey and fly around the ponds.
-
-You are the four seasons.
-
-How is it that the world cannot understand the nature of the god Maal? (795)
+--------------------------------------------------
+## மூலப் பாடம் (Content)
+--------------------------------------------------
 
 Introduction
 The Seven Azhvars in this volume are Periyazhvar, Aṇḍal/Thalaivi, Kulasekharazhvar, Thirumazhisaiyazhvar, Thoṇḍaraḍippoḍiyazhvar, Thiruppaṇazhvar, Madhurakavi Azhvar.
@@ -19096,3 +19100,7 @@ will see Vaikuṇṭam and abide there.
 SUBHAM
 
 ------------------
+
+--------------------------------------------------
+Nalayira Divya Prabandham (Part 1) - English Translation - முற்றும்
+==================================================

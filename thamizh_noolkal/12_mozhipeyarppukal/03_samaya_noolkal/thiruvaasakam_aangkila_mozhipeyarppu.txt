@@ -1,5 +1,24 @@
-tiruvAcakam of mAnikka vAcakar
-English Translationby Kausalya Hart
+==================================================
+TITLE: Thiruvasagam of Manikkavasagar - English Translation
+AUTHOR: Manikkavasagar / மாணிக்கவாசகர் (English Translation by Dr. Kausalya Hart)
+CATEGORY: மொழிபெயர்ப்புகள் / சைவத் திருமுறை ஆங்கில மொழிபெயர்ப்பு
+PERIOD: கி.பி. 9-ஆம் நூற்றாண்டு / மொழிபெயர்ப்பு 20-ஆம் நூற்றாண்டு
+STRUCTURE: Introduction + Parts 1 to 3 (51 Hymns Translation)
+GENRE: திருவாசகம் ஆங்கில மொழிபெயர்ப்பு / Devotional Mystical Hymns
+LANGUAGE: English / Tamil
+==================================================
+
+## உள்ளுறை
+
+- Introduction
+- Part I: The Lord of the Vedas (Hymns 1-4)
+- Part II: Thiruchathakam & Neethal Vinnappam (Hymns 5-6)
+- Part III: Devotional Hymns (Thiruvempavai to Achopadhigam, Hymns 7-51)
+
+--------------------------------------------------
+## மூலப் பாடம் (Content)
+--------------------------------------------------
+
 Introduction
 The Thiruvasagam is divided into 3 parts, each of which has many sections. The Tamil version on Project Madurai, which is followed here, numbers each stanza in order, indicated in the translation by a number in brackets at the end of the stanza. Sections 1-4 of part 1 each count as a stanza, and line numbers are given in those sections to correspond to the Project Madurai versions. After section 4 of part I, each stanza has two numbers: at the beginning the number in the section and at the end in brackets the cumulative number that corresponds to the number in Project Madurai (cf. PM releases #0003, #0094 and #0222). The English names given before each section are not a literal translation of the Tamil immediately before them but are intended to give the reader a better idea of the content of the section than a literal translation would.
 
@@ -8343,3 +8362,7 @@ He made me his for the world to see.
 
 Who can receive the grace that the lord has given me? [661]
 SUBHAM
+
+--------------------------------------------------
+Thiruvasagam of Manikkavasagar - English Translation - முற்றும்
+==================================================

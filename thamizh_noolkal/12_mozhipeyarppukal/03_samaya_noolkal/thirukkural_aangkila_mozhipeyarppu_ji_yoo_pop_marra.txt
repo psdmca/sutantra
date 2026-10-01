@@ -1,14 +1,22 @@
-tirukkuRaL of tiruvaLLuvar
-English Translation and Commentary
-by Rev. Dr. G. U. Pope, Rev W. H. Drew, Rev. John Lazarus and Mr F. W. Ellis
-Source Acknowledgements:
+==================================================
+TITLE: Tirukkural - English Translation and Commentary
+AUTHOR: Tiruvalluvar / திருவள்ளுவர் (English Translation by Rev. Dr. G. U. Pope, Drew, Lazarus, Ellis)
+CATEGORY: மொழிபெயர்ப்புகள் / நீதி இலக்கிய ஆங்கில மொழிபெயர்ப்பு
+PERIOD: சங்க காலம் / மொழிபெயர்ப்பு 19-ஆம் நூற்றாண்டு (1886)
+STRUCTURE: Part I: Virtue + Part II: Wealth + Part III: Love
+GENRE: திருக்குறள் ஆங்கில மொழிபெயர்ப்பு / Classical Translation & Commentary
+LANGUAGE: English / Tamil
+==================================================
 
-Thirukkural: English Translation and Commentary by G U Pope
-First published by W.H. Allen, & Co, 1886,
-Reprinted by The South India Saiva Siddhantha Works Publishing Society,
-Tinnevelly, Madras, India , 1962, 1982.
+## உள்ளுறை
 
-------
+- Part I: Virtue (அறத்துப்பால்)
+- Part II: Wealth (பொருட்பால்)
+- Part III: Love (காமத்துப்பால்)
+
+--------------------------------------------------
+## மூலப் பாடம் (Content)
+--------------------------------------------------
 
 PART I. VIRTUE
 
@@ -8831,3 +8839,7 @@ Dislike adds delight to love; and a hearty embrace (thereafter) will add delight
 --------------
 
 End of tirukkuRaL English translation, commentary.
+
+--------------------------------------------------
+Tirukkural - English Translation and Commentary - முற்றும்
+==================================================
