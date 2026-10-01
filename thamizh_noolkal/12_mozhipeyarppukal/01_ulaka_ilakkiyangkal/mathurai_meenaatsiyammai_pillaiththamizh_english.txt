@@ -1,39 +1,131 @@
-maturai mInATci ammai piLLaittamiz of kumarakuruparar
-English Translation by Kausalya Hart
-Department of South and Southeast Asian Studies
-University of California, Berkeley, CA, USA
+==================================================
+TITLE: Madurai Meenakshiyammai Pillaithamizh - English Translation
+AUTHOR: Kumaraguruparar / குமரகுருபரர் (English Translation by Dr. Kausalya Hart)
+CATEGORY: மொழிபெயர்ப்புகள் / சிற்றிலக்கிய மொழிபெயர்ப்பு
+PERIOD: 17-ஆம் நூற்றாண்டு / மொழிபெயர்ப்பு 20-ஆம் நூற்றாண்டு
+STRUCTURE: Introduction + Chapters 1-10 (10 Paruvams Translation)
+GENRE: பிள்ளைத்தமிழ் / Children's Devotional Hymns Translation
+LANGUAGE: English / Tamil
+==================================================
 
-2011
-note : The e-version of the Tamil verses of this work (in Tamil Unicode format) has been
-published earlier under PM release #43:
+## உள்ளுறை
 
-mInATciammai piLLaittamiz.
+- 1. Praising Ganesha
+- Chapter I. Invoking the Protection of the Gods for the Goddess
+- 2. Praising the God Vishnu
+- 3. Praising Shiva
+- 4. Praising Siddhi Vinaayagar
+- 5. Praising Murugan
+- 6. Praising God Brahma
+- 7. Praising God of Gods Devendran
+- 8. Praising the Goddess Lakshmi
+- 9. Praising the Goddess of Art, Saraswathi
+- 10. Praising the Goddess Durga
+- 11. Praising the Seven Goddesses
+- 12. Praising the Pandyan Country
+- Chapter II. The Baby Goddess Crawls
+- 13. Pandimaadevi bringing up the goddess
+- 14. The Pandyan king, the Proud Father
+- 15. The Lovely House of the Goddess
+- 16. The Compassion of the Goddess
+- 17. The Three Goddesses and Lovely Madurai
+- 18. The Dancing Goddess
+- 19. The Dancing Goddess
+- 20. The Dance of the Fish-eyed Goddess
+- 21. Praising the Fish-eyed Goddess
+- 22. The Fish-eyed Goddess
+- Chapter III. Lullabies for the Baby Goddess
+- 23. The Mother buffalo and the Playful Swan
+- 24. Farm Girls Cooking Pearl Rice in Tamil Madurai
+- 25. The Clouds and the Fish of Tamil Madurai
+- 26. The Streets of Madurai
+- 27. The Frightened Clouds
+- 28. The Fish and Kanikaiyar of Madurai city
+- 29. The War of the Goddess
+- 30. The war of Skanda with Indra, the king of the Gods
+- 31. The Excellence of the Goddess’s Rule
+- 32. The Battle of the Goddess with Shiva and his Escort
+- Chapter IV. The Baby Goddess Claps her Hands
+- 33. The Dance of Shiva
+- 34. The Goddess Falls in Love with Shiva on the Battlefield
+- 35. The Goddess Playing with her Friends
+- 36. The Bed and Cradle of the Goddess
+- 37. The Goddess Raises her Beloved Son Murugan
+- 38. Peys in the Battle
+- 39. The War of the Goddess and her Protection
+- 40. The Battle between the Goddess and Shiva
+- 41. The Beauty of the Goddess and the Himalayas
+- 42. Goddess, the Mother
+- Chapter V. Grant us Moksha
+- 43. The Greatness of the Goddess
+- 44. The Beautiful Goddess
+- 45. The Beauty of the Goddess
+- 46. We Want Only You
+- 47. Pearls
+- 48. The Divine Kudal City
+- 49. The Fields of Madurai City
+- 50. The Flag and the Wheel of the Goddess
+- 51. The Trees and Drums of Madurai
+- 52. Praise of the Goddess
+- Chapter VI. The Baby Goddess Walks
+- 53. Walking with Lovely Ringing Anklets
+- 54. Lakshmi, Saraswathi and Parvathi
+- 55. The Kayal Fish and the Goddess’s War
+- 56. Ganesa, her Baby Elephant
+- 57. The Moon, the Ganges and Kudal City
+- 58. The River Vaikai
+- 59. The Beauty of the Fields of Madurai
+- 60. The Beauty of Three Goddesses
+- 61. Praising the Daughter of Malayadvajan
+- 62. Praising the Daughter of Malayadvajan
+- Chapter VII. Calling the Moon to Play with the Baby Goddess
+- 63. The Jealous Moon
+- 64. The Blemishes in the Moon
+- 65. The Moon Steals the Goddess’s Beauty
+- 66. The Goddess Saves the Moon as it Seeks Refuge from Raahu
+- 67. The Fame of the Goddess
+- 68. The Excellence of the Pilgrimage to Madurai
+- 69. The Compassion of the Goddess for the moon
+- 70. The Goddess and the Moon of the Same Lineage
+- 71. How We Saved You from her Anger
+- 72. The moon on the Shiva’s Jata
+- Chapter VIII. The Goddess Plays Ammaanai balls
+- 73. The Goddess Throws the Ammaanai Balls up in the Sky
+- 74. The Ammaanai Balls Look like Rice Balls and Little Deer
+- 75. The Ammanai Balls Change Color
+- 76. The jealous sun
+- 77. The Goddess Plays Ammaanai with her Friends
+- 78. The Ganges and Lustrous Madurai
+- 79. The Pearl and Coral Ammaanai Balls
+- 80. Pearl and many bright ammaanai balls
+- 81. What People Say when they See the Ammaanai Balls
+- 82. The Goddess Sending Birds as Messengers to Shiva
+- Chapter IX. The Baby Goddess Bathes
+- 83. The Goddess Plays in the Water
+- 84. The Goddess Plunges into the Vaikai and Plays
+- 85. The Emerald Color of the Goddess
+- 86. Sprinkling Yellow Powders
+- 87. The Goddess and her Friend Saraswathi
+- 88. The Beauty of Madurai and its Women
+- 89. The Beauty of Madurai
+- 90. Shiva Carries Sand to Get Pittu
+- 91. Saraswathi and Indrani Decorate the Goddess
+- 92. The Beauty of Madurai and the Goddess
+- Chapter X. The Goddess Plays on a Swing
+- 93. The Lustrous Swing of the Goddess
+- 94. The Goddess as Divine Doll
+- 95. The asoka tree, Kama and the palaces of Madurai
+- 96. The Joyful Goddess Swings in Flourishing Madurai
+- 97. Women of Madurai Drying Their Hair
+- 98. The Goddess and Shiva on the Battlefield
+- 99. The Monkeys of Madurai
+- 100. Saraswathi teasing the goddess
+- 101. How Shiva Loves You
+- 102. The Beauty of the Goddess
 
-Kumaraguruparar.
-
-According to scholars Kumarakuruparar  was born in the city of Shri Vangundam in the Pandyan country to Shanmuka Sikamani Kaviraayar and Shivakami Ammai in the Saiva Vellaala caste. Tradition says that he was not able to talk until 5 years old and that through the prayers of his parents and the grace of the god Murugan in Thiruchendur he began to talk and then composed Kandar Kalivenba. Tradition also says his name was given to him by Murugan himself and therefore we do not know his real name.
-
-When Thirumalai Nayakkar who ruled Madurai (1623-1659) requested him to compose poems on Meenakshi, he composed Madurai Meenakshi Ammai Tamil. The name Meenakshi Ammait Tamil may have been given to this book because Kumaraguruparar calls his goddess “Angayarkkanni,” “Angayarkkan Amudu” and the “Madurait Talaivi.” Among his books, Meenakshi Ammait Tamil is the most famous one. People praise this composition saying that Meenakshi herself came and heard when he recited it in front of Thirumalai Nayakkar.
-
-The Dharmapuram Adinam mutt seems to have been established already in 16th century at the time of Thirumalai Nayakkar. Kumaraguruparar went to Dharmapuram and became the disciple of Masilamanit Tesikar, who was the fourth head of the mutt. He had been to Dharmapuram mutt many times, and now there are many mutts in Tamil Nadu under his name.
-
-He went to Kasi and composed Kasikkalampakam, which praises the god Viswanathar in Kasi. The Muslim king was pleased with his his ability to speak Hindustani and, admiring his composition Sakalakalaavalli Maalai, gave him land for establishing Saiva mutts. He also build the Kedaranath Swami temple in the north. There are stories that he met Tulsidas and told him the story of Kampan’s Tamil Ramayana and thus influenced Tulsidas to write the his Ramacaritam. Kumaraguruparar does not mention name of any king or the name Meenakshi in his poems, and this makes it difficult to establish accurate dates for his life.
-
-Kumaragurubarar's compositions:
-
-Kandarkalivenbaa, Meenakshiammai Pillaittamail, Maduraik Kalambakam, Neethineri Vilakkam, Thiruvarur Naanmanimaalai, Muthukkumaraswami Pillaitamil, Chidambara Mummanikkovai, Chidambara Ceytutkovai., Pandaaramummanikkovai, Kaasikkalamakam, Sakalakalaavalli Maalai. There is some dispute among scholars as to whether he was the author of Meenakshi Ammai Irattaimanimaalai and Meenaakshi Ammai Kuram, Sivakaami Ammai Irattaimani Maalai.
-
-Kumararuguruparar’s Meenakshi Ammai Pillaittamil is the first pillaittamil (a work that treats a character as a baby) to be written on a goddess and bears a formal resemblance to Periyazhvar’s Tirumozhi.  In his poems, Kumaragurubarar does not call the  goddess Meenakshi but rather uses such Tamil names as Angayarkanni, Kayarkan Kumari, and Angayarkan Amudu. He praises her as the princess and queen of the Pandyan country and the beloved of the god Shiva. His descriptions of Madurai city delight those who read them. He praises Madurai, its flourishing fields, its plants, trees, innocent animals and birds. After reading his poem, no one can forget his descriptions of the moon, the clouds, the jackfruit trees, the lovely mother cow, the frightened monkey, the male elephant’s love for his mate, fighting in war, Indra’s generosity, Ganesha, and the loves of Murugan.  It seems he plunges into the beauty of the land as much as he plunges into the devotion of his goddess.  He does not forget the god Shiva and constantly praises him along with the goddess. The poet does not give much historical information about the Pandyan country, but he does describe how it flourishes. Reading the poem, one often feels that his love for Madurai is as much as, or even more than, his love for the goddess.
-
-The name Irattai Mani Maalai is given because each poem of this work has two parts in different meters, one nericai venpaa and the other kattalaikkalitturai. Its twenty poems praise the goddess who is in Kadambavanam in Madurai and Shiva her beloved.
-Meenakshi Ammai Kuram describes the life of gypsy families, their village, their mountains, how they predict the future and includes praise of the goddess of Kudal city.
-
-Acknowledgement
-I could not have written this translation without the help of my husband George Hart.  I would also like to thank Gita Pai, to whom I first taught Kumaragurupar’s Meenakshi Pillai Tamil.
-
-The Fish-Eyed Goddess of Madurai
-Pillaittamil
-Praising the Gods to Protect the Fish-Eyed Goddess.
+--------------------------------------------------
+## மூலப் பாடம் (Content)
+--------------------------------------------------
 
 1. Praising Ganesha
 Let us praise the god Ganesa
@@ -4012,3 +4104,7 @@ Play on the golden swing
 and give us your grace.
 
 Subham.
+
+--------------------------------------------------
+Madurai Meenakshiyammai Pillaithamizh - English Translation - முற்றும்
+==================================================

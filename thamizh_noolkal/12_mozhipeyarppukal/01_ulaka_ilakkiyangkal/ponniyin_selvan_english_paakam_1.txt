@@ -1,11 +1,34 @@
-Kalki's  "Ponniyin Selvan"
-Part 1-A - New Floods  [Chapters 1 -30]
-Translated 1990 by Indra NeelamegghamSalt Lake City, Utah.
+==================================================
+TITLE: Ponniyin Selvan - English Translation (Part 1: New Floods)
+AUTHOR: Kalki Krishnamurthy / கல்கி கிருஷ்ணமூர்த்தி (Translated by Indra Neelameggham)
+CATEGORY: மொழிபெயர்ப்புகள் / வரலாற்றுப் புதினம் மொழிபெயர்ப்பு
+PERIOD: 20-ஆம் நூற்றாண்டு
+STRUCTURE: Contents + Chapters 1-30 Translation
+GENRE: வரலாற்றுப் புதினம் / Historical Fiction Translation
+LANGUAGE: English / Tamil
+==================================================
 
-With much thanks to R.Neelameggham and Elizabeth Ramadorai for editing help.
+## உள்ளுறை
 
-Thanks to B. Ganesan [biga] for maintaining the Thodarkathai website 1997 - 2000
-Translation Copyright Indra Neelameggham
+- Contents
+- Chapter heading
+- chapter heading
+- Ponniyin Selvan:Chapter 25 -- Inside The Fort
+- 1. Glossary
+- Part 1-B - New Floods [Chapters 31- 57]
+- Ponniyin Selvan: Chapter 31 -- "Thieves! Thieves
+- Ponniyin Selvan: Chapter 33 -- A Beauty Among The Branches
+- Ponniyin Selvan: Chapter 37 -- Lions Clashed!
+- Parthiba, You keep quiet for some time. Let Grandfather express his opinion
+- Chapter 55 -- Nandini's Lover
+- Chapter 56 -- A Palace Incident
+- Chapter 57 -- Enchantress
+- Part I -- New Floods is Concluded
+
+--------------------------------------------------
+## மூலப் பாடம் (Content)
+--------------------------------------------------
+
 Contents
 Chapter  heading
 chapter   heading
@@ -5910,3 +5933,7 @@ Villu-pattu -  Folk songs accompanying a string instrument, story telling
 Vinnagara -  Vishnu temple
 
 -------------
+
+--------------------------------------------------
+Ponniyin Selvan - English Translation (Part 1: New Floods) - முற்றும்
+==================================================

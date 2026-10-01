@@ -1,13 +1,21 @@
-படிக்காசு தம்பிரான் அருளிய தண்டலையார் சதகம் என்னும்
-பழமொழி விளக்கம் - ஆங்கில மொழிபெயர்ப்பு,
-முனைவர் கௌசல்யா ஹார்ட்
-The 100 verses of taNTalaiyar catakam in Tamil script (Unicode) format has been published as part 1 of this release PM release #938_01"
-URL: https://www.projectmadurai.org/pm_etexts/utf8/pmuni0938_01.html
-Another version has been published earlier under "PM release # 219" :
+==================================================
+TITLE: Pazhamozhi Vilakkam (Thandalaiyar Sathakam) - English Translation (Part 2)
+AUTHOR: Padikkasu Thambiran / படிக்காசு தம்பிரான் (English Translation by Dr. Kausalya Hart)
+CATEGORY: மொழிபெயர்ப்புகள் / நீதி இலக்கிய மொழிபெயர்ப்பு
+PERIOD: 17-18-ஆம் நூற்றாண்டு / மொழிபெயர்ப்பு 20-ஆம் நூற்றாண்டு
+STRUCTURE: Introduction + 100 Proverbs & Verses Translation
+GENRE: பழமொழி விளக்கம் / சதகம் மொழிபெயர்ப்பு
+LANGUAGE: English / Tamil
+==================================================
 
-URL:  https://www.projectmadurai.org/pm_etexts/utf8/pmuni0219.html
-Pazhamozh vilakkam - Explaining Proverbs
-Worshiping God.
+## உள்ளுறை
+
+- Introduction
+- Pazhamozhi Vilakkam (Thandalaiyar Sathakam) - English Translation (Verses 1 - 100)
+
+--------------------------------------------------
+## மூலப் பாடம் (Content)
+--------------------------------------------------
 
 1. The god Thandalaiyar is the giver of boons to all!
 
@@ -1060,3 +1068,7 @@ but does one bad deed, wicked people will say he is bad.
 O clever god Thandalaiyar, in your flourishing country
 even if someone uses sacred ash to clean a brass dish,
 it will still have its own smell.
+
+--------------------------------------------------
+Pazhamozhi Vilakkam (Thandalaiyar Sathakam) - English Translation (Part 2) - முற்றும்
+==================================================

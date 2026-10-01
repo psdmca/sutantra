@@ -1,13 +1,47 @@
-Kalki's  "Ponniyin Selvan"
-Part 2-A [Chapters 1 -26]
-Whirlwind
-Translated 1993 by Indra Neelameggham
-Salt Lake City, Utah.
+==================================================
+TITLE: Ponniyin Selvan - English Translation (Part 2: Whirlwind)
+AUTHOR: Kalki Krishnamurthy / கல்கி கிருஷ்ணமூர்த்தி (Translated by Indra Neelameggham)
+CATEGORY: மொழிபெயர்ப்புகள் / வரலாற்றுப் புதினம் மொழிபெயர்ப்பு
+PERIOD: 20-ஆம் நூற்றாண்டு
+STRUCTURE: Contents + Chapters 1-26 Translation
+GENRE: வரலாற்றுப் புதினம் / Historical Fiction Translation
+LANGUAGE: English / Tamil
+==================================================
 
-With much thanks to R.Neelameggham and Elizabeth Ramadorai for editing help.
+## உள்ளுறை
 
-Thanks to B. Ganesan [biga] for maintaining the Thodarkathai website 1997 - 2000
-Translation Copyright Indra Neelameggham
+- Contents
+- Chapter heading chapter heading
+- Chapter 1 -- Poonkuzlali
+- Chapter 20 --Tigress Against Tigress
+- Chapter 23 --Nandini's Letter
+- Chapter 24 --Wax In Embers
+- Chapter 25 --The City Of Mattotam
+- Part 2-B [Chapters 27 - 53]
+- Chapter 27 --Forest Path
+- Chapter 31 --Eleyla Singan Play
+- Chapter 34 --Anuradapura
+- Chapter 36 -- Is Merit Honored?
+- Chapter 37 -- Goddess Cauvery
+- Chapter 38 -- Eloquent Pictures
+- Chapter 39 -- Here is War!
+- Chapter 40 -- Deliberation
+- Chapter 41 -- "Look Over There
+- Chapter 42 -- Poonkuzlali's Dagger
+- Chapter 43 -- "I Am A Culprit
+- Chapter 44 -- The Elephant Turned Rogue
+- Chapter 45 -- Prison Ship
+- Chapter 46 -- Turbulent Soul
+- Chapter 47 -- Ghoulish Laughter
+- Chapter 48 -- The Commodore's Death
+- Chapter 49 -- Ship Hunt
+- Chapter 50 -- Aabathudavis
+- Chapter 52 -- Smashed Boat
+
+--------------------------------------------------
+## மூலப் பாடம் (Content)
+--------------------------------------------------
+
 Contents
 Chapter  heading  chapter   heading
 1   Poonkuzlali   14   Two Full Moons
@@ -5832,3 +5866,7 @@ Velan Attam A semi-religious dance, usually by a man
 Villu-pattu Folk songs accompanying a string instrument, story telling
 Vinnagara Vishnu temple
 Top
+
+--------------------------------------------------
+Ponniyin Selvan - English Translation (Part 2: Whirlwind) - முற்றும்
+==================================================
