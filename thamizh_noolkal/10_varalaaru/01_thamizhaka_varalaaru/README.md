@@ -10,11 +10,11 @@
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
 | 01 | `aanaimangkalas_seppetukal.txt` | **ஆனைமங்கலச் செப்பேடுகள் (லீய்டன் செப்பேடுகள்)** | [வாசிக்க ↗](aanaimangkalas_seppetukal.txt) |
-| 02 | `arunakirinaathar_varalaarum_noolaaraayssiyum_paakam_3.txt` | **அருணகிரிநாதர் - வரலாறும் நூலாராய்ச்சியும் (பாகம் 3)** | [வாசிக்க ↗](arunakirinaathar_varalaarum_noolaaraayssiyum_paakam_3.txt) |
+| 02 | `arunakirinaathar_varalaaru_3.txt` | **அருணகிரிநாதர் - வரலாறும் நூலாராய்ச்சியும் (பாகம் 3)** | [வாசிக்க ↗](arunakirinaathar_varalaaru_3.txt) |
 | 03 | `ezhaantu_ilakkiya_valarssi.txt` | **ஏழாண்டு இலக்கிய வளர்ச்சி (1956 - 1963)** | [வாசிக்க ↗](ezhaantu_ilakkiya_valarssi.txt) |
 | 04 | `muthar_kuloththungka_sozhan.txt` | **முதற் குலோத்துங்க சோழன்** | [வாசிக்க ↗](muthar_kuloththungka_sozhan.txt) |
 | 05 | `nallisaip_pulamai_melliyalaarkal.txt` | **நல்லிசைப் புலமை மெல்லியலார்கள்** | [வாசிக்க ↗](nallisaip_pulamai_melliyalaarkal.txt) |
-| 06 | `paantiya_sozha_vijayanakara_arasar_meykeerththikal.txt` | **பாண்டிய சோழ விஜயநகர அரசர் மெய்க்கீர்த்திகள்** | [வாசிக்க ↗](paantiya_sozha_vijayanakara_arasar_meykeerththikal.txt) |
+| 06 | `arasar_meykeerththikal.txt` | **பாண்டிய சோழ விஜயநகர அரசர் மெய்க்கீர்த்திகள்** | [வாசிக்க ↗](arasar_meykeerththikal.txt) |
 | 07 | `paantiyar_varalaaru.txt` | **பாண்டியர் வரலாறு** | [வாசிக்க ↗](paantiyar_varalaaru.txt) |
 | 08 | `pallavar_varalaaru_iraasamaanikkanaar.txt` | **பல்லவர் வரலாறு** | [வாசிக்க ↗](pallavar_varalaaru_iraasamaanikkanaar.txt) |
 | 09 | `saiva_ilakkiya_varalaaru_paakam_1.txt` | **சைவ இலக்கிய வரலாறு (கி.பி. 7 முதல் 10-ஆம் நூற்றாண்டு வரை - பாகம் 1)** | [வாசிக்க ↗](saiva_ilakkiya_varalaaru_paakam_1.txt) |

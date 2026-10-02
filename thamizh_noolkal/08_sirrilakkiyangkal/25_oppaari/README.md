@@ -11,7 +11,7 @@
 | :---: | :--- | :--- | :--- | :---: |
 | 01 | `01_inparasa_oppaari.txt` | **இன்பரச ஒப்பாரி** | தெரியவில்லை | [வாசிக்க ↗](01_inparasa_oppaari.txt) |
 | 02 | `02_saarathaa_oppaari.txt` | **இன்பரச ஒப்பாரி (PM 0861_01) சாரதா ஒப்பாரி (PM0861_02) - பாகம் 2** | தெரியவில்லை | [வாசிக்க ↗](02_saarathaa_oppaari.txt) |
-| 03 | `03_mangkaiyark_kukantha_manonmani_oppaari_thangkamuththuthaas.txt` | **மங்கையர்க் குகந்த மனோன்மணி ஒப்பாரி** | தெரியவில்லை | [வாசிக்க ↗](03_mangkaiyark_kukantha_manonmani_oppaari_thangkamuththuthaas.txt) |
+| 03 | `03_manonmani_oppaari.txt` | **மங்கையர்க் குகந்த மனோன்மணி ஒப்பாரி** | தெரியவில்லை | [வாசிக்க ↗](03_manonmani_oppaari.txt) |
 | 04 | `04_manmathan_oppaari.txt` | **மன்மதன் ஒப்பாரி** | தெரியவில்லை | [வாசிக்க ↗](04_manmathan_oppaari.txt) |
 | 05 | `05_singkappoor_oppaari_thangkamuththuthaas.txt` | **சிங்கப்பூர் ஒப்பாரி** | தெரியவில்லை | [வாசிக்க ↗](05_singkappoor_oppaari_thangkamuththuthaas.txt) |
 | 06 | `06_theyvaloka_oppaari.txt` | **தெய்வலோக ஒப்பாரி** | தெரியவில்லை | [வாசிக்க ↗](06_theyvaloka_oppaari.txt) |

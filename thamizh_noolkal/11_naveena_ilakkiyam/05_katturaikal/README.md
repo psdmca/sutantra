@@ -48,7 +48,7 @@
 | 37 | `kaalanthorum_pen_raajam_kirushnan.txt` | **காலந்தோறும் பெண் (சமூகவியல் ஆய்வு)** | ராஜம் கிருஷ்ணன் | [வாசிக்க ↗](kaalanthorum_pen_raajam_kirushnan.txt) |
 | 38 | `kaaviyamum_oviyamum_katturaikal.txt` | **காவியமும் ஓவியமும் (கட்டுரைகள்)** | கி. வா. ஜகந்நாதன் | [வாசிக்க ↗](kaaviyamum_oviyamum_katturaikal.txt) |
 | 39 | `kalevalaa_thamizhaakkam_aar_uthayanan.txt` | **காலேவலா (ஃபின்லாந்து தேசிய காவியம் - தமிழாக்கம்)** | ஆர். உதயணன் (மூலம்: எலியாஸ் லோன்ரோட்) | [வாசிக்க ↗](kalevalaa_thamizhaakkam_aar_uthayanan.txt) |
-| 40 | `kampan_kanta_aatsiyil_arasiyal_samookam_sorpozhivu.txt` | **கம்பன் கண்ட ஆட்சியில் அரசியல் சமூகம் (சொற்பொழிவு)** | தவத்திரு குன்றக்குடி அடிகளார் | [வாசிக்க ↗](kampan_kanta_aatsiyil_arasiyal_samookam_sorpozhivu.txt) |
+| 40 | `kampan_kanta_aatsi.txt` | **கம்பன் கண்ட ஆட்சியில் அரசியல் சமூகம் (சொற்பொழிவு)** | தவத்திரு குன்றக்குடி அடிகளார் | [வாசிக்க ↗](kampan_kanta_aatsi.txt) |
 | 41 | `kamparasam.txt` | **கம்பரசம்** | பேரறிஞர் அண்ணா (கா. ந. அண்ணாதுரை) | [வாசிக்க ↗](kamparasam.txt) |
 | 42 | `kamparum_vaalmeekiyum.txt` | **கம்பரும் வால்மீகியும்** | நாமக்கல் கவிஞர் வெ. இராமலிங்கம் பிள்ளை | [வாசிக்க ↗](kamparum_vaalmeekiyum.txt) |
 | 43 | `kanniththamizh_katturaikal.txt` | **கன்னித்தமிழ் (கட்டுரைகள்)** | கி. வா. ஜகந்நாதன் | [வாசிக்க ↗](kanniththamizh_katturaikal.txt) |
@@ -66,7 +66,7 @@
 | 55 | `manaththin_thorram.txt` | **மனத்தின் தோற்றம் (ஆய்வுக் கட்டுரைகள்)** | பேராசிரியர் சுந்தர சண்முகனார் | [வாசிக்க ↗](manaththin_thorram.txt) |
 | 56 | `manonmaneeyam.txt` | **மனோன்மணீயம்** | பேராசிரியர் பெ. சுந்தரம் பிள்ளை | [வாசிக்க ↗](manonmaneeyam.txt) |
 | 57 | `mullaiththinai_mu_varatharaasanaar.txt` | **முல்லைத்திணை** | டாக்டர் மு. வரதராசனார் (மு.வ.) | [வாசிக்க ↗](mullaiththinai_mu_varatharaasanaar.txt) |
-| 58 | `muthar_kuloththungka_sozhan_sathaasiva_pantaaratha.txt` | **முதற் குலோத்துங்க சோழன்** | தி. வை. சதாசிவ பண்டாரத்தார் | [வாசிக்க ↗](muthar_kuloththungka_sozhan_sathaasiva_pantaaratha.txt) |
+| 58 | `muthar_kuloththungka_sozhan.txt` | **முதற் குலோத்துங்க சோழன்** | தி. வை. சதாசிவ பண்டாரத்தார் | [வாசிக்க ↗](muthar_kuloththungka_sozhan.txt) |
 | 59 | `muththamizh_valarththa_munivarkal.txt` | **முத்தமிழ் வளர்த்த முனிவர்கள்** | அ. க. நவநீதகிருட்டிணன் | [வாசிக்க ↗](muththamizh_valarththa_munivarkal.txt) |
 | 60 | `naan_kanta_naatakak_kalainjarkal.txt` | **நான் கண்ட நாடகக் கலைஞர்கள்** | பம்மல் சம்பந்த முதலியார் | [வாசிக்க ↗](naan_kanta_naatakak_kalainjarkal.txt) |
 | 61 | `naan_kantathum_kettathum.txt` | **நான் கண்டதும் கேட்டதும்** | தமிழ்த்தாத்தா உ. வே. சாமிநாதையர் | [வாசிக்க ↗](naan_kantathum_kettathum.txt) |
@@ -101,8 +101,8 @@
 | 90 | `saanror_thamizh.txt` | **சான்றோர் தமிழ்** | முனைவர் சி. பாலசுப்பிரமணியன் | [வாசிக்க ↗](saanror_thamizh.txt) |
 | 91 | `saiva_samayam_katturaikal.txt` | **சைவ சமயம் (கட்டுரைகள்)** | டாக்டர் மா. இராசமாணிக்கனார் | [வாசிக்க ↗](saiva_samayam_katturaikal.txt) |
 | 92 | `samanamum_thamizhum_muthal_paakam.txt` | **சமணமும் தமிழும் (முதல் பாகம்)** | மயிலை சீனி. வேங்கடசாமி | [வாசிக்க ↗](samanamum_thamizhum_muthal_paakam.txt) |
-| 93 | `samuthaaya_marumalarssi_ilakkiyangkal_ilakkiyas_sorpozhivukal.txt` | **சமுதாய மறுமலர்ச்சி இலக்கியங்கள் (சொற்பொழிவுகள்)** | தவத்திரு குன்றக்குடி அடிகளார் | [வாசிக்க ↗](samuthaaya_marumalarssi_ilakkiyangkal_ilakkiyas_sorpozhivukal.txt) |
-| 94 | `sangka_kaalaththil_thamizh_naattil_penkalin_nilai.txt` | **The Status of Women in Tamil Nadu During the Sangam Age** | Dr. C. Balasubramanian | [வாசிக்க ↗](sangka_kaalaththil_thamizh_naattil_penkalin_nilai.txt) |
+| 93 | `samuthaaya_marumalarssi_ilakkiyangkal.txt` | **சமுதாய மறுமலர்ச்சி இலக்கியங்கள் (சொற்பொழிவுகள்)** | தவத்திரு குன்றக்குடி அடிகளார் | [வாசிக்க ↗](samuthaaya_marumalarssi_ilakkiyangkal.txt) |
+| 94 | `sangka_kaalaththil_penkalin_nilai.txt` | **The Status of Women in Tamil Nadu During the Sangam Age** | Dr. C. Balasubramanian | [வாசிக்க ↗](sangka_kaalaththil_penkalin_nilai.txt) |
 | 95 | `sangkakaalas_saanrorkal.txt` | **சங்ககாலச் சான்றோர்கள்** | ந. சஞ்சீவி | [வாசிக்க ↗](sangkakaalas_saanrorkal.txt) |
 | 96 | `sekkizhaar_aaraayssi_nool.txt` | **சேக்கிழார் (ஆராய்ச்சி நூல்)** | டாக்டர் மா. இராசமாணிக்கனார் | [வாசிக்க ↗](sekkizhaar_aaraayssi_nool.txt) |
 | 97 | `semmozhip_puthaiyal.txt` | **செம்மொழிப் புதையல் (பாகம் 1)** | உரைவேந்தர் ஔவை துரைசாமிப் பிள்ளை | [வாசிக்க ↗](semmozhip_puthaiyal.txt) |
@@ -120,7 +120,7 @@
 | 109 | `thamizh_inpam.txt` | **தமிழ் இன்பம் (கட்டுரைத் தொகுப்பு)** | டாக்டர் ரா. பி. சேதுப்பிள்ளை | [வாசிக்க ↗](thamizh_inpam.txt) |
 | 110 | `thamizh_iyakkam.txt` | **தமிழியக்கம்** | பாவேந்தர் பாரதிதாசன் | [வாசிக்க ↗](thamizh_iyakkam.txt) |
 | 111 | `thamizh_naavalin_thorramum_valarssiyum.txt` | **தமிழ் நாவலின் தோற்றமும் வளர்ச்சியும் (பல்கலைக் கழகச் சொற்பொழிவுகள்)** | கி. வா. ஜகந்நாதன் | [வாசிக்க ↗](thamizh_naavalin_thorramum_valarssiyum.txt) |
-| 112 | `thamizh_noolkalil_pauththam_thiru_vi_kaliyaanasuntharanaar.txt` | **தமிழ் நூல்களில் பௌத்தம் (சொற்பொழிவு)** | திரு. வி. கலியாணசுந்தரனார் (திரு.வி.க.) | [வாசிக்க ↗](thamizh_noolkalil_pauththam_thiru_vi_kaliyaanasuntharanaar.txt) |
+| 112 | `thamizh_noolkalil_pauththam.txt` | **தமிழ் நூல்களில் பௌத்தம் (சொற்பொழிவு)** | திரு. வி. கலியாணசுந்தரனார் (திரு.வி.க.) | [வாசிக்க ↗](thamizh_noolkalil_pauththam.txt) |
 | 113 | `thamizh_valarththa_nakarangkal.txt` | **தமிழ் வளர்த்த நகரங்கள்** | அ. க. நவநீத கிருட்டிணன் | [வாசிக்க ↗](thamizh_valarththa_nakarangkal.txt) |
 | 114 | `thamizh_virunthu.txt` | **தமிழ் விருந்து** | டாக்டர் ரா. பி. சேதுப்பிள்ளை | [வாசிக்க ↗](thamizh_virunthu.txt) |
 | 115 | `thamizhakak_kalaikal.txt` | **தமிழகக் கலைகள்** | டாக்டர் மா. இராசமாணிக்கனார் | [வாசிக்க ↗](thamizhakak_kalaikal.txt) |

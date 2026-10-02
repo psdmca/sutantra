@@ -9,7 +9,7 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
-| 01 | `01_seyyulilakkanam_kaththiyaroopam.txt` | **Seyyulilakkanam Kaththiyaroopam** | [வாசிக்க ↗](01_seyyulilakkanam_kaththiyaroopam.txt) |
+| 01 | `01_seyyulilakkanam.txt` | **Seyyulilakkanam Kaththiyaroopam** | [வாசிக்க ↗](01_seyyulilakkanam.txt) |
 | 02 | `02_sinthuppaaviyal.txt` | **Sinthuppaaviyal** | [வாசிக்க ↗](02_sinthuppaaviyal.txt) |
 | 03 | `03_yaapparungkalakkaarikai.txt` | **Yaapparungkalakkaarikai** | [வாசிக்க ↗](03_yaapparungkalakkaarikai.txt) |
 

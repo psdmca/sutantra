@@ -11,12 +11,12 @@
 | :---: | :--- | :--- | :---: |
 | 01 | `01_thiruvalluvamaalai.txt` | **Thiruvalluvamaalai** | [வாசிக்க ↗](01_thiruvalluvamaalai.txt) |
 | 02 | `02_aranerissaaram.txt` | **Aranerissaaram** | [வாசிக்க ↗](02_aranerissaaram.txt) |
-| 03 | `03_verriverkai_narunthokai.txt` | **Verriverkai Narunthokai** | [வாசிக்க ↗](03_verriverkai_narunthokai.txt) |
+| 03 | `03_verriverkai.txt` | **Verriverkai Narunthokai** | [வாசிக்க ↗](03_verriverkai.txt) |
 | 04 | `04_ulakaneethi.txt` | **Ulakaneethi** | [வாசிக்க ↗](04_ulakaneethi.txt) |
 | 05 | `05_makaaraajaa_thuravu.txt` | **Makaaraajaa Thuravu** | [வாசிக்க ↗](05_makaaraajaa_thuravu.txt) |
 | 06 | `06_viveka_sinthaamani.txt` | **Viveka Sinthaamani** | [வாசிக்க ↗](06_viveka_sinthaamani.txt) |
-| 07 | `07_verriverkai_uraiyum_kathaikkurippum.txt` | **Verriverkai Uraiyum Kathaikkurippum** | [வாசிக்க ↗](07_verriverkai_uraiyum_kathaikkurippum.txt) |
-| 08 | `08_arul_neri_muzhakkam_sorpozhivukal.txt` | **Arul Neri Muzhakkam Sorpozhivukal** | [வாசிக்க ↗](08_arul_neri_muzhakkam_sorpozhivukal.txt) |
+| 07 | `07_verriverkai_urai.txt` | **Verriverkai Uraiyum Kathaikkurippum** | [வாசிக்க ↗](07_verriverkai_urai.txt) |
+| 08 | `08_arul_neri_muzhakkam.txt` | **Arul Neri Muzhakkam Sorpozhivukal** | [வாசிக்க ↗](08_arul_neri_muzhakkam.txt) |
 | 09 | `09_perumporul_vilakkam.txt` | **பெரும்பொருள் விளக்கம்** | [வாசிக்க ↗](09_perumporul_vilakkam.txt) |
 
 ---

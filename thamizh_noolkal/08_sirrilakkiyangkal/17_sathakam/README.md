@@ -26,7 +26,7 @@
 | 15 | `15_nataraasa_sathakam.txt` | **நடராச சதகம்** | தெரியவில்லை | [வாசிக்க ↗](15_nataraasa_sathakam.txt) |
 | 16 | `16_paantimantala_sathakam.txt` | **இயற்றிய   பாண்டிமண்டல சதகம்** | தெரியவில்லை | [வாசிக்க ↗](16_paantimantala_sathakam.txt) |
 | 17 | `17_pazhamozhi_vilakkam_thantalaiyaar_sathakam.txt` | **பழமொழி விளக்கம் என்னும் தண்டலையார் சதகம்** | தெரியவில்லை | [வாசிக்க ↗](17_pazhamozhi_vilakkam_thantalaiyaar_sathakam.txt) |
-| 18 | `18_sangkara_naaraayanasaami_koyil_sri_komathiyampikai_sathakam.txt` | **சங்கர நாராயணசாமி கோயில் ஸ்ரீ கோமதியம்பிகை சதகம்** | தெரியவில்லை | [வாசிக்க ↗](18_sangkara_naaraayanasaami_koyil_sri_komathiyampikai_sathakam.txt) |
+| 18 | `18_komathiyampikai_sathakam.txt` | **சங்கர நாராயணசாமி கோயில் ஸ்ரீ கோமதியம்பிகை சதகம்** | தெரியவில்லை | [வாசிக்க ↗](18_komathiyampikai_sathakam.txt) |
 | 19 | `19_sathurakiri_arappaleesura_sathakam.txt` | **சதுரகிரி அறப்பளீசுர சதகம்** | தெரியவில்லை | [வாசிக்க ↗](19_sathurakiri_arappaleesura_sathakam.txt) |
 | 20 | `20_sengkunthar_sathakam.txt` | **செங்குந்தர் சதகம்** | தெரியவில்லை | [வாசிக்க ↗](20_sengkunthar_sathakam.txt) |
 | 21 | `21_sivasangkara_sathakam.txt` | **இயற்றிய  சிவசங்கர சதகம்** | தெரியவில்லை | [வாசிக்க ↗](21_sivasangkara_sathakam.txt) |

@@ -15,7 +15,7 @@
 | 04 | `04_mathurai_meenaatsiyamman_peril_akaval.txt` | **மதுரை மீனாட்சியம்மன் பேரில் அகவல்** | தெரியவில்லை | [வாசிக்க ↗](04_mathurai_meenaatsiyamman_peril_akaval.txt) |
 | 05 | `05_porrith_thiru_akaval.txt` | **கிருஷ்ண பிள்ளை எழுதிய போற்றித் திரு அகவல்** | தெரியவில்லை | [வாசிக்க ↗](05_porrith_thiru_akaval.txt) |
 | 06 | `06_siva_paraakrama_porri_akaval.txt` | **சிவ பராக்ரம போற்றி அகவல்** | வ. சு. செங்கல்வராய பிள்ளை | [வாசிக்க ↗](06_siva_paraakrama_porri_akaval.txt) |
-| 07 | `07_thiruvaavatuthurai_aatheenaththuk_kuruparamparaiyakaval.txt` | **07 thiruvaavatuthurai aatheenaththuk kuruparamparaiyakaval** | மகாவித்துவான் மீனாட்சிசுந்தரம் பிள்ளை | [வாசிக்க ↗](07_thiruvaavatuthurai_aatheenaththuk_kuruparamparaiyakaval.txt) |
+| 07 | `07_thiruvaavatuthurai_kuruparamparai_akaval.txt` | **07 thiruvaavatuthurai aatheenaththuk kuruparamparaiyakaval** | மகாவித்துவான் மீனாட்சிசுந்தரம் பிள்ளை | [வாசிக்க ↗](07_thiruvaavatuthurai_kuruparamparai_akaval.txt) |
 | 08 | `08_valaiyaapathi_akaval.txt` | **வளையாபதி அகவல்** | தெரியவில்லை | [வாசிக்க ↗](08_valaiyaapathi_akaval.txt) |
 | 09 | `09_vinaayakar_akaval.txt` | **விநாயகர் அகவல் (மூலமும் பு.பா.இரசபதி உரையும்)** | தெரியவில்லை | [வாசிக்க ↗](09_vinaayakar_akaval.txt) |
 | 10 | `10_vinaayakar_akaval_auvaiyaar.txt` | **ஒளவையார் அருளிச்செய்த விநாயகர் அகவல்** | தெரியவில்லை | [வாசிக்க ↗](10_vinaayakar_akaval_auvaiyaar.txt) |

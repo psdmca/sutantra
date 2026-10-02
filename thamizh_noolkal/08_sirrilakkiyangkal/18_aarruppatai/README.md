@@ -14,7 +14,7 @@
 | 03 | `03_porul_murukaarruppatai.txt` | **ஆற்றுப்படை நூல்கள் (5)** | பல்வேறு ஆசிரியர்கள் (தொகுப்பு: பேராசிரியர் எஸ். வையாபுரிப்பிள்ளை) | [வாசிக்க ↗](03_porul_murukaarruppatai.txt) |
 | 04 | `04_sennimalai_murukan_pulavaraarruppatai.txt` | **04 sennimalai murukan pulavaraarruppatai** | தெரியவில்லை | [வாசிக்க ↗](04_sennimalai_murukan_pulavaraarruppatai.txt) |
 | 05 | `05_senthamizh_aarrup_patai.txt` | **05 senthamizh aarrup patai** | தெரியவில்லை | [வாசிக்க ↗](05_senthamizh_aarrup_patai.txt) |
-| 06 | `06_thirumurukaarruppatai_uraiyutan.txt` | **ஆற்றுப்படை நூல்கள் (5)** | பல்வேறு ஆசிரியர்கள் (தொகுப்பு: பேராசிரியர் எஸ். வையாபுரிப்பிள்ளை) | [வாசிக்க ↗](06_thirumurukaarruppatai_uraiyutan.txt) |
+| 06 | `06_thirumurukaarruppatai_urai.txt` | **ஆற்றுப்படை நூல்கள் (5)** | பல்வேறு ஆசிரியர்கள் (தொகுப்பு: பேராசிரியர் எஸ். வையாபுரிப்பிள்ளை) | [வாசிக்க ↗](06_thirumurukaarruppatai_urai.txt) |
 | 07 | `07_thiruththanikaiyaarruppatai.txt` | **நேரிசை வெண்பா** | தெரியவில்லை | [வாசிக்க ↗](07_thiruththanikaiyaarruppatai.txt) |
 | 08 | `08_varumurukaarruppatai.txt` | **ஆற்றுப்படை நூல்கள் (5)** | பல்வேறு ஆசிரியர்கள் (தொகுப்பு: பேராசிரியர் எஸ். வையாபுரிப்பிள்ளை) | [வாசிக்க ↗](08_varumurukaarruppatai.txt) |
 

@@ -42,11 +42,11 @@
 | 31 | `28_sathamani_maalai.txt` | **எழுதிய சதமணி மாலை** | துறைமங்கலம் சிவப்பிரகாச சுவாமிகள் | [வாசிக்க ↗](28_sathamani_maalai.txt) |
 | 32 | `29_siththirassaththirap_pukazhssimaalai.txt` | **சித்திரச்சத்திரப் புகழ்ச்சிமாலை** | மகாவித்துவான் மீனாட்சிசுந்தரம் பிள்ளை | [வாசிக்க ↗](29_siththirassaththirap_pukazhssimaalai.txt) |
 | 33 | `30_sokkanaatha_maalai.txt` | **சொக்கநாத மாலை** | மகாவித்துவான் மீனாட்சிசுந்தரம் பிள்ளை | [வாசிக்க ↗](30_sokkanaatha_maalai.txt) |
-| 34 | `31_sri_manavaala_maamunikal_naanmanimaalai.txt` | **துதிகவிகள் & ஸ்ரீ மணவாள மாமுனிகள் நான்மணிமாலை** | பள்ளிகொண்டான் பிள்ளை | [வாசிக்க ↗](31_sri_manavaala_maamunikal_naanmanimaalai.txt) |
-| 35 | `32_sri_meykantathevar_naanmanimaalai.txt` | **ஸ்ரீமெய்கண்டதேவர்  நான்மணிமாலை.** | தெரியவில்லை | [வாசிக்க ↗](32_sri_meykantathevar_naanmanimaalai.txt) |
-| 36 | `33_sri_sassithaananthathesikar_maalai.txt` | **தருமபுர ஆதீனத்து ஸ்ரீ சச்சிதானந்ததேசிகர் மாலை** | மகாவித்துவான் மீனாட்சிசுந்தரம் பிள்ளை | [வாசிக்க ↗](33_sri_sassithaananthathesikar_maalai.txt) |
-| 37 | `34_sri_suppiramanithesikar_naanmanimaalai.txt` | **ஸ்ரீ சுப்பிரமணிதேசிகர்  நான்மணிமாலை** | தெரியவில்லை | [வாசிக்க ↗](34_sri_suppiramanithesikar_naanmanimaalai.txt) |
-| 38 | `35_sri_suppiramaniyathesikar_maalai.txt` | **ஸ்ரீ சுப்பிரமணியதேசிகர் மாலை** | மகாவித்துவான் மீனாட்சிசுந்தரம் பிள்ளை | [வாசிக்க ↗](35_sri_suppiramaniyathesikar_maalai.txt) |
+| 34 | `31_manavaala_maamunikal_naanmanimaalai.txt` | **துதிகவிகள் & ஸ்ரீ மணவாள மாமுனிகள் நான்மணிமாலை** | பள்ளிகொண்டான் பிள்ளை | [வாசிக்க ↗](31_manavaala_maamunikal_naanmanimaalai.txt) |
+| 35 | `32_meykantathevar_naanmanimaalai.txt` | **ஸ்ரீமெய்கண்டதேவர்  நான்மணிமாலை.** | தெரியவில்லை | [வாசிக்க ↗](32_meykantathevar_naanmanimaalai.txt) |
+| 36 | `33_sassithaananthathesikar_maalai.txt` | **தருமபுர ஆதீனத்து ஸ்ரீ சச்சிதானந்ததேசிகர் மாலை** | மகாவித்துவான் மீனாட்சிசுந்தரம் பிள்ளை | [வாசிக்க ↗](33_sassithaananthathesikar_maalai.txt) |
+| 37 | `34_suppiramanithesikar_naanmanimaalai.txt` | **ஸ்ரீ சுப்பிரமணிதேசிகர்  நான்மணிமாலை** | தெரியவில்லை | [வாசிக்க ↗](34_suppiramanithesikar_naanmanimaalai.txt) |
+| 38 | `35_suppiramaniyathesikar_maalai.txt` | **ஸ்ரீ சுப்பிரமணியதேசிகர் மாலை** | மகாவித்துவான் மீனாட்சிசுந்தரம் பிள்ளை | [வாசிக்க ↗](35_suppiramaniyathesikar_maalai.txt) |
 | 39 | `36_thanjsai_peruvutaiyaar_maalai.txt` | **தஞ்சை பெருவுடையார் மாலை** | தெரியவில்லை | [வாசிக்க ↗](36_thanjsai_peruvutaiyaar_maalai.txt) |
 | 40 | `37_thillaivenpaamaalai.txt` | **தில்லைவெண்பாமாலை. & சிவகாமியம்மை பதிகம்** | தெரியவில்லை | [வாசிக்க ↗](37_thillaivenpaamaalai.txt) |
 | 41 | `38_thilsai_sivakaamiyammai_irattai_manimaalai.txt` | **தில்லைச் சிவகாமியம்மை இரட்டைமணிமாலை** | குமரகுருபர சுவாமிகள் | [வாசிக்க ↗](38_thilsai_sivakaamiyammai_irattai_manimaalai.txt) |
@@ -54,15 +54,15 @@
 | 43 | `40_thiruneermalai_animaamalar_mangkaiththaayaar_maalai.txt` | **திருநீர்மலை அணிமாமலர் மங்கைத்தாயார்மாலை** | பள்ளிகொண்டான் பிள்ளை | [வாசிக்க ↗](40_thiruneermalai_animaamalar_mangkaiththaayaar_maalai.txt) |
 | 44 | `41_thirunellaith_thiruppanimaalai.txt` | **திருநெல்லைத் திருப்பணிமாலை** | தெரியவில்லை | [வாசிக்க ↗](41_thirunellaith_thiruppanimaalai.txt) |
 | 45 | `42_thiruninravoor_ennaip_perrathaayaar_maalai.txt` | **திருநின்றவூர்  என்னைப் பெற்றதாயார் மாலை** | பள்ளிகொண்டான் பிள்ளை | [வாசிக்க ↗](42_thiruninravoor_ennaip_perrathaayaar_maalai.txt) |
-| 46 | `43_thirunjaanasampanthasuvaamikal_aananthakkalippu_thirukkarkutimaa.txt` | **43 thirunjaanasampanthasuvaamikal aananthakkalippu thirukkarkutimaa** | மகாவித்துவான் மீனாட்சிசுந்தரம் பிள்ளை | [வாசிக்க ↗](43_thirunjaanasampanthasuvaamikal_aananthakkalippu_thirukkarkutimaa.txt) |
-| 47 | `44_thirupperoor_irattai_mani_maalai_si_ke_suppiramaniya_muthaliyaar.txt` | **திருப்பேரூர் இரட்டை மணி மாலை** | கோயமுத்தூர் சுப்பிரமணிய முதலியார் | [வாசிக்க ↗](44_thirupperoor_irattai_mani_maalai_si_ke_suppiramaniya_muthaliyaar.txt) |
+| 46 | `43_sampanthar_aananthakkalippu.txt` | **43 thirunjaanasampanthasuvaamikal aananthakkalippu thirukkarkutimaa** | மகாவித்துவான் மீனாட்சிசுந்தரம் பிள்ளை | [வாசிக்க ↗](43_sampanthar_aananthakkalippu.txt) |
+| 47 | `44_thirupperoor_irattai_mani_maalai.txt` | **திருப்பேரூர் இரட்டை மணி மாலை** | கோயமுத்தூர் சுப்பிரமணிய முதலியார் | [வாசிக்க ↗](44_thirupperoor_irattai_mani_maalai.txt) |
 | 48 | `45_thiruppullaanimaalai.txt` | **திருப்புல்லாணி மாலை** | தெரியவில்லை | [வாசிக்க ↗](45_thiruppullaanimaalai.txt) |
 | 49 | `46_thirussukanoor_alarmelmangkaith_thaayaar_maalai.txt` | **திருச்சுகனூர் அலர்மேன் மங்கைத்தாயார் மாலை.** | பள்ளிகொண்டான் பிள்ளை | [வாசிக்க ↗](46_thirussukanoor_alarmelmangkaith_thaayaar_maalai.txt) |
 | 50 | `47_thiruththontarmaalai.txt` | **குமாரபாரதியார் இயற்றிய  திருத்தொண்டர்மாலை** | மகாகவி சுப்பிரமணிய பாரதியார் | [வாசிக்க ↗](47_thiruththontarmaalai.txt) |
 | 51 | `48_thiruvaaroor_naanmanimaalai.txt` | **திருவாரூர் நான்மணி மாலை** | குமரகுருபர சுவாமிகள் | [வாசிக்க ↗](48_thiruvaaroor_naanmanimaalai.txt) |
 | 52 | `49_thiruvallikkeni_uruppiniththaayaar_maalai.txt` | **திருவல்லிக்கேணி உருப்பிணித்தாயார் மாலை** | பள்ளிகொண்டான் பிள்ளை | [வாசிக்க ↗](49_thiruvallikkeni_uruppiniththaayaar_maalai.txt) |
 | 53 | `50_thiruvallikkenip_paarththasaarathi_maayavan_maalai.txt` | **திருவல்லிக்கேணிப் பார்த்தசாரதி மாயவன் மாலை.** | பள்ளிகொண்டான் பிள்ளை | [வாசிக்க ↗](50_thiruvallikkenip_paarththasaarathi_maayavan_maalai.txt) |
-| 54 | `51_thiruvallikkenip_paarththasaarathip_paranjsutar_maalai.txt` | **திருவல்லிக்கேணிப் பார்த்தசாரதிப்பரஞ்சுடர் மாலை.** | பள்ளிகொண்டான் பிள்ளை | [வாசிக்க ↗](51_thiruvallikkenip_paarththasaarathip_paranjsutar_maalai.txt) |
+| 54 | `51_thiruvallikkeni_paranjsutar_maalai.txt` | **திருவல்லிக்கேணிப் பார்த்தசாரதிப்பரஞ்சுடர் மாலை.** | பள்ளிகொண்டான் பிள்ளை | [வாசிக்க ↗](51_thiruvallikkeni_paranjsutar_maalai.txt) |
 | 55 | `52_thiruvallikkenip_paarththasaarathip_perumaan_maalai.txt` | **திருவல்லிக்கேணிப் பார்த்தசாரதிப் பெருமான் மாலை** | பள்ளிகொண்டான் பிள்ளை | [வாசிக்க ↗](52_thiruvallikkenip_paarththasaarathip_perumaan_maalai.txt) |
 | 56 | `53_thiruvengkata_maayon_maalai.txt` | **திருவேங்கட மாயோன் மாலை** | மகாவித்துவான் ரா. இராகவையங்கார் | [வாசிக்க ↗](53_thiruvengkata_maayon_maalai.txt) |
 | 57 | `54_thiruvevvuloor_kanakavalliththaayaar_maalai.txt` | **திருவெவ்வுளூர் கனகவல்லித்தாயார் மாலை.** | பள்ளிகொண்டான் பிள்ளை | [வாசிக்க ↗](54_thiruvevvuloor_kanakavalliththaayaar_maalai.txt) |

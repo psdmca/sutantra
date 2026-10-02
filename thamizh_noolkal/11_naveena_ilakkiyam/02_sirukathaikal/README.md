@@ -26,8 +26,8 @@
 | 15 | `jayakanthan_sirukathaikal_thokuppu_2.txt` | **ஜெயகாந்தன் சிறுகதைகள் (தொகுப்பு 2)** | ஜெயகாந்தன் | [வாசிக்க ↗](jayakanthan_sirukathaikal_thokuppu_2.txt) |
 | 16 | `jayakanthan_sirukathaikal_thokuppu_3.txt` | **ஜெயகாந்தன் சிறுகதைகள் (தொகுப்பு 3)** | ஜெயகாந்தன் | [வாசிக்க ↗](jayakanthan_sirukathaikal_thokuppu_3.txt) |
 | 17 | `jayakanthan_sirukathaikal_thokuppu_4.txt` | **ஜெயகாந்தன் சிறுகதைகள் (தொகுப்பு 4)** | ஜெயகாந்தன் | [வாசிக்க ↗](jayakanthan_sirukathaikal_thokuppu_4.txt) |
-| 18 | `kaalanaik_kattiyatakkiya_katorasiththan_kathai_paakam_2.txt` | **காலனைக் கட்டியடக்கிய கடோரசித்தன் கதை (பாகம் 2)** | வ. சு. செங்கல்வராய பிள்ளை | [வாசிக்க ↗](kaalanaik_kattiyatakkiya_katorasiththan_kathai_paakam_2.txt) |
-| 19 | `kalkiyin_sirukathaikal_thokuppu_sirukathaikal_1_75.txt` | **கல்கியின் சிறுகதைகள் (1-75)** | கல்கி (ரா. கிருஷ்ணமூர்த்தி) | [வாசிக்க ↗](kalkiyin_sirukathaikal_thokuppu_sirukathaikal_1_75.txt) |
+| 18 | `katorasiththan_kathai_2.txt` | **காலனைக் கட்டியடக்கிய கடோரசித்தன் கதை (பாகம் 2)** | வ. சு. செங்கல்வராய பிள்ளை | [வாசிக்க ↗](katorasiththan_kathai_2.txt) |
+| 19 | `kalkiyin_sirukathaikal.txt` | **கல்கியின் சிறுகதைகள் (1-75)** | கல்கி (ரா. கிருஷ்ணமூர்த்தி) | [வாசிக்க ↗](kalkiyin_sirukathaikal.txt) |
 | 20 | `kathaik_koththu.txt` | **கதைக் கொத்து** | மகாகவி சி. சுப்பிரமணிய பாரதியார் | [வாசிக்க ↗](kathaik_koththu.txt) |
 | 21 | `komalaththin_kopam_sirukathaikal.txt` | **கோமளத்தின் கோபம்** | பேரறிஞர் அண்ணா (சி. என். அண்ணாதுரை) | [வாசிக்க ↗](komalaththin_kopam_sirukathaikal.txt) |
 | 22 | `kumariyin_mookkuththi_sirukathaikal.txt` | **குமரியின் மூக்குத்தி** | கி. வா. ஜகந்நாதன் | [வாசிக்க ↗](kumariyin_mookkuththi_sirukathaikal.txt) |

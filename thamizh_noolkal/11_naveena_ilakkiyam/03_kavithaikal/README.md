@@ -30,7 +30,7 @@
 | 19 | `kalvettup_paatalkal_manjsari_1.txt` | **கல்வெட்டுப் பாடல்கள் மஞ்சரி (தொகுதி 1)** | தொல்லியல் திரட்டு (மகதைப் பெருமாள் புகழ் பாடுவன) | [வாசிக்க ↗](kalvettup_paatalkal_manjsari_1.txt) |
 | 20 | `kanavin_meethi.txt` | **கனவின் மீதி...** | கி. பி. அரவிந்தன் | [வாசிக்க ↗](kanavin_meethi.txt) |
 | 21 | `kanissaaru_muthal_thokuthi.txt` | **கனிச்சாறு (முதல் தொகுதி)** | பாவலரேறு பெருஞ்சித்திரனார் | [வாசிக்க ↗](kanissaaru_muthal_thokuthi.txt) |
-| 22 | `kannaki_puratsik_kaappiyam_silappathikaarak_kannakiyin_kathai.txt` | **கண்ணகி புரட்சிக் காப்பியம்** | பாவேந்தர் பாரதிதாசன் | [வாசிக்க ↗](kannaki_puratsik_kaappiyam_silappathikaarak_kannakiyin_kathai.txt) |
+| 22 | `kannaki_puratsik_kaappiyam.txt` | **கண்ணகி புரட்சிக் காப்பியம்** | பாவேந்தர் பாரதிதாசன் | [வாசிக்க ↗](kannaki_puratsik_kaappiyam.txt) |
 | 23 | `kannan_paattu.txt` | **கண்ணன் பாட்டு** | மகாகவி பாரதியார் | [வாசிக்க ↗](kannan_paattu.txt) |
 | 24 | `kavithaikal_muthar_thokuthi_75_kavithaikal.txt` | **பாரதிதாசன் கவிதைகள் (முதற் தொகுதி - 75 கவிதைகள்)** | பாவேந்தர் பாரதிதாசன் | [வாசிக்க ↗](kavithaikal_muthar_thokuthi_75_kavithaikal.txt) |
 | 25 | `kirushnakaanam.txt` | **ஸ்ரீ கிருஷ்ணகானம்** | ஊத்துக்காடு வெங்கடசுப்பையர் (தொகுத்தவர்: நீடாமங்கலம் கிருஷ்ணமூர்த்தி பாகவதர்) | [வாசிக்க ↗](kirushnakaanam.txt) |
@@ -38,7 +38,7 @@
 | 27 | `koti_mullai_kavithaikal.txt` | **கொடி முல்லை** | கவிஞரேறு வாணிதாசன் | [வாசிக்க ↗](koti_mullai_kavithaikal.txt) |
 | 28 | `kurinjsith_thittu.txt` | **குறிஞ்சித் திட்டு** | பாவேந்தர் பாரதிதாசன் | [வாசிக்க ↗](kurinjsith_thittu.txt) |
 | 29 | `kutumpa_vilakku.txt` | **குடும்ப விளக்கு** | பாவேந்தர் பாரதிதாசன் | [வாசிக்க ↗](kutumpa_vilakku.txt) |
-| 30 | `malaiyaruvi_naatotip_paatalkal_ki_vaa_jakannaathan.txt` | **மலையருவி (நாடோடிப் பாடல்கள்)** | தொகுப்பாசிரியர்: கி. வா. ஜகந்நாதன் (சேகரித்தவர்: பெர்சி மாக்வீன்) | [வாசிக்க ↗](malaiyaruvi_naatotip_paatalkal_ki_vaa_jakannaathan.txt) |
+| 30 | `malaiyaruvi_naatotip_paatalkal.txt` | **மலையருவி (நாடோடிப் பாடல்கள்)** | தொகுப்பாசிரியர்: கி. வா. ஜகந்நாதன் (சேகரித்தவர்: பெர்சி மாக்வீன்) | [வாசிக்க ↗](malaiyaruvi_naatotip_paatalkal.txt) |
 | 31 | `malarum_ullam_siruvar_paatalkal_thokuppu_1.txt` | **மலரும் உள்ளம் (சிறுவர் பாடல்கள் - தொகுதி 1)** | குழந்தைக் கவிஞர் அழ. வள்ளியப்பா | [வாசிக்க ↗](malarum_ullam_siruvar_paatalkal_thokuppu_1.txt) |
 | 32 | `mangkalasaami_maalai.txt` | **மங்களசாமி மாலை** | சா. மாணிக்கவாசகம் & சா. சம்பந்தம் | [வாசிக்க ↗](mangkalasaami_maalai.txt) |
 | 33 | `manimekalai_venpaa.txt` | **மணிமேகலை வெண்பா** | பாவேந்தர் பாரதிதாசன் | [வாசிக்க ↗](manimekalai_venpaa.txt) |

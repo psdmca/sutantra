@@ -13,8 +13,8 @@
 | 02 | `02_konrai_venthan.txt` | **Konrai Venthan** | [வாசிக்க ↗](02_konrai_venthan.txt) |
 | 03 | `03_moothurai.txt` | **Moothurai** | [வாசிக்க ↗](03_moothurai.txt) |
 | 04 | `04_nalvazhi.txt` | **Nalvazhi** | [வாசிக்க ↗](04_nalvazhi.txt) |
-| 05 | `05_olavaiyaar_thanippaatalkal.txt` | **Olavaiyaar Thanippaatalkal** | [வாசிக்க ↗](05_olavaiyaar_thanippaatalkal.txt) |
-| 06 | `06_olavai_kural_njaanakkural.txt` | **Olavai Kural Njaanakkural** | [வாசிக்க ↗](06_olavai_kural_njaanakkural.txt) |
+| 05 | `05_olavai_thanippaatalkal.txt` | **Olavaiyaar Thanippaatalkal** | [வாசிக்க ↗](05_olavai_thanippaatalkal.txt) |
+| 06 | `06_olavai_kural.txt` | **Olavai Kural Njaanakkural** | [வாசிக்க ↗](06_olavai_kural.txt) |
 | 07 | `07_aaththissooti_venpaa.txt` | **Aaththissooti Venpaa** | [வாசிக்க ↗](07_aaththissooti_venpaa.txt) |
 
 ---

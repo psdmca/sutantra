@@ -23,8 +23,8 @@
 | 12 | `12_nanthikkalampakam.txt` | **நந்திக் கலம்பகம்** | தெரியவில்லை | [வாசிக்க ↗](12_nanthikkalampakam.txt) |
 | 13 | `13_pullirukkuveloork_kalampakam.txt` | **புள்ளிருக்குவேளூர்க் கலம்பகம்** | தெரியவில்லை | [வாசிக்க ↗](13_pullirukkuveloork_kalampakam.txt) |
 | 14 | `14_seekaalaththik_kalampakam.txt` | **சீகாளத்திக்கலம்பகம்** | தெரியவில்லை | [வாசிக்க ↗](14_seekaalaththik_kalampakam.txt) |
-| 15 | `15_sri_ampalavaanathesikar_kalampakam.txt` | **திருவாவடுதுறை ஆதீனத்து ஸ்ரீஅம்பலவாணதேசிகர் கலம்பகம்.** | மகாவித்துவான் மீனாட்சிசுந்தரம் பிள்ளை | [வாசிக்க ↗](15_sri_ampalavaanathesikar_kalampakam.txt) |
-| 16 | `16_sri_kaanjseepuram_kumarakottakkalampakam.txt` | **குமரக்கோட்டக் கலம்பகம்** | தெரியவில்லை | [வாசிக்க ↗](16_sri_kaanjseepuram_kumarakottakkalampakam.txt) |
+| 15 | `15_ampalavaanathesikar_kalampakam.txt` | **திருவாவடுதுறை ஆதீனத்து ஸ்ரீஅம்பலவாணதேசிகர் கலம்பகம்.** | மகாவித்துவான் மீனாட்சிசுந்தரம் பிள்ளை | [வாசிக்க ↗](15_ampalavaanathesikar_kalampakam.txt) |
+| 16 | `16_kaanjseepuram_kumarakottakkalampakam.txt` | **குமரக்கோட்டக் கலம்பகம்** | தெரியவில்லை | [வாசிக்க ↗](16_kaanjseepuram_kumarakottakkalampakam.txt) |
 | 17 | `17_kuzhaikkaathar_kalampakam.txt` | **1. குழைக்காதர் கலம்பகம்** | தெரியவில்லை | [வாசிக்க ↗](17_kuzhaikkaathar_kalampakam.txt) |
 | 18 | `17_thirumaalirunjsolaimalai_azhakar_kalampakam.txt` | **திருமாலிருஞ்சோலைமலை அழகர் கலம்பகம்** | தெரியவில்லை | [வாசிக்க ↗](17_thirumaalirunjsolaimalai_azhakar_kalampakam.txt) |
 | 19 | `18_thanikaik_kalampakam.txt` | **தணிகைக் கலம்பகம்** | தெரியவில்லை | [வாசிக்க ↗](18_thanikaik_kalampakam.txt) |

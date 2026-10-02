@@ -20,7 +20,7 @@
 | 09 | `09_periyanaayakiyammai_kaliththurai.txt` | **09 periyanaayakiyammai kaliththurai** | துறைமங்கலம் சிவப்பிரகாச சுவாமிகள் | [வாசிக்க ↗](09_periyanaayakiyammai_kaliththurai.txt) |
 | 10 | `10_komathi_amman_muppaththu_viruththam.txt` | **10 komathi amman muppaththu viruththam** | தெரியவில்லை | [வாசிக்க ↗](10_komathi_amman_muppaththu_viruththam.txt) |
 | 11 | `11_sokkanaatha_venpaa_sokkanaatha_kaliththurai.txt` | **சொக்கநாத வெண்பா** | தெரியவில்லை | [வாசிக்க ↗](11_sokkanaatha_venpaa_sokkanaatha_kaliththurai.txt) |
-| 12 | `12_sri_natesar_kalivenpaa.txt` | **ஸ்ரீநடேசர் கலிவெண்பா** | தெரியவில்லை | [வாசிக்க ↗](12_sri_natesar_kalivenpaa.txt) |
+| 12 | `12_natesar_kalivenpaa.txt` | **ஸ்ரீநடேசர் கலிவெண்பா** | தெரியவில்லை | [வாசிக்க ↗](12_natesar_kalivenpaa.txt) |
 | 13 | `13_suppiramaniyar_thiruviruththam.txt` | **சுப்பிரமணியர் திருவிருத்தம், திருத்தணிகைத் திருவிருத்தம்.** | தெரியவில்லை | [வாசிக்க ↗](13_suppiramaniyar_thiruviruththam.txt) |
 | 14 | `14_thiruththanikaith_thiruviruththam.txt` | **சுப்பிரமணியர் திருவிருத்தம், திருத்தணிகைத் திருவிருத்தம்.** | தெரியவில்லை | [வாசிக்க ↗](14_thiruththanikaith_thiruviruththam.txt) |
 | 15 | `15_thirupporoor_mayil_viruththam.txt` | **திருப்போரூர் - மயில்விருத்தம்** | தெரியவில்லை | [வாசிக்க ↗](15_thirupporoor_mayil_viruththam.txt) |

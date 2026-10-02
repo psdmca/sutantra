@@ -9,13 +9,13 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
-| 01 | `kantha_kuru_kavasam_paakam_3.txt` | **Kantha Kuru Kavasam Paakam 3** | [வாசிக்க ↗](kantha_kuru_kavasam_paakam_3.txt) |
-| 02 | `kantha_sashti_kavasam_6_kanthar_kavasangkal_paakam_2.txt` | **Kantha Sashti Kavasam 6 Kanthar Kavasangkal Paakam 2** | [வாசிக்க ↗](kantha_sashti_kavasam_6_kanthar_kavasangkal_paakam_2.txt) |
+| 01 | `kantha_kuru_kavasam.txt` | **Kantha Kuru Kavasam Paakam 3** | [வாசிக்க ↗](kantha_kuru_kavasam.txt) |
+| 02 | `kantha_sashti_kavasam.txt` | **Kantha Sashti Kavasam 6 Kanthar Kavasangkal Paakam 2** | [வாசிக்க ↗](kantha_sashti_kavasam.txt) |
 | 03 | `kanthar_alangkaaram.txt` | **Kanthar Alangkaaram** | [வாசிக்க ↗](kanthar_alangkaaram.txt) |
-| 04 | `manjnjaip_paattu_vel_paattu_sevar_paattu_paakam_1.txt` | **Manjnjaip Paattu Vel Paattu Sevar Paattu Paakam 1** | [வாசிக்க ↗](manjnjaip_paattu_vel_paattu_sevar_paattu_paakam_1.txt) |
-| 05 | `sanmuka_kavasam_paakam_1.txt` | **Sanmuka Kavasam Paakam 1** | [வாசிக்க ↗](sanmuka_kavasam_paakam_1.txt) |
-| 06 | `thanikaip_paththu_paakam_1.txt` | **Thanikaip Paththu Paakam 1** | [வாசிக்க ↗](thanikaip_paththu_paakam_1.txt) |
-| 07 | `thiruppukazh_paakam_1_paatalkal_1_330.txt` | **Thiruppukazh Paakam 1 Paatalkal 1 330** | [வாசிக்க ↗](thiruppukazh_paakam_1_paatalkal_1_330.txt) |
+| 04 | `manjnjaip_vel_sevar_paattu.txt` | **Manjnjaip Paattu Vel Paattu Sevar Paattu Paakam 1** | [வாசிக்க ↗](manjnjaip_vel_sevar_paattu.txt) |
+| 05 | `sanmuka_kavasam.txt` | **Sanmuka Kavasam Paakam 1** | [வாசிக்க ↗](sanmuka_kavasam.txt) |
+| 06 | `thanikaip_paththu.txt` | **Thanikaip Paththu Paakam 1** | [வாசிக்க ↗](thanikaip_paththu.txt) |
+| 07 | `thiruppukazh_paakam_1.txt` | **Thiruppukazh Paakam 1 Paatalkal 1 330** | [வாசிக்க ↗](thiruppukazh_paakam_1.txt) |
 
 ---
 

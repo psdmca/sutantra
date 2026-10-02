@@ -21,8 +21,8 @@
 | 10 | `10_sir_rilakkiya_vakaikal.txt` | **10 sir rilakkiya vakaikal** | தெரியவில்லை | [வாசிக்க ↗](10_sir_rilakkiya_vakaikal.txt) |
 | 11 | `11_siththiraangkathai_vilaasam.txt` | **11 siththiraangkathai vilaasam** | தெரியவில்லை | [வாசிக்க ↗](11_siththiraangkathai_vilaasam.txt) |
 | 12 | `12_sivanama_makimai.txt` | **12 sivanama makimai** | துறைமங்கலம் சிவப்பிரகாச சுவாமிகள் | [வாசிக்க ↗](12_sivanama_makimai.txt) |
-| 13 | `13_sri_kumarakuruparasvaamikal_sariththiram.txt` | **13 sri kumarakuruparasvaamikal sariththiram** | மகாவித்துவான் மீனாட்சிசுந்தரம் பிள்ளை | [வாசிக்க ↗](13_sri_kumarakuruparasvaamikal_sariththiram.txt) |
-| 14 | `14_sri_sivanjaanayokikal_sariththiram.txt` | **14 sri sivanjaanayokikal sariththiram** | மகாவித்துவான் மீனாட்சிசுந்தரம் பிள்ளை | [வாசிக்க ↗](14_sri_sivanjaanayokikal_sariththiram.txt) |
+| 13 | `13_kumarakuruparasvaamikal_sariththiram.txt` | **13 sri kumarakuruparasvaamikal sariththiram** | மகாவித்துவான் மீனாட்சிசுந்தரம் பிள்ளை | [வாசிக்க ↗](13_kumarakuruparasvaamikal_sariththiram.txt) |
+| 14 | `14_sivanjaanayokikal_sariththiram.txt` | **14 sri sivanjaanayokikal sariththiram** | மகாவித்துவான் மீனாட்சிசுந்தரம் பிள்ளை | [வாசிக்க ↗](14_sivanjaanayokikal_sariththiram.txt) |
 | 15 | `15_thirunatana_vannam.txt` | **15 thirunatana vannam** | தெரியவில்லை | [வாசிக்க ↗](15_thirunatana_vannam.txt) |
 | 16 | `16_thirupporoor_sannithimuraip_pirapanthangkal.txt` | **3. அலங்காரம்.  24.  பெருங்கழி நெடில் விருத்தம்** | தெரியவில்லை | [வாசிக்க ↗](16_thirupporoor_sannithimuraip_pirapanthangkal.txt) |
 | 17 | `17_thirupporoor_sithampara_suvaamikal_sariththiram.txt` | **17 thirupporoor sithampara suvaamikal sariththiram** | தெரியவில்லை | [வாசிக்க ↗](17_thirupporoor_sithampara_suvaamikal_sariththiram.txt) |
@@ -31,7 +31,7 @@
 | 20 | `20_vallinaayaki_sirrilakkiyak_kalanjsiyam.txt` | **20 vallinaayaki sirrilakkiyak kalanjsiyam** | தெரியவில்லை | [வாசிக்க ↗](20_vallinaayaki_sirrilakkiyak_kalanjsiyam.txt) |
 | 21 | `21_vanjsulavalli_yesal.txt` | **21 vanjsulavalli yesal** | தெரியவில்லை | [வாசிக்க ↗](21_vanjsulavalli_yesal.txt) |
 | 22 | `22_vannath_thirattu.txt` | **22 vannath thirattu** | தெரியவில்லை | [வாசிக்க ↗](22_vannath_thirattu.txt) |
-| 23 | `23_sri_sivanjaanapaalaiya_suvaamikal_thiruppalliyezhussi.txt` | **எண்சீர்க்கழிநெடிலடியாசிரியவிருத்தம்** | தெரியவில்லை | [வாசிக்க ↗](23_sri_sivanjaanapaalaiya_suvaamikal_thiruppalliyezhussi.txt) |
+| 23 | `23_sivanjaanapaalaiya_suvaamikal_thiruppalliyezhussi.txt` | **எண்சீர்க்கழிநெடிலடியாசிரியவிருத்தம்** | தெரியவில்லை | [வாசிக்க ↗](23_sivanjaanapaalaiya_suvaamikal_thiruppalliyezhussi.txt) |
 
 ---
 

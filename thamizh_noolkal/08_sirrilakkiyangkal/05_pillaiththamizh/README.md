@@ -29,26 +29,26 @@
 | 18 | `18_mangkalesuvari_pillaiththamizh.txt` | **திருவுத்தரகோசமங்கை மங்களேசுவரி பிள்ளைத்தமிழ்** | திரிசிரபுரம் சி. தியாகராச செட்டியார் | [வாசிக்க ↗](18_mangkalesuvari_pillaiththamizh.txt) |
 | 19 | `19_mathurai_meenaatsiammai_pillaiththamizh.txt` | **மதுரை மீனாட்சியம்மை பிள்ளைத்தமிழ்** | குமரகுருபர சுவாமிகள் | [வாசிக்க ↗](19_mathurai_meenaatsiammai_pillaiththamizh.txt) |
 | 20 | `20_mattuvil_veerakaththi_vinaayakar_pillaiththamizh.txt` | **மட்டுவில்  வீரகத்தி விநாயகர் பிள்ளைத்தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](20_mattuvil_veerakaththi_vinaayakar_pillaiththamizh.txt) |
-| 21 | `21_mayilam_sri_murukan_pillaith_thamizh.txt` | **மயிலம்  ஸ்ரீ முருகன் பிள்ளைத் தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](21_mayilam_sri_murukan_pillaith_thamizh.txt) |
-| 22 | `22_munneessaraththu_sri_vativaampikai_pillaiththamizh.txt` | **முன்னீச்சரத்து ஸ்ரீவடிவாம்பிகை பிள்ளைத்தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](22_munneessaraththu_sri_vativaampikai_pillaiththamizh.txt) |
-| 23 | `23_naalvar_pillaiththamizh_appar_1_sampanthar_2_suntharar_3_maani.txt` | **நால்வர் பிள்ளைத் தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](23_naalvar_pillaiththamizh_appar_1_sampanthar_2_suntharar_3_maani.txt) |
+| 21 | `21_mayilam_murukan_pillaith_thamizh.txt` | **மயிலம்  ஸ்ரீ முருகன் பிள்ளைத் தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](21_mayilam_murukan_pillaith_thamizh.txt) |
+| 22 | `22_munneessaraththu_vativaampikai_pillaiththamizh.txt` | **முன்னீச்சரத்து ஸ்ரீவடிவாம்பிகை பிள்ளைத்தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](22_munneessaraththu_vativaampikai_pillaiththamizh.txt) |
+| 23 | `23_naalvar_pillaiththamizh.txt` | **நால்வர் பிள்ளைத் தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](23_naalvar_pillaiththamizh.txt) |
 | 24 | `24_nayinai_naakapooshaniyammai_pillaiththamizh.txt` | **நயினை நாகபூஷணியம்மை பிள்ளைத்தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](24_nayinai_naakapooshaniyammai_pillaiththamizh.txt) |
 | 25 | `25_passai_naayakiyammai_pillaiththamizh.txt` | **பச்சை நாயகியம்மை பிள்ளைத்தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](25_passai_naayakiyammai_pillaiththamizh.txt) |
 | 26 | `26_pazhanip_pillaiththamizh_sinnappa_naayakkar.txt` | **பழனிப்பிள்ளைத்தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](26_pazhanip_pillaiththamizh_sinnappa_naayakkar.txt) |
 | 27 | `27_perunthiruppiraattiyaar_pillaiththamizh.txt` | **திருத்தவத்துறைப் பெருந்திருப்பிராட்டியார் பிள்ளைத்தமிழ்** | மகாவித்துவான் மீனாட்சிசுந்தரம் பிள்ளை | [வாசிக்க ↗](27_perunthiruppiraattiyaar_pillaiththamizh.txt) |
 | 28 | `28_puthuvai_thiripurasunthari_pillaiththamizh.txt` | **பிள்ளைத் தமிழ்க் கொத்து - பாகம் 5** | தெரியவில்லை | [வாசிக்க ↗](28_puthuvai_thiripurasunthari_pillaiththamizh.txt) |
 | 29 | `29_sangkarankoyil_komathiyammai_pillaith_thamizh.txt` | **சங்கரன்கோயில் கோமதியம்மை பிள்ளைத் தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](29_sangkarankoyil_komathiyammai_pillaith_thamizh.txt) |
-| 30 | `30_seekaazhi_thirunilainaayaki_pillaiththamizh_ku_natesakavuntar.txt` | **சீகாழி திருநிலைநாயகி பிள்ளைத்தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](30_seekaazhi_thirunilainaayaki_pillaiththamizh_ku_natesakavuntar.txt) |
+| 30 | `30_thirunilainaayaki_pillaiththamizh.txt` | **சீகாழி திருநிலைநாயகி பிள்ளைத்தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](30_thirunilainaayaki_pillaiththamizh.txt) |
 | 31 | `31_sekkizhaar_pillaiththamizh.txt` | **சேக்கிழார் பிள்ளைத்தமிழ்** | மகாவித்துவான் மீனாட்சிசுந்தரம் பிள்ளை | [வாசிக்க ↗](31_sekkizhaar_pillaiththamizh.txt) |
 | 32 | `32_sethu_parvathavarththaniyammai_pillaiththamizh.txt` | **சேது பர்வதவர்த்தனியம்மை பிள்ளைத்தமிழ்** | சீர்காழி அருணாசலக் கவிராயர் | [வாசிக்க ↗](32_sethu_parvathavarththaniyammai_pillaiththamizh.txt) |
 | 33 | `33_seyoor_murukan_pillaiththamizh.txt` | **சேயூர் முருகன் பிள்ளைத்தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](33_seyoor_murukan_pillaiththamizh.txt) |
 | 34 | `34_sivamalaip_pillaiththamizh.txt` | **சிவமலைப் பிள்ளைத்தமிழ்.** | குலசேகரப்பட்டினம் தெய்வசிகாமணிக் கவிராயர் | [வாசிக்க ↗](34_sivamalaip_pillaiththamizh.txt) |
 | 35 | `35_sornapuri_ampikai_pillaiththamizh.txt` | **சொர்ணபுரி அம்பிகை பிள்ளைத்தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](35_sornapuri_ampikai_pillaiththamizh.txt) |
-| 36 | `36_sri_aantaal_pillaiththamizh.txt` | **ஸ்ரீஆண்டாள் பிள்ளைத்தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](36_sri_aantaal_pillaiththamizh.txt) |
-| 37 | `37_sri_ampalavaanathesikar_pillaiththamizh.txt` | **திருவாவடுதுறை ஸ்ரீ அம்பலவாணதேசிகர் பிள்ளைத்தமிழ்.** | மகாவித்துவான் மீனாட்சிசுந்தரம் பிள்ளை | [வாசிக்க ↗](37_sri_ampalavaanathesikar_pillaiththamizh.txt) |
+| 36 | `36_aantaal_pillaiththamizh.txt` | **ஸ்ரீஆண்டாள் பிள்ளைத்தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](36_aantaal_pillaiththamizh.txt) |
+| 37 | `37_ampalavaanathesikar_pillaiththamizh.txt` | **திருவாவடுதுறை ஸ்ரீ அம்பலவாணதேசிகர் பிள்ளைத்தமிழ்.** | மகாவித்துவான் மீனாட்சிசுந்தரம் பிள்ளை | [வாசிக்க ↗](37_ampalavaanathesikar_pillaiththamizh.txt) |
 | 38 | `38_kuzhaikkaathar_pillaiththamizh.txt` | **2-  குழைக்காதர் பிள்ளைத்தமிழ், இதரப் பாடல்கள்** | தெரியவில்லை | [வாசிக்க ↗](38_kuzhaikkaathar_pillaiththamizh.txt) |
-| 39 | `39_sri_mangkalaampikai_pillaiththamizh.txt` | **திருக்குடந்தை ஸ்ரீமங்களாம்பிகை பிள்ளைத்தமிழ்** | மகாவித்துவான் மீனாட்சிசுந்தரம் பிள்ளை | [வாசிக்க ↗](39_sri_mangkalaampikai_pillaiththamizh.txt) |
-| 40 | `40_suppiramaniyakkatavul_ksheththirakkovaip_pillaiththamizh.txt` | **க்ஷேத்திரக்கோவைப் பிள்ளைத் தமிழ்** | கவிராட்சஸ கச்சியப்ப முனிவர் | [வாசிக்க ↗](40_suppiramaniyakkatavul_ksheththirakkovaip_pillaiththamizh.txt) |
+| 39 | `39_mangkalaampikai_pillaiththamizh.txt` | **திருக்குடந்தை ஸ்ரீமங்களாம்பிகை பிள்ளைத்தமிழ்** | மகாவித்துவான் மீனாட்சிசுந்தரம் பிள்ளை | [வாசிக்க ↗](39_mangkalaampikai_pillaiththamizh.txt) |
+| 40 | `40_ksheththirakkovaip_pillaiththamizh.txt` | **க்ஷேத்திரக்கோவைப் பிள்ளைத் தமிழ்** | கவிராட்சஸ கச்சியப்ப முனிவர் | [வாசிக்க ↗](40_ksheththirakkovaip_pillaiththamizh.txt) |
 | 41 | `41_thillai_sivakaamiyammai_pillaiththamizh.txt` | **பிள்ளைத் தமிழ்க் கொத்து - பாகம் 4** | தெரியவில்லை | [வாசிக்க ↗](41_thillai_sivakaamiyammai_pillaiththamizh.txt) |
 | 42 | `42_thirukkathirakaamap_pillaiththamizh.txt` | **திருக் கதிரகாமப் பிள்ளைத்தமிழ்.** | தெரியவில்லை | [வாசிக்க ↗](42_thirukkathirakaamap_pillaiththamizh.txt) |
 | 43 | `43_thirukketheessaraththuk_kaurinaayaki_pillaiththamizh.txt` | **திருக்கேதீச்சரத்துக் கௌரிநாயகி பிள்ளைத்தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](43_thirukketheessaraththuk_kaurinaayaki_pillaiththamizh.txt) |
@@ -57,11 +57,11 @@
 | 46 | `46_thirumaalirunjsolaip_pillaiththamizh.txt` | **திருமாலிருஞ்சோலைப் பிள்ளைத்தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](46_thirumaalirunjsolaip_pillaiththamizh.txt) |
 | 47 | `47_thirumayilaip_pillaiththamizh.txt` | **திருமயிலைப் பிள்ளைத் தமிழ் , திருமயிலை உவமை வெண்பா** | தெரியவில்லை | [வாசிக்க ↗](47_thirumayilaip_pillaiththamizh.txt) |
 | 48 | `48_thirunelveli_kaanthimathiyammai_pillaiththamizh.txt` | **இயற்றிய திருநெல்வேலி காந்திமதியம்மை பிள்ளைத்தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](48_thirunelveli_kaanthimathiyammai_pillaiththamizh.txt) |
-| 49 | `49_thiruppukkoliyoor_avinaasip_perungkarunaiyammai_pillaiththamizh.txt` | **பெருங்கருணையம்மை பிள்ளைத்தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](49_thiruppukkoliyoor_avinaasip_perungkarunaiyammai_pillaiththamizh.txt) |
+| 49 | `49_avinaasip_perungkarunaiyammai_pillaiththamizh.txt` | **பெருங்கருணையம்மை பிள்ளைத்தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](49_avinaasip_perungkarunaiyammai_pillaiththamizh.txt) |
 | 50 | `50_thirussengkottuk_kumarar_pillaiththamizh.txt` | **திருச்செங்கோட்டுக் குமரர் பிள்ளைத்தமிழ்‌** | தெரியவில்லை | [வாசிக்க ↗](50_thirussengkottuk_kumarar_pillaiththamizh.txt) |
 | 51 | `51_thiruththanikai_murukan_pillaiththamizh.txt` | **திருத்தணிகை முருகன் பிள்ளைத்தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](51_thiruththanikai_murukan_pillaiththamizh.txt) |
 | 52 | `52_thiruvaanaikkaa_akilaantanaayaki_pillaith_thamizh.txt` | **திருவானைக்கா அகிலாண்டநாயகி பிள்ளைத் தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](52_thiruvaanaikkaa_akilaantanaayaki_pillaith_thamizh.txt) |
-| 53 | `53_thiruveezhimizhalai_azhakiyamaamulaiyammai_pillaiththamizh.txt` | **திருவீழிமிழலை அழகியமாமுலையம்மை பிள்ளைத் தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](53_thiruveezhimizhalai_azhakiyamaamulaiyammai_pillaiththamizh.txt) |
+| 53 | `53_azhakiyamaamulaiyammai_pillaiththamizh.txt` | **திருவீழிமிழலை அழகியமாமுலையம்மை பிள்ளைத் தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](53_azhakiyamaamulaiyammai_pillaiththamizh.txt) |
 | 54 | `54_thiruverakam_suvaaminaathan_pillaiththamizh.txt` | **திருவேரகம் சுவாமிநாதன் பிள்ளைத்தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](54_thiruverakam_suvaaminaathan_pillaiththamizh.txt) |
 | 55 | `55_thiruvitaikkazhimurukar_pillaiththamizh.txt` | **திருவிடைக்கழிமுருகர்  பிள்ளைத்தமிழ்** | மகாவித்துவான் மீனாட்சிசுந்தரம் பிள்ளை | [வாசிக்க ↗](55_thiruvitaikkazhimurukar_pillaiththamizh.txt) |
 | 56 | `56_thooththukkuti_paakampiriyaavammai_pillaiththamizh.txt` | **பிள்ளைத் தமிழ்க் கொத்து - பாகம் 6** | தெரியவில்லை | [வாசிக்க ↗](56_thooththukkuti_paakampiriyaavammai_pillaiththamizh.txt) |
@@ -71,7 +71,7 @@
 | 60 | `60_vayiravan_kovil_vativutaiyammai_pillaiththamizh.txt` | **வயிரவன் கோவில் வடிவுடையம்மை பிள்ளைத்தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](60_vayiravan_kovil_vativutaiyammai_pillaiththamizh.txt) |
 | 61 | `61_veeravanalloor_marakathavalliyammai_pillaiththamizh.txt` | **வீரவநல்லூர் மரகதவல்லியம்மை பிள்ளைத்தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](61_veeravanalloor_marakathavalliyammai_pillaiththamizh.txt) |
 | 62 | `62_viruththaasalam_periya_naayaki_amman_pillaiththamizh.txt` | **விருத்தாசலம் பெரிய நாயகியம்மன் பிள்ளைத்தமிழ்** | துறைமங்கலம் சிவப்பிரகாச சுவாமிகள் | [வாசிக்க ↗](62_viruththaasalam_periya_naayaki_amman_pillaiththamizh.txt) |
-| 63 | `63_yaazhppaanam_suthumalai_sri_puvanesvari_ammai_pillaiththamizh.txt` | **யாழ்பாணம் சுதுமலை ஸ்ரீ புவனேஸ்வரி அம்மை பிள்ளைத் தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](63_yaazhppaanam_suthumalai_sri_puvanesvari_ammai_pillaiththamizh.txt) |
+| 63 | `63_suthumalai_puvanesvari_pillaiththamizh.txt` | **யாழ்பாணம் சுதுமலை ஸ்ரீ புவனேஸ்வரி அம்மை பிள்ளைத் தமிழ்** | தெரியவில்லை | [வாசிக்க ↗](63_suthumalai_puvanesvari_pillaiththamizh.txt) |
 
 ---
 
