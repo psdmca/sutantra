@@ -9,11 +9,11 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
-| 01 | `01_silappathikaaram.txt` | **Silappathikaaram** | [வாசிக்க ↗](01_silappathikaaram.txt) |
-| 02 | `02_manimekalai.txt` | **Manimekalai** | [வாசிக்க ↗](02_manimekalai.txt) |
-| 03 | `03_seevakasinthaamani.txt` | **Seevakasinthaamani** | [வாசிக்க ↗](03_seevakasinthaamani.txt) |
-| 04 | `04_valaiyaapathi.txt` | **Valaiyaapathi** | [வாசிக்க ↗](04_valaiyaapathi.txt) |
-| 05 | `05_kuntalakesi.txt` | **Kuntalakesi** | [வாசிக்க ↗](05_kuntalakesi.txt) |
+| 01 | `01_silappathikaaram.md` | **Silappathikaaram** | [வாசிக்க ↗](01_silappathikaaram.md) |
+| 02 | `02_manimekalai.md` | **Manimekalai** | [வாசிக்க ↗](02_manimekalai.md) |
+| 03 | `03_seevakasinthaamani.md` | **Seevakasinthaamani** | [வாசிக்க ↗](03_seevakasinthaamani.md) |
+| 04 | `04_valaiyaapathi.md` | **Valaiyaapathi** | [வாசிக்க ↗](04_valaiyaapathi.md) |
+| 05 | `05_kuntalakesi.md` | **Kuntalakesi** | [வாசிக்க ↗](05_kuntalakesi.md) |
 
 ---
 

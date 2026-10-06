@@ -9,13 +9,13 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
-| 01 | `01_aaththisooti.txt` | **Aaththisooti** | [வாசிக்க ↗](01_aaththisooti.txt) |
-| 02 | `02_konrai_venthan.txt` | **Konrai Venthan** | [வாசிக்க ↗](02_konrai_venthan.txt) |
-| 03 | `03_moothurai.txt` | **Moothurai** | [வாசிக்க ↗](03_moothurai.txt) |
-| 04 | `04_nalvazhi.txt` | **Nalvazhi** | [வாசிக்க ↗](04_nalvazhi.txt) |
-| 05 | `05_olavai_thanippaatalkal.txt` | **Olavaiyaar Thanippaatalkal** | [வாசிக்க ↗](05_olavai_thanippaatalkal.txt) |
-| 06 | `06_olavai_kural.txt` | **Olavai Kural Njaanakkural** | [வாசிக்க ↗](06_olavai_kural.txt) |
-| 07 | `07_aaththissooti_venpaa.txt` | **Aaththissooti Venpaa** | [வாசிக்க ↗](07_aaththissooti_venpaa.txt) |
+| 01 | `01_aaththisooti.md` | **Aaththisooti** | [வாசிக்க ↗](01_aaththisooti.md) |
+| 02 | `02_konrai_venthan.md` | **Konrai Venthan** | [வாசிக்க ↗](02_konrai_venthan.md) |
+| 03 | `03_moothurai.md` | **Moothurai** | [வாசிக்க ↗](03_moothurai.md) |
+| 04 | `04_nalvazhi.md` | **Nalvazhi** | [வாசிக்க ↗](04_nalvazhi.md) |
+| 05 | `05_olavai_thanippaatalkal.md` | **Olavaiyaar Thanippaatalkal** | [வாசிக்க ↗](05_olavai_thanippaatalkal.md) |
+| 06 | `06_olavai_kural.md` | **Olavai Kural Njaanakkural** | [வாசிக்க ↗](06_olavai_kural.md) |
+| 07 | `07_aaththissooti_venpaa.md` | **Aaththissooti Venpaa** | [வாசிக்க ↗](07_aaththissooti_venpaa.md) |
 
 ---
 

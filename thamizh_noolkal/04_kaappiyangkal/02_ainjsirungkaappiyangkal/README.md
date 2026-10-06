@@ -9,11 +9,11 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
-| 01 | `01_soolaamani.txt` | **Soolaamani** | [வாசிக்க ↗](01_soolaamani.txt) |
-| 02 | `02_neelakesi.txt` | **Neelakesi** | [வாசிக்க ↗](02_neelakesi.txt) |
-| 03 | `03_uthayanakumaara_kaaviyam.txt` | **Uthayanakumaara Kaaviyam** | [வாசிக்க ↗](03_uthayanakumaara_kaaviyam.txt) |
-| 04 | `04_yasothara_kaaviyam.txt` | **Yasothara Kaaviyam** | [வாசிக்க ↗](04_yasothara_kaaviyam.txt) |
-| 05 | `05_naaka_kumaara_kaaviyam.txt` | **Naaka Kumaara Kaaviyam** | [வாசிக்க ↗](05_naaka_kumaara_kaaviyam.txt) |
+| 01 | `01_soolaamani.md` | **Soolaamani** | [வாசிக்க ↗](01_soolaamani.md) |
+| 02 | `02_neelakesi.md` | **Neelakesi** | [வாசிக்க ↗](02_neelakesi.md) |
+| 03 | `03_uthayanakumaara_kaaviyam.md` | **Uthayanakumaara Kaaviyam** | [வாசிக்க ↗](03_uthayanakumaara_kaaviyam.md) |
+| 04 | `04_yasothara_kaaviyam.md` | **Yasothara Kaaviyam** | [வாசிக்க ↗](04_yasothara_kaaviyam.md) |
+| 05 | `05_naaka_kumaara_kaaviyam.md` | **Naaka Kumaara Kaaviyam** | [வாசிக்க ↗](05_naaka_kumaara_kaaviyam.md) |
 
 ---
 

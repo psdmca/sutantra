@@ -9,7 +9,7 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
-| 01 | `01_tholkaappiyam.txt` | **Tholkaappiyam** | [வாசிக்க ↗](01_tholkaappiyam.txt) |
+| 01 | `01_tholkaappiyam.md` | **Tholkaappiyam** | [வாசிக்க ↗](01_tholkaappiyam.md) |
 
 ---
 

@@ -9,7 +9,7 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
-| 01 | `01_kalavazhi_naarpathu.txt` | **Kalavazhi Naarpathu** | [வாசிக்க ↗](01_kalavazhi_naarpathu.txt) |
+| 01 | `01_kalavazhi_naarpathu.md` | **Kalavazhi Naarpathu** | [வாசிக்க ↗](01_kalavazhi_naarpathu.md) |
 
 ---
 

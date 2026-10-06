@@ -9,9 +9,9 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
-| 01 | `01_vilaathaththuk_kaantam.txt` | **Seeraappuraanam Vilaathaththuk Kaantam** | [வாசிக்க ↗](01_vilaathaththuk_kaantam.txt) |
-| 02 | `02_nupuvvaththuk_kaantam.txt` | **Seeraappuraanam Nupuvvaththuk Kaantam** | [வாசிக்க ↗](02_nupuvvaththuk_kaantam.txt) |
-| 03 | `03_hijraththuk_kaantam.txt` | **Seeraappuraanam Hijraththuk Kaantam** | [வாசிக்க ↗](03_hijraththuk_kaantam.txt) |
+| 01 | `01_vilaathaththuk_kaantam.md` | **Seeraappuraanam Vilaathaththuk Kaantam** | [வாசிக்க ↗](01_vilaathaththuk_kaantam.md) |
+| 02 | `02_nupuvvaththuk_kaantam.md` | **Seeraappuraanam Nupuvvaththuk Kaantam** | [வாசிக்க ↗](02_nupuvvaththuk_kaantam.md) |
+| 03 | `03_hijraththuk_kaantam.md` | **Seeraappuraanam Hijraththuk Kaantam** | [வாசிக்க ↗](03_hijraththuk_kaantam.md) |
 
 ---
 

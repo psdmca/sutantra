@@ -9,9 +9,9 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
-| 01 | `01_mathuraik_kaantam.txt` | **Mathuraik Kaantam** | [வாசிக்க ↗](01_mathuraik_kaantam.txt) |
-| 02 | `02_kootar_kaantam.txt` | **Kootar Kaantam** | [வாசிக்க ↗](02_kootar_kaantam.txt) |
-| 03 | `03_thiruvaalavaayk_kaantam.txt` | **Thiruvaalavaayk Kaantam** | [வாசிக்க ↗](03_thiruvaalavaayk_kaantam.txt) |
+| 01 | `01_mathuraik_kaantam.md` | **Mathuraik Kaantam** | [வாசிக்க ↗](01_mathuraik_kaantam.md) |
+| 02 | `02_kootar_kaantam.md` | **Kootar Kaantam** | [வாசிக்க ↗](02_kootar_kaantam.md) |
+| 03 | `03_thiruvaalavaayk_kaantam.md` | **Thiruvaalavaayk Kaantam** | [வாசிக்க ↗](03_thiruvaalavaayk_kaantam.md) |
 
 ---
 

@@ -9,16 +9,16 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
-| 01 | `01_thirumurukaatruppatai.txt` | **Thirumurukaatruppatai** | [வாசிக்க ↗](01_thirumurukaatruppatai.txt) |
-| 02 | `02_porunaraatruppatai.txt` | **Porunaraatruppatai** | [வாசிக்க ↗](02_porunaraatruppatai.txt) |
-| 03 | `03_sirupaanaatruppatai.txt` | **Sirupaanaatruppatai** | [வாசிக்க ↗](03_sirupaanaatruppatai.txt) |
-| 04 | `04_perumpaanaatruppatai.txt` | **Perumpaanaatruppatai** | [வாசிக்க ↗](04_perumpaanaatruppatai.txt) |
-| 05 | `05_mullaippaattu.txt` | **Mullaippaattu** | [வாசிக்க ↗](05_mullaippaattu.txt) |
-| 06 | `06_maduraikkaanjsi.txt` | **Maduraikkaanjsi** | [வாசிக்க ↗](06_maduraikkaanjsi.txt) |
-| 07 | `07_netunalvaatai.txt` | **Netunalvaatai** | [வாசிக்க ↗](07_netunalvaatai.txt) |
-| 08 | `08_kurinjsippaattu.txt` | **Kurinjsippaattu** | [வாசிக்க ↗](08_kurinjsippaattu.txt) |
-| 09 | `09_pattinappaalai.txt` | **Pattinappaalai** | [வாசிக்க ↗](09_pattinappaalai.txt) |
-| 10 | `10_malaipatukataam.txt` | **Malaipatukataam** | [வாசிக்க ↗](10_malaipatukataam.txt) |
+| 01 | `01_thirumurukaatruppatai.md` | **Thirumurukaatruppatai** | [வாசிக்க ↗](01_thirumurukaatruppatai.md) |
+| 02 | `02_porunaraatruppatai.md` | **Porunaraatruppatai** | [வாசிக்க ↗](02_porunaraatruppatai.md) |
+| 03 | `03_sirupaanaatruppatai.md` | **Sirupaanaatruppatai** | [வாசிக்க ↗](03_sirupaanaatruppatai.md) |
+| 04 | `04_perumpaanaatruppatai.md` | **Perumpaanaatruppatai** | [வாசிக்க ↗](04_perumpaanaatruppatai.md) |
+| 05 | `05_mullaippaattu.md` | **Mullaippaattu** | [வாசிக்க ↗](05_mullaippaattu.md) |
+| 06 | `06_maduraikkaanjsi.md` | **Maduraikkaanjsi** | [வாசிக்க ↗](06_maduraikkaanjsi.md) |
+| 07 | `07_netunalvaatai.md` | **Netunalvaatai** | [வாசிக்க ↗](07_netunalvaatai.md) |
+| 08 | `08_kurinjsippaattu.md` | **Kurinjsippaattu** | [வாசிக்க ↗](08_kurinjsippaattu.md) |
+| 09 | `09_pattinappaalai.md` | **Pattinappaalai** | [வாசிக்க ↗](09_pattinappaalai.md) |
+| 10 | `10_malaipatukataam.md` | **Malaipatukataam** | [வாசிக்க ↗](10_malaipatukataam.md) |
 
 ---
 

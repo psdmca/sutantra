@@ -9,11 +9,11 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | ஆசிரியர் (Author) | இணைப்பு |
 | :---: | :--- | :--- | :--- | :---: |
-| 01 | `01_munnanaathesvarar_thiruvoonjsal.txt` | **01 munnanaathesvarar thiruvoonjsal munnanaathasvaami vativazhaki ampaa** | தெரியவில்லை | [வாசிக்க ↗](01_munnanaathesvarar_thiruvoonjsal.txt) |
-| 02 | `02_oorezhu_meenaatsi_thiru_oonjsal.txt` | **ஊரெழு மீனாட்சி திரு ஊஞ்சல்** | தெரியவில்லை | [வாசிக்க ↗](02_oorezhu_meenaatsi_thiru_oonjsal.txt) |
-| 03 | `03_seerangkanaayakiyaarusal.txt` | **03 seerangkanaayakiyaarusal** | தெரியவில்லை | [வாசிக்க ↗](03_seerangkanaayakiyaarusal.txt) |
-| 04 | `04_seerangka_naayakaroosal.txt` | **04 sri seerangka naayakaroosal** | தெரியவில்லை | [வாசிக்க ↗](04_seerangka_naayakaroosal.txt) |
-| 05 | `05_thirupperoor_passai_naayakiyaaroosal.txt` | **05 thirupperoor passai naayakiyaaroosal** | தெரியவில்லை | [வாசிக்க ↗](05_thirupperoor_passai_naayakiyaaroosal.txt) |
+| 01 | `01_munnanaathesvarar_thiruvoonjsal.md` | **01 munnanaathesvarar thiruvoonjsal munnanaathasvaami vativazhaki ampaa** | தெரியவில்லை | [வாசிக்க ↗](01_munnanaathesvarar_thiruvoonjsal.md) |
+| 02 | `02_oorezhu_meenaatsi_thiru_oonjsal.md` | **ஊரெழு மீனாட்சி திரு ஊஞ்சல்** | தெரியவில்லை | [வாசிக்க ↗](02_oorezhu_meenaatsi_thiru_oonjsal.md) |
+| 03 | `03_seerangkanaayakiyaarusal.md` | **03 seerangkanaayakiyaarusal** | தெரியவில்லை | [வாசிக்க ↗](03_seerangkanaayakiyaarusal.md) |
+| 04 | `04_seerangka_naayakaroosal.md` | **04 sri seerangka naayakaroosal** | தெரியவில்லை | [வாசிக்க ↗](04_seerangka_naayakaroosal.md) |
+| 05 | `05_thirupperoor_passai_naayakiyaaroosal.md` | **05 thirupperoor passai naayakiyaaroosal** | தெரியவில்லை | [வாசிக்க ↗](05_thirupperoor_passai_naayakiyaaroosal.md) |
 
 ---
 

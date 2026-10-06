@@ -9,9 +9,9 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
-| 01 | `01_pingkala_nikantu.txt` | **Pingkala Nikantu Pingkala Munivar** | [வாசிக்க ↗](01_pingkala_nikantu.txt) |
-| 02 | `02_sootaamani_nikantu.txt` | **Sootaamani Nikantu** | [வாசிக்க ↗](02_sootaamani_nikantu.txt) |
-| 03 | `03_vatamalai_nikantu.txt` | **Vatamalai Nikantu** | [வாசிக்க ↗](03_vatamalai_nikantu.txt) |
+| 01 | `01_pingkala_nikantu.md` | **Pingkala Nikantu Pingkala Munivar** | [வாசிக்க ↗](01_pingkala_nikantu.md) |
+| 02 | `02_sootaamani_nikantu.md` | **Sootaamani Nikantu** | [வாசிக்க ↗](02_sootaamani_nikantu.md) |
+| 03 | `03_vatamalai_nikantu.md` | **Vatamalai Nikantu** | [வாசிக்க ↗](03_vatamalai_nikantu.md) |
 
 ---
 

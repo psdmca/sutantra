@@ -9,18 +9,18 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
-| 01 | `irupaa_irupakthu.txt` | **Irupaa Irupakthu** | [வாசிக்க ↗](irupaa_irupakthu.txt) |
-| 02 | `sangkarpa_niraakaranam.txt` | **Sangkarpa Niraakaranam** | [வாசிக்க ↗](sangkarpa_niraakaranam.txt) |
-| 03 | `siththaantha_sikaamani.txt` | **சித்தாந்த சிகாமணி** | [வாசிக்க ↗](siththaantha_sikaamani.txt) |
-| 04 | `siththaanthap_pakrotai.txt` | **சித்தாந்தப் பஃறொடை** | [வாசிக்க ↗](siththaanthap_pakrotai.txt) |
-| 05 | `sivanjaana_potham.txt` | **Sivanjaana Potham** | [வாசிக்க ↗](sivanjaana_potham.txt) |
-| 06 | `sivanjaana_siththiyaar.txt` | **Sivanjaana Siththiyaar Parapakkam Marrum Supakkam** | [வாசிக்க ↗](sivanjaana_siththiyaar.txt) |
-| 07 | `sivapokasaaram.txt` | **சிவபோகசாரம்** | [வாசிக்க ↗](sivapokasaaram.txt) |
-| 08 | `sivappirakaasam.txt` | **Sivappirakaasam** | [வாசிக்க ↗](sivappirakaasam.txt) |
-| 09 | `thiripathaarththa_roopaathi.txt` | **திரிபதார்த்த ரூபாதி தசகாரிய அகவல்** | [வாசிக்க ↗](thiripathaarththa_roopaathi.txt) |
-| 10 | `thiruunthiyaar.txt` | **Thiruunthiyaar** | [வாசிக்க ↗](thiruunthiyaar.txt) |
-| 11 | `thiruvarutpayan.txt` | **Thiruvarutpayan** | [வாசிக்க ↗](thiruvarutpayan.txt) |
-| 12 | `unmai_neri_vilakkam.txt` | **Unmai Neri Vilakkam** | [வாசிக்க ↗](unmai_neri_vilakkam.txt) |
+| 01 | `irupaa_irupakthu.md` | **Irupaa Irupakthu** | [வாசிக்க ↗](irupaa_irupakthu.md) |
+| 02 | `sangkarpa_niraakaranam.md` | **Sangkarpa Niraakaranam** | [வாசிக்க ↗](sangkarpa_niraakaranam.md) |
+| 03 | `siththaantha_sikaamani.md` | **சித்தாந்த சிகாமணி** | [வாசிக்க ↗](siththaantha_sikaamani.md) |
+| 04 | `siththaanthap_pakrotai.md` | **சித்தாந்தப் பஃறொடை** | [வாசிக்க ↗](siththaanthap_pakrotai.md) |
+| 05 | `sivanjaana_potham.md` | **Sivanjaana Potham** | [வாசிக்க ↗](sivanjaana_potham.md) |
+| 06 | `sivanjaana_siththiyaar.md` | **Sivanjaana Siththiyaar Parapakkam Marrum Supakkam** | [வாசிக்க ↗](sivanjaana_siththiyaar.md) |
+| 07 | `sivapokasaaram.md` | **சிவபோகசாரம்** | [வாசிக்க ↗](sivapokasaaram.md) |
+| 08 | `sivappirakaasam.md` | **Sivappirakaasam** | [வாசிக்க ↗](sivappirakaasam.md) |
+| 09 | `thiripathaarththa_roopaathi.md` | **திரிபதார்த்த ரூபாதி தசகாரிய அகவல்** | [வாசிக்க ↗](thiripathaarththa_roopaathi.md) |
+| 10 | `thiruunthiyaar.md` | **Thiruunthiyaar** | [வாசிக்க ↗](thiruunthiyaar.md) |
+| 11 | `thiruvarutpayan.md` | **Thiruvarutpayan** | [வாசிக்க ↗](thiruvarutpayan.md) |
+| 12 | `unmai_neri_vilakkam.md` | **Unmai Neri Vilakkam** | [வாசிக்க ↗](unmai_neri_vilakkam.md) |
 
 ---
 

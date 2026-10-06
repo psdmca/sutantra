@@ -9,8 +9,8 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
-| 01 | `01_kaantam_1.txt` | **Kaantam 1 Sivanjaana Munivar** | [வாசிக்க ↗](01_kaantam_1.txt) |
-| 02 | `02_kaantam_2.txt` | **Kaantam 2 Kassiyappa Munivar** | [வாசிக்க ↗](02_kaantam_2.txt) |
+| 01 | `01_kaantam_1.md` | **Kaantam 1 Sivanjaana Munivar** | [வாசிக்க ↗](01_kaantam_1.md) |
+| 02 | `02_kaantam_2.md` | **Kaantam 2 Kassiyappa Munivar** | [வாசிக்க ↗](02_kaantam_2.md) |
 
 ---
 

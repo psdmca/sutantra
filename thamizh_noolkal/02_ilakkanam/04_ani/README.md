@@ -9,7 +9,7 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
-| 01 | `01_thantiyalangkaaram.txt` | **Thantiyalangkaaram** | [வாசிக்க ↗](01_thantiyalangkaaram.txt) |
+| 01 | `01_thantiyalangkaaram.md` | **Thantiyalangkaaram** | [வாசிக்க ↗](01_thantiyalangkaaram.md) |
 
 ---
 

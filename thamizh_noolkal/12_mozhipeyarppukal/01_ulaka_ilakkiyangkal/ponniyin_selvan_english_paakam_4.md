@@ -1,0 +1,5456 @@
+---
+title: "Ponniyin Selvan - English Translation (Part 4: Jeweled Crown)"
+author: "Kalki Krishnamurthy / கல்கி கிருஷ்ணமூர்த்தி (Translated by Indra Neelameggham)"
+category: "மொழிபெயர்ப்புகள் / வரலாற்றுப் புதினம் மொழிபெயர்ப்பு"
+period: "20-ஆம் நூற்றாண்டு"
+structure: "Table of Contents + Chapters 1-23 Translation"
+genre: "வரலாற்றுப் புதினம் / Historical Fiction Translation"
+language: "English / Tamil"
+---
+
+# Ponniyin Selvan - English Translation (Part 4: Jeweled Crown)
+
+## உள்ளுறை
+
+- Chapter 1 – On the Banks of the Kedilam
+- Chapter 2 – Grandsire and Grandson
+- Chapter 3 – A Falcon and a Dove
+- Chapter 4 – Ayyanaar Temple
+- Chapter 5 - Dangerous Dungeon
+- Chapter 6 – Manimekalai
+- Chapter 7 - Tailless Monkey
+- Chapter 8 - Two Arms In The Dark
+- Chapter 9 - A Dog Barked
+- Chapter 10 - Man Hunt
+- Chapter 11 - Friend Or Traitor?
+- Chapter 12 - A Spear Is Split In Two
+- Chapter 13 - Manimekalai's Secret
+- Chapter 14 - Will Dreams Come True?
+- Chapter 15 - Royal Courtesies
+- Chapter 16 – Malayaman’s Worry
+- Chapter 17 - Poonkuzlali's Desire
+- Chapter 18 - A Flying Arrow
+- Chapter 19 - Laughter And Fire
+- Chapter 20 - Once Again, The Doctor's Son
+- Chapter 21 – Privilege Of Palanquin Rides
+- Chapter 22 - Aniruddha Is Disappointed
+- Chapter 23 - Can The Mute Talk?
+- Part IVB : Jeweled Crown [Chapters 24-46]
+- Contents
+- Chapter 27 - In The Treasure Vault
+- Chapter 28 - Underground Passage
+- Chapter 29 - Beholding Royalty
+- Chapter 30 – Accusation
+- Chapter 31 - Dreams Early In The Night
+- Chapter 32 - “Why Do You Torture Me?
+- Chapter 33 - Guardian Deity Of Chozla Clan
+- Chapter 34 – Ravana In Danger
+- Chapter 35 - Emperor's Anger
+- Chapter 36 - Late In The Night
+- Chapter 37 - Confusion At Kadamboor
+- Chapter 38 - Nandini Refused
+- Chapter 39 - Danger Approaches
+- Chapter 40 - Water Sport
+- Chapter 41 - Karikala’s Killing Rage
+- Chapter 42 - She Is Not Human
+- Chapter 43 - Where Is The Leopard?
+- Chapter 44 - Love And Blame
+- Chapter 45 - You Are My Sister!
+- Chapter 46 - The Boat Moved
+- Chapter 24 – The Princess is Anxious
+- Chapter 25 - Anirudda's Misdeed
+- Chapter 26 – Confusion On The Streets
+- Chapter 33 - Guardian Deity Of the Chozla Clan
+- Chapter 37 - Chaos At Kadamboor
+- Chapter 40 - Water Games
+- Parthiban Pallava is here, doing nothing. He is bored with nothing to do
+- Chapter 44 - Love And Revenge
+
+---
+
+## மூலப் பாடம்
+
+Table of Contents -part IVA
+A Guide To Pronunciation
+A Note on the Chozla's
+Imperial Chozlas – Dynasty Chart
+Map 1. Chozla Country
+Map 2. Cauvery Delta
+Map 3. Kodi Karai and Northern Lanka
+The Story So Far In The First Three Parts
+Ch. 1 -- On the Banks of the Kedilam Ch. 13 – Manimekalai's Secret
+Ch. 2-- Grandsire and Grandson Ch. 14 – Will Dreams Come True?
+
+Ch. 3 – A Falcon and a Dove  Ch. 15 –  Royal Courtesies
+Ch.  4 – Ayyanaar Temple Ch. 16 – Malayaman’s Worry
+Ch. 5 – Dangerous Dungeon Ch.  17 – Poonkuzlali's Desire
+Ch.  6 – Manimekalai  Ch. 18 – A Flying Arrow
+Ch.  7 – Tailless Monkey Ch. 19 – Laughter And Fire
+Ch. 8 – Two Arms In The Dark Ch.  20– Once Again, The Doctor's Son
+Ch. 9 – A Dog Barked  Ch. 21 – Privilege Of Palanquin Rides
+Ch.  10 – Man Hunt  Ch. 22 – Aniruddha Is Disappointed
+Ch.  11 – Friend Or Traitor?  Ch. 23 – Can The Mute Talk?
+
+Ch.  12 – A Spear Is Split In Two  Main Characters
+Glossary of Terms Connect With Author
+
+----------
+
+Kalki's Ponniyin Selvan - Part IV A
+Jeweled Crown- Ponni's Beloved Part IVA
+A Guide To Pronunciation
+More or less phonetic spelling is used for proper names, places, nd literary works. Tamil words are used when inevitable. English spelling for place names uses the more popular anglicized version -- when applicable.
+
+The letters zl are used to denote the Tamil alphabet/sound.
+
+There is no known way to symbolize this in English. Thus, the name is written as Chozla. It can be pronounced with the Z silent as in Chola, Paluvoor etc.
+
+It was felt that this style may be more comfortable than more traditional spellings such as Chozha or Chozhla.
+
+Usage of certain terms and words uses the older archaic form rather than modern American /internet usage. One such example: Maid is used to mean young girl rather than servant; maiden could have been used, but was not used in the rendering earlier.
+
+Spelling is American English rather than UK English.
+
+For further details on Chozla history of this period, refer to Colas by Prof K.A. Nilakanta Sastri, Madras University Historical Series 9, 1955, reprinted 1984, University of Madras, India.
+
+The Glossary at the end gives explanatory notes for some Tamil words.
+
+The Gallery in the website has pictures to understand some cultural features [Ex. Thinnai] and more.
+
+Website: https://indllc.wixsite.com/indrasponniyinselvan
+
+-------------
+
+A Note on the Chozla's
+The Imperial Chozla period is considered a Golden Age in South Indian History. The Chozlas ruled between
+the 9th and 13th century. The heartland of their nation was the fertile Cauvery delta with the Rivers Kollidam and
+Agniaru as its northern and southern boundaries. The territories considered as that of the Pallavas in the north
+as well as the Pandiya lands in the south comprised the beginnings of the Chozla Empire.
+
+One of the earliest Chozla kings was Karikala (c AD 150) who was son of Ilan-chet-chenni `Who had wonderful
+chariots drawn by Arab horses.' He ruled from Kaviri-pattinam and had well established trade with seafaring
+Yavanas (Greeks-Romans), Arabs, Egyptians and Chinese. Karikala built several dams across the Cauvery.
+In the Cauvery delta `The space on which one elephant could lie down produced enough to feed seven.
+'Ship-building and temple architecture were established arts. Foreigners were numerous in sea-ports.
+Yavanas were employed as palace guards and to police the streets. Curiously wrought iron lamps, wine, gold
+coins and horses were important imports. Food grain, cotton cloth, black pepper, other spices, timber, gemstones,
+and perfumes were exported. The practice of erecting `hero-stones' as memorials for warriors who died on
+the battlefield was common during this Sangam Period, and it continued for several centuries.
+
+By the ninth century, the delta region of the Cauvery basin was already densely populated; nevertheless, it was
+still in the process of being cleared of forest and being settled. Politically the Cauvery delta was still a frontier
+region between the settled lands of the Pallavas in the north and Pandiyas in the south.
+
+Imperial Chozla's began their expansion under Vijayala (AD 841-878). He captured Tanjavur (AD 850) and
+built a temple for the Goddess Nishumba-sudini (Durga). He was at that time a feudatory of the Pallavas.  His
+son Aditya I, gained complete independence after the battle (AD 885) of Sri-Puram-biyam near Kumbakonam.
+He captured the Pallava territories after a battle in AD 903. His son Paranthaka I, ruled for 48 years (907-955).
+The dreams of these monarchs suffered a setback due to the invasion by Rashtrakutas from the north: the
+Chozlas were crushed in the battle of Thakkolam, North Arcot (949 AD). The next thirty years were a period
+of confusion. Gandara Aditya (AD 949-957) and Arinjaya (AD 957) ruled for short periods. Sundara Chozla
+(AD 957-973) did regain a large extent of his territories. His last years were crowned by tragedy and internal strife;
+Uttama Chozla (AD 970- 985), son of Gandara Aditya was presumed to have conspired to murder the crown
+Prince Aditya II and forced the father to recognize him as the heir in preference over the younger son
+Arulmozli (later Raja Raja I). Raja Raja I (985-1014) recovered vast territories including Lanka and began
+an unchecked expansion lasting for centuries.    Conquest beyond the seas was achieved by Rajendra
+I (1012-1044) who went as far as Bengal, Burma, the Islands of the Malayan Archipelago, and the Siamese
+Peninsula. Chozla influence went even further and the Bay of Bengal was but a ‘lake for the Chozla navies’
+who controlled the pirates and had sway over very prosperous trade routes.
+
+Kulottunga I is said to have established embassies with Imperial China. Several hundred years later, during
+the last years of Kulottunga III (1178-1218), Jatavarman Sundara Pandiya I, and later his son Maravarman
+Kulasekhara Pandiya entered the heartland of the Chozla country. After that the empire struggled for its very
+existence. Upon the death of Rajendra III (1279) the Chozla territories were absorbed into the Pandiya Kingdom.
+
+----------
+
+The Story So Far In The First Three Parts
+Arulmozli Varma who was later famous in history as Rajaraja I, was Sundara Chozla’s second son. When he
+was a child and had gone on a pleasure trip with the family, boating on the Cauvery, he had looked down to pick
+a flower floating on the water and had fallen into the Cauvery.  When everyone was agitated looking for the child, a woman lifted the child from the river floods, left him on the boat and vanished. Everyone felt that Mother Cauvery herself had come and rescued the child. Everyone in the palace, and country began calling him Ponni’s Beloved Prince, darling child of the Cauvery also known as Ponni.
+
+The Prince was also very popular having captured the hearts of all the people of the Chozla kingdom. His sister, Kundavai Devi, known as the Younger Pirati or royal Princess was even more popular. She had immense affection for her brother. She absolutely believed that this younger brother would attain immense fame and honors in the future even though he had no rights to the Chozla throne. She wanted her friend, living with her and other noblewomen at Pazlayarai, Vanathi of Kodumbalur to be married to Arulmozli.
+
+Arulmozli obeyed every wish of his sister. At her urging he had gone to the battlefront in Lanka and gained fame as a brave warrior. The men of the Chozla battalion were free with nothing to do after King Mahinda of Lanka had retreated to his Rohana Mountain fortress. The Prince undertook various projects that pleased the people of Lanka.  Most importantly, he arranged to renovate the many ancient Buddhist monuments in the old, war-devastated capital Anuradhapura.  Overjoyed by this, one sect of the Buddhist congregations in Lanka came forward and offered the Throne and Crown of Lanka to Arulmozli. The Prince however declined to accept.
+
+The Prince became acquainted with a deaf-mute elderly woman who wandered the ruins and forests of Lanka, as if she was crazy, a nobody. He came to know that she was the woman who had saved him from drowning in the Cauvery when he was a child. From pictures she drew he came to understand her history, to some extent. He understood how, his father Sundara had been castaway on an island near Lanka and had lived on that island for some time. His father had fallen in love with the mute woman and lived with her on that island. Arulmozli made some conclusions about the twins born to that mute woman.
+
+Sundara Chozla was paralyzed and lay bedridden in the palace at Tanjavur. For some time now, a comet, the Dhoomaketu was filling the late-night skies. People of the Chozla country were worried about the omen of the comet, and felt that danger threated someone in the royal family. Many believed that the last days of Sundara Chozla were nearing. The debate all over the country was who would be crowned to rule after him.
+
+Sundara Chozla’s eldest son and the Crown Prince Aditya Karikala lived in Kanchi at that time. He was very brave. After defeating the Pandiya king and making him retreat from the battlefield, the Prince followed him to his hiding place. He chopped of the head of that Pandiyan King and brought it to Tanjavur. He went to Kanchi as a representative of Sundara Chozla and as commander of northern forces. However, the Prince had no peace in his mind. The reason for that was a girl named Nandini.
+
+When they were children Aditya and Nandini had been playmates, friends. She had been raised in the house of a temple priest. Later her family had moved to the Pandiya country. In his last days, King Veera Pandiya had been hiding in her home. When Aditya had raised his sword to chop off Veera Pandiya’s head, Nandini intervened and begged him not to do so. Karikala ignored her pleas and killed Veera Pandiya. After that incident, Nandini’s tear laden face appeared in his dreams and when he was awake and tortured Aditya Karikala’s mind, giving him no peace.
+
+At that time the two lords of Pazluvoor wielded much power in the Chozla empire. The Elder Lord Pazluvoor was a veteran of many battles and wore more that sixty-four wound marks on his body. He was the finance minister of the kingdom. His rule was law in the land. His brother the younger Lord Pazluvoor was the commander of Tanjavur fort. None could meet with the Emperor without their permission.
+
+Sometime after the death of Veera Pandiya, Nandini married Lord Pazluvoor even though he was in his late sixties. The old man was enslaved by her enchanting beauty that had a mesmerizing charisma. Many others fell prey to her allure. At Nandini’s instigation, old man Pazluvoor developed a dislike for Aditya Karikala and his siblings. He decided that after Sundara Chozla, the crown should be given to Madurandaka Deva rather than to Karikala. He garnered the support of Kadamboor Sambuvaraya and other powerful chieftains for his cause.
+
+Madurandaka was the son of devout Gandara Aditya who was the elder uncle of Sundara Chozla. Gandara Aditya’s wife Sembiyan Madevi, was the epitome of Saiva devotion. When King Gandara Aditya died, Madurandaka was a babe in arms. His mother raised him in the path of Saiva devotion. And in his younger days, Madurandaka too had no interest in worldly affairs. After he married a daughter of the Younger Lord of Pazluvoor, and upon the encouragement by Nandini, he became interested in ruling the kingdom. After a while the interest became an obsession.  The Lords of Pazluvoor and others in support, favored Madurandaka’s rights to the Throne.
+
+There were two other chieftain families in the Chozla kingdom: Thiru-kovalur Malayaman and the Velirs of Kodumbalur who refused to acknowledge these new claims. They stood firm on the side of the children of Sundara Chozla.
+
+Sundara Chozla understood all these undercurrents in his empire. He did not wish for the Chozla empire to be reduced to nothing after his time. He wanted to consult with his sons and come to a peaceful conclusion. He was ready to bequeath the throne to Madurandaka. But, Sembiyan Madevi, Madurandaka’s mother did not support that idea. That elderly Lady tried to change Madurandaka away from wanting the kingdom.
+
+Aditya Karikala, did not wish to go to Tanjavur which was under the control of the Lords Pazluvoor. He sent a letter to his father asking that his father should come to Kanchi and stay in the new golden palace he had built for him. A brave young man called Vandiya Devan Vallavarayan carried the letters and messages. That young man during the journey, went to Kadamboor to meet his friend Kandamaran and stayed with him for a night. He overheard the secret conspiracy planned against Aditya Karikala. In that same place he became acquainted with Azlvar-adiyan Nambi, a fanatic follower of the Vaishnava faith. Later he finds out that Nambi was a confidential spy reporting to Prime Minister Anirudda.
+
+The Prime Minister Anbil Anirudda Brahma-raya was a childhood friend of Sundara Chozla. He knew the secrets of all the Chozla families.  His dream was that the empire should grow and spread and attain great fame. He wished that Chozla warriors should conquer lands beyond the Ganges even till the old rivers of the Sindhu. He felt that the Chozlas would assist in deterring the barbaric hordes invading from beyond the north western mountains causing loss of law and order and desecration of Hindu faith in the blessed regions of the Gangetic plains. The squabbles in the kingdom would ruin his dreams. He wished to stop the internal conflicts and find an amicable solution. Though he knew the secrets of everything happening in the country, he did not reveal this knowledge to anyone.
+
+Vandiya Devan who carried the letters to Tanjavur, met Princess Kundavai at the house of the Astrologer of Kudanthai. Even at that first meeting both he and Kundavai found that they had a liking for each other. Later there were other occasions that helped that affection grow. Carrying a letter given by Kundavai, Vandiya Devan crossed the seas to go to Lanka. He met Prince Arulmozli and gave him the letters in which Kundavai had written, ‘there is great danger to the kingdom. Come quickly.’ The Prince who held his sister in great esteem and affection was getting ready to oblige her wishes. At that same time, he had two other messages. Parthiban Pallava sent by Kanchi Karikala wanted the Prince to go with him to Kanchi. The Lords Pazluvoor had sent two armed ships with orders from the Emperor to arrest Arulmozli, (for the treason of coveting Lankas throne) and bring him to Tanjavur. Lord Pazluvoor who was angry about Kundavai did not wish for the Prince to meet her.
+
+Prince Arulmozli wished to honor his father’s orders first. The ship carrying him was engulfed in a whirlwind in the middle of the sea.  In order to rescue his friend Vandiya Devan, the Prince jumped into the stormy sea in the middle of that whirlwind. They floated in the sea holding on to a log that had fallen from one of the ships that had been shattered in the storm.  A boat girl named Poonkuzlali saved them when she was plying her boat in the morning after the storm.
+
+Even while floating in the sea, the Prince was gripped by a severe fever and shivering sickness; It was a fever that was endemic in several parts of Lanka. Poonkuzlali and her cousin Sendan Amudan carried the Prince in her boat and took him to the safety of Choodamani Buddhist Vihara in Nagai Port. Vandiya Devan went to Pazlayarai and reported all these details to Kundavai. At the same time, they came to know that Aditya Karikala had been invited to Kadamboor fort for a banquet. They also had the news that Nandini and Lord Pazluvoor too were going to Kadamboor.
+
+Prime Minister Anirudda and Kundavai believed that if Karikala and Nandini were to meet, something untoward could happen. They wished to prevent such a meeting.  Kundavai sent Vandiya Devan to Karikala: he should try his utmost to prevent the meeting, if not, he should be like a body armor and guard Prince Karikala.
+
+Vandiya Devan finds out some details about another very mysterious and terrifying conspiracy – in the middle of the forest at Thiru-Puram-biyam.
+
+Nandini and others, including Ravidasa the Sorcerer were at that meeting. There was also a very young child in that place. They placed that child upon an old tarnished throne and swore a terrible oath. They had given a shining, sharp sword to that child and asked him to choose one among them to execute their plans of revenge. The child gave the sword to Nandini, who accepted and said she would fulfil the task herself. Ravidasa and the other men wanted to sacrifice –kill- Vandiya Devan in that forest as he knew too many of their secrets. Nandini stopped them. They tied him up and left him there in the darkness. Azlvar-adiyan who had put on a masquerade as a Kaalaa-mukha Saiva acetic came and led Vandiya Devan out of that terrifying forest.
+
+Madurandaka went on a ride by himself, wanting to attend a convention of the frightful Kaalaa-mukhas, hoping to garner their support for is cause. His horse bolted and threw him under a tree. Prime Minister Anirudda chanced to see him under the tree when he was traveling to his home town; he helped the prince and took him home to treat him for sprains and bruises caused by the fall.
+
+Kundavai and Vanathi went to the town of Aanai-mangalam near Nagaipattinam. They met prince Arulmozli at the Nandi Pavilion on the canal. Kundavai insisted that the young Prince should remain at the Buddhist monastery for some more time because of the restless disturbances in the country. It would also help him regain his strength after the poison fever and shivering sickness that had gripped him. Poonkuzlali in the boat heard the three of them laughing about something and was filled by a jealous rage. Sendan Amudan tried to calm her down.
+
+Because of the news that Ponni’s Beloved Prince might have drowned at sea, the whole Chozla empire and even beyond was in turmoil.
+
+------------
+
+Chapter 1 – On the Banks of the Kedilam
+Of the many rivers that made the region of Thiru-munaipadi fertile with flow of sweet water was the Kedilam River.  The temple of Lord Shiva Veerattaan in the town of Thiru-Vadhigai where the Lord showed his grace and accepted Saint Appar (Thiru-Naavukk-arasar) into the fold of Saiva faith was situated near this river. Thiru-Naavalur town where Lord Shiva stopped Saint Sundara-murthy, from deviating from the true path of devotion, is near this river.
+
+In those days (during the times of this story) there was, between these two sacred towns, a Royal Road going towards the Thondai regions. The ferry waterfront where the Royal Road crossed River Kedilam was always lively and busy. The sound of noisy bird calls and flapping wings as they nested on the tall trees on the river bank could be heard. Travelers unyoked their bullocks from the carts and rested under shady trees to eat their food packed for the journey. Rice grains that they scattered playfully towards the sky, were picked clean by the birds; any crumbs falling accidentally into the river were pounced upon by the fish. Young children who saw this would clap their hands, with loud exclamations of wonder and tinkling-happy laughter expressing their joy.
+
+(Note: A Royal Road or raaja-veedhi was one that was well maintained to accommodate horsemen, chariot traffic and wheeled wagons and carts of merchants. The roads usually had shade giving trees planted on both sides for the comfort of foot traffic. Rest areas and rest pavilions were often built  at periodic intervals along such roads for the comfort of travelers.)
+In the early days of Aippasi month (October-November) water flow in the river was greater than usual. The travelers tarrying from the midday sun, to eat their lunches were also noisier than usual. Drowning all this, suddenly a louder noise was heard, in the far distance on the Royal Road, making them pause with surprise. Some travelers, clambered up the river bank to look: only a dust cloud was visible first; then they could see an elephant, horses, palanquin, men carrying banners and royal retainers coming down the road. As they came closer, they could hear the loud proclamations of heralds announcing some dignitary.
+
+“Be Aware! Be aware! Here comes the bravest among the brave who entered battlefields when barely twelve years of age, the KoParakesari who plucked the head of Veera-Pandiya, a veritable Lion feared even in their dreams by the Irattai-mandala Chalukyas, Commander in chief of Northern Forces, honored son of the triple crowned Emperor Sundara Chozla, Aditya Karikala the Prince of Chozlas; he arrives, he arrives, be aware, be aware!”
+
+On hearing these words of the heralds proclaiming in a thunderous voice echoing in all eight directions, all the people scrambled quickly to come up the river bank. They made a pathway to the river wharf in the middle but crowded on both sides eager to have a glimpse of that brave young Prince. The heralds, trumpeters, pennant holders, and such men came first and reached the waterfront. After this retinue came three horses trotting side by side. Three brave young men were astride those three horses.
+
+Catching a glimpse of them, even from afar, the people began pointing out who was who and began talking about them. “The one riding in the middle is Prince Aditya Karikala. Can’t you recognize by the golden crown on his head? How that crown shines in the rays of this sun!” said one man.
+
+“You are amazed by this crown! One must see when he will wear the Jeweled Crown of ancient Karikala Valava. They say that it shines like a million suns blinding the eyes!” said another.
+
+“Thambi, that is not really the crown of old Karikala; they ceremoniously speak in that fashion. The crown that Sundara Chozla wears was made during the times of Emperor Paranthaka. How much longer, who knows!” said yet another.
+
+The first man replied, “they keep saying that, counting the years! It appears that Sundara Chozla will live forever!”
+
+“May it be so! As long as he is alive the country will be without strife or confusion.”
+
+“Ah, one cannot be sure of that. After the news that Ponni’s Beloved Prince was drowned at sea, all of Chozla country is in utter chaos. People coming from those places are saying that war may be imminent!”
+
+“War! Between who and whom? Why war?”
+
+“They say it may be war between the Lords of Pazluvoor and Velirs of Kodumbalur. Many of the chieftains are meeting at Kadamboor Fort of Sambuvaraya, to prevent any such thing happening. Prince Karikala is also going there.”
+
+“The horsemen are almost here! Don’t talk so loudly!” warned one man but he continued, “Prince Karikala’s face looks very weary and sad, can you see!”
+
+“How can it be but sad? This Crown Prince treasured his dear brother. Will the elder brother not be worried if there is no news about the younger, beloved brother? And the father is lying on a sickbed with no mobility.”
+
+“All that is natural in life. That is not why the Prince looks so downcast. Karikala wanted to invade the Irattai-mandala Chalukyas and go to war.  That has not materialized. That is the real reason for his gloominess.”
+
+“Why did that not materialize? Who stopped him from going to war?”
+
+“Who else? The Pazluvoor nobles. They are refusing to release the funds needed to gather arms, and supplies for such an invasion.”
+
+Another man now spoke, “They make up all sorts of untrue explanations. None among you are aware of the real reason!”
+
+“Ahaa! You man, whose knows everything! Why don’t you tell us the real reason?”
+
+“Aditya Karikala was in love with some girl from the Pandiya country. When the Prince had gone north to the war near North Pennar, Lord Pazluvoor married that girl. She is now the Young Queen of Pazluvoor, wielding all powerful in Chozla country. From that time Aditya’s mind is totally upset.”
+
+“Could be, could be so! Our elders say that in this world, a woman is at the root of all disputes.”
+
+“Which elder says such things, Thambi?  Utter foolishness!  If the Prince liked a girl, will she go and marry a sixty-year-old man? Those who say, will say such things; don’t they who listen have any sense?”
+
+“Then why hasn’t Aditya Karikala taken a wife still? You explain that Sir!”
+
+“Keep quiet you fellows. They have come close. The man to right of the Prince appears to be the Pallava nobleman Parthiban. Who is the man coming on his left? Is he Vandiya Devan, the nobleman from the Vaanar clan?”
+
+“No, no. He is Kadamboor Sambuvaraya’s son Kandamaran. Sambuvaraya sent his son personally, to invite him, just in case the Prince will not honor a mere letter inviting the Prince to his palace.”
+
+“From this, one can surmise that something very important is happening.”
+
+“Yes, it could be something related to politics in the country; or it could be about weddings!  As long as the Prince remains unmarried, all these, subordinate chieftains will vie with each other in casting their nets to catch him. The first girl to be married to him will have the honor of being seated on the Chozla throne, wont she?”
+
+Thus gossiped the idle crowd, standing around watching the happenings on the banks of River Kedilam. The three horsemen came and stopped at the water’s edge.
+
+A chariot that had been following a little behind the horses, came to a stop under the pipal tree.  Thiru-kovalur Malayaman, the brave man of eighty some years of age, was in that chariot. Aditya Karikala seated on his horse by the water’s edge turned to look at him.
+
+***
+
+Chapter 2 – Grandsire and Grandson
+The old man in the chariot made a sign, and Aditya Karikala turned his horse around and went closer to the chariot where his grandfather was seated.
+
+“My Child! Karikala, I am thinking that I shall take leave of you here and go on to Thiru-kovalur. I need to tell you about some important things before I go. Get down from your horse and come to that seat under the pipal tree,” he said.
+
+“Yes Grandfather,” said Karikala as he jumped down from his horse. The old man also stepped down from the chariot. Both walked towards the seat under the pipal tree.
+
+Parthiban Pallava looked at Kandamaran and said, “Good thing this! I was afraid that this old man will not let go and continue with us all the way.”
+
+“And I was thinking if I should push him into the floods of Vellaru and drown him if he continued!” said Kandamaran.
+
+Admiring their own words, both laughed with pleasure.
+
+Thiru-kovalur Malayaman the chieftain of Malainadu, began to speak:
+
+“Aditya you were born on this day, twenty-five years ago. Yes, you were born in my palace at Thiru-kovalur. All those celebrations on that day! I remember them as if it were yesterday. Your clansmen, people of my families, chieftains of Chozla provinces and Thondai provinces, many had gathered. The men belonging to them more than thirty thousand brave warriors, had come. One cannot describe adequately, the banquets arranged for them. Such feasts and celebrations did not take place even during your father’s coronation. The wealth in my treasury, collected since the times of my ancestors for more than a hundred years were all spent in those three days of celebration. At that time, your great grandfather, Emperor Paranthaka himself, and your father Sundara Chozla too, had come to Thiru-kovalur. There is no measure for the happiness they felt upon hearing that a male child was born! They were joyous that you were born to establish the greatness of the Chozlas. The elder brothers of your grandfather had no offspring till that day. Your father was the only child of Arinjaya. At your age, he dazzled with the good looks of Manmatha, the lord of Love. None had seen a handsome man like him amongst the Chozla clans or even among the chieftains of the Tamil lands. Because of this, your father had some problems. He was the darling child of the palace. When he was younger, the women folk in the palace were wont to dress him like a girl and enjoy his loveliness. ‘If only he had been born a girl!’ they said. Great kings and Chiefs from Lanka to the Vindhya hills came, waiting patiently, to give their daughters in wedlock to your father. They were eager because here he was, a veritable Arjuna or Manmatha in good looks, heir to the great Chozla throne. In the end I had the honor to have your father as my son-in-law.
+
+“In our lineage, we, both men and women were not known for our physical beauty. We would think that the number of battle scars on the body was the measure of our attractiveness. Our women prized character and chastity, karppu, as their goods looks and ornaments. When we had decided to give my daughter in wedlock to your father all of Malai Nadu, my province, was in tumult. Every chieftain of the empire was jealous. I did not care. The wedding of your parents took place at Tanjavur, with pomp that astounded the three words. The celebrations at your birth were much more than what they had at that wedding. There was much happy debate about choosing a name for you. Some wanted to name you after the most famous of the Chozla ancestors, Karikala Valavan. Others including me insisted that we name you after your elder grandfather Rajaaditya famous for his bravery (Rajaaditya died in the battle at Thakkolam).  In the end we named you after both as Aditya Karikala.
+
+“Look over there Aditya! Look at that temple tower of Thiru-Naavalur. It is the birthplace of blessed saint Sundara-murthy. Twenty-five years ago, your elder grandfather Rajaaditya had camped in that town. I have heard of valiant warriors in stories and histories. I have seen many heroic men in these brave Tamil Lands. But I have not seen or heard of a person more daring than Rajaaditya. Anyone who has seen him in the battlefield will say the same.
+
+“He was making preparations here, to collect a vast army to invade the northern lands. He had resolved to vanquish Kannaradeva the King of Irattai-mandala Rashtrakutas and wreck his capital city Manyaketa to rubble. Rajaaditya thought that, only if Manyaketa city was reduced to dust, just like what Mamalla had done to Vaataapi in days gone by, would the pestilence of the kings of Irattai-mandala be contained; and he too could earn fame like the Pallava Mamalla of old. Is it an easy task to collect the huge army needed for such ambitions? They say that Mamalla took seven years to collect his army. Rajaaditya said he did not need that long a time, three or four years would be enough for him. He chose this area between this River Kedilam and South Pennar as being suitable to collect the army and train that vast army.
+
+“Aditya! You have not been fortunate to see these areas between these two rivers in those days. Those who saw it, would never forget it as long as they live. Rajaaditya was positioned at Thiru-naavalur with thirty-thousand men. At Mudiyur, on the banks of River Pennar was camped the Chera Chieftain Vellan Kumaran, with twenty thousand men. Your grandfather Arinjaya was at Thiru-kovalur with me. Arinjaya and I readied fifty-thousand men. In addition to these men, the Elder Velir of Kodumbalur, this Lord Pazluvoor who has turned into a veritable Saturn (an evil planet that portends no good) for the Chozlas, Sambuvaraya of Kadamboor, Munai Raya the princeling of this Chiru-munai-paadi, Mazlavaraya of the Mazlavas, the Elder of Kunratoor, the chief of the Vaithumbas – all of them came with their forces to camp between these rivers. Elephant divisions, cavalry regiments, the three ‘hands’ of the Well Known Kaikola battalions, all had camps here. There would often be training battle exercises between these armies bivouacked here. When elephants clashed with elephants it was like an earthquake had struck. When the cavalry rode with men holding flashing spears, the sound was like the roar of ocean floods at the end of all creation.  When the men practiced archery, the downpour of their arrows would hide the skies. When thousands of men rose in formation to attack the enemy with loud shouts of ‘naavalo, naaval,’ battle-cries and taunts proclaiming victory, it would appear as if the end of the world had come. People would come in droves to feast their eyes on all this.
+
+“The people of these regions, Thiru-Munaipadi and Nadu-naadu, are good people, brave people. When all these armies gathered here, their farming and agriculture suffered. They did not mind. To thank these good people of these regions, Rajaaditya constructed several irrigation reservoirs in these lands. He arranged to create a new river to divert the waters of the Kollidam and fill the Veera Narayana Lake. The fellow who prospered most because of that huge lake and its bounty is Kadamboor Sambuvaraya. I am verily surprised to see him now, proud with wealth and how he had stood those days, humble and submissive!” went on the old man.
+
+Aditya interrupted and said, “Grandfather why do you worry about the haughtiness of Sambuvaraya? Tell me about the battle that took place at Thakkolam. When did this huge army amassed on the banks of this Kedilam deploy from here? In spite of all these arrangements and training, in spite of my elder grandfather being so capable and brave, why did our Chozla forces face defeat at Thakkolam? You too have fought in that war, haven’t you? You would know, having seen it in person?”
+
+“Yes, I too was in that battlefield. I shall tell you about that:
+
+“Rajaaditya was collecting all these armies and training them here to do battle in distant lands. Because of various reasons, he could not start at the time he had planned. War had begun again in Lanka. They had to send forces to bring that under control. The Emperor did not wish to deploy forces of the best men and commanders of the Chozlas to the distant lands in the north, with an active enemy in his south. He kept saying they could move after the Lanka war was concluded.  Rajaaditya waited patiently, unable to go against the words of his father.
+
+“But the enemies did not wait! Kannaradeva, the Rashtrakuta of Irattai-mandala had been gathering huge armies on his part, to invade the Chozla territories. He had started south with his huge army. The Ganga King Buthuga, joined Kannaradeva with his own large force. Like the north sea and the south sea joining together, the massive armies of Ganga Buthuga and Rashtrakutas joined together like a vast ocean, and they began coming. Whales in that ocean were the thousands of elephants; tens of thousands of horsemen were the sharks of that ocean. As if all the seven seas had joined to boil over in a frightening deluge of pralaya floods that destroy all of creation, that ocean of an army marched towards the south; it appeared as if it would completely drown all the southern lands. Those were the details reported by our spies who came swift as the wind, swift as thought, retelling what they had found out.
+
+“Emperor Paranthaka declared, that it too, was good, for a reason.  It was better strategy; instead of making our troops march far into enemy country and face the enemy after a long tiring march, it was preferable to drag the enemy forces nearer to our land, surround them from all sides and annihilate them. He gave permission for our troops to move only after we had news that the enemy had reached North Vengadam.
+
+“No sooner was permission received, than Rajaaditya acted. Three-hundred-thousand-foot soldiers, fifty thousand horsemen, ten thousand war elephants, two thousand chariots, three hundred and twenty commanders, thirty-two underlords and chieftains who were in that army marched forth. I too had the good fortune to go as part of that force. I am also the unfortunate who survived that battle and came back.
+
+“After a three-day march, our forces and the enemy forces met at the battlefield of Thakkolam, which is two leagues to the north of Kanchi.
+
+“Aditya, in old stories, our puranas, we have heard about the battle between Devendra the King of Gods and Demon Vrittasura and about the great battle between the Pandavas and Kauravas; those who witnessed the battle of Thakkolam would say that those ancient battles were mere skirmishes. The enemy forces were about twice the size of our forces. We came to know that there were five-hundred-thousand men and thirty thousand war elephants in their army. So what? They did not have a capable commander like your elder grandfather Rajaaditya. The guardian deities Valor and of Victory appeared to be on our side.
+
+“The war lasted for ten days. It became impossible to count the number of dead on either side. In the field, like dark hillocks lay elephants that had fallen dead. Though losses were heavy on both sides, the enemy weakened. They soon realized the reason for this!  Wherever Rajaaditya’s elephant went, proudly flying the Tiger flag, the Goddess of Victory followed. Wherever our men appeared weary, Rajaaditya’s elephant went there; upon seeing that elephant and the brave warrior riding that elephant, our men felt revived, overcoming their weariness they gained triple the strength and attacked the enemy. The enemy who had been watching this for those ten days, engineered and manipulated a truly heinous plot. We knew that it was all a set-up only later.
+
+“The one who connived and executed the plan was the Ganga King Buthuga. Suddenly that wretch, flew a flag of peace upon his elephant, raised both his hands and approached with loud cries of “refuge, refuge!” Rajaaditya was nearby. Buthuga must have behaved in that fashion only after seeing the houdah atop the elephant flying the Tiger Flag. The heart of that great warrior Rajaaditya was filled with compassion when he saw an enemy king coming towards him with words seeking refuge. Rajaaditya wished to find out if the Emperor of the Rashtrakutas, was himself about to surrender seeking an end to the war, or was this Buthuga separating himself from his emperor and coming to join our side.
+
+“He sounded the conches and signaled the body guards around him to move away. He made a sign for Buthuga’s elephant to approach his elephant. Buthuga came closer with folded palms towards Rajaaditya.  Seeing the tears streaming from the enemy king’s eyes, Rajaaditya began to feel even more compassionate.
+
+“At that time Rajaaditya perhaps, did not remember the cautionary couplets from the Kural, about friendships that should be avoided, by the greatest poet of the Tamil country, Thiruvalluvar:
+
+Weapons will be hidden in the folded palms of an enemy
+The tears of such an enemy too are such, it conceals dishonesty
+“The Chozla was touched by the enemy’s tears, allowing Buthuga to approach even closer. “What is this?”  he asked. Rajaaditya was somewhat disgusted by the reply of that crafty enemy: Buthuga indicated that he has advised Kannaradeva the Rashtrakuta that they must surrender as loss was imminent; since Kannaradeva had refused, he alone decided to separate from that emperor and surrender. On hearing this Rajaaditya chided him severely. Even as he was telling him that he would not take such a defector into his forces, and that he must go back, that deceitful Buthuga executed the ghastly deed within the blink of an eye. He pulled out a hidden bow and arrow, tied the bowstring tight and released the sharp arrow. When that deadly arrow dipped in poison pierced Rajaaditya’s chest, in that unexpected moment, he collapsed.
+
+“Since no one expected such betrayal, the soldiers standing all around did not realize what had happened for a while. They had heard Rajaaditya ordering Buthuga to go back. Buthuga scampered back, hitting, and driving his elephant away from that spot.
+
+“When the news spread that Rajaaditya had died while still on his elephant, every single person in our army felt as if a thunderbolt had descended on their head. In that humongous sorrow they forgot the war. The chieftains, commanders, men, everyone was stunned into inaction and began lamenting their Prince. There is nothing surprising that at that moment the enemy gained the upper hand. Very soon our forces had to retreat. It is easy for anyone to chase those who were running away. The enemy forces even came up to banks of this river Kedilam. Only then did we regain some sense and stood, turning around. We stopped the enemy. I had taken my families from Thiru-kovalur to one of my fortresses in the western hill country. I collected forces at that hillside. I periodically attacked the enemy who had come up to this Kedilam river. Even so, those enemies did not leave from this region for a long time. They camped here and there and continued harassing our Chozla heartland.  Kanchi city was in their hands. Three years ago after vanquishing the Pandiya in the south you came here and recaptured Kanchi…..”
+
+Aditya, intervened again, “Grandfather all this, I have known from before. However, I never tire of hearing about the Battle of Thakkolam or about the bravery of Rajaaditya. Why are you reminding me about Rajaaditya now?”
+
+“My child, your elder grandfather Rajaaditya had wanted to spread Chozla power from Lanka to the banks of the Ganga. He died without that wish being fulfilled. All the country side and all the towns are saying that you my grandson are like that great warrior. What he could not achieve, you will achieve, so say the people of all these Tamil lands. Like Rajaaditya, you too should not fall prey to deception and be fooled by fraudsters; that is why I remind you of his history.”
+
+“Grandfather, my Elder Grandsire died because of enemy deception in the battlefield. Why do you remind me of that now? I am not going to war. I am not going amidst enemies who would deceive me. I am visiting close friends of my father. How and why would they deceive me?” asked Aditya Karikala.
+
+“Listen Karikala! Thiru-Valluvar who warned us about weapons concealed in the folded palms and tears of enemies, also said that internal foes are worse than external enemies.
+
+Fear not foes that are like drawn swords;
+fear friendship of foes that act like kin.
+
+“There is no need to fear enemies who are obvious like drawn swords that hurt us. Fear enemies that act like friends says the poet. My Child, you are about to go amidst foes that act like relatives. You are going without listening to me in spite of my trying to stop you. They invite you saying that there is some dispute about the kingdom and they wish to resolve it. I hear that they are also planning to tie one of the Sambuvaraya daughters around your neck. What is their true intention? That I do not know. And you also are unlikely to know. There are many kings of kings in this Bharata country ready to give their daughters in wedlock to you. You do not need this Sambuvaraya’s daughter. I hear that they are about to negotiate peace by dividing the kingdom in two, giving you half and the rest to Madurandaka. I have no idea about what conniving and deception is in that.
+
+“In either case, I plan to go to Thiru-kovalur immediately and collect all my guard forces.  I shall come and wait on the banks of the Velllaru river. While at this Sambuvaraya’s mansion if you find anything suspicious, send me word ….” Malayaman realized that Karikala’s attention was no longer with him and it had turned elsewhere.
+
+“Grandfather! look, there!” Hearing the agitated words uttered by his grandson Karikala, the old man looked in that direction.
+
+***
+
+Chapter 3 – A Falcon and a Dove
+There was a waterside pavilion where Aditya was pointing. It was a beautiful structure in stonework. Some generous philanthropist must have built it so that wayfarers could rest from sun and rain. That building had been beset by rain and shine for many years and now showed its age. The corners of the building seemed to have some sculpted decorative figures. Malayaman being aged, could not clearly discern those shapes.
+
+“Do you see Grandfather?” asked Karikala
+“Are you talking about that pavilion, My child? I do not see anything particular in it. The pavilion seems empty; I see no one in there?” said he.
+
+“Grandfather, only now I realize that you have aged! Your eye-sight has dimmed. Look at that! A big falcon, how huge it appears, How widespread are its wings!  ‘Cruel, brutal!’ It is holding a tiny dove in its talons – can you not see that? The sharp talons have torn the dove and blood is dripping! Oh God! what is this bizarre thing? Grandfather look at that other dove. It is flying around that frightful falcon. How it begs the falcon! The dove caught in the talons must be its love. The other bird is begging for the life of its beloved. Is it begging? or is it fighting the cruel falcon? The beating of its wings perhaps indicates that it is fighting. Gracious God! how brave is that bird! It is fighting the falcon. It is ready to battle the frightful fiend to save the life of its loved one. Grandfather! Do you think that the falcon would be merciful? No, it will not condescend to do that! Never! The falcon has killed many such birds and grown fat on them. Wretched bird! Here, I shall kill you!” saying this, Karikala picked up a stone near him and flung it towards that pavilion. The stone missile flew to the pavilion, struck a corner, and fell.
+
+Aditya said, “Demon! You deserve that!” and laughed thunderingly.
+
+The old man had been having some doubts about his grandson’s mental health. The concern increased.
+
+“Grandfather, why do you stare at me like this? Go close to that pavilion and look.”
+
+Accordingly, Malayaman went closer and looked at the spot where Karikala’s stone had fallen. There was a sculpted panel: a huge falcon was clutching a dove in its talons, and another dove was furiously attacking the falcon – life-like in appearance.
+
+Malayaman came back, saying, “Child it is true that I have grown in years. My eyes are not sharp like before. Only when I went near, could I see it. Beautiful carving!”
+
+“Beautiful carving!? Say wonderous sculpture work; an emperor of an artist from the times of Narasimha or Mamalla Pallava must have sculpted this. It appeared so real when I first saw it!”
+
+“Aditya, the wonder is not merely in the sculpture; it is in your eyes; in your heart! There are many travelers who go along this way every day. Most would not even notice this wonderous sculpture. Many others would go on without remark even if they see it! Only a few like you would be amazed by looking at a sculpture like this!”
+
+“I am not amazed, Grandfather, I am angry. I feel a rage right now, to reduce that sculpture to smithereens. I do not even like praising and celebrating the artist who sculped this brutal scene.”
+
+“Karikala, what is this wonder? When did your diamond hard heart become this soft? A falcon pouncing on its prey and eating that dove is its nature. If the lion king begins to feel compassion for the sheep, it is no longer the lion king. It too will turn into a sheep. Those that wish to sit on a throne and rule must kill enemies and conspirators. Those born to be emperors, wanting to rule all the world under one umbrella need to kill enemy kings. If this eagle does not kill the dove, can it be an eagle? Why are you distressed thus, about these things?”
+
+“Grandfather, all that you say is correct. But should that falcon not feel any kindness for that female dove that appears so distressed? Showing benevolence for the bird, shouldn’t that eagle release the mate from its talons? Sir, you tell me this: when you are about to kill your enemy, what if his beloved comes in between and begs for his life? what would you do? Would your heart show no sympathy?” asked Karikala.
+
+If such a woman comes in between, I will kick her with my left leg and kill my enemy. Karikala there is no doubt about that. Thiru-valluvar has said that enemies will carry weapons in ‘palms folded in supplication.’ ‘Tear laden eyes too, conceal weapons.’ Tears of a woman are more dangerous than tears shed by a man. Women’s tears have the extra power to make men’s hearts soft. Anyone who lets his mind go soft like that cannot achieve anything great in this world; he is worse a wretch than a woman!”
+
+“What is this Grandfather? How can you speak thus, so lowly about women? This speaking badly about women, does it not demean my mother too?” asked Karikala.
+
+“My child, listen; the love I have for your mother has no comparison in this world. I had six sons born to me; they were reared as brave men like Bhima and Arjuna of the epics. I sacrificed them all in battlefields. I did not mourn when I got news of their death. When I sent your mother away to be married, even though I knew that she would sit on the throne of a vast Kingdom, none can describe the sadness in my mind. Did I show my sadness openly? No. Did I share it with her? No, not even that. Do you know what I told her, privately, on the night before her wedding? Listen Karikala: ‘Daughter, you are about to marry a King who will rule the land. Do not become proud because of that. You are about to wed a man as handsome as Manmatha. Do not be proud even because of that.  Marrying a prince like that is likely to give you many difficulties. The many women who are in service in your palace may be more happy than you. Ready yourself to face sadness and sorrows. Your husband is verily likely to take other wives if you have no children born to you. You should not be unhappy thinking of that. If you give birth to children raise them as brave men and women. If you get news that they died in the battlefield you should not shed tears because of that.  If your husband is happy, you too can be happy. If your husband is sad, try to make him happy. If your lord is ill, serve him as a constant nurse. If your husband dies, climb on to his funeral pyre with him. Even if your heart aches with sadness shedding tears of blood, your eyes should never be tear laden in sadness. This is the code of behavior for women of the clan of Malayaman.’
+“I advised your mother in this fashion; till today, she follows that dictum and makes sure that it is followed. She has raised you and your brother as incomparable valiant men. After your father took to his sick bed, she has remained at his side night and day and serves him personally.  My shoulders swell with pride when I think of the good fortune of having your mother as my daughter,” Malayaman said this.
+
+“There is no limit to the pride I feel when I think of my mother. But let me ask you this, Grandfather, tell me. Consider this, suppose a most vicious enemy of my father were to come with a sword raised high, ready to kill. What will my mother do at that time? Will she come to the front, stand with tear drenched eyes, and beg that enemy to spare his life? Particularly, if the enemy happens to be someone known to my mother?” asked Aditya Karikala.
+
+“My Child! your mother will never beg the enemy to spare that life. This Malayaman’s daughter will never dishonor the clan of her birth or the clan into which she is married. She will consider that enemy of her husband as a vile enemy of hers too. She will not fold her palms in front of that enemy or shed tears in front of him. As soon as her husband loses his life, she too will fall upon him and end her own life. Or she will turn her heart and soul into a stone and stay alive! She will stay alive only to revenge her husband’s death.”
+
+On hearing all this Aditya Karikala sighed long and heavy “Grandfather, shall I leave now?”
+
+“Must you go?”
+
+“What doubt is this Grandfather? We have come more than half the distance.”
+
+“Yes, we have come more than half the way. At first, I too asked you not leave. And then told you to go forth. After hearing the news about your brother, I thought it advisable for you to go. I do not believe that Arulmozli is dead.”
+
+“I too, do not believe that.”
+
+“In his younger days the whereabouts of your father was unknown for some time. Arulmozli too would have gone ashore on some island. I believe that he will come back in a few days. However, that news has created chaos all over the Chozla country I understand. Your parents would be immersed in sorrow. It is important that at this time, you are by their side to comfort them. When you go, it is preferable that you go as a friend of the Pazluvoor men rather than as their enemy. That is why I agreed to your accepting this invitation from Sambuvaraya.  That fellow deliberately did not invite me! If he had invited, I would have come…”
+“Grandfather, why are you so concerned about me? Do you think me that incapable?”
+
+“No, Thambi, No. Don’t I know how brave you are! I would send you all alone to go amidst tens of thousands enemy men with brutal weapons; I am afraid to send you in front of a woman who can shed tears and muddy your mind.”
+
+“I have not heard that Sambuvaraya’s daughter is a girl who knows such deceit and trickery! I believe she is too bashful even to come amidst menfolk. Kandamaran has spoken about it. I too will not do any such thing hastily without the approval of my mother and father. I am fully aware that there are two girls of age, in your ancient clan, still unmarried.”
+
+“Aditya, I have not even thought about that! It is true that there are two girls, children of my eldest son, who have reached the age to be married. But I have no intention of throwing them around your neck. Already, several chieftains of the Chozla heartland consider me with some jealousy and enmity. If this is added to that, one need not ask! Instead, if you wed Sambuvaraya’s daughter, I would be somewhat satisfied. I am old now; my body is weakened. even my mind goes soft. Sometimes I am worried that this may be the last time I would see my darling grandson, will I not see him again?  From now there can be no further help to you from me. You surely need some new friends. You need those who will take an interest on your behalf. If you marry Sambuvaraya’s daughter, I shall truly be happy!”
+
+“Grandfather, even if it can give you happiness, I will not wed that girl; I am not venturing to Sambuvaraya’s fort, seeking his friendship or to marry his daughter. You can be rest assured in that regard.”
+
+“Then, why are you going My child? Can you not tell me the truth? A few words fell into my ears when your friends were talking to each other. That elder Pazluvoor fellow after his sixty-fifth year in age has married a bewitching ghoul who has sent you a letter. It is because of her that you have agreed to go to Kadamboor; that is what your friends were saying. Is that true?”
+
+“Yes Grandfather, it is true.” Karikala agreed.
+
+“Oh! Good God! What are these times?  Karikala listen to me! Your Chozla clan has come from ancient times, successor after successor for more than two thousand years and attained fame. Some of your ancestors were emperors who ruled all the known world of that time, under one umbrella. Others were chieftains, ruling merely the land around their capital Uraiyoor, as petty kings. Some took a vow of marrying only one spouse like Rama of the epic. Some married many women, and gave birth to several brave sons. Some were followers of the Saiva faith; others were adherents of Vishnu. Others maintained, ‘there is neither God nor Ghost!’ But none behaved in a fashion that would bring infamy. None desired another’s wife. My Child, marry as many maidens as you wish; your grandfather’s father, the famous emperor Paranthaka married seven women.  You too, marry like him. But do not even cast your eyes on the enchantress that the elder Lord Pazluvoor has married,” spoke Malayaman in a concerned voice.
+
+“Forgive me Grandfather! I will never commit such a crime. I will not cast a blemish on the name of Chozla and Malayaman clans.”
+
+“Then why are you responding to her invitation and going there?”
+
+“I will need tell the truth to you. At one time I did something very awful to her.  I intend to ask her forgiveness for that,” said Karikala.
+
+“What kind of words are these! Ask forgiveness of a woman! I cannot bear hearing such with mine own ears!” said Malayaman.
+
+Aditya Karikala remained silent with head bent down, for some time. He steadied himself and told his grandfather that old history. How he had gone in search of Veera-pandiya, found where he was hiding, how Nandini had intervened and begged for the life of that enemy, how he had paid no heed, and killed in a rage! And how from then onwards his mind had wandered with no peace of mind. He explained all the details.
+
+“That incident is constantly troubling me Grandfather. My mind will find peace only if I see her one more time and ask for her forgiveness. It appears that she too is ready to forget all that past. She is also interested in making sure that there is no confusion in the kingdom. She has invited me for that reason. I shall finish this task before me and comeback to Kanchi very quickly. When I come back, I shall set sail to find my brother,” said Karikala.
+
+Malayaman sighed heavily, “things that were not clear till now are beginning to make sense to me. What was mysterious is now explained. It is true that none can overcome fate!”
+
+***
+
+Chapter 4 – Ayyanaar Temple
+Our old friends, Vandiya Devan and Azlvar-adiyan were engaged in a curious enterprise, on the northern shores of the Kollidam river, in a town named Thiru-Kaanaattu-mullur at that same time that grandsire and grandson were engaged in conversation on the banks of river Kedilam.
+
+In days of yore, Kollidam, a branch of the Cauvery river was considered a holy river just like the Cauvery. Every day during the month of Tula, (October-November) the deity of Lord Shiva enshrined in that temple at Kaanaattu-mullur, would venture out from the temple riding a Rishaba Vahana, bull vehicle, and hold court on the banks of the Kollidam, spreading his blessings upon the devout who came to bathe in those holy waters.  Every day was festive. The devout came in masses from neighboring villages and townships. Saivas came; Vaishnavas came. The Vishnu temple in that town was very small, but the deity of that shrine, Lord Vishnu too came riding his vehicle Garuda the eagle to the banks of the Kollidam.
+
+Azlvar-adiyan, had stuck a branch of the Naaval tree in the sand in the middle of a crowd of people who had come to bathe in the holy Kollidam during the month of Tula.  He was shouting loudly, “Naavalo Naaval! Naavalo Naaval!” challenge-cries or taunts proclaiming victory.
+
+“I have come to establish without doubt that the Vaishnava faith is the greatest faith, by my debating war.  Anyone can come to challenge me in debate, Saiva, Sakta, Advaiti, Kaapaalika, Kaalaa-mukha, Buddhist, Sramana-Jain, any can come! If they win the argument, I will carry that person on my shoulders and go in procession around the town! If they lose, they must surrender everything on their person to me, except their waist cloth,” he shouted.
+
+A huge mound of rudraksha bead necklaces, neck chains with pendants shaped like sea-beasts, water pots, containers with spouts fashioned in the foreign way, skull-bowls, silken scarves, ear ornaments, gold coins and such were piled in front of him; it appeared that he must have debated with many, for a long time, and won the argument.
+
+Vandiya Devan stood close, with a drawn sword, leaning casually on a kadamba tree. All he had was a waist garment and the drawn sword! From the way he stood it seemed as if he had offered violence to those who tried to strong arm Azlvar-adiyan, and had sent such persons away. This was also clear from the words he spoke to a large group of Saiva devotees that arrived noisily.
+
+“Be warned, be warned! Those that wish to debate fairly are welcome.  Anybody who tries to cross the limits and lay hands on this Vaishnava will fall prey to my sword.” Thus announced, Vandiya Devan. He swirled the sword once or twice! The angry Saiva group calmed down.
+
+One of those of the Saiva faith said, “oh, Vaishnava Nambi, do not be proud that you have won a debate today; go to Naraiyur. The saintly Nambiyandar Nambi of that town will debate with you and make you retreat in defeat!”
+
+“Tell your Nambiyandar to come to our Anantha Bhatta at Naryana-puram and debate with him! I too may come there!” replied Azlvar-adiyan. In spite of repeated calls of Naavalo Naaval none came forward now. He pulled up the tree branch and struck a pole flying a victory flag emblazoned with symbols of Vaishnava faith, conch, and discus, in that space. Some men of the Vaishnava faith who had been standing nearby, came close, lifted him on their shoulders and danced around with songs like:
+
+Narayana is our only God; Let us all Praise and worship!
+
+Later they asked, “Devout Sir of the one true faith, please grace our homes and partake of blessed food with us.”
+
+Azlvar-adiyan replied with great dignity, “So be it!” He went with those men, taking Vandiya Devan along. Both did justice to the meal which included special dishes famous among followers of that faith: Puliyodarai, Thiru-kannamudu and Dadhyonnam (sour rice with tamarind, sweet milk pudding, rice with curd and yogurt.)
+Azlvar-adiyan gave Vandiya Devan a beautiful silken cloth which could be worn as an upper body shawl, from the bounty he had collected; he gave the rest to those Vaishnava devotees and in exchange obtained some gold coins for the value of those items. He explained to them that he needed money because he was planning to go far north till Haridwar in the Himalayas, and he was traveling to establish the supremacy of Vaishnava faith. Those devout friends happily gave him coins more in value than the goods they received. Taking all of it, Azlvar-adiyan and Vandiya Devan left for Kadamboor late in the afternoon.
+
+As the Kollidam was running in full flood they could not bring the horses and cross the river.  They took the boat to cross the river. When the boat had almost reached the farther shore, the boat which had been overloaded with people by the boatman, capsized in the swirling waters. Like others, Vandiya Devan too had fallen in the floods, he had to swim and make his way to the bank. His waist-pouch which he had managed to keep secure during his many travails and dangers during all his journeys, came loose and was lost in that flood along with the signet rings, palm leaf letters from Kundavai and the gold coins in his waistband. They had employed the strategy of the debate, to get some gold to buy new horses. They soon realized that they would not find any horses for sale in those villages in that area. Sometimes, horses came for sale in the weekly market held at Kadamboor village. Otherwise, they would have to go to Thiru–paa-puliyur town to buy horses.
+
+The two friends argued if they should go to Kadamboor or not. They considered the pros and cons of the going there. They may find   news about Aditya Karikala coming to that Fort. It would be good to get the latest news of whether the Prince had already started from Kanchi, which road was he taking .. and so forth. However, they should avoid being recognized in Kadamboor. If they happened to see Kandamaran, it would become dangerous. If the retinue of the Pazluvoor families had already arrived, that too would be a nuisance.
+
+“Mr. Nambi, you know how to jump over walls, why not get two horses from Sambuvaraya’s stables?” asked Vandiya Devan.
+
+Nambi replied, “I know how to jump over fort walls; will the horses know how to do that?”
+
+The man of the Vaanar clan said, “If the retinue of Lord Pazluvoor has already arrived, we can steal two horses. Those men chased my horse into the crowds at that time; it will be an apt revenge.”
+
+They talked about how they had met at Kadamboor some months ago and the many interesting things that had taken place that night and since then, as they walked onwards.  They reached Kadamboor when the sun was about to set. Just as they had expected, Kadamboor was full of the hustle and bustle of preparations.
+
+The palace and fortress gates were decorated with fresh bunting, flags, and flower strands. There was heavier guard than before at the gates and around the fortress walls.  Need one ask why!  Prince Aditya Karikala was expected to come; the minister of finance, Lord Pazluvoor and his queen were expected. The followers and retinue of these notables will come. For a few days the town is sure to be full of tumult.
+
+The friends heard about everything from the people talking in the streets of Kadamboor town. From the talk they could gather that both parties had not yet arrived. They learned that Sambuvaraya’s son Kandamaran had got to Kanchi to escort the Prince. Among all this, the people also talked softly about Prince Arulmozli who had drowned at sea. From the way that they spoke or by their expressions, it was obvious that many did not like that such festivities of banquets, feasts, dances, music, and revelry were being planned at the fort.
+
+Vandiya Devan and Azlvar-adiyan, crossed the town and went beyond, listening to all such news pretending to not particularly care. They did not wish to spend the night in that town but wanted to get away. Beyond the town but near enough they were sure to find some old rest house or wayside pavilion; if not they could go on and stay at Thiru-Narayana Puram. They could sleep in comfort in the large thousand pillar hall of the large Vishnu temple in that place.  After the experiences of the previous night, they needed at least one night of good sleep and rest.
+
+On crossing Kadamboor and going a little further they saw glimpses of an Ayyanaar temple in the midst of a forest-like bamboo grove. Vandiya Devan said, “Mr. Nambi I cannot walk much farther. Let us sleep in this temple tonight. It is a good spot to be hidden from prying eyes.”
+
+“My friend, you are not correct; how are you sure that others with intentions like us will not arrive here?” asked Azlvar-adiyan.
+
+“If those who come, come with horses, it will be doubly good.”
+
+“Horses cannot go into this bamboo forest. It is difficult even for men to go in!”
+
+“There must be some narrow trail. The temple priest needs to come and go, there must be a path somewhere, let us look for it.”
+
+(Note: Ayyanaar shrines are popular as guardian deities usually set up at the village perimeter. They often include huge gaily painted terracotta figures of men and animals, and altars to offer sacrifice; they blended local folk belief traditions in the style of worship.)
+They went round and around that overgrown bamboo grove and finally found a very narrow trail for one man to walk. It was a great effort to walk on that path without being scratched by thorns. The path opened up after a little distance. In the clearing there was a small Ayyanaar temple. In front was a pedestal to offer sacrifices. And next to that were several large figures made of fired clay – elephants and horses set up in a row. Believers would come to fulfill their vows or prayer-promises by placing such figures near the temple.
+
+“Why are we worried about horses; we can ask Ayyanaar and get two horses,” said Vandiya Devan with a laugh.
+
+Azlvar-adiyan replied, “Thambi, don’t you know the proverb, ‘do not get into the river trusting a clay horse!’”
+“Mr. Nambi of the Vaishnava faith, our Ayyanaar is a very powerful deity! He will immediately fulfil our prayerful wishes. He is not like your Vishnu, letting his devotees suffer while sleeping even during the day!” said Vandiya Devan.
+
+“So, you think that he would make even these clay horses come alive? That is good; we can save our money!”
+
+“If one has true faith, even clay horses will come alive; why? Think of our own human bodies; the creator fashioned us from dust and gave life!”
+
+“Yes Thambi, you say it correctly; we forget that our bodies are made of mud and clay. Our teachers and leaders of my Vaishnava faith tell us to make a paste of such clay and wear it on our forehead and body so that we are constantly reminded.”
+
+Vandiya Devan made a sign, “Shhh!” shushing Azlvar-adiyan, talking hold of him with one hand and pointing with a finger of the other hand. It had been a while since sunset. In the dim light of the clearing in the middle of that dark grove of bamboos, it seemed as if Ayyanaar’s horses had come alive and were moving about. A horse and an elephant moved from their spot.
+
+Vandiya Devan was stunned, should one believe this astonishing spectacle, happening in front of his own eyes, or not? He did not want to miss the opportunity to taunt Azlvar-adiyan about this fantastic power of Lord Ayyanaar! He began saying, “Mr. Nambi, did you see….” Azlvar-adiyan took hold of his hand tightly, placed a finger on his lips and signed making him stop talking. He tightened his hold of Vandiya Devan’s hand, dragged him behind a clump of bamboo and stood hidden behind it.
+
+The horse and elephant had moved; in the gap created when the figures moved, they could see just the head of a man. The head turned this way and that way, scrutinizing all directions. This sight of a head alone appearing and swirling near the sacrifice pedestal was horrifying. Even Vandiya Devan who had seen all sorts of frightful things was aware of his body shivering and hair standing on end. Vandiya Devan regained his confidence on realizing that Azlvar-adiyan’s hand holding him was steady and unshaken.
+
+Even as they were watching, that head rose and came up! They could see a torso; the whole body of that man came up. At that spot where he came up was a yawning opening, as if it were a dark entryway to the nether world. After peering at him for a while they recognized the man. He was Idumban Kari, who worked as a footman in Sambuvaraya’s palace and at the same time was part of Ravidasa’s gang of conspirators.
+
+They both recognized him at the same time and indicated their surprise to each other.
+
+Idumban Kari left the open entryway as it was, looked around in all directions once more, and walked towards Ayyanaar’s temple.   In a short time, a faint light appeared inside the temple chamber. They gathered that a lamp had been lit inside that temple.
+
+Azlvar-adiyan whispered, “Thambi what do you think of this?”
+
+“I think that Ayyanaar is a very powerful God! Did you see how the horse came alive?”
+
+“That’s, fine! What did you think of that fellow who just came out?”
+
+“He must be the priest of this Ayyanaar temple. Come let us also go and worship.”
+
+“Be patient, let us watch to see if anyone else is coming to worship Lord Ayyanaar.”
+
+“You think some others may come?”
+
+“Otherwise, why is this fellow turning on the light?”
+
+“What is remarkable about the temple priest turning on a light for the deity?”
+
+“Thambi, did you not recognize who he is?”
+
+“I recognize him very well. This is that same Idumban Kari who arranged to buy a horse for me, at Kollidam ferry long ago. I am thinking if I should ask him to procure some horses for us.”
+
+“Great Idea!” said Azlvar-adiyan with some sarcasm.
+
+“Why? Do you not like it?”
+
+“This Idumban Kari is not just the footman who got the horse for you; he belongs to the gang of Ravidasa the sorcerer!”
+
+“Is it so! Another great idea occurs to me!”
+
+“What? What is that?”
+
+“When Idumban Kari is busy with his devotionals to Lord Ayyanaar, I am wondering if I should examine the opening where he sprang from and come back.”
+
+“How will you do that?”
+
+“Can’t I go down that opening he came out from?”
+
+“You could, but the dangers in that…”
+“What is there, that is not full of danger?”
+
+“Then, do as you wish.”
+
+“Sir, will you wait here and watch what is happening?”
+
+“Why not; I can wait here and watch. Have you any thoughts about where that underground passage leads?”
+
+“Ideas occur, Sir, I have ideas. I wish to confirm my suspicions.”
+
+“Why need you confirm that?”
+
+“It may come in useful, at some time, who knows!”
+
+At that instant they could hear voices of men talking somewhere.
+
+“There is no time to waste. Nambi, will you wait here for me till I come back or will you be like what Sugriva did to Vaali? (in the epic Ramayana, Sugriva, impatiently closed the cave door with a boulder and left his brother for dead.)”
+“I shall wait here as long as I have life. How can I be sure that you will come back?”
+
+“Me too, I will come back if I am alive.” Even as he was speaking, Vandiya Devan was running; with a leap he was at the spot of that entryway. He stepped into the opening and disappeared into the darkness of that hole! It seemed as if the entry to the dungeon had swallowed him!
+
+Idumban Kari who had gone into the temple came out and looked around. The open entryway caught his eye. He went closer and turned a trident fixed next to the sacrificial pedestal. The horse and elephant that had moved away now came back closer and stood as before; the opening was closed; the entryway had vanished without trace. After doing this Idumban Kari came back to the steps of the temple. Soman Samban Ravidasa and others arrived at the same time by another path. Azlvar-adiyan hid himself even more in the thicket of bamboo.
+
+Ravidasa sat on the step; the others sat before him on the floor.
+
+“Friends, the time has come near for our vows to be concluded,” spoke Ravidasa.
+
+“We have been saying this ‘the time has come; the time has come closer’ for the last six months!” said one of the men.
+
+“Yes, there is nothing incorrect in that! The time has been coming closer and closer in the last six months. It has now come to days that we can count on our fingers. We have news that Aditya Karikala has left Kanchi.  All the efforts by that old man of Thiru-kovalur were not successful in stopping him.”
+
+“How can we be sure that someone else will not try to stop him on the way?”
+
+“Once he has taken a step Aditya Karikala is not one to go back. Even if anyone else tries to stop him he will not listen.”
+
+“What if the message sent by his sister reaches him?”
+
+“How will it reach him? We left that messenger tied up in the forest.”
+
+“Great! I saw him this morning on the North Bank of Kollidam. Our other archenemy was with him.”
+
+“Who was that?!”
+
+“That false Vaishnava masquerader.”
+
+“If so, we must be especially careful. We must try and stop them from meeting Aditya Karikala.”
+
+“This is like the story of getting hold of a tail and forgetting the trunk!  We had him; we should have put an end to him there once for all. We don’t know why the Queen asked us to let him go.”
+
+Ravidasa spoke now, “My friends, I too didn’t understand that fully at that time. I understood later. The Queen has surpassed even me; I myself agree. The Queen asked us to let Vandiya Devan go free with his life intact because of a very important reason. You men need not know those details now. Do not worry about Vandiya Devan. But if you see that Vaishnava masquerader, do not hesitate even for a second; get his life before doing anything else.”
+
+***
+
+Chapter 5 - Dangerous Dungeon
+Vandiya Devan who entered the opening to the dungeon went down a few steps. Then, the floor became level. The light was very, very faint. After he had walked ten or fifteen steps, he heard a sound, like a wagon wheel turning. Suddenly he was engulfed, totally swallowed by darkness. A fear took hold of him. He thought of his resolve to not get involved in things of no concern to him. What is my assigned mission and why did I start on this journey? Why did I forget that, and venture into this frightening dungeon pathway?  Who knows where this will take me? What dangers will await me at the end? What foolish adventure have I gotten into? When will my impulsive nature leave me? Such thoughts slowed his footsteps. He turned around thinking he would go back. He could sense the steps under his feet; But there was no opening up there; he felt with his palms, searching and found no opening. They must have closed the entryway!
+
+Vandiya Devan was now sweating and flustered. With some haste he tried to see if he could open the entryway. By now he began hearing voices, somewhere, faraway. Perhaps it was men talking on the steps of the Ayyanaar temple near the entrance to the dungeon he had entered. Idumban Kari had lit the lamp, expecting some others. Perhaps those others have arrived. If so, it would be a humongous mistake to find the exit and get out of this dungeon here. Who knows for how long they would sit talking over there! If there were the others in the gang of Idumban Kari, like Ravidasa, they would sit around talking for a while! Why are they meeting at this spot? What will they be talking about? Another conspiracy?
+
+That Vaishnava Nambi will watch all that. Instead of my standing here drenched in sweat and short of breath, it would be better to go forward. It may be better to go on a little and find out. I have bravely ventured this far… Where is this passage leading to? It may be better to find out….
+
+With such thoughts Vandiya Devan turned around and took a step to go onwards again. Even though the ground was somewhat level below his feet, it was not smooth, not without dips and holes and rough stone. They must have tunneled through hard rock and made that passage.
+
+He had made a guess about where the passage might end. It most probably will end inside Kadamboor Sambuvaraya’s mansion. Where in that mansion will it end up? Perhaps in a treasure vault? Or it might end up inside the inner apartments of the palace women. It was known to him that chieftains and kings had such secret passages built in their forts and palaces where they lived. In times of grave danger, if they had to run and escape from the palace, they would use such passages. Since it would be important to remove the womenfolk of the palace to safety, such passages often ended in their apartments. As it might be important to take along important treasures, sometimes the passage had an entry and exit in the treasure vault.
+
+Where will this passage lead me now? Since Idumban Kari came by this way, it is possible that the exit on the other end is in a treasure room. This gang has been robbing Lord Pazluvoor’s treasure vault, with the help of his Queen, without Lord Pazluvoor’s knowledge.  Perhaps they have planned to loot Sambuvaraya’s treasures in a similar fashion. Why are they venturing on this enterprise now when Kadamboor is busy with arrangements for welcoming the Crown Prince and other guests? Perhaps their intent is something else!
+
+Vandiya Devan remembered what he has seen and heard in the forest at Thiru-puram-biyam. The shining sword with symbols of fish, held by Queen Nandini flashed before his eyes for one moment; rather than looting treasure, they may have other more heinous intentions. If I can make sure about where this passage ends, it would perhaps be helpful to thwart their intentions.
+
+In truth it had been only a few minutes since he entered that dungeon passageway. Since it was dark, time seemed long. With lack of fresh air, breathing became difficult. As if it were possible, he was sweating even more profusely. When trying to think about the distance from the Ayyanaar temple to Kadamboor fort he was surprised. He thought about it again. From the gates of the fort, they                                                                had taken roads that went roundabout and curved inside the town; then they had taken a forest path; that is why they had taken such a long time. If one were to go directly from the fort to the temple it could not be more than the distance that an arrow let loose from its bow, could fly. If that were true, he should be crossing the outer walls of the fort by now….
+
+Yes, that was true. Somewhere from above, suddenly, a gust of cool breeze hit Vandiya Devan. The breeze gave new life to Vandiya Devan who was sweat drenched, breathless, and almost fainting. Looking high up he saw some light. Voices could be heard.  It must be one of the ramparts built for soldiers to stand guard; they have arranged for air to get to the underground passage through that structure…. air could get in but there was no way that anyone could climb out or get down through that slit. The realization that he was already inside Kadamboor fort and the fresh cool air which revived him, gave him new energy. The end of this underground passage must be close – would it be the treasure vault? Would Kadamboor Sambuvaraya also have collected vast quantities of pearls, rubies, coral, diamonds, and gold coins? Just as I had seen before, would a human skeleton be lying atop the treasure mound? Would a spider have spun its web covering the bones and the coins?
+
+Walking on, with such thoughts, Vandiya Devan stumbled upon something. Realizing that it was a step he gained some confidence. Yes; once I go up these steps, I am sure to get into the treasure vault; or I might end up in the inner apartments of the women. That would spell danger! That dark beauty of a girl, Kandamaran’s sister Manimekalai might be in there. Vandiya Devan smiled when he thought how, at one time, he had plans to marry that girl. There was no one there to see the smile on his face and enjoy it! What if I suddenly appear among the women when they were perhaps not dressed properly! – Thinking of such things, laughter took hold of him.
+
+One moment after the laughter, the blood in his body froze! He saw a most frightful scene that made his heart almost stop beating, and eyes pop. He was climbing those few steps; once he had stepped on the topmost plinth and realizing that here were no more steps, he was trying to look around to figure out where he had come. Hundreds upon hundreds of fiery eyes looked at him. All were the eyes of most frightening wild beasts. In that fright of that moment, he was about to turn around and go back the way he had come. But now, there was no pathway behind him!
+
+As soon as he had stepped on that topmost step, he had heard a noise at his back, it was the entry to the underground passage which closed by itself! What is this hideous, frightful place? How can so many wild beasts wait for me here? Tigers, cheetah, spotted leopards, lions, bears, wild buffalo, hyena, wolves, a rhinoceros! and even two elephants over there – all are waiting to pounce on me! Why have they not leapt upon me yet? Oh, what a huge hawk over there! and this huge owl. Vampire bat. Am I dreaming? What is this – here lies a crocodile, its jaws wide open and sharp terrifying teeth. Crocodiles are usually in water, why is this one on this floor. How did it come to be amongst all these forest creatures?
+
+“Oh, dear Mother! I am saved!” he almost shouted. He had recognized that none of those beasts around him were alive. He remembered Kandamaran telling him that his clansmen were fond of the hunt. They had preserved some of the animals they had hunted, stuffed them with cotton and hay-stalk and displayed them as if they were alive in a hunt-room. He remembered that Kandamaran had spoken about such a room in their fort. Vandiya Devan understood that he was now in that hunt-room. Even so, it took a few minutes for his earlier fright and shivers to calm down.
+
+He walked up to each animal, touched, and examined them; shook them, stepped upon them, and made sure that none of them were alive! What next? The doorway of the passage from which I came, has closed automatically. Should I try finding it and go out that way? Or should I try to find where in Kadamboor Palace is this awful room located? Is there an exit from this room to another chamber?  How do I find that?
+
+He tapped the walls and went around; there was nothing obvious that looked like a door. Nothing that budged to his tapping and pushing.  As time passed, Vandiya Devan began to feel more and more angry. I got involved in this unnecessary escapade and am caught like this – he felt enraged. He saw an elephant face with its trunk and great tusks fastened upon a farther wall.
+
+“Wretched Elephant! It was you who moved around and got me into this prison!” he scolded that elephant; it did not respond. Even a live elephant does not talk, what could an elephant stuffed with sawdust and grain-bran do? It was immobile, not even swinging its trunk. “Hey you animal! I am addressing you, why don’t you respond!” With such words, he took hold of the elephant’s tusks and tried to twist them free. Miracle, magic happened in a second.
+
+When he twisted its ivory tusks, the ears of that elephant on the wall moved; the ears moved to fold back and reveal a large opening. Unable to contain his surprise, Vandiya Devan thrust his head into that opening to examine it.
+
+He saw a woman’s face in there. A young girl’s face. The eyes on her face were large and wide, staring! Surprise of surprises; Vandiya Devan also saw his own face, close to that girl’s face. If the lover of a girl were to approach her, as if he was about to kiss her, Vandiya Devan and that girl were in that posture! Her eyes which were already wide now opened even more in indescribable surprise. Surprise mingled with some fear was reflected in those eyes. Her face remained thus for one second. The next instant her red lips parted and she screeched, “chooooo.”
+
+Vandiya Devan was startled; he removed his hands from the tusks of that elephant. The next instant, the elephant stayed an elephant and the wall remained a wall. There was neither an opening nor a girl in that opening. The sound of that girl’s screech which had pierced his ears like some sort of bees humming, was no longer heard. It took a few moments for his thudding heart to calm down. He began thinking about the apparition he had seen. ***
+-----------------
+
+Chapter 6 – Manimekalai
+Sambuvaraya’s daughter Manimekalai was a happy go lucky girl. Her mother and father and her brother Kandamaran showered her, from childhood, with love and affection and cherished her. She ruled like a tyrannical queen in their palace. What she decreed was the rule in that mansion. Till recently, her life was one endless saga of play and sport, dance, and song. A hurdle occurred in her life about four or five months ago. The elders had begun to insist that she would have to do something against her wishes. This ‘insistence will not work,’ she tried to teach them, with little success.
+
+In the past two or three years whenever her brother Kandamaran came back from the front, he would tell her about his friend Vandiya Devan Vallavarayan. He would praise sky high, his friend’s bravery, smartness, intelligence, and cleverness. He would paint a wonderous picture of his friend being as handsome as Manmatha, brave as Arjuna of the epic, and astute like Krishna of stories.
+
+“He is the most suitable husband for you; he is the only one who will be able to handle your liveliness and keep you in control.” Manimekalai would be eager to hear all this again and again. At the same time, she would chide her brother angrily, pick a quarrel with him. “You keep talking about him; bring him over one day. Let me check out his smartness!” she said.
+
+“I will, I will,” Kandamaran would reply irritably. Manimekalai too, in a dream world, saw Vandiya Devan, met him and spent time with him, laughed and played, quarreled, and made peace; in such day dreams she spent her time. She spoke happily with her special friends about the brave gentleman of the Vaanar clan who was a friend of her brother.
+
+An unexpected obstacle to these day dreams occurred four months ago. Kandamaran began to sing a different tune. “Forget that fellow who has neither home or position. He has no prestige and is a nobody, forget him.” He tried to tempt her by saying that he planned to place her on the throne of Tanjavur. Finally, one day, he spoke openly. He said he was going to arrange for her to marry Madurandaka, who was already married to the daughter of Younger Lord Pazluvoor. He hinted obtusely that Madurandaka was going to be the next emperor. If she married Madurandaka, she could come to rule the three known worlds as an empress, and any son born to her might become the next emperor. Her parents sang the same tune.
+
+Manimekalai did not like any such talk. Her mind had become enthralled by Vandiya Devan about whom she had heard again and again.  Moreover, she knew about Madurandaka, who had exhibited no brave deeds, had never been to any battle field, who had till recently gone about as a devout follower of the Saiva faith clad in ashen marks and dressed with holy beads professing to become and ascetic. And in addition, he was already married! Tanjavur noblewomen were very proud. They professed that they were the only ones who knew fashion and scorned everyone from other towns. Manimekalai became very irritated when she thought about all this. She made a ruckus; it did not matter if she sat on Tanjavur’s throne or Devendra’s throne in the heavens, she would not marry Madurandaka!
+
+And later, when she came to know something else, her determination became stronger. When Lord Pazluvoor visited Kadamboor earlier in the year, they said that his young Queen Nandini had come with him. But she never came to the inner apartments set aside for women’s use or come to meet the women folk in the palace. At first this surprised them. The Women in the palace talked jokingly and insultingly about it. Little by little truth came out. When Manimekalai found that the person who came in the enclosed palanquin was Madurandaka, not Nandini, her disgust increased. She was resolved, “Chee! Will I marry a man, so afraid that he goes about disguised as a woman, hiding inside curtained palanquins?  Not on any day!”
+
+On that same day that Madurandaka had come in the closed palanquin, Kandamaran’s friend Vandiya Devan also had come. He spent very little time visiting in the inner apartments, when he came to pay respects to her mother. At that time, for some reason, from somewhere, extreme shyness took hold of Manimekalai who stayed behind the other girls. She did not even look at Vandiya Devan properly or see him face to face. What she had seen in half a glance while hiding behind the others was a charming, smiling face: it became etched in her heart! His voice, the few words he spoke, stayed in her mind. Thereafter, Manimekalai began a never-ending argument with her brother. Even if the three-eyed Lord Shiva came and ordered it, she would never marry Madurandaka, she declared.
+
+And she hinted that even though she has seen Vandiya Devan only for a few minutes, her heart had gone to him. Kandamaran was roused to much anger by this. At first, he tried soft words to explain to her. It was of no use.
+
+“Vandiya Devan is no friend of mine. He is my sworn enemy. He stabbed me on my back and tried to kill me. If you wish to marry him, I will kill both him and you,” Kandamaran showed the healed scar on his back. It was only because of the kindness and care shown by Pazluvoor’s Queen Nandini that he had survived with his life.
+
+“Even if you have a speck of love for me, forget Vandiya Devan,” ordered Kandamaran.
+
+Upon hearing those words, Manimekalai’s mind truly changed. She loved her brother dearly. Yes, it would be impossible to marry an enemy who had tried to kill her brother!
+
+She tried to forget Vandiya Devan. That was not easy. Often at unexpected moments, his smiling face appeared before her eyes; in her day dreams and in her sleep in the nights. Because of all this, in the recent few months Manimekalai had lost her natural joy and vivacity. Sadness and weariness took hold of her. The older folk thought that this was because she had reached an age to be married. Friends of her age began teasing her about it. These friends tried to cheer her up with pranks and games; nothing seemed to work.
+
+Since a few days now, Manimekalai was once again somewhat happy and cheerful. There were none in all the Tamil countries, among men or women, who did not know about the bravery, courage, and prowess of Crown Prince Aditya Karikala. She also knew that for some reason he had till now been refusing to get married. To marry him would be the greatest honor unthinkable even in dreams.  In this whole wide kingdom and even the whole continent, how many princesses must be observing penances and prayers to have the privilege? Thinking about all this Manimekalai became somewhat cheerful.
+
+The news that Prince Karikala from Kanchi and Lord Pazluvoor’s family from Tanjavur were coming as guests to Kadamboor, made her joyous like times before.   This time Lord Pazluvoor was really bringing his Queen Nandini Devi, with him. Nandini Devi had saved her brother Kandamaran’s life!  She had heard a lot from her brother Kandamaran about Nandini: her beauty, her personality, kindness, her intelligence. Kandamaran had also told her that talk about this new marriage alliance was because of Nandini. He told Manimekalai that she should be the first to make every effort to welcome Nandini, and see to her comfort while she was at Kadamboor.
+
+Manimekalai’s heart was by now mature to accept this role. Her new wish was this: make good friends with Pazluvoor’s Queen Nandini and with that experience she herself should surpass the Tanjavur women in fashion and culture!
+
+Since this past one week, Manimekalai was totally exuberant; she hurried hither and thither in the palace overseeing the arrangements being readied for the guests. She was particular to make sure that all comforts and facilities were perfect in the rooms being readied for Nandini. Her brother too had cautioned her; the servants in the palace were badgered to no end. Her friends were pushed and tormented! Every little thing in the rooms assigned for Nandini was ordered to be moved and checked and rechecked at least thirty times!
+
+She went often and inspected the rooms assigned for Prince Karikala and his friends. Some nobleman named Parthiban was expected to come with him.  Who knows what sort of a person he was?  These days, one was never sure of how someone would behave! Vandiya Devan who had been her brother’s friend had belonged to the retinue of Prince Karikala. If he had not turned to be such a betrayer of friendship, he too would have joined this party. Yes, however much Manimekalai was occupying herself in various chores, she had not fully forgotten that betrayer of friendship.
+
+They said that the Queen of Pazluvoor would arrive that night itself. For one final time, Manimekalai was overseeing the arrangements in the rooms readied for Nandini. She came to stand before the mirror that was placed beside the wall for the Young Queen’s use. She looked at herself in that mirror. She stood for some time, with no hurry. Having decided that her face was in no way less beautiful she became content. She was about to move away from that mirror, when she saw another face next to hers. The other face came very close almost cheek to cheek! It was the face of that Vaanar nobleman, which had been coming in her dreams and bothering her. Unaware of herself, she pursed her lips and screeched, “chooooo.” The next second, only her face was reflected in the mirror; the other face vanished!
+
+***
+
+Chapter 7 - Tailless Monkey
+Manimekalai was lost in thought for a while; the figure she had just seen …was that mere imagination? Or a dream? If it were a dream, should I not be sleeping? She touched herself to check. ‘No, I am not sleeping. This is the room we have readied for Pazluvoor Queen Nandini; here, I can see my face in the polished mirror. There, the tall lamp is lit.’ She looked at the wall opposite the mirror. She knew that there was a hidden doorway on that wall. One could open it from outside or inside. Manimekalai walked up to that wall and placed her ear to the wall listening keenly. The secret door on that wall was made of wood. She could hear, as if something was making a noise inside the hunt-room.
+
+Manimekalai, opened the secret door quietly, and peeked into the hunt-room. Most of that room was shrouded in darkness. In one corner there was a small oil wick lamp. Suddenly, that light almost went out and then came back. Some figure had crossed that light -- that is why the light appeared to go out and come back. The figure that hid the light for a second, who was it? The same face that she saw in the mirror just now? Or was this too, a mental aberration?
+
+While peeking inside, Manimekalai clapped her hands, “Who goes there?” she asked softly. Sound of someone clearing their throat.  A bat hanging from the tall roof of that hunt-room flew silently, swishing from one perch to go hang from another place. Again very, very softly, sound of someone coughing. Manimekalai stood on that door way and called loudly, “Hey there, Chandramati!”
+
+“Yes, Madam,” came the answer.
+
+“Bring a hand lamp and come here immediately,” she ordered her maid. In a short while a serving maid came with a hand lamp.
+
+“Madam, the lamp here is burning bright; Why another lamp madam?” Asked the servant girl.
+
+“We need to go see in the hunt-room; I heard some noises.”
+
+“Bats must be beating their wings; what else could it be?”
+
+“No, Girl! I was looking at my face in this crystal mirror just now; Suddenly, I saw another face next to mine.”
+
+“What did that face look like Madam? Handsome? Brave?” asked the maid and she laughed.
+
+“What is this Chandramati, are you making fun of me?”
+
+“No, Madam, No. You often tell me that you see a face in your dreams. Perhaps he appeared in this mirror now!”
+
+“Yes! Yes, dear Chandra; But it seemed very real!”
+
+“All girls go crazy like this at some time. Such delusions will last for only one or two more days.  Tomorrow when you see the Prince from Kanchi who is coming to the banquet, you will completely forget that old face.”
+
+“Let that be! For now, let us go into this hunt-room and check it out.”
+
+“Waste of time, useless work, Madam! The hunt-room will be full of dust and dirt. Our clothes will get messy.”
+
+“Let it be”
+“We will be plagued by sneezing and coughing, When everybody is coming… tomorrow….” The servant Chandra tried to dissuade her.
+
+“Let them come! I must examine the hunt-room right now! Don’t shake the lamp and let it go out. Come.” With those words, Manimekalai entered the hunt-room. Her maid followed with the lamp. Both started looking around. The maid Chandra was looking up above the lamp light at the dead animals hanging on the walls. Manimekalai was looking at the floor also. She noticed footsteps here and there in the dust on the floor.
+
+“Madam! Over there,” pointed Chandra the maid.
+
+“What is it, Girl! Why are you nervous like this?” asked Manimekalai.
+
+“There, it looked as if that tailless monkey was moving.”
+
+“It looked at you and expressed its happiness, perhaps!”
+
+“What is this Madam? Are you making fun of me?”
+
+“Did you not tease me? Saying that I am going around half crazed?”
+
+“Perhaps that face that came in your mirror was that ape-face! See, it is standing right across this doorway that we came from. Ha…. the monkey is moving again!”
+
+“Chee, it is the shadow because of your lamp. When the lamp shadow moves, it seems as if the tailless monkey is moving. Come let us go back. Nobody seems to be here.”
+
+“So, it must have been that ape-face that you saw in the mirror. Or it might have been the face of that huge owl, sitting up there! See Madam, see how it is gazing at us!”
+
+“Why do you add me together with you…  It must be mesmerized by seeing your beauty; that is why that owl is gazing at you without blinking an eyelid.”
+
+“Then, whose face could it be? that peered at you in the mirror?”
+
+“Girl! Have you concluded that I am really crazy? Maybe, that face I see often in my dreams might have appeared in the mirror. I feel bad that after seeing that charming face with my eyes, I had to look at this ape and this owl! Come, let us go. Let me look in that mirror to see if that face appears one more time….” said Manimekalai.
+
+The two women once again squeezed through the doorway by which they had come and went back to the guest chamber in the palace.
+
+Vandiya Devan came out from behind the ape. He sneezed two or three times and cleared the dust from his nostrils. He thanked the ape that had hid him so well! “Hey monkey, may you be blessed! That servant girl compared my face to yours; I did get angry about that. I almost came out from behind you, luckily, I controlled my thoughts. Oh, what would have been my fate if you had not been standing there as tall as a man! I would have been captured by those women. Ape! May you be well!”
+
+After saying that, it occurred to him that it may not have been all that much of a mishap to be taken by those girls. He had already guessed who they were. He had heard their conversation clearly. That too Manimekalai was speaking quite loudly and clearly. What was it that she was saying about the face she saw in her dreams and the face in the mirror? He remembered those old occasions. Kandamaran had told him that he would often talk to this sister about him. When he had come to this palace the last time and seen this girl half hidden behind others, and mentioned that, he remembered Kandamaran indicating that they were going to give her in marriage to some other important notable. Perhaps this foolish girl has not changed her mind?
+
+There is no time now to think about that. He must find a way to get out of this place. The elephant tusk way let into the women’s apartments. That way was no use to him. He must find the way by which he had come. He knew that secret passage doors had different mechanisms to be opened from inside and outside. It may be difficult but he should be able to figure out the mechanism to open the door. But where was the secret door? Only after finding the door would come the question of figuring the method of opening, it. Nothing was obvious, however much he examined the walls. And light was really insufficient. He remembered that a crocodile was on the floor at the spot he had entered. He went near that and rubbed all over the wall; will the exit become visible? Nothing! As time went on, his worry increased. What nuisance is this? I am caught in this prison! Gracious God! There seems to be no way but to go into the women’s part of this palace. If he did that how many dangers in that! Perhaps Manimekalai would show pity towards me. But what reason can I give her for coming there secretly like this?  Should I say “I came because of my love for you.” What an appalling lie it will be. Even if I have the audacity to say that, will she believe me? How can I be sure that Manimekalai will be alone? What if I am caught amidst other womenfolk? If Lord Sambuvaraya gets to know, he will surely kill me!
+
+Once again Vandiya Devan’s attention went to the crocodile lying on the floor. He became angry with it. ‘crocodile! Why do you remain like this? With your mouth open all the time?’ with these words he kicked that creature; the crocodile moved a little and at that same time a small opening appeared on the floor near the wall. ‘Aha! are you the one hiding the doorway! Idiot crocodile, couldn’t you tell me that before now!’ He bent down, took hold of the crocodile, and moved it. As the creature moved, the opening near the wall and floor became bigger and bigger. Steps appeared below.  ****
+
+---------------
+
+Chapter 8 - Two Arms In The Dark
+Vandiya Devan was wonder struck at the clever way in which the secret doors and passages in Kadamboor were built. Any fellow who knew about them partially and tried to be hasty would face danger. If the crocodile were moved while partially descending the steps, the person would be stuck in the closing doorway. After carefully making sure that the crocodile would not move, Vandiya Devan came up to the opening and was about to step down.
+
+Ah! What was that! Footsteps in the tunnel.  Who is coming? Perhaps Azlvar-adiyan? Is he coming in search of me? I must stop him from coming in here... No, no it is not one person who is coming; sounds like five or six persons. Must be Idumban Kari and his gang. In one leap Vandiya Devan ran back and once again sought refuge behind the tailless monkey. Oh, dear! I left the passage doorway open! Would they suspect something because of that? No, no, no. When I came the doorway was open; only when I stepped on the last step and into this room did the door close. Good thing I left it open. There, I can see a head coming up from the opening. It is Idumban Kari. He has a leg on the top step and he is looking around; the other leg is still on the lower step, keeping the entrance open.
+
+What is this sudden light on this side? The elephant on the opposite wall was moving! The doorway to the women’s apartments is visible. Who is that coming through that doorway? It is Manimekalai with a lamp in her hands. Idumban Kari jumped up into the room in one leap. The entrance from which he came was now closed. Idumban Kari unwound the cloth turban from his head and began dusting the tiger next to him with that cloth. What will be the conclusion of this play?
+
+Manimekalai held up the lamp in her hand and looked around. She saw Idumban Kari, and looked at him with some surprise. He stopped dusting and looked at her in surprise too. “Thaye! What is this? Why come to this place at this time?” He asked.
+
+“Idumba! Is it you? What are you doing in here?” asked Manimekalai.
+
+“Amma! Our guests are coming tomorrow; they will be bringing them here to see this room tomorrow. I am dusting everything – the younger Master ordered me to do so before he left for Kanchi.”
+
+“Yes Idumba! Your young master has trust only in you and me in this whole palace. I was checking to see if everything was alright in the room where the Pazluvoor Queen would be staying. I heard some noises here; I wondered if it could be you. Who else knows the secret passages in this palace? How long have you been in this room?” Asked Manimekalai.
+
+“I have been here for the last half an hour, Thaye! There is work for another hour or so. Did you come alone by yourself?  Where is that talkative maid Chandramati?”
+
+“I sent her to bring my father because I heard noises here.  It is only you I see here. I can go and stop her.” She held up her lamp and looked to see if there were any changes on Idumban Kari’s face. She then looked at the tall tailless monkey. She noticed it move slightly like it had done before.
+
+“Yes Thaye! The Master is busy with so many things today. Please go and tell that maid to not disturb him; You should also go and sleep without worry. I shall take care of everything,” said Idumban Kari.
+
+Manimekalai went back to the palace rooms by the same doorway. The secret door panel was now closed. Idumban Kari went up to the elephant on the wall and listened carefully. Once he was sure that there were no noises in the next room, he stepped back. He opened the door to the tunnel steps and went down two or three steps, till his waist level to keep the doorway open.  An owl’s hoot was heard in the tunnel passage. Idumban too replied with the call of an owl. Several men were walking in that tunnel. After that, numerous things happened at the same and time and very fast.
+
+A bat beat its wings a bit squeakily and flew around. Idumban looked at it. From behind him, the tailless ape fell “thud” noisily; surprised by that Idumban stumbled and his legs folded; he was forced to go down a few more steps. Not knowing what fell upon him, he began stuttering and gibbering with some fear; with a yell and some confusion, he beat around with his hands. He recognized that somehow the tailless monkey had come loose and fallen upon him, then tried to push it and straighten it again. By now two, hands, appearing like human hands, live hands, came down from above and tried to push him down even further into the tunnel. One moment fear gripped him; he could not believe it! He looked up to see: that the monkey had fallen head first into the doorway, half its body inside and half still in the upper room. it was being squeezed in the opening slit. He decided that his fright had made him imagine two human hands! By now the other men walking up the tunnel-way had come closer.
+
+“My dear man, what is happening? Why did you start blabbering in this petrified voice? Is there some danger? Should we go back?” asked Ravidasa.
+
+“No, no, there is no danger. When I had the tunnel entrance open, this huge monkey somehow came loose and fell upon my head. For just a second, I became frightened! This monkey is now blocking the way, neither going up or coming down. Please be patient, I will move this monkey and clear the way,” said Idumban Kari.
+
+Our readers are sure to have guessed the identity of the two hands that pushed Idumban from the top and made him stumble. Vandiya Devan’s good luck stayed with him even at this time; he had thought of a strategy right in time. When Idumban was stepping down in to the passage steps and at the same time gazing at the flying bat, he pushed the tailless monkey upon him. Making sure that the man below would not be able to see his face, he pushed the man further down the steps with his hands. He then pushed the monkey also into that exit-way and moved the crocodile.  All this happened in a few seconds. Vandiya Devan ran to the elephant face and twisted its tusks with all his strength.
+
+A doorway opened; however, it was not big like the one used by Manimekalai when she came in earlier. It was a circular small opening. Perhaps a door within a door. It was not the time to figure out how to open the full door. The treacherous gang might come into the hunt-room before that; and it would be impossible for him to escape. Therefore, the only recourse was to go through the new opening even if it was small. Executing his decision, Vandiya Devan entered the opening. His head and hands and half the body went through. It was an ordeal for the rest of the body to squeeze through. There was nothing for him to grab a hold to pull himself.
+
+The lamp in the room went out now; and darkness descended. Vandiya Devan said in a voice asking for help, “Chandramati, Chandramati, save me!”  he called.
+
+Tinkling laugher of a girl was heard.
+
+“Chandramati are you here, watching all this as if it were a comedy? How fantastic!” The reply was more laughter.
+
+“It is just as fantastic that you enter the women’s apartments like a thief.” Vandiya Devan recognized Manimekalai’s voice. Even so he continued, “Chandramati, I came because you asked me to. There are men behind me. Please pull me in quickly. Otherwise, it will be a tragedy.”
+
+“Oh! Is Chandramati so very clever! Let it be, I will teach you both a lesson.”
+
+“Ah! Is this Princess Manimekalai? Madam, just this once forgive me and save me. I shall not do any such wrong things any more. You will be blessed a million-million times,” begged Vandiya Devan.
+
+Two slender arms came and took hold of Vandiya Devan’s shoulders and helped him step down to the floor. The opening in the wall closed by itself.
+
+“Princess, a million thanks to you,” he said.
+
+“Patience! Thank me after you know what I am going to do with you.”
+
+“Whatever you do is fine. You helped me escape from the murdering gangsters. That is enough. Instead of dying by the hands of those rogues, I have the good fortune to die by your jeweled hands.”
+
+“Oh, you seem to be the bravest of the brave. Who are the murdering rogues coming in search of you? Wait! Let me light the lamp and see your face.”
+
+“Madam, must you see my face again?  Chandramati described it – it was the ape-face that was behind you when you looked at yourself in the mirror.”
+
+In the darkness, he could hear soft laughter and the tinkling of bangles. Manimekalai had covered the bright lamp burning in the room when Vandiya Devan had thrust his head into the opening and therefore it was dark; when she uncovered the lamp, the light shone brightly. In that light Manimekalai stood looking at Vandiya Devan, enthralled, totally lost to the world.
+
+They heard several men entering the hunt-room next door with thudding sounds.
+
+****
+
+Chapter 9 - A Dog Barked
+Manimekalai stood looking at Vandiya Devan. He too stood there with a smile on his face. His mind was examining possibilities: what could he say to this girl, how could he escape….
+
+Somewhere from far came a voice, “Amma, did you call me?”
+
+“No, Girl! Go back to your work!” said Manimekalai and her astonishment abated. She walked to the secret doorway and locked it from this side. She made a sign and led Vandiya Devan to a farther corner in that same room. She suddenly turned around and asked, “Sir tell me the truth. You said that Chandramati had asked you to come. Is that true?”
+
+“Yes, My Lady!”
+
+“When? Where did she see you, to invite you?”
+
+“Just now. When I was hiding behind the huge monkey in the next room, you both came in and left. After you had turned to leave, she looked at me and said, ‘Monkey! Will you come and stay in my room? You will be useful to frighten and send away people who come at unwanted times!’ she said that, did you not hear?”
+
+Manimekalai spoke with a smile, “I would not have let her off easy, if I had heard her say that.”
+
+“My Lady, what is the point in chiding your friend? What will Chandramati do if my face is like the face of that tailless-monkey?”
+
+“Your face is quite different from the face of that ape!
+
+“Perhaps it is the difference between that monkey and the huge owl hanging above the monkey.”
+
+“Your face is not a monkey-face or an owl-face; but you have all the tricks of a monkey. And sometimes you stare like an owl. Just some time ago, was it not you, who looked into the mirror and stared at me?”
+
+“Yes, My Lady, it was me.”
+
+“Why did you pull back immediately and shut the door?”
+
+“I saw the face of a heavenly nymph next to me in this mirror. I felt that the girl would be frightened on seeing my face and removed my hands from the elephant’s tusks. The door closed by itself.”
+
+“Do you know who that heavenly nymph is?”
+
+“I did not at that instance; later when I thought about it, I recognized.”
+
+“What did you recognize?”
+
+“That the person I saw was not a heavenly nymph.  She is Manimekalai Devi at whose feet all those heavenly beings would bow down. I recognized the cherished daughter of Kadamboor Sambuvaraya. I remembered that she was my dearest friend Kandamaran’s sister.”
+
+With her brow arching in surprise and anger, Manimekalai asked, “Is that so? Is my brother Kandamaran your dear friend?”
+
+“Why this doubt my Lady? Don’t you remember that I came here four months ago one evening? I even came to the inner palace and paid my respects to the mothers. Do you not remember?”
+
+“I remember very well; how can one forget so quickly? Are you that nobleman of the Vaanar clan, Vallavarayan Vandiya Devan?”
+
+“Yes noble Lady, it was I, with neither palace to dwell in, nor kingdom to rule; it is just poor me merely wearing the title ‘arayan’ of my clan. Once upon a time your brother had spoken much about you to me. At one time when your brother Kandamaran and I were posted near the North Pennar on guard duty, he had talked a lot about you. I too had all sorts of dreams; later I gave up all those thoughts.”
+
+A curious idea occurred to Manimekalai. Kandamaran had said that this man had tried to knife him down. Why? Was it something concerning herself? Would this man have quarreled with Kandamaran because he was told that they no longer wish to give her hand in marriage to him. This thought created a storm of happiness in her heart. She changed it into a storm of rage.
+
+“Sir, let us set aside all those old stories. Tell me why you entered this fort stealthily? If not, I must call my maid and immediately send word to my father.”
+
+“My Lady I had already explained why I had come here. Some dangerous murderers chased me here meaning to kill me. When’ escaping from them, I saw an opening in the ground. I realized that it must be some secret passage. I entered thinking that I could escape through that way; it brought me here.”
+
+“Sir, if one were to choose someone as the ‘best among the brave,’ you deserve that title. I too have heard about many super heroes. But never heard of a super escape artist as you. Prince Uttara Kumara of the epic needs to beg from you (The epic prince was notorious for running away from a battlefield.)”
+Vandiya Devan felt a piercing in his heart. This girl whom I dismissed as foolish, is pointing at me mockingly!
+
+“My Lady, they are seven or eight men; they carried weapons. I have no weapons; I lost my darling spear in the floods of the Kollidam.”
+
+“Very good. That heinous spear, which pierced to kill a friend stealthily from behind his back, it is good that it was lost in the river floods.”
+
+Vandiya Devan was completely astounded! Before he could open his mouth in reply, she continued, “Tell the truth. Did you run here to escape the murdering rogues? Or did you come here to commit murder?”
+
+Vandiya Devan throbbed as if he had stepped on embers. “Shiva, Shiva, Narayana, All ye Gods! Whom would I wish to kill by coming here? My best friend’s sister? Why?”
+
+“How would I know! You say ‘dear friend’ without any pause. Did you not try to kill such a ‘dear friend’ by striking him with a weapon upon his back? Who knows, in a similar fashion you might have come to kill someone else.”
+
+“Oh God! What is this false accusation? Was it I who struck Kandamaran on his back? Before doing such a deed, I would have chopped off my own hand. My Lady, who told you of this wicked lie?”
+
+“My brother on his own, told me. If anyone else had said such things, I would never have believed.”
+
+“Kandamaran say thus? I truly am an unfortunate. Someone had struck him with a knife and thrown him near the walls of Tanjavur fort. He was lying there breathless and unconscious; I carried him to safety in Sendan Amudan’s cottage and saved his life. Is this the reward I get for that? My Lady, why did I try to kill him? Did he speak of any reason?”
+
+“Yes, he did, he did tell me. Apparently, you spoke ill of me and ridiculed my looks. You said I was ugly and the girls in Tanjavur were more beautiful than me. Kandamaran had become angry and heartily thrashed you. Unable to fight with him openly, you went behind his back and struck him. Is all this true, or no?” Asked Manimekalai.
+
+“Lies. Lies. Frightful lies. I would have cut off my tongue before saying you were ugly. It was Kandamaran who insisted that I must forget you, his sister.”
+
+“Why?”
+
+“Great Kings destined to rule kingdoms were waiting to marry you. He insisted that I should forget you.”
+
+“And so, you totally forgot about me!”
+
+“I could not entirely forget you. From that day I started to think of you as a dear sister. My Lady, quickly take me to Kandamaran; or ask him to come here I will at least find out why he spoke such a humongous lie. On the other hand, if he is really thinking that of me, I will correct him of such thoughts.”
+
+“You came here to finish what you started in Tanjavur.”
+
+“Meaning …?”
+
+“You tried to kill him there and did not succeed. You came here to complete the task.”
+
+“God! Would I come to his own palace to kill Kandamaran?”
+
+“What other reason to come through this secret passage?”
+
+“There, listen carefully; the men who wish to kill me are still in the next room. Don’t you hear them talking and moving about?”
+
+“Why should they come to kill you?”
+
+“If you look, they seem like sorcerers; perhaps a gang intent on human sacrifice.”
+
+“So, they caught hold of you, a prince with all the auspicious markings (for being offered as a sacrifice!)” Manimekalai laughed.
+
+“That is what surprises me. Why chose me who is owl-eyed ape-faced? From what you have said, I wonder if Kandamaran my friend had made these arrangements. Take me immediately to your brother. Either he gives up his wrong ideas about me or he kills me with his own hands.  Why does he need to employ assassins against me? Lady, please call Kandamaran immediately.”
+
+“Sir, do not be in such a hurry. Kandamaran is not in town.”
+
+“Where has he gone?”
+
+“He has gone to Kanchi to escort the Prince who is coming here. All will be here by tomorrow night. Till then you ….”
+
+“Are you asking me to stay here till then; that is not suitable.”
+
+“I am not asking you to stay here. In a little while Queen Nandini of Pazluvoor will be here. After that, not even a fly can enter this room. You must know about Lord Pazluvoor. If he sees you here, he will order that you be chopped down in pieces, head separate from body! Ah how much love that old man has for his wife!” Manimekalai laughed saying such words.
+
+Vandiya Devan remembered everything that had taken place when Lord Pazluvoor had come here before. He asked, “Is that so? Does Lord Pazluvoor love his wife very, very much?”
+
+“That is known to all country and town. The last time they had come here some months ago, the old man did not even let her come to visit our inner apartments in the palace. He watched her like a hawk. This time apparently, they are going to stay a few days. All sorts of hullaballoo here, to arrange a private set of rooms for Queen Nandini.  I wonder if she will visit all of us this time or if the old man will allow her to do so.”
+
+“What shall I do now?”
+
+“I am thinking…. Ah! There is room where my brother stores his weapons and arms. I will take you there. Kandamaran will be back by tomorrow evening; you must stay there till he comes. The truth or otherwise of what you are saying can be cleared by Kandamaran himself,” she said.
+
+“Lady, that is not proper; it is very dangerous.”
+
+“What danger?”
+
+“What shall I reply if Kandamaran asks how I came here?”
+
+“Tell the truth; as it happened.”
+
+“I just spoke the truth; as it happened. You do not believe it even as those men are in the next room.”
+
+“I will investigate that right now!”
+
+“What will you investigate?”
+
+“I shall go into the next room; see if there are men there and question them. Have they come to kill you, or have they been led here by you…? I shall find out.”
+
+“Oh, Oh, They are wicked brutes. If you are caught alone among them ….”
+
+“What can anyone do to me in my own palace?” she pulled out a small folding knife that she had hidden in her waist-knot and showed it to him. “None can come near me, if someone happens to approach, you are here, the bravest and most daring among men.”
+
+“My Lady, I have no weapons with me now.”
+
+“Have you not heard of the proverb: the valiant need no weapons. You name itself says you are valiant, (vallavan-arayan means valiant noble); wise ones work with whatever available tool. If needed even a blade of grass is a weapon; If we have weapons in our hands even women can put up a fight. Why do we need men? You needn’t worry, the man in there who was dusting is a footman in our palace. He must have brought the others; perhaps they are known to me. I shall find out why they have come here today. Don’t stand here near the secret doorway. Go over there and hide by that large wooden storage bin.”
+
+Manimekalai was walking towards the wall and trying to open the secret access to the hunt-room. Vandiya Devan went to stand in the shadows next to the storage bin. The bin was actually fashioned like a cabinet and had doors that were wide open. He peeked inside. It was not a storage bin for grain. There were step like shelves inside that wooden-closet. Large musical instruments and drums like the yaazl, veena, mattalam, cymbals were arranged neatly on those shelf-steps; he looked up inside it; the steps were going up to the ceiling and to the roof.
+
+By now Manimekalai had opened the secret door and gone into the hunt-room. Vandiya Devan was surprised by her boldness. He steadied his mind: no harm is likely to fall upon her.  The serving maid Chandra came in, opening the main door to the room, calling, “Amma, Amma!”
+
+Vandiya Devan was stupefied; to avoid being seen by her he went into the music closet. Chandra was saying, “Those folks from Tanjavur have arrived near the entrance gates. The noble Lady, your mother, has asked me to fetch you there immediately,” she was saying loudly as she hurried in. She looked around and saw the open door leading to the hunt-room.
+
+If she turned around from the spot near that door, she would clearly see Vandiya Devan standing inside that music closet.  He climbed up a few steps in a hurry. His legs touched the veena strings and raised a sound. In fright, he climbed up a few more steps. His head bumped the roof board of the closet; oh, what wonder, that top shelf moved upwards as soon as his head touched it. Guessing at what it may mean, he pushed that shelf with both his hands; it went all the way as far as his hands could push; light streamed in through opening; in the distance he could hear swishing sounds of running water. He could see the stars blinking in the sky. His heart jumped with joy. He pushed that shelf some more and climbed up. He had come up to one corner of the palace terrace pavilion; the breezy spot where he once had slept soundly, long ago. It was the same place where hidden behind large pillars, he had found out about the midnight meeting of conspiracy.
+
+He pushed back the wooden shelf and closed it.  Once the entry way closed, it was not easy to find it from outside. There was no time now the think and wonder about it. He must figure out a way to escape from there. Lady Luck who had helped him this far was sure to stand by his side. He looked around. Every spot he could see was gaily decorated; flags and bunting swayed in the breeze; the festive decorations were an eyeful. This is what they mean when they say royal welcome!
+
+Vandiya Devan took a step after a step very softly, looking around everywhere. There was no one on that terrace. It was his good luck; he began walking faster. He reached the open area which had been his sleeping spot of yore. The balcony from which he could look down – the outer walls of the fortress and the palace, with the courtyard in between where the Kuravai Koothu folk dance had taken place before, these were all visible. Bur not a single soul was to be seen in all these places; one need not have to guess with any difficulty.
+
+The front gates of the palace were busy and noisy with much activity. Hundreds of torches shed light. Drums, cymbals, blowing horns and heralds calling – it was one big noisy festivity. Lord Pazluvoor’s retinue had reached the gates and everybody had gone to welcome them. Hence no one was in the terrace or the courtyard below. There was truly no doubt that Lady Luck was by the side of Vandiya Devan. A perfect opportunity to escape. Half an hour earlier it would not have been possible; half an hour later it would not be possible. He came to the spot where the midnight meeting had been held. Looked around once more time to confirm that no one was there. Down below too no one was visible. Looked up at the outer wall, there too… oh dear what was that? Up on that surrounding wall, amidst the leafy tree branches, a face! It appears like Azlvar-adiyan’s face!  Chee, Chee just imagination! It was that spot where long ago he had seen Azlvar-adiyan’s head. His brain was fooling him.
+
+It was a good thing he thought about it. That was the perfect spot to jump across the fortress wall. His subconscious mind was giving him a hint. He must escape before the welcoming crowds dispersed. How to get down to the courtyard … yes, a way …. There was some sort of a canopy or tent on one side over a shed like structure.  It was perhaps a stage being set up for the dances and Kuravai Koothu. One of the bamboo poles supporting the structure was tall almost reaching up to the terrace. He jumped and got hold of that pole and shimmied down. Looked around. No one there yet. Some tinkling bells at the spot where he had stood on the terrace above; Manimekalai, with her tinkling anklet bells, coming in search of him, perhaps. Mischievous girl; if he is caught by her now, he was done. He crossed the open space of that courtyard in one quick run; stood near the guarding outer wall and looked around again. He could see a female figure up on the terrace: it was not clear - was it Manimekalai or Chandramati the maid? Whoever it was, she must have seen him run across the courtyard. Fortunately, she did not cry out; may she be blessed, whoever she is! He walked swiftly along the wall and soon came below the spot where he had seen Azlvar-adiyan’s face.
+
+How was he to climb this wall? It was so very tall? No foot hold or hand hold was obvious. God help me!  Here is help!  Some of the bamboo poles they had brought to build the stage was apparently not used. They had piled them loosely along the wall. He ran in one leap and grabbed one of the longer poles and came back. He made the pole lean on the wall; it had the right length. Will the pole stay steady as it leaned on the wall? What if it slips while I am climbing? I must fall down! Am I to remain with folded hands fearing that? He pressed the bamboo once or twice and began climbing; half way up, the pole began to slip. Gone, lost, all bones are sure to be broken! Even before he could finish the thought, the pole became steady once again. It looked as if a hand up there was holding it steady. The only thing left is for me is to go crazy, with that thought, Vandiya Devan climbed and took hold of the wall. The bamboo pole slipped and clattered down. The noise sounded like thunder in his ears.  Luckily the noise at the gates was even louder. So hopefully none heard the sound of the pole falling. But the girl on the terrace pavilion, she must have heard it. He jumped on the wall and surveyed all around. Yes, that girl was still standing up there.
+
+His impish nature could not keep quiet. He waved his hand as if saying goodbye and tried to get down on the other side of the wall. Getting down on the other side was not all that difficult the ground was not that far below here as it had ups and downs, some hillocks; some of the tree branches were rubbing against that outer wall. Using those he slid down part way.
+
+When he thought of how he had deceived Manimekalai, he laughed. As if echoing him, there was laughter from somewhere. His blood froze; hands began to shake as he looked down ready to jump.
+
+A dog was waiting to pounce on him. It was impossible to think of climbing back; the only choice was to jump to the ground. Jump and give a handful of his flesh to that dog’s jaws! What he heard just now, was it laughter or this dog barking? Is someone hiding close by and setting the dog upon me? His mind was swaying, weighing the pros and cons: was it more dangerous to climb back on the wall and go into the fort or to go down? His legs were swaying to keep free of the jaw of that dog jumping up again and again at him.  ***
+
+----------------
+
+Chapter 10 - Man Hunt
+Vandiya Devan was seriously weighing the options: should he try and jump down to the ground without being caught by the ferocious dog or get back up on the boundary wall. At the same time, he was peering into the trees to see if anyone was hiding in there. He thought that he could glimpse some white cloth behind one tree. He remembered the human laughter that came mingled with the loud barking of the dog. What if someone was really hidden there? one, many? It would be a big mistake to jump down without discovering how many in number.
+
+Even if I were to escape from the jaws of this ferocious dog, I would be caught in the hands of humans. When I looked from the terrace pavilion, I thought I saw the face of Azlvar-adiyan on this rampart wall. Could it be that Nambi who has come here after becoming impatient of waiting for me at the Ayyanaar temple; was it he who has set this dog to attack me, to tease me? Let me call out and see what happens, “Mr. Nambi, Mr. Nambi, what is this teasing?” Vandiya Devan called out.
+
+Again, the same laughter; it was not Azlvar-adiyan’s voice. Then, it is perhaps better to get back on that rampart wall and jump back into the courtyard inside the fort. I can somehow escape in the middle of all that commotion of the welcome for Lord Pazluvoor. Or else, there is the secret tunnel: I can once again plead-humble with Manimekalai. Or else I must earn the grace of the Queen of Pazluvoor. She has not exposed me up till now, why would she unmask me now?
+
+He started climbing back on that wall. The dog jumped even higher and barked. And laughter once again. A figure came out from behind the tree; he carried a spear in his hands. Vandiya Devan recognized Thevaralan.
+
+He came towards the spot where Vandiya Devan was hanging and said, “Young man! Your life is very strong.”
+
+“That is well known, then why do you come near me?” asked Vandiya Devan.
+
+“This time you cannot escape!” he aimed the spear in his hand towards Vandiya Devan.
+
+Vandiya Devan recognized his predicament: how could he fight the man aiming a spear at him while hanging precariously from a tree branch half way down on that boundary wall? If he could jump and try to escape, there is that hunting-dog waiting to pounce on him!
+
+“Thevarala, be careful! Remember the orders of your mistress, the Queen of Pazluvoor. Hasn’t your queen told you to not harm me?”
+
+“The Queen of Pazluvoor is not my mistress. No queen on this earth is my mistress.  Goddess Durga Paramaeshwari is my only mistress.”
+
+“My clan patroness is also Durga Paramaeshwari! It was with her grace that I could escape from the burning ship in the middle of that stormy sea. If you touch me, Goddess Durga will put an end to you.”
+
+“If you are truly a devotee of Goddess Durga, you must do something for me now. I will then let you go with your life.”
+
+“What should I do? First order your dog to move away.”
+
+“A fanatic Vaishnava fellow came by to these parts. If you help me look for him and catch him, I will let you go.”
+
+“Why must we catch him?”
+
+“I have sworn an oath to sacrifice a Veera Vaishnava fellow to my Goddess; that is why I need to find him.”
+
+The shrub branch from which he was hanging began to come unrooted from the wall.  Vandiya Devan was thinking how to jump on Thevaralan without being caught by the spear in that man’s hands. He spoke, “that Vaishnava man is my dear friend. I shall never betray him. Instead of him, just give me up as the sacrifice.”
+
+“Then become a prey to this spear, right now!” Thevaralan began to point and aim the spear towards Vandiya Devan.
+
+Vandiya Devan gave up his grip on the tree sapling growing on the wall and jumped down to get hold of Thevaralan’s spear just below the blade; in the speed of that fall, he fell flat on his back; Thevaralan did not expect this, but he collected himself and lifted the spear. A figure ran up from behind and with the wooden club in its hand it dealt a well-aimed blow on Thevaralan’s head. Thevaralan fell with a ‘thump’ upon Vandiya Devan. The Dog now leaped upon the man who had attacked its master. Azlvar-adiyan was ready for it; he pulled his upper body scarf, spread it, and threw it upon the dog. The dog now became blinded within a minute.  The ingenious Vaishnava next threw a rope that he had concocted with forest vines, around the dog’s head like a noose, bound it tight; then tied the dog with more vines to the tree.
+
+Vandiya Devan had by now pushed the Thevaralan’s body away and stood up. Thevaralan was still knocked senseless by that one blow from Nambi’s clublike staff. Both pulled more forest vines and bound the hands and legs of Thevaralan. Vandiya Devan picked up the spear and Azlvar-adiyan his staff and they left that place. A thick forest surrounded all three sides of Sambuvaraya’s fort except on the side of the entrance façade. If one entered that forest, it would not be easy to find their way out. So, the friends hurried on hugging the fortress wall.
+
+As they were hurrying, Azlvar-adiyan declared, “I thought you to be smart; I realized my mistake now!”
+
+“Are you speaking about my entering the underground passage so hastily? Do you know how many alarming secrets I have found out because of that?” asked Vandiya Devan.
+
+“Let that be so! When that fellow Thevaralan asked ‘help me find the Vaishnava,’ why could you not say ‘will do!’? you got yourself into unnecessary danger.”
+
+“It is all a result of the company I have kept.”
+
+“Whose company are you talking about? I do not recall ever telling you to commit such mistakes.”
+
+“I am not talking about you, Sir! I refer to Ponni’s Beloved Prince. After meeting him and spending time in his company, my heart does not let me utter lies.”
+
+“Have you become such a truth-monger even if you need to escape with your life?”
+
+“It was not just that. I knew that you were hiding somewhere nearby. If you heard me agree with Thevaralan that I would help him catch you, and if your assumed that it was true, would you have come to help me at that dangerous moment?”
+
+“My dear fellow, the sharpness of your intellect is commendable! No doubt about that. To tell the truth, I was waiting eagerly to hear how you replied to Thevaralan’s question.”
+
+“See! My surmise that you were the epitome of a skeptic, turned out to be right.  Apart from that, regardless of any benefit for me, I would not utter even mere words of betrayal about my friends; that is my habit. However, what is this?  you have come here, when you had said, ‘I will wait at the Ayyanaar temple.’ If I had come back by that underground passage, I would have searched for you in vain!”
+
+“If you were coming back by that passage, it is doubtful if you would have come back alive. Those conspiring gangsters entered the passage shortly after you had gone in. I thought that since you are a smart fellow, you are likely to find another way to come out; I thought this was the spot where you were likely to jump over the fortress wall.”
+
+“And so, you came here thinking all that!”
+
+“Not just that.  Those gangsters who entered the passage, left Thevaralan as a guard outside at that temple to make sure that no one was there, when they came back.  They must have set up some code before they went in. All this I did not know. I had thought that all in that gang had gone underground. I was also worried that you had gone in and were caught inside. I wanted to go find out the mechanism to open that entry to the tunnel from outside. I had gone near that sacrifice pedestal and was fiddling with that trident near it. Hearing footsteps, I was taken aback as I turned around: Thevaralan was coming with a spear in his hand. Those rogues had determined many days ago to kill me instantly if ever they saw me. I knew that. I had no weapon in my hand. There was no recourse but run. Thevaralan too was following me at a run. Because of the dense forest grove, he was not able to catch me or throw the spear at me. After a while it appeared as if he was no longer following me. I thought that he had given up his man-hunt and decided to get out of that forest and find the royal road. I saw a small hut in the distance. I faint light was flickering in there. I thought, that I would go there and ask them the way to the royal road. I peered at that hut from a little afar. It was good that I was cautious. Thevaralan was standing outside that hut; a woman holding a dog was standing near him. He appeared to be saying something to her and then left with the dog. That dog looked in my direction and barked. Danger had now increased manyfold. I abandoned the idea of finding the royal road and began running through the forest once again. Since the dog continued to bark, I could make out where they were. Even as I was running, my brain was working. It would be impossible to be running in that forest all night long. They would surely catch up with me.  It would not be easy to manage both, Thevaralan with the spear and the dog with its sharp teeth, at the same time. I could see this tall surrounding wall of this fort. I decided to climb that wall and jump inside and manage somehow. I had climbed onto that wall. I caught sight of you running across the terrace pavilions. I knew you were coming to jump across the wall. I jumped off that wall again, now confident that between the two of us we could manage man and dog.  The dog’s bark was getting closer and so I climbed a tree. That man and his dog came close to my tree. He must have seen you trying to climb down that big wall. He went towards you with that dog. You know everything that happened after that!” …  thus spoke Azlvar-adiyan at length.
+
+Vandiya Devan asked, “Sir what is your opinion about the power of fate?”
+
+“What kind of a question is this! Why have your thoughts turned towards fate? Why?”
+
+“They say that when a person is born, the creator writes the fate of that person on their forehead. Do you believe that or no?
+
+“No. I have no belief in fate. If one were to believe in fate, there would be no meaning in the teachings that we would attain greatness by faith in the Supreme Lord. Azlvar saints have said…”
+“Let those Azlvar saints say whatever they wish. I have now come to have complete confidence in fate. I think everything happens because of fate. Otherwise, I could not have escaped today.”
+
+“My dear friend, you did not escape because of fate. A fine, sharp brain helped you.”
+
+“No. never. My brain forced me to explore unknown depths of danger. Fate saved me from drowning in those depths.”
+
+They had crossed and gone beyond the forest as they conversed in this fashion and walked quickly. They could now see the front gates and entryway into Kadamboor fort. They could see that the whole area was full of hustle and bustle. Lord Pazluvoor’s, elephant, horsemen, bannermen and entourage were soon nearing the gates.  Lord Sambuvaraya and his entourage waited in front of the gates of that beautifully decorated fort. Hundreds of torches were turning night to day. Large drums of various kinds, horns, trumpets, cymbals, hand held clappers, all were being sounded at the same time, raising a huge din.
+
+Azlvar-adiyan pulled at Vandiya Devan’s hand “Come let us go, someone might spot us.”
+
+“No one would look towards us. Even if they did, my fate will save me.”
+
+“Why must we stand here?”
+
+“Don’t you wish to see Lord Elder Pazluvoor descending from his huge elephant?”
+
+“Is that all?”
+
+“I want to see if the Young Queen of Pazluvoor came with him on the elephant or did she come in her covered palanquin.”
+
+“Thambi, do not assume that fate will always be in your favor. It may come in the disguise of an enigmatic enchantress and topple down your regalia.”
+
+“I am not one to be enchanted and mesmerized like that; there are others who may be so!”
+
+The majestic elephant came to stop in front of the gates. Lord Pazluvoor descended; his young queen followed and come down from the elephant.
+
+Azlvar-adiyan remarked, “Ah! This time the Young Queen did not come in the palanquin. He has brought her here openly.”
+
+“That is all I needed to know. Come let us go now,” Vandiya Devan moved back. But now, Azlvar-adiyan was not all that eager to move back. He continued to stand there and watch Pazluvoor Nandini without blinking an eye. Accidentally or perhaps enticed by Nambi’s mind power, Nandini turned to look towards their direction. She noticed Azlvar-adiyan’s face peeking out from the dark foliage of the trees at the back. A trace of fright crossed her face.
+
+Lord Pazluvoor noticed the change in his Young Queen’s face.  He too peered at the direction she had looked at.  Immediately, he whispered something in Lord Sambuvaraya’s ears.  Sambuvaraya called two of his footmen and ordered something. In the midst of the grand, booming instruments and welcoming cheers, Lord Pazluvoor and his Queen entered the fort through the main gates.
+
+Two horsemen entered the forest surrounding the walls of the fortress, at that same time. They forced the horses with some difficulty through the forest. They had gone quite far and could find no one. They had crossed most of the wooded area and were coming towards a level clearing with sparse vegetation.“Nobody seems to be here in these woods. It must be some mindless anxiety of that old man,” Said one horse man. A dog came howling towards them.
+
+“Thambi, do you know why dogs howl like this?”
+
+“Sometimes, if someone is dead, they howl like this.”
+
+“They howl if they see, ghosts, goblins, phantoms and vampires.”
+
+“Maybe it thinks you are a goblin! Ha, ha, ha!”
+
+“No, my brother, it thinks you are a vampire!”
+
+Both men were startled to look up, by the ghoulish laughter above their heads.  Two big vampires appeared to be hanging above their heads from two branches of that lonely tree. The two vampires began slapping the cheeks of both men “kloreesh, vlooreesh!” and then grabbed them by their throats and pushed them off their horses! (Note: Common superstation held that vampires or vedalams would overcome lonely travelers by slapping them harshly till the victims lost their senses.)
+Those two mischievous vampires jumped on the riderless horses and goaded them to fly away from that forest across the open moorland.
+
+***
+
+Chapter 11 - Friend Or Traitor?
+
+Prince Aditya Karikala, his friends and entourage were coming onwards, having just crossed the fertile lands around the areas where the River Mani-muttha joined the Vellaru. The friends were discussing the royal welcome they had had in the town of Thiru-Mudukunram and about the renovation works of the temple in that town.
+
+Parthiban Pallava declared, “I really liked what Saint Sundara Murti Nayanar did at that temple in Mudukunram.”
+
+“What are you talking about?” asked Prince Karikala.
+
+“That he had said, he would not sing about an old woman!”
+
+“What was that? I do not know that story, tell me the details,” said Aditya Karikala.
+
+Saint Sundara Murti Nayanar was on a pilgrimage when he arrived at the town of Mudukunram also known as Vriddha-achalam. As was his habit, he went to the Shiva temple in that town. The temple priests welcomed him and held special services on behalf of the Saint to see the shrine and avail blessings. The priests then humbly requested that the Saint should compose some lines and sing about the Lord enshrined in their temple so that the place could win honors.
+
+(Note: to be later recognized as a ‘paadal petra sthalam,’ a special temple or place identified in songs composed by saints.)
+“Let me see if I can. What is the name of the Lord enshrined here?” asked Sundara Murti.
+
+Based on the name of the town – Mudukunram or Vriddha-achalam (old mountain) -- the Lord in their temple was named Vriddha Gireeswara (meaning Aged Lord of the Mountain)
+The Saint frowned slightly; In his mind he wondered, after all do I need to sing about an old man? Fine, let me see if the mother Goddess the consort of Shiva is named any better, “Let that be, what is the name for the Goddess enshrined here?” he asked.
+
+The priests replied “Vriddha Gireeswari!”  (meaning Aged Lady of the Mountain.)
+“You have made the Lord an old man and also made his Lady an old woman! I cannot sing about an old man and an old woman! Go away sirs,” said the Saint with some annoyance and left the temple.
+
+The priests felt that if their shrine did not have songs composed by an eminent Saint like Sundara Murti, the place would not gain merit or popularity. They enshrined another statue of the Goddess and named her Baalaambikai (young maiden Goddess.) Those priests went in search of the Saint and explained what they had done. Saint Sundara Murti came back with magnanimity and sang about Baalaambikai married to Vriddha Gireeswara, (young maiden consort of aged lord) offering worship at the new shrine!
+
+On hearing this story Karikala laughed uproariously, his whole body shaking. “Perhaps some bard who came to Pazluvoor’s court must have said something like that; he wouldn’t sing about old men and women. Perhaps that is why he married Nandini! Who knows!”
+
+Parthiban and Kandamaran who heard these words of the Prince also laughed riotously, again, and again. Their bodies shook so much that it appeared as if they might fall off their horses! After they had stopped their laughter, Parthiban asked, “I do not understand why God has created something called old age. Each can live for the entire time allotted to them looking exactly same and pass on when their time comes.”
+
+“It does not matter what the Gods have set up. Getting old or not is in our hands,” said Karikala.
+
+“How is that possible?” asked Kandamaran.
+
+“Do we think of Abhimanyu and Aravaan as old men?” asked Karikala. (He was referring to epic princes, wo died young.) The other two stayed silent.
+
+“In Tanjavur palace, in the art gallery there are portrait paintings of all my ancestors. Vijayala Chozla, Aditya, Paranthaka, these three appear aged. But my great grandfather Rajaaditya, do you know how he looks? He appears as a young, dashing, brave warrior. Rajaaditya died when he was young. Therefore, he is lucky being forever young! We do not know who among us will have that good fortune!”
+
+The other two did not care for this conversation; they continued to remain silent.
+
+“Why have you suddenly gone silent? Why are you so frightened of death? If this body is gone, we get a brand-new body. Why should we fear death? If my friend Vandiya Devan were here, he would have agreed. It is rare to see a person as full of life as him. If one were to drop him at the gates of Yamaloka, the abode of the God of Death, he would still be laughing with joy,” said Prince Karikala.
+
+At that minute they noticed two horses galloping quickly, raising a cloud of dust, coming towards them on that Royal Way. Before they could blink once, the horses had come very close to them. The way they were coming, galloping swiftly, it seemed as if they would not even notice the Prince’s retinue in the front but just go past.  Kandamaran and Parthiban readied to block the road by extending the spears in their hand to see who was so arrogant to not mind the Prince or his men.
+
+However, the horses were pulled back and made to halt just a little in front of them. Vandiya Devan and Azlvar-adiyan jumped down from their horses. On seeing Vandiya Devan, Karikala’s happiness knew no bounds. He too jumped off his horse, went forward, and heartily hugged Vandiya Devan.
+
+“Thambi, you will live to be a hundred. It is not even a minute since I mentioned your name.”  said Karikala.
+
+The jealousy that both Parthiban and Kandamaran felt on witnessing this scene, was reflected on their faces. They moved their horses a little ahead and waited. They saw more horses coming towards them. Very soon those horsemen too came closer and stopped. Kandamaran recognized them as men from Kadamboor and went forward to find the details.
+
+He then came close to Prince Aditya Karikala and said, “Prince, this Vandiya Devan is your friend; and he was a friend of mine too. However, I must accuse him of a heinous crime. He is a betrayer of friendship. He struck me with a knife on my back and wounded me almost fatally. Therefore, I am duty bound to warn you that you should be cautious in dealing with him.”
+
+***
+
+Chapter 12 - A Spear Is Split In Two
+On hearing Kandamaran’s accusation against Vandiya Devan who had been his dear friend, Aditya Karikala laughed thunderingly, his whole body shaking.
+
+“Kandamara, are you saying that Vandiya Devan attacked your back with a knife? Why did you show your back to him?” asking that he began to laugh, all his body shaking again and again with remembered mirth.
+
+(Note: the act of showing one’s back to an enemy was a sign of cowardice and lack of valor. Saying that someone showed his back would be considered very insulting.)
+Kandamaran’s dark face reddened; his eyes became like fully ripe    Kovai fruit. His lips trembled. “Sir! Do you think this is a matter to be laughed at?” he asked.
+
+“Kandamara, are you saying that I should not laugh? Laughter is a boon given by the Gods to humanity. Cattle do not laugh; sheep do not laugh; a horse does not laugh; lions do not laugh, why even monkeys that love to play do not laugh. Only those born as human beings can laugh. When it is thus, you are saying that I should not laugh? It has been a while since I laughed. Friend, hearing us laugh surprises even me. You are saying to me that I should not laugh!” said Aditya Karikala.
+
+“Sir I too am happy to see that you are laughing and are joyous. But please do not laugh thinking I showed my back to this greatest of heroes! When I was not expecting it, this man was hiding behind and came up to strike me. I survived and rose from my sickbed only because of the Grace of Goddess Durga and the kind care shown by the Young Queen of Pazluvoor. You should inquire about that betrayal by him and give me justice. Or give me the authority immediately, so that I can punish him,” said Kandamaran.
+
+“Friend, I myself will readily inquire and give justice. Saying that a person seeking justice of the Sembiyan Dynasty of Kings was not given justice is impossible.  One of the ancient kings of our clan was Sibi. To give justice to a pigeon, did he not cut off piece after piece of his own flesh? Manu-needhi another of our ancient ancestors gave justice to the cow by sacrificing his own son. You are no less than a pigeon or a cow. I will not refuse to give you a fair dealing. Be patient till I question this fellow. Vallava, before you give me all details of your journey, it is better that you reply to Kandamaran’s accusation. What do you say? Is it true that you stabbed him with a knife from behind? If true, why did you commit such a cowardly, dastardly deed that goes against all codes of valor?” asked Karikala.
+
+“Prince, I did not stab this bravest among the brave; I did not knife him from the back. I did not stand behind him and stick the knife in him. Seeing that he was stabbed on his back, knocked out, lying in a pool of blood, I carried him on my shoulders, took him to Sendan Amudan’s cottage and saved his life. I now feel sorry for having saved his life. I feel regret that I did not stick a knife on his chest and kill him. Because of my friendship for him I failed in my duty to my king. Sir, he said that I am a betrayer of friendship. He is not merely a betrayer of friendship. He is a traitor against his master. Ask him where, in which place and under what circumstances he was attacked?  Ask him, whom did he escort through the dungeon passageways of Tanjavur, and after safely conveying the person to Pazluvoor mansion, while coming back, whom did he meet in the underground tunnel of Pazluvoor’s treasure vault on that night? Ask him. On the night of the Aadi month festival, ask him what happened at midnight in his Kadamboor Fort? Who came there at that time hiding in the shuttered palanquin? Ask him.” Vandiya Devan had not finished.
+
+Kandamaran interrupted with trembling lips, failing tongue, “Hey you insignificant paltry fellow. Stop your nonsense words. If you don’t, you are going to be prey to this spear of mine.” He picked up his spear in his hand.
+
+Aditya Karikala noticed his agitation with some surprise. He plucked the spear from Kandamaran, and with his iron hand bent the shaft of that spear. The spear snapped noisily. He collected both pieces and threw them far away.
+
+“Be careful, I cannot tolerate my friends fighting right in front of me.  Parthiban, if either of them touches a sword or a spear, it is your responsibility to immediately arrest them,” said Karikala. Vandiya Devan immediately untied the sword at his waist and handed it to Parthiban, who accepted it warily.
+
+“Kandamara, Vallavarayan has replied to your accusations. I will later examine the validity of everything, leisurely.  Are you going to reply to the questions he posed?”  asked Aditya Karikala.
+
+Kandamaran answered, stumbling over words, swallowing, and stuttering, “Sir I have sworn an oath that I would not speak of those things to anyone.”
+
+Parthiban intervened, “Prince, these two accusing each other like this, seems to indicate that it may be a matter concerning some woman. So, it may be better to question them separately, privately.”
+
+“Yes Parthiban, I too think the same. All three of you have met the Young Queen of Pazluvoor individually and fallen prey into the bewitching web she has woven; you are each trying to swallow the other.” Karikala began laughing again.
+
+Parthiban’s face distorted with some annoyance. He said, “My Lord, today you seem to think of any important matter as trivial, and seem determined to laugh about that. It is good. Let me also speak of what has to be spoken. I too have very many misgivings about this Vandiya Devan. I will just speak of the most important of those concerns. Your brother jumped into the ocean in the middle of a raging storm only to save this man from a burning ship. After that Ponni’s Beloved Prince has not been seen. However, this fellow has sprung here, to stand in front us with not a sign of blemish, looking as fresh as ever, like a tamarind seed that will not succumb to a pounding.  Ask him what has happened to your brother; if the Prince was taken by the sea, he is the one responsible.”
+
+Karikala looked at Vandiya Devan and asked, “How do you respond to this?”
+
+“Sir, before I can reply to his question, he should respond to one question. He is the one who started from Lanka taking the Prince onboard his ship. Prime Minister Anirudda and Commander Velir had both asked the Prince to remain in Lanka. Even so, giving importance to his brother’s wishes, the Prince boarded his ship and started back. Why hasn’t this man brought the Prince safely back to you? Why was he standing and watching when the Prince jumped in to the seething ocean? Why did he not stop the Prince? In order to save a poor nobody like me, the Prince braved himself to get down into the sea. Why did not this noble valiant of the Pallava clan or his men follow the Prince and jump into the sea to guard him? Did they stand around thinking it was some kind of show when the sea was dragging him down? …..” Vandiya Devan posed such questions.
+
+“Sir, I think this idiot is piling accusations upon me; he will even go as far as saying that I killed the Prince. I cannot tolerate this even for a minute.” Parthiban was quite enraged.
+
+Karikala looked at him sharply. “Parthiban, have I not said this? You three dear friends of mine have come to a stage that you are ripping into each other! I shall not point blame at any one of you for all this. The power wielded by the Queen of Pazluvoor is such; I myself have felt it. You too get back on your horse and go ahead a little slowly with Kandamaran. I shall follow behind hearing the details of Vandiya Devan’s journey.  I will inquire into all the accusations and find out the truth. But keep this one thing in mind. The three of you must remain friends There is nothing that will displease me more than the three of you being at loggerheads with each other.”
+
+With no other option, Parthiban and Kandamaran got back on their horses and went forward. At that time Azlvar-adiyan came closer and whispered in Vandiya Devan’s ear. “Thambi, you have truly become very smart. You neither spoke lies nor revealed the truth, but spoke very cleverly and escaped this situation!”
+
+Aditya Karikala’s glance now fell upon Azlvar-adiyan. “Oh ho! Who is this? It seems a familiar face seen somewhere some time?”
+
+“Yes, My King! Some years ago, you have seen me.”
+
+(Note: The crown Prince of the Chozla’s ruled jointly with their Emperor, hence it was usual for the subordinate to address them as King.)
+“Even your voice seems familiar!”
+
+“Yes, My Lord, three years ago at a very important moment, you heard my voice…. “
+A dark shadow seemed to spread across Aditya Karikala’s countenance.
+
+“Three years ago…. an important moment …  What was that?  Is it the voice I had heard when I went searching for the enemy on the island in the Vaigai river? Is that possible?”
+
+“That was indeed my voice, My King. It was I who alerted you, speaking from behind a tree, about the place where the enemy was hiding.”
+
+“Oh, what a frightful day that was! If I think of the rage that had taken a hold of me on that day, even now my body shudders. Oh Vaishnava, why were you hiding in that forest that day?”
+
+“My King, you just said it yourself. About the frenzy that had taken possession of you on that day. You were chopping down dead anyone who came in front of you. I had wished to be alive for some more time.”
+
+“Is that the only reason? I had screamed till my throat ached, ‘let the unseen voice of the oracle come forward, show me the way!’ Why did you not come out even then?”
+
+“I did not wish to become victim of eternal enmity and anger of the sister I had raised, she is now the Queen of Pazluvoor.”
+
+“Perhaps you decided that I could earn her eternal anger! You heinous wretch!” Karikala drew the sword by his waist.
+
+Vandiya Devan was shocked and frightened. He felt that Azlvar-adiyan’s life was at an end on that day! With hesitancy, he spoke up, “Sir this Mr. Nambi has come from the Prime Minister. Please hear the messages he has brought and then punish him.”
+
+“Well, what is the point in punishing him? What is the point of punishing anyone?” he sheathed his sword.
+
+It did not appear as if Azlvar-adiyan had been frightened like Vandiya Devan had been frightened about the wrath of the Prince.
+
+With an ironic smile playing on his face Azlvar-adiyan spoke, “King knowing that you would turn your rage upon me, I did not appear before you all these years. The anger of my sister against me has not abated. Till to date she has been adamant in not meeting me. However, it appears as if her ire against you has ended. Have you not accepted this invitation to the banquet at Kadamboor because of the friendly, personal, palm-leaf letter from Nandini Devi?”
+
+“You wicked Vaishnava! How did you know this?” asked Karikala.
+
+“Sir I am bondsman to Mr. Anirudda.  Not even a trivial event can take place without the knowledge of the Prime Minister in this country,” said Azlvar-adiyan.
+
+“Watch it you! One day I will banish both of you, that Anbil Anirudda and you, from my country. Now get back on your horses. Ride on either side of me; let us keep going while talking,” said Aditya Karikala.
+
+***
+
+Chapter 13 - Manimekalai's Secret
+In that specially decorated chamber in the inner apartments of Kadamboor palace, Nandini was leaning back on a beautifully fashioned bed. She too appeared exquisitely dressed.  Her face glowed with a beauty unseen before. From her half-closed eyes it was easy to surmise that she was day dreaming. Whenever she opened her closed eyelids, mesmerizing rays like lightning flashed from her eyes and vanished. Even though she appeared half asleep, it was obvious that her brain was functioning with the speed of thought!
+
+If one were to look even more carefully, they would discern that her half-closed eyes were upon the plumes rising from the agar-wood burning incensor in one corner of her room. The fragrant smoke rose in swarms of swirls, lazily circling upwards, scattering, and vanishing.  What sights did she see in those swirls of agar smoke? Don’t know. Suddenly she sighed deeply. “Yes, yes! All my dreams have become nothing like the swirls of this smoke. At least this smoke cloud leaves behind a pleasing fragrance before it fades away. All that my dreams have left behind are agony, distress, slander, and infamy,” mumbled her coral red lips.
+
+At time Manimekalai’s soft voice was heard calling, “My Lady, My Lady, may I come in?”
+
+“Come, My Dear, come! Why ask permission of me for you to come into your own place?” asked Nandini.
+
+Manimekalai opened the door and stepped in softly. Her facial expression, the way of her walk and the swing of her arms exhibited such enthusiasm that she appeared as if she was leaping, jumping, dancing, and singing as she came in.
+
+Nandini sat up a little and pointed to a seat inlaid with ivory that was beside her bed, and asked Manimekalai to sit down.
+
+While seating herself that girl said, “My Lady, my brother has taught me how I should behave with you. He has talked a lot about the fashions of the southerners. He has told me that one should not enter someone’s private rooms suddenly without asking permission.”
+
+“May the southerners and their fashions perish in perdition! Forget right away, all this stuff that your brother has taught you. Don’t address me as My Lady, My Queen and such… Call me sister, Akka.!”
+
+“Akka! Akka!  My coming to you often, bothering you, wont it disturb you?”
+
+“You coming often and disturbing me will be difficult; if you stay here without leaving my side, it will not be any disturbance,” said Nandini as she smiled.
+
+Manimekalai melted in that smile! She kept gazing at Nandini for a few minutes, “I have never seen a beauty like you. Not even in pictures!”
+
+“Girl, don’t you too fall in love with me! Town gossip is already saying that I am a ‘bewitching sorceress.’ They slander me saying that I hypnotize men who come near me.”
+
+“Akka if any such slander falls in my ears, I will cut off their tongues completely before I do anything else.”
+
+“There is no point in finding fault with the gossips. Manimekalai, I have married an old man, so, they will talk in that fashion.”
+
+Manimekalai’s face wrinkled with annoyance. “Yes, Yes, I too feel sad when I think about it. My brother too talked and talked about it with much distress. But should they gossip like this about someone?”
+
+“Let them gossip if they wish. Manimekalai, they gossiped in the town even about the great Sita Devi. What loss was it to Sita?  Anyway, forget my situation, tell me about yourself.”
+
+“What is there to say about me, Akka?”
+
+“You pretender! Did you not come earlier in the evening and tell me that you will share the secrets of your heart? Now you ask what is there to tell!” saying this Nandini lightly pinched Manimekalai’s pretty cheek with affection.
+
+“Akka, I feel like staying with you forever like this. If they were to arrange a swayamvara for me, where I could choose my own life partner and if it were possible for women to marry other women, I would garland you!”
+
+“It is not even a full day since you met me! And you speak such seductive words already! I am happy about it. Having no one like you to befriend me, I was yearning for a dear companion like you. All the girls from noble families in Chozla lands flock in search of that evil phantom of Pazlayarai. At least you have remained for me. What you said a little while ago cannot happen. Woman marrying a woman has not happened in our worlds. A woman has to marry some man and live with him!”
+
+“What if one were to remain a maiden, unmarried?
+
+“You cannot dearest, you cannot. This world will not let you remain unmarried. Your mother and father will not let you; neither will your brother let you. Only after they have bound you to some man will they find peace of mind. If you must be married, whom do you wish to be married to? Tell me.”
+
+“Akka ask me by saying some specific names…and … – I will tell!’ said Manimekalai bashfully.
+
+“Fine as you wish, I will ask … Do you wish to marry Madurandaka who excels in his Saiva devotional activities? Or do you wish to garland Prince Aditya Karikala renowned for his courage, prowess and daring?”
+
+Manimekalai laughed aloud, chuckling as if she had suddenly thought of something.
+
+“Why are you laughing Manimekalai, do you think I am teasing you? It is only to settle this question that your brother asked me particularly, to come here. In a short while Karikala will be here; and your brother too will be back. I have promised to find out your heart’s desire and let him know,” said Nandini.
+
+“I myself am not sure of my heart’s desire. What can I do Akka?”
+
+“At least tell me why you laughed.”
+
+“When you mentioned the name Madurandaka, something came to mind. About four months ago he had come to this palace. He came in the palanquin in which you usually travel; came with shutters closed and the curtains drawn without being seen by anyone.  We in the women’s apartments did not know that secret. We had assumed that it was you who had come. We were all asking each other why the young Queen of Pazluvoor did not come to pay a visit to the womenfolk. Akka you just said that women cannot marry women. My marrying Madurandaka is like being married to a woman!”
+
+“Yes, yes, I did think that you would not favor Madurandaka. I mentioned that to your brother. Madurandaka is already married to my brother-in-law’s daughter. She is very arrogant. You cannot live even for one day with her in the same household. So, tell me...  you must have given your heart to Prince Karikala!”
+
+“I am not sure that I can say that. I have never seen him How can I give my heart to him?”
+
+“My dearest! It is not the way of noble women, to give their hearts only after seeing someone. Have you not heard of women in our old stories and epics where they fell in love with someone after seeing their portraits and hearing tales of their gallantry?”
+
+“Yes, I have am aware of that. I also know that Aditya Karikala’s fame has spread worldwide. He is a very brave warrior. He apparently cut off Veera-pandiya’s head with one blow. Is that true?”
+
+Manimekalai did not notice how Nandini’s face turned so very dreadful. Nandini looked away for a few seconds and turned back. Her face was once again charming with mesmerizing attraction.
+
+“Manimekalai, do you think it is a mark of great bravery for someone to sever another’s head in one swipe? Isn’t it horrible and demonic?” asked Nandini?
+
+“I do not understand what you are saying Akka.  Is it not valor to pluck the enemy’s head? How can we say that it is demonic?”
+
+“Think about it in this way: suppose it is someone very dear to you; an enemy is coming to cut off your dear one’s head. Think of that dear one as if it were your brother, or think that it is your beloved, whom you intend to wed. He is wounded and upon a bed, defenseless, helpless. This other person, the enemy is coming with a raised sword intending to cut off the head, think that for a moment. Would you praise the valor of the fellow who is coming to strike your beloved?” asked the young Queen of Pazluvoor.
+
+Manimekalai seemed to think about this for a while, she said, “Akka you ask a very peculiar question. Even so, I will tell you what I think. If such a situation as that which you describe were to occur, to me, I will not simply watch; I will snatch the sword from the hands of the person coming to kill and stab him to death.”
+
+Nandini hugged and embraced Manimekalai with eagerness. “My very dear girl, you have given a good answer. I am worried that you who are so intelligent should get a smart husband. I am doubtful if even Aditya Karikala would be a suitable groom for you!”
+
+“I too am thinking that. After hearing about Karikala’s character and temperament I am somewhat frightened to even think about him. Shall I speak to you about my secret? Tell you the unvarnished truth?” asked Manimekalai.  ***
+
+-----------
+
+Chapter 14 - Will Dreams Come True?
+
+Nandini lifted Manimekalai by her chin and looked deep into her wide-open eyes.
+
+“My dearest, it may be better that you do not tell me your heart’s secret; If we think of it, it is not even one day since we met. One should share secrets only with friends known for a long time.”
+
+“Akka if I look at you, you seem like a friend I have known for a long time. My inner feelings urge me to tell you things that I have not told anyone. I am emboldened to ask you of things that one should not ask of anyone,” said Manimekalai.
+
+“If that is so, ask my dear.”
+
+“They talk in stories about spirits and ghosts. Can that really happen? If someone is not in front of us, will it appear as if they are with us?”
+
+“Sometimes, it may seem so. If one loves someone a lot, they will appear to be in front of us even if they are really not there. If one hates someone a lot, they too will appear like that. Have you not heard stories of illusions of Krishna? Manimekalai, you might have seen plays about it. Kamsa hated Krishna a lot. Whatever he looked at, appeared like Krishna. He plied his sword again and again and was deceived. The milkmaid named Nappinnai loved Kannan with a passion. To her, Kannan would appear to be in all places, even if he were really not there. A pillar, a tree, flowing floods, she would think that they were Kannan, and run to tightly hug and embrace him; and be disappointed. Dear Manimekalai, who is that magical Krishna who has captivated you?” asked Nandini.
+
+(Note: Nappinnai and Kannan, the names of Radha and Krishna in Tamil.)
+“Akka, I saw him for the first time, four months ago. Before that my brother Kandamaran had often told me about him. At those times, his form did not appear before me. After seeing him that one time, he appeared in my dreams often. During daytime, sometimes it will seem as if he were standing in front of me!”
+
+“You saw that magician’s apparition even yesterday!
+
+“Yes Akka! How did you know?”
+
+“Didn’t anyone tell you that I have the powers of magic in me?”
+
+“Yes, they said so; Is it true Akka?”
+
+“You can examine me and decide. Shall I tell you by using my magical powers who that man is?  that, young and handsome man who stole your heart?”
+
+“Tell me; I feel too shy to speak his name!”
+
+Nandini closed her eyes for a few seconds and then opened them to say, “That dear lover who stole your heart is the man from the Vaanar Clan, Vallavarayan Vandiya Devan. Is he not?”
+
+“Akka you truly do have magical powers!’
+“Dear girl! When you have given your heart to this extent to a man, why haven’t you told your brother about it? Why tempt Madurandaka? Why bring Karikala here and attempt wasteful efforts? Why bring me here unnecessarily?”
+
+“Akka, my brother Kandamaran dos not like him.”
+
+“Quite fantastic! Is it your brother who is getting married? But you are telling me that it was Kandamaran who told you about Vandiya Devan. It was your brother who brought him here!”
+
+“Yes, it was Kandamaran who talked about him and brought him to the palace one day. But his thoughts changed later. With reason. That man apparently stuck a knife into my brother’s back in Tanjavur. My brother lay wounded in your palace; he survived with his life only because of your loving care.”
+
+“Your brother exaggerates about the care I gave; let us not go there. What can you do now? The man who stole your heart has thus become your brother’s enemy?”
+
+“But do you know what this man is saying?”
+
+“Who? Which this man?”
+
+“Him. You said his name just now. It was him. He swears that he did not stick a knife into Kandamaran. Apparently, somebody had stuck him with a knife and thrown him outside Tanjavur fort’s wall; he picked him up and saved my brother’s life, that is what he says.”
+
+“When did he come to tell this to you, girl?
+
+“Yesterday!”
+
+“Yesterday! Did you see that Vandiya Devan personally? You said that you saw an apparition like him?”
+
+“That is, it. I am very confused. Did I see him yesterday or his image? I am not sure. If I think of everything that happened yesterday, it seems like a dream. Akka, they say that if someone dies, their ghost may come back and talk – is that true?” When Manimekalai asked this question her voice was filled with extreme fear.
+
+Nandini too shivered; She was looking up somewhere towards the ceiling. “Yes; that is true. The ghost of a person who dies before their time will come back to haunt the living. If they killed the person by severing the head, sometimes the head alone will come; or the headless body alone will come. At other times each will come separately and ask, ‘have you avenged me?’” said Nandini, she then looked at Manimekalai and in a louder voice asked, “Girl, why did you ask such a question? Are you afraid something like that might have happened to your lover? Who raised this doubt in your mind?”
+
+“There is an oracle dancer, Thevaralan in this palace; I called for him. Apparently, someone beat him up badly last night. His wife Thevaratti came instead of him and said that.”
+
+“Silly! Don’t believe all that!”
+
+“I too did not believe. If it were a ghost, one should not be able to touch, correct?”
+
+“You cannot touch a ghost or an apparition. Why are you asking did you touch the man whole stole your heart?”
+
+“That is also very confusing. I feel as if I had touched him; but if I think of other things, I am doubtful.”
+
+“Tell me everything that happened yesterday in detail. I will clear your doubts”
+“I will do so Akka. If I say something in the wrong order or babble incoherently ask me questions.” Manimekalai then continued, “Yesterday, about the same time as this, I was here. I came here to look over and make sure that all arrangements that my brother had mentioned had been done by the serving maids for you in this room. For a moment I was looking at myself in this mirror here.”
+
+“You were admiring your own beauty!’
+“Nothing like that. Don’t I know the cast of my own face?”
+
+“What is wrong with your face? Wont the heavenly maidens, Rati, Indrani, Menaka and Urvasi be envious of you!”
+
+“None of them equal the dust of your foot”
+“Fine, tell me more, you looked at yourself in the mirror…”
+“Another face appeared suddenly in the mirror, close to my face in that mirror …”
+“It was the face of your beloved!”
+
+“Yes. I was shocked.”
+
+“Why should you be shocked? You said that you would often see his face in your dreams; that you would see his apparition.”
+
+“There was a difference between that and this. In my dreams the face was a bit far away; but here, from behind me, I am shy to say it…”
+“Does not matter, tell me, you rouge!”
+
+“It appeared to from behind me to kiss me on my cheek. Startled, I looked around, no one was there and the face was no longer in the mirror.  Did I not show you the secret door to the hunt-room next to this chamber last night? This mirror is in front of that door. So, I wondered if someone in the hunt-room had opened the secret panel and peeked into this room. I thought that it would not be possible. How could an unknown man come into that hunt-room?  To clear my doubts, I opened the panel and went to look in the hunt-room.”
+
+Nandini asked very eagerly, “Was that thief hiding in the hunt-room? Did you catch him?”
+
+“Why do you call him a thief Akka?
+
+“When I say thief do I mean a real thief? I meant a thief who stole your heart. Was he in the hunt-room?”
+
+“That is the surprising thing. He was not there. Instead, our palace footman Idumban Kari was dusting the place. His face looks like that fearsome looking dark-faced statue of the village guardian in the Ayyanaar temple. When I asked him if anyone else had come into that room, he said no. I came back thinking ‘let the puzzle unravel itself’”
+“Did the puzzle clear up?”
+
+“Listen some more! I was in this room waiting to see if I could hear any voices in the hunt-room. I heard voices; I heard rumbling noises of things falling down; even as I was wondering what to do, this panel door moved. I hid the light and waited. There is a smaller panel opening in this secret door. A figure opened that smaller door and tried coming here. It said ‘help, save me.’ Since the voice and the face seemed like him, I helped him come into the room and turned on the light. It was him!”
+
+“Manimekalai what a surprise this is. If sounds like one of the Vikrama-aditya fantasy stories of yore!”
+
+“And there is more, listen Akka! When I saw him of my dreams in front of me, my whole being blossomed in happiness. My body was quivering. Even then, with pretend anger I asked, ‘how can you come like a thief to the women’s apartments in the palace?’ He said that there were men chasing him to murder him. I teased him saying he was a coward running away fearful for his life. He replied saying he had no weapons. I then brought up the stabbing of my brother. He swore that he never did anything like that.”
+
+“And you believed him?”
+
+“At that time, it seemed believable. But if I think of all that happened later, I am not sure about what to believe and what not to believe.”
+
+“What happened later?”
+
+“Even while talking to him, I was listening with one ear to what was happening in the next room. It sounded like many men walking about and talking. I thought it might be true that some men were really chasing him to kill him. Akka, at that time foolish me thought I must somehow save him. I wanted to find out who were coming to kill him. Was Idumban Kari the footman involved in all this? Was he part of the murdering gang or was he helping him? I was alarmed that so many people knew about that secret tunnel coming into this fort. Also, you were going to stay in this room; that worried me even more. I wondered if I should send for my father; but I could not gather the courage to do so. If my father saw him in the women’s quarters his life would be in danger! So, I asked him to remain here and went into the hunt-room to see who was there. There were five or six men in the corners near the walls. The looked very startled to see me. I began to feel afraid on seeing them there. I controlled the fear, and in an enraged voice was about to question them. By then my friend and maid Chandramati was calling for me ‘Amma, Amma’ and coming into this room through that main door. I remembered that I had left him in this room and was afraid that Chandramati would raise a hue and cry upon seeing him. Deciding to deal with the men in the hunt-room later, I came back to this room. I tried to cover Chandramati’s line of vision, but he was not here!  As if by magic, he had vanished. I asked the maid if anyone was in the room and she said she had not seen anyone. After looking around, I went back to the hunt-room. None of the men I saw before were there. Idumban Kari alone was in there dusting as before. When I asked, ‘who are the men who were here earlier? Where are they now?’ Idumban Kari maintained ‘No one came here’ – I could not believe him. My maid began teasing me, ‘Akka, something bizarre is happening to you today. You are seeing men in places where there are no men.’ She then said that you were all nearing the gates of this fortress.  My father had sent for me to come immediately to welcome you. I left right away, to go to the gates. I crossed the hallway from where Chandramati had come then climbed the steps to get to the terraces. I then saw an astonishing sight again. The Vaanar nobleman was crossing the courtyard below and going along the outer wall of the fort. I saw him climb the wall by leaning a pole against it and jumping over the wall. That is what it appeared like to my eyes. I am not sure even now, if all of that was real or if it was some hallucination.” Thus, Manimekalai told her tale.
+
+Nandini was thinking. The two faces she had seen hiding behind the dark leaves of the trees appeared before her mind. She knew that horsemen had been sent to catch them. Perhaps they have been caught by now? If they were caught, would they be brought here?
+
+Manimekalai interrupted her thinking, “Akka what do you think of all this?”
+
+“Me? You are asking what I think of this? I think a love-craze has completely taken hold of your mind and heart,” said Nandini
+“Akka are you also making fun of me like Chandramati?”
+
+“I am not teasing yo dear. You who saw everything in person are not sure if it was all a dream or real, or madness. How am I to say anything? Is there any other secret way to get out of this room?”
+
+“Not as far as I know. There are no other exits.”
+
+“He could have gone the same way that you and Chandramati took; across the hall and up the steps to the terrace.”
+
+“There were other servants in there he could not have gone past without them seeing him.”
+
+“That is surprising. Did you tell your father about all this?” asked Nandini.
+
+“I did not tell my father. On one hand I felt shy, on the other I felt afraid. In case it is true about him really being here….”
+
+“Yes, it may be better to not talk about all this with the men folk. They may not understand.”
+
+“I am wondering if I should tell my brother or not.”
+
+“It will create a great uproar and a sure racket if you tell him. At this time your brother is intent upon somehow marrying you to Karikala.”
+
+“Akka you must help me. Kandamaran is devoted to you. He will listen if you tell him.”
+
+“My dear girl you ask me to help you against the very reason I have come here! You are a very smart girl! Even if I were to give up the idea of wedding you to Karikala you do not know anything about this other fellow. How can you be sure that he would like you?”
+
+“I am not worried about that Akka. Whether he likes me … or not I …”
+“This is the fate of one born a woman! It is deemed that the girls would give up their life however the men behave! Anyway, let us see how your fortune is! If anything happens again like last night, you will tell me won’t you?”
+
+“If I don’t tell you who else will I speak to? Last night I saw a dream. I would like to tell you about it too.”
+
+“Is it not enough that you day-dream? You have night time dreams too! What happened? Did he come hoodwink you in that dream too and go away?”
+
+“No, no this is something else; It is most frightening to even think about. They say dreams seen in the early morning will come true. Is that true Akka?”
+
+“Tell me about it, I will listen. You say it is about something else, did you dream about another person?”
+
+“It is about him. Somebody is coming with a weapon to kill him. He has no weapons in his hands. There is a sword lying on the floor shining brilliantly. I leaped forward, picked it up and rushed ahead. I was going to strike the man who was coming to kill him. On getting closer, I saw his face. It was my brother Kandamaran. “Oh!” with a scream I woke up. My whole body was drenched in sweat and wet. For some time, my hands and legs would not stop shaking. The dream was so real. Will it turn out to become real Akka?”
+
+“My dear girl, your brain is truly addled. What happened really feels like a hallucination. What you see in a dream feels real! A great friend I have found in you! If I am crazy, you have gone one step above,” said Nandini.
+
+Chandramati came in to announce, “They are coming here, I believe. They have come past Veera Narayana Lake.” ***
+-----------
+
+Chapter 15 - Royal Courtesies
+Kadamboor Sambuvaraya’s fort gates were witness to wonderous sights never before seen, during those early evening hours. People crowded, wave after wave as far as eyes could see, standing close to each other. Men and women, young children, boys, girls, were all gathered there. Old women and old men who could not stand on their own legs came with sticks to steady themselves. Not minding the crowds jostling them they waited eagerly to see the brave countenance of their Prince Aditya Karikala. Young boys and girls being squished by the packed mass of people still tried to make themselves a path to get to the front. Young maidens completely gave up their natural shyness and modesty and pushed and shoved through strange men in the crowd trying to get to the front. Young men did not even bother, not even sparing a glance for those maidens while intent on finding the most suitable spot to be able to see the Prince. Many of them were climbing on to the trees in front and around the fort. Others tried to climb onto the tall outer walls and were roughly pulled down by the guards at the fort.
+
+With babes on their hips young women stood amidst that crowd in spite of various discomforts. Mothers soothed their crying children with words such as, “my darling child, do not cry. The bravest, the most valiant prince of the Tamil lands, he ‘who plucked the head of Veera-pandiya’ Aditya Karikala Chozla is coming. If you are lucky to see him, you too will one day become heroic and famous like him!”  Lovers spoke thus to their loved ones, fathers explained to their sons about Aditya Karikala and his prowess.
+
+In those days the fame of Aditya Karikala had spread into all parts of the Chozla lands. He had entered the battle field when he was just twelve years of age, and with his sword had wiped out many enemies. At Chevoor battlefield he had overcome the Pandiyan forces and made their king Veera-pandiya retreat to hide in a cave in the desert. When he was nineteen years of age, he had reduced the Aabathudavi bodyguards of the Pandiya King to nothing; he then found the hiding place of the Pandiya king and brought back the enemy’s severed head. Who is not going to be eager to see such a Prince?
+
+Since the last three or four years there had been many rumors about this Prince. Apparently, after he had been made Crown Prince, there was some difference of opinion between him and his father the Emperor Sundara Chozla; and the emperor did not want him to rule after him said some people. Others opined that Aditya Karikala was following in the footsteps of his historical ancestors, one of whom had gone and settled in Kanchi, formed a separate kingdom and had established the Pallava dynasty there; he wished to establish a separate kingdom in Kanchi. Some said that Karikala was very angry because his father showered more affection on his younger brother Arulmozli and was partial to that young man. Others completely refuted this: there can be no siblings like Aditya Karikala and Arulmozli in their affection for each other. Many discussed in many words of why the Prince was not yet married. Some said that the Prince has refused to marry any noble woman, he wished to marry a girl from the family of a temple priest and seat her on the throne; and this was the cause for the dissention between father and son. Yet others declared that the Prince was mentally unsound – Sorcerers form the Pandiya lands had cast spells on him and made him go insane. That was why many noblemen and subordinate kings did not want him to ascend the throne after Sundara Chozla.
+
+Whatever it may be, the people were eager beyond measure to see the great warrior. With the spread of the news that the Chozla Prince was to visit Kadamboor, there was much excitement and unrest in the surrounding villages and townships. Once it became known that he was to arrive that evening, people from surrounding areas, as far away as two leagues in distance, came eagerly. It would not be inappropriate to call them an ocean of people. Voices raised by the throats of these thousands of people morphed into a noise like the roar of the ocean. Palace guards and footmen cleared a path and stood guard for the Prince and his men to come up to the gates of the fort. People from the back pushing forward trying to come closer, butting those in front who tried to go past the wall of soldiers, and those guards pushing such people back again, to kept the path clear was like the beach front where waves come up, crash and flow back.
+
+A fellow on a tree branch shouted suddenly, “there they come!” a thousand voices reverberated, “Where? Where?” A single horse came very fast; not minding the crowds, it pushed through, making a way for itself. The crowd pushed back on each other not wishing to be caught in the hoofs of that swift horse. He is the young Sambuvaraya the people shouted. Yes, it was Kandamaran; without answering the questions posed by the people in the crowds he went onwards quickly and stopped his horse near the fort gates and dismounted. He saw Lord Sambuvaraya and Lord Pazluvoor waiting there and bowed to them respectfully.
+
+“The Prince is coming. But his mind does not seem to be in control. He gets angry suddenly for no apparent reason. I came ahead to alert you all. We must welcome with all royal-courtesies; It may be better for all of us to not answer and just keep quiet even if he says things inappropriate and perverse.” After saying this, without waiting he looked up. There on the balcony above the entrance, womenfolk of the palace seemed to be waiting. He went past the gates and climbed up the steps on one side.
+
+Once he reached the place where the women were gathered, he did not bother about anyone; his eyes searched for Nandini and found her. He approached her and said, “My Lady, I have fulfilled your wish. I have led the Prince to come here. There he comes. He is like an elephant in musth, that has gone rogue. I am not sure how we can manage him!”
+
+“Sir, why are you worried about that? We have the two ankush goads that are the eyes of your sister, which can control a rogue elephant,” said Nandini.
+
+“Akka what words are these!?!” asked Manimekalai.
+
+(Note: musth secretion from temporal glands is a periodic condition in elephant bulls; during that period, the normally mild bulls exhibit very aggressive behavior and often go into rut. The ‘ankush’ is a special hooked spear used to train and handle elephants.)
+Her brother looked at her and said, “Manimekalai, what is wrong in the words spoken by the Queen of Pazluvoor? One would need to do penances, to attain a valiant Prince like Karikala as a husband.”
+
+Before she could reply, Nandini asked, “Sir, is anyone else accompanying the Prince?”
+
+“Yes, yes. Parthiban Pallava and Vandiya Devan are coming.”
+
+Nandini glanced at Manimekalai, as if conveying some sign and spoke to Kandamaran, “Which Vandiya Devan? The man who you had said was your friend. Is it him?”
+
+“Yes, it is that ‘greatest’ friend who tried to knife me on my back and kill me. He jumped down from somewhere, somehow came and joined us near the banks of River Vellaru. I am restrained because of the empathy shown by the Prince. Otherwise, I would have made him prey to my sword then and there.”
+
+Manimekalai’s face shrank and her brows knitted together, “If it is true that he attacked your back with a knife, why should we allow him to enter our palace here?”
+
+“My darling! Please do not speak. These are affairs of the men. Yesterday, they will fight; today they will hug and carouse!” said Nandini.
+
+Kandamaran smiled and replied, “Nothing like that. I had to heed the presence of the Prince. Oh! You have baskets upon baskets of flowers here! Your rain of flowers on the Prince from up here, will overcome his rage and cool him down. There, they are almost here; let me go down.” He went down the stairs hurriedly.
+
+If viewed from that balcony, in that ocean like crowd of people spread as far as the eyes could see, they could glimpse something at one spot, like a whirlpool in the middle of a whirlwind at sea. Like a ship caught in that whirlpool, appeared three horses and men upon those horses. The huge wave of that ocean of people soon hid them. That whirlpool kept moving forward, onward towards the fortress gates. Finally, it had reached those gates.
+
+The mean seated upon the three horses that neared the gates were Aditya Karikala, Parthiban Pallava and Vandiya Devan. The retinue of elephants, horsemen and the other footmen remained far back stopped by that crowd of people.
+
+When the horses stopped at the gates a deafening noise arose. Hearing that, the sea of people calmed down somewhat. The drums and other instruments were heard for a little while and then they stopped suddenly. Making use of that sudden quiet, a herald standing on a platform high above the upper rampart called in a thundering voice.
+
+“Born of the Sun dynasty starting from Manu Mandhatha,  came Emperor Sibi who tore his own flesh and offered it in lieu of the pigeon, and after him a Rajakesari and his son a Parakesari, then came Manu Needi Chozla who gave his own son to render justice to a cow, later Karikala the Great who stamped his tiger symbol upon the Himalayas, and then came Nalan Killi, Nedun Killi, Perunar Killi, Killi Valavan who reposed near the pavilion of the pond, Killi Valava that reposed at Kuraapalli, Ko-Perum Chozla who built eighty shiva temples, he who came in this dynasty, that Vijayala Chozla of Pazlayarai who bore ninety six war wounds; his son Aditya Chozla that built eighty-two shiva temples along the banks of the Cauvery from the Sasya Hills to Poohar on the sea, his son Paranthaka Chozla who conquered Madurai and Eezlam  and built a golden pavilion at Chidambaram; his son Arinjaya Deva who reposed at Aatroor after vanquishing  the troops of Rashtrakuta Kannara Deva; his son Pazlayarai Paranthaka Sundara Chozla who rules under one umbrella all lands from Eezlam to Chitpuli country; his elder son, the  Royal Lord, Commander of Northern Forces, Crown Prince of the Empire, he who took the head of Veera Pandiya, Aditya Karikala Chozla is coming! Be aware! Be aware! Be Aware!” After the herald had announced in this fashion and stopped, it was like a shower of monsoon rain and thunder that had stopped.
+
+Immediately, another herald standing by him began: “King of Kolli Hills, brave Valvil Ori who with a single arrow pierced a lion, bear, deer, boar, all of them together; he who has come from his dynasty, Raajaadi-raaja, Raaja-marthanda, brave majesty Sambuvaraya, always the supporter of the clans of the Chozla Emperors, guardian of Veera Narayana Lake, commander of a troop of five thousand, with heartfelt words of praise he welcomes the royal Prince Aditya Karikala Chozla to his humble mansion. Welcome; may his coming be a good coming.” So, he said in a booming thunderous voice. Even as he finished a rain of flowers came down upon the Prince from the balcony above.
+
+Aditya Karikala and Vandiya Devan looked up. Among the many faces of beautiful women gathered there, Vandiya Devan’s eyes saw just the face of Manimekalai with a blossoming smile. He responded for one second with a smile but recognized how wrong it was, and turned his face away. Aditya Karikala looked up at the same time; the signs of wrath playing on his face became even more extreme. He jumped down from his horse. The other two also dismounted.
+
+By now the drums, horns and cymbals started up again. The noisy crowd that had quietened a little began to the roar once again. The guests and the those in the welcoming party went into the fort. Immediately the fort gates slammed shut with a loud bang.
+
+Aditya Karikala looked around and asked, “Why are they closing the doors in such a hurry? Just as you have imprisoned my father in Tanjavur fort, are you planning to imprison me here? What say you? What about the men and retinue who came with me?”
+
+Both old men were stunned into silence for a couple of moments. Lord Pazluvoor collected himself first and said, “Royal Prince, the loving hearts of the many millions of people in these Chozla lands have imprisoned you their Prince and your father their Emperor. Where is the need for another prison?”
+
+“Prince, if the ocean of these hordes of people who have come to have a glimpse of you enter this humble hut what will happen? While they stood outside waiting for your arrival, all gardens and groves around here have become like Maduvana destroyed by a horde of monkeys. As soon as the crowds disperse, we will bring in the retinue that has come with you. Until then we have many men and women to serve you and look after your needs,” said Sambuvaraya.
+
+The noise of the crowds seemed to increase even more outside the fort walls. “Where are the steps to go up to the façade of these front gates?” Karikala asked Kandamaran. As soon as Kandamaran had pointed the direction to the steps that went up, Karikala walked towards that direction with quick steps. Kandamaran, Vandiya Devan and Parthiban went with him.
+
+Sambuvaraya looked at Lord Pazluvoor and remarked, “What is this? Like paying money and buying a hobgoblin that was going on its own way we have bought this misfortune? It does not seem as if his mind is alright. We got into this by listening to the words of youngsters.”
+
+“What misfortune can befall us? Our intent may be fulfilled; if not let it go,” said Lord Pazluvoor.
+
+“I am not saying anything about our plans. Something untoward should not happen when he is in our house. The omens do not portend well. He looks like an elephant gone rouge. Didn’t you see the fury on his face and the poison on his tongue?”
+
+“We must clench our teeth and be patient for a few days. That Pallava Parthiban will help us in keeping the Prince under control. There is the other defiant youngster who has come with him. It is him that I do not like; I suspect that the fellow may even be a spy. Earlier when we held our conclave, on that night too, he was here. He was the one hiding behind the trees last evening outside the fort gates.” Thus spoke Pazluvoor.
+
+“He is a friend of my son. There is no need to worry about him. Why are they going in such a hurry towards where the women folk are gathered? Should we also go there?”
+
+Parthiban who had gone up to the stairway came back now towards where the two feudatory chiefs were standing, He heard the last few words of Sambuvaraya.
+
+“Sirs, you may have many other doubts about the Prince; however, you need have no concerns about matters regarding women. He does not even look at women,” said Parthiban.
+
+Lord Pazluvoor asked with a smile, “If that is so, how will our intensions in inviting him here be achieved?”
+
+Parthiban said, “That depends on the good fortune of Lord Sambuvaraya’s daughter and the good fortune of these Chozla lands.”
+
+“Parthiban, let Manimekalai’s good fortune be set aside for now. Why is this Prince coming here with such anger on his face? Why does he speak so mischievously? I am beginning to think that it may be better if you should take him away from here peacefully!” said Sambuvaraya.
+
+“The Prince was pleasant and jovial till we came to the banks of river Vellaru. At that point this Vandiya Devan and a Vaishnava fellow came and joined us. They must have said something. After that the Prince’s mood had changed.”
+
+“That is what we thought, What can be done now? That troublesome fellow too has come with you.”
+
+“Please be a little patient sir. I will straighten out everything.  I too have a bone to pick with that young man. I shall deal with it at the appropriate time,” said Parthiban.
+
+When Karikala and his two friends neared the stairway going up to the façade balcony of Kadamboor fort’s gates, the women up there were coming down.
+
+“Kandamara, it is not appropriate to make our mothers come and wait here for us; we should be the ones going up to them to pay our respects.” With such words he greeted the Kadamboor noblewomen respectfully and stood aside. As each lady came down, he asked Kandamaran to introduce them. Then on seeing Nandini he said, “Isn’t this my young Pazluvoor Grandmother! She herself has truly come! I am glad!”
+
+Nandini walked past him without uttering a word, looking at him with her piercing eyes. The ferocity in her look made Karikala shiver a little; quickly collecting himself, he said looking at Manimekalai who came down next, “Oh ho! This must be your sister Manimekalai! She looks like a heavenly Gandarva nymph drawn in paintings! We should soon find a good man to be her groom and get her married.”
+
+Manimekalai, glanced at Vandiya Devan with bashful eyes and dimpling chin as she ran down those steps. Karikala went up after all the women were gone; he stood on the balcony above the facade gates. The crowd which had begun to disperse raised a huge cry. The people began to turn back towards the gates. Karikala noticed the crier-herald standing on his lone platform. He signed that the man should approach. He then told him to announce certain things to the people. The herald went back to his platform and made the drums sound for a couple of minutes. He made signs to get the people quieten down. He began announcing Aditya Karikala’s titles and then said “The Royal Lord will stay at this Kadamboor fort for about a week or ten days. He will visit the neighboring towns. He will meet the townsfolk personally and give ear to their concerns!” he announced loudly.
+
+That was it; a huge uproar reverberated as if all the noise till now was mere whispers. Happy voices, praises, loud cheers and cries of victory mingled to drown the sound of the seventy-four overflowing canals of Veera Narayana Lake.
+
+The lords Sambuvaraya, Pazluvoor and Parthiban had been rooted to the same spot as before. Aditya Karikala approached them saying, “Parthiban why have you stayed back here? Have you too joined these old men to plan conspiracies?”
+
+Both old men were shocked, and looked at Karikala. A smile danced on the face of the Prince.  Sambuvaraya seemed to collect himself, “Royal Prince a few minutes ago you said ‘prison!’ Now you are saying ‘conspiracy.’ I swear and pledge that as long as you are here in my humble abode as our guest, not an atom of harm will fall upon you. Before anything untoward like that happens, life would have separated from my body!”
+
+“Sir, are you thinking that I am afraid of some harm befalling me? I had not feared that danger will fall upon me even when I was surrounded by millions of Pandiya enemies. Why should I be afraid when I am amidst my dear friends? But do not refer to this fortress of yours as a humble abode or hutment!  Look at these ramparts! How tall and thick these surrounding walls. It appears stronger and bigger than the fortress walls in Tanjavur. Against what anticipated enemy have you built such a strong fortification?” asked Karikala.
+
+“Prince, we have no enemies particular to us. The enemies of the Chozla clan are our enemies. Friends of the Chozla’s are our friends.”
+
+“Your pledges make me very happy. Please explain this to your son Kandamaran also. Your son Kandamaran is treating my friend the nobleman of Vallam as his enemy. Isn’t it a huge mistake?” At these words of the Prince Kandamaran lowered his head.
+
+***
+
+Chapter 16 – Malayaman’s Worry
+Kandamaran showed the way across the courtyard between the palace and the surrounding guarding wall; Karikala was looking around as he went with him. The other four followed them. Karikala stopped when he came to the place where the stage and shed for the kuravai koothu dances were being readied. “Oh, ho; what is this? What is going to happen here?” he asked.
+
+“My Royal Prince, if it pleases you, we plan to hold a performance of kuravai koothu gypsy dances here.”
+
+“Very good, very good; hold a performance of kuravai koothu; hold villu pattu sessions, hold performances of Karikala Valava and Vijayala Chozla plays. We will all spend the day in the forest hunting. We can spend the nights in song and dance. Sambuvaraya, do you know what my grandfather Malayaman advised me before I came here? He warned me, ‘When at Kadamboor Sambuvaraya’s fort, do not sleep at night!’ Do you know what I replied to him? I told him, ‘Grandpa, I sleep not, neither during the day nor at night. It is three years since I slept. So do not fear that enemies will harm me when I am asleep. They can harm me only when I am awake, if they so wish! Who is the man bold enough to do that?’ that is how I reassured Malayaman before I came here!” said Karikala as he guffawed noisily.
+
+With a voice shaking with anger, Sambuvaraya replied, “Sir It does not matter if you are sleeping; or you are awake…. No man …. while you are in this palace will dare harm you.”
+
+“Yes, yes which fellow inside this mansion of Kadamboor Sambuvaraya can harm me? Or who can come from outside scaling over these huge rampart walls? Not even Yama the Lord of Death, can come here. Even Lord Yama will be afraid when we mention the name Kadamboor Sambuvaraya! I just mentioned those unnecessary worries of that old man of Thiru-Kovalur. He is getting old; some people begin to lose their mind and mettle as they get older. But on the other hand, look at this my grandfather from Pazluvoor … How smartly he comes walking. Can anyone say he has crossed his sixtieth?” Karikala continued joking in this flippant fashion.
+
+Lord Pazluvoor cleared his throat gruffly, thinking he should reply. It sounded like a lion’s growl.
+
+“Listen to this! How true the saying that if Lord Pazluvoor clears his throat, the whole world will shiver with fear. Kandamara, Vandiya Deva, Parthibha, all of you think! Will you be as strong when you reach old Granddad Pazluvoor’s age? Perhaps you too would clear your throats like him; but you will not bring a new girl into the women’s apartments in the palace. Grandfather, it appears that you have brought your young Queen with you. Just saw her near the balcony of the front gates. How did the Young Queen travel? In a shuttered palanquin? A chariot? Another vehicle?”
+
+Lord Pazluvoor finally intervened, “I escorted her openly, seated atop an elephant, for the whole country and town to see!” he spoke with pride.
+
+“That is the best way to do it. Henceforth you must always do so. Just do not use the shuttered palanquin to bring her on your travels. Because of that, rather risqué rumors have been spread. Listen to this joke: my uncle Madurandaka travels secretly, hidden in her shuttered palanquin going from town to town sometimes. Such a rumor is widespread all over the country.” Karikala roared with a thunderous laugh after saying such words.
+
+None of the other men laughed. A different kind of turmoil flashed through each of their minds.
+
+Vandiya Devan was thinking with some distress, ‘God! What a huge mistake we have committed. We have disclosed all to this crazed young man. It appears as if he will disclose all without keeping anything back!’
+Lord Pazluvoor’s heart was boiling like the inside of a volcano, with fire and smoke and melting lava embers. He cleared his throat once again with a frightening sound similar to that of a volcano about to erupt and spill its fire and smoke and molten stone. Before he could start talking, Parthiban came forward taking a step and saying, “Royal Prince, I met the young Queen of Pazluvoor just a short while ago and got to know her. Even in the short time I spent in her company, I came to realize what a goddess of chastity she is.  If any fellow attempts to slander her, he will fall prey to my sword instantly. I swear this!”
+
+On hearing this, Vandiya Devan also stepped forward and said, “Me too! If anyone speaks ill of Pazluvoor’s queen I will instantly reduce them to ashes with my fiery eyes!”
+
+Karikala burst out laughing. “Ha, ha, haa! Friends, be patient. It seems as if you will quarrel even with me! Grandfather, did you hear? See how zealous these men are to safeguard the honor of Tamil women! However, no one has uttered anything ill about the Queen of Pazluvoor. If they do, I too shall not listen and be silent. I will not let that fellow who slandered her stay alive till these brave men arrive. They are making comments about the shuttered Palanquin of the young Queen of Pazluvoor. That weakling Madurandaka is reported to travel from town to town, secretly, in the closed palanquin of the Young Queen. When a man travels in a covered palanquin, drawing the curtains around him, and if the young Queen too travels in that fashion, sometimes, wouldn’t some wrong impressions arise?”
+
+“Royal Prince, Why should Madurandaka who is the grandson of Emperor Paranthaka, and the son of devout Gandara Aditya travel in the shuttered palanquin?  I do not understand anything?” said Parthiban Pallava.
+
+“The reason is a very funny motive! Madurandaka is journeying from town to town in the shuttered palanquin trying to gather support for his cause.”
+
+“Why, what support?”
+
+“Why?!? It is support for him to ascend the throne of the Chozla kingdom after my father’s time! How is that story? Some months ago, he apparently came even to this Kadamboor fort, secretly in that palanquin! Apparently, there was a meeting of treason at midnight in this palace! Parthibha the old man of Thiru-Kovalur recounted all this when you were also with me. Do you not remember how he told us that Madurandaka, eager to ascend the throne might send my father to the heavens a little early?”
+
+“I remember Prince. I did not believe it at that time. Now I do not believe it at all. After going to Tanjavur and meeting your father … “
+“Why just you? I too do not believe it. If I had believed it, would I have accepted to come as a guest to this Kadamboor mansion?” Karikala again seemed to remember something as he laughed sneeringly again.
+
+Kadamboor Sambuvaraya cleared his throat and spoke with careful words, “Royal Prince, you may be aware that there exists an enmity between Thiru-Kovalur Malayaman and us of the Kadamboor clans since many years.”
+
+“I do know about that! Bards of the Sangam Age have sung about that enmity. Malayaman Thiru-mudi Kari killed Valvil Ori of Kolli hills in a battle. You are the descendants of that Valvil Ori. You have not forgotten that ancient enmity.”
+
+“Prince, the death of Valvil Ori was avenged immediately. A member of our clan, Adiaman Neduman Anji invaded Thiru-Kovalur and reduced it as well as the Mulllur Hill fortress of Malayaman to rubble.”
+
+“Lord Sambuvaraya, Adiaman did not achieve that by himself. My ancestor Chozla Killi Valava helped him in that victory over Malayaman. But why talk of those old stories now?”
+
+“Even if we forget, Malayaman does not forget. He keeps piling accusations upon us for some reason or other.”
+
+“Did I not tell you earlier, the old man is advanced in years; his mind is not stable. I am somewhat worried that in order to protect me from danger when I am here, he may come here with a large army he might have collected.”
+
+“Prince, if you have any suspicions, ….” Sambuvaraya was flustered.”
+
+“Suspicion? I have none! Our relationship with Malayaman is only since two generations. But the Chozla relationship with the Pazluvoor clan has continued since six generations. Lord Pazluvoor is here. Am I crazy to think that he would do something against the Chozlas?” saying these words Karikala again burst out with irrational laughter.
+
+Lord Pazluvoor spoke in a majestic and dignified voice, “Prince I will never do anything that goes against the Chozla clan. This I swear as truth; Neither will I ever do anything against what is just, fair, and moral. I doubly swear this to be true.”
+
+“Yes, Yes. There is that thing called just and fair. I came here to discuss about that with you. When we have leisure after spending time on the hunt and watching dances, let us talk about justice and fairness.  Lord Sambuvaraya, what apartments in this huge palace have you readied for me and my friends to stay?” asked Karikala.
+
+“My lord I have you and Lord Pazluvoor housed in the guest palace at the rear part of this fort. All the other chieftains and noblemen I have kept with me in the chambers towards the front of this mansion.”
+
+“Oh! Are more noblemen and feudatories expected?”
+
+“Yes, Prince there are many chieftains and landowners, feudatories of these parts eager to meet you. They will come.”
+
+“Let them come, let them come, let everyone come. It is very good. We can discuss and think and come to a conclusion about things that have to be concluded once and for all. Let us set aside that conspiracy convened for Madurandaka. I wish to join you all and convene a conspiracy of my own. There is no place more suitable than this mansion for such purposes!” So said Karikala.   ***
+-------------
+
+Chapter 17 - Poonkuzlali's Desire
+Poonkuzlali’s boat was drifting down the canal going from Nagaipattinam to Kodi Karai. Sendan Amudan was in that boat along with Poonkuzlali. They were approaching Kodi Karai. On the banks were golden thaazlai flowers opening their long sheaths and spreading fragrance. A green parrot flew down and perched upon a thaazlai flower. Its swift landing made the flower petal sway like a swing. The green parrot swayed with that golden sheath of screw-pine and pecked at the flower with its coral red beak. As the boat came close, the bird cried ‘kee, kee kee’ and flew away.,
+“If we have to be born, we should be born a green parrot!” declared Poonkuzlali.
+
+“You think that. Who know what its worries, difficulties may be?” replied Sendan Amudan.
+
+“Whatever the difficulty or worry it may have, it can fly away as it wishes, freely across the endless sky. Can there be pleasure greater than that?”
+
+“Some people catch those free flying birds and shut them up in cages!”
+
+“Yes, that is true; princesses living in palaces shut up green parrots in cages; cruel monsters! they prattle and play with the caged birds! If I were in a palace as a serving maid, I will poison those caged birds and kill them all! I will poison those princesses who put those birds in cages.”
+
+“If they hear you speak like this, they would declare you to be a cruel monster.”
+
+“Let them say what they wish! I will rather be an ogre than a princess.”
+
+“Why are you so angry with princesses, Poonkuzlali? If we think about it, we would be feeling sorry for them too. Like the caged parrots, they too have to spend their lives confined in palaces. If by accident they venture out of that palace, they are guarded, shrouded in secrecy, bound by protocol. Can they get into a boat by themselves, and go alone over canals and oceans? Can they roam freely in forests like the frolicking deer?”
+
+“Who asks them to stay shut up? I did not! If they wish, why don’t they too roam freely in forests?”
+
+“Wanting to do something, is by itself not enough. It depends on their birth and how they were raised. You want to fly like a parrot across the skies. Is that possible? You were born and raised on an ocean front; and you remain free to do as you please. If you were born in a palace, that would not be possible. And then listen to this peculiar thing:  The parrots locked up in those cages for a while, and fed tidbits from the hands of princesses, would not like to fly away even if their cages were left open. They will fly around for a while and then crying ‘screech, kreetch’ will come back to their cages. I have personally seen this in the palaces of Tanjavur and Pazlayarai.”
+
+“I would never agree to be locked up in a cage like that. Let me tell you this: if I were the parrot and if the princess who locked me up in the cage comes to feed me nectar, I will peck at her fingers, sharply.”
+
+“Fine. You would not like to be a caged parrot. You would also not wish to be a princess locked up in a palace, would you?” asked Sendan Amudan.
+
+“Never will I like that; I would rather swallow poison and die!”
+
+“That is good. That being so, you should also not wish to marry a prince living in palaces.”
+
+Dark clouds were gathering in the low skies. Lightning was flashing occasionally. The rumble of thunder could be heard faintly. On hearing the last few words spoken by Sendan Amudan, flashing bunches of lightning flared from Poonkuzlali’s eyes. “Who told you that I wished to marry a Prince?” She asked angrily.
+
+“No one told me. I spoke on my own. If you have no such wish in your heart, all is well. Forget what I said.”
+
+Silence prevailed in that boat for a while. The only sounds were Sendan Amudan rowing the boat with oars, the dry croak of frogs, the calls of sea birds, the sounds of ocean waves, and the rumbling of thunder in the far south.
+
+Sendan Amudan cleared his voice, emboldened his mind and said, “You had said that Vandiya Devan disclosed my heart’s feeling to you. It would be good if you were to tell me your opinion about that. Look we can already see the lighthouse of Kodi Karai. I may not be able to talk privately with you once we reach there. I too must leave tomorrow. It has been many days since I left my mother all alone at Tanjavur.”
+
+“Why should Vandiya Devan play messenger for you? Can you not speak for yourself? Ask what you need to ask, directly.”
+
+Sendan Amudan asked, “Good. I shall ask. Will you marry me?”
+
+“Why do you ask to marry me?
+
+“I have heartfelt love for you. That is why I ask.”
+
+“Must one be married if the heart desires someone?”
+
+“There is nothing ‘must’ about it. It is the nature of the world!”
+
+“What will you give me If I marry you? Will you be able to give me the things I wish for such as a life in the palace, silken clothes, and jewelry, elephants, palanquins, horses, serving maids?”
+
+“No, I cannot. I shall give a life that is better, more peaceful than all that. Listen to me Poonkuzlali; I have a cottage in the middle of a flower garden in the outskirts of Tanjavur. Only I and my mother live in that cottage. If you come there, your whole life will change. My mother will look after you with love and take care of you. When the sun rises, we too shall arise. We would gather flowers from the vines, bushes and trees and weave colorful garlands. I will go deliver those garlands at the temples of Tali-kulattar and of Durga Devi in Tanjavur. By then you would have bathed in the lotus pond in our garden and helped my mother with household chores. In the evening, all three of us will collect water from the lotus pond and water the gardens. Later in the evening, I shall teach you Tamil hymns sweeter than nectar. If you sing those verses in your melodious voice, the tongue that sings will feel sweet, ears that hear will feel sweet. If we wish, we can go to the temples, see those divine shrines and avail blessings, sing those songs. The devout coming to those temples will be happy to hear us sing. Poonkuzlali, can there be a life more pleasant and happier than this, in the whole wide world?  Think about it and answer me.”
+
+Poonkuzlali heard all that Sendan Amudan had to say and laughed gleefully. “Amuda, you spoke of a life that you think is pleasing. Do you know the kind of life I desire? I want to go to the heavens and marry Devendra the King of heavens. I want to get on Airavatha the flying elephant that belongs to Devendra and travel the skies beyond the cloud worlds. I wish to pluck the Vajra weapon from the hands of Devendra and use those thunderbolts against those huge rain clouds.  I wish to see thousand upon thousand shafts of lightning clusters, rise from those clouds split by my thunderbolt, go forth to shatter all the known skies into smithereens. These days when thunder strikes, it falls wastefully on some ocean or forest and vanishes.  I will not waste my thunderbolts. I will aim my bolts at the palaces where kings and queens and princes and princesses live. I will enjoy seeing those palaces being reduced to rubble and become one with dust.
+
+“In case Devendra is not willing to marry me, I shall go to Lord Varuna, the master of all waters and insist that he marry me even if he has many other wives! That’s it; after that this world will forever be drenched in storms and whirlwinds and frightening tidal waves. Huge trees will be uprooted to fall on big mansions and destroy them. Ships crossing the seas will be struck by tidal waves and tsunami that will reduce them to kindling scattered all over the ocean. People traveling onboard the ships will be thrown into the seething seas and will suffer. If there were princes and princesses in that incident, I would let them go to the bottom of the ocean floor and just save the other people because of my compassion. If Lord Varuna refuses to accept me, I will go to Agni the Lord of all fires. Do you need to ask what happens after that? This whole world will start to burn! ….”
+
+“Poonkuzlali, stop it. Please stop. You talk in this fashion due to some dismay and disappointment in your mind. You do not speak knowingly or with forethought. It is my fault for not knowing your mind and raising the topic about our being married. Forgive me for doing so. Only God can help you overcome your disappointment and give you mental peace. I shall pray day and night for that,” said Sendan Amudan.
+
+Poonkuzlali who had been seated all this time stood up suddenly. She peered at a tree on the canal bank. Sendan Amudan also looked towards that direction. A woman’s face was visible between the tree branches. For one short moment Amudan was baffled to see a resemblance of his mother’s face in the woman amidst those trees. He quickly realized that it was not his mother. He surmised that it must be his elder aunt who according to Poonkuzlali lived on Ghost Island.
+
+Poonkuzlali jumped from the boat onto the canal bank and began to run swiftly towards that woman.
+
+***
+
+Chapter 18 - A Flying Arrow
+Poonkuzlali looked at the mute-queen standing half hidden behind a tree on the canal bank. Poonkuzlali was somewhat surprised to see her thus at an unexpected time, unexpected spot. She knew that the mute-queen did not like to meet strangers. What if she runs away upon seeing Sendan Amudan who was in the boat?  In that instant her mute-aunt began to run. Poonkuzlali jumped out of the boat and got atop the embankment and looked around. She noticed her aunt vanish into the thick growth of forest  a little further away.
+
+By now, Amudan also jumped on to the embankment and came close to Poonkuzlali. He asked, “Poonkuzlali, Poonkuzlali, who was it that was standing here just now?”
+
+“Could you not recognize her Amuda?”
+
+“I could not be sure; perhaps she…”
+“Yes, it is my aunt. She is you elder-aunt whom you thought was dead.”
+
+“Yes. She seemed to resemble my mother somewhat.”
+
+“Don’t make up nonsense. There is no resemblance between your mother and this elder-aunt. Neither are they alike in temperament. Where is the resemblance between a  cow in the cowshed at home and the lion-queen who roams the forests?”
+
+“Fine. Let it be as you say. Why did the lion-queen run away on seeing you?”
+
+Poonkuzlali laughed, “she did not run away upon seeing me! She started running because she saw you. She does not like to meet strange men.”
+
+“I am not a strange man!”
+
+“My aunt does not know that. Once she gets to know you, she will not run away upon seeing you. She will hesitate till she gets to know you.”
+
+“What will you do now, Poonkuzlali?”
+
+“I am going to go find her.”
+
+“Shall I come too?”
+
+“Why?”
+
+“To meet her and get to know my elder-aunt.”
+
+“Why do you need to get to know my elder-aunt?”
+
+Sendan Amudan had heard some of the old stories about his elder-aunt from Poonkuzlali, and was eager to see her. He also had this wish that this elder-aunt would take his side and speak on his behalf and try and change Poonkuzlali’s mind.
+
+“There are many reasons.  Do we need a reason to get to know one’s own elder-aunt?”
+
+“Fine. Come, let us go. If I take you along, it may be difficult to get hold of her. So, what? I will not give up. Let us tie up the boat here itself.”
+
+They pulled up the boat and hid it behind a cactus bush and tied it up firmly. They went towards the forest of Kodi Karai. As they walked, Amudan asked, “Poonkuzlali you said that our aunt lived in Lanka or on Ghost Island.”
+
+“Yes; she stays in Lanka sometimes and sometimes on Ghost Island.”
+
+“Does she come here often?”
+
+“No. She comes very rarely. If I hadn’t been to see her for many days, she would come to see me.”
+
+“Do you think she has come to see you now?”
+
+“I think she has come this time for some other reason.”
+
+“What other reason?”
+
+“She might be here to find out if her adopted son drowned at sea or if he survived and came ashore. My aunt is sure to have known about the whirlwind over the sea.”
+
+“Oh! Is Lord Arulmozli her adopted son? Then who is her real son?”
+
+“That is something that I could not figure out. If not now, one day I am going to find out that secret.”
+
+“Who knows if her son is alive or dead!”
+
+“Yes, he might be dead. Who knows!”
+
+After a while, Poonkuzlali asked, “Amuda you saw our aunt and remarked that she looked somewhat like your mother. Did you think of anyone else’s face?”
+
+“I thought I recalled something. It is not clear. It seems to be hidden behind a veil.”
+
+“Have you seen the young Queen of Pazluvoor, often?”
+
+“Sometimes, I have seen her.  Now that you have said it, I recognize whom she resembles. It is just like the face of Lady Nandini. How surprising! How is that possible Poonkuzlali? How did you figure out that resemblance?”
+
+“I have been seeing my aunt quite often. I saw the Young Queen of Pazluvoor a few days ago at this Kodi Karai. I could recognize the resemblance immediately.”
+
+“What could be the reason…?”
+
+“I am going to find that out too one day. I am planning to ask my aunt about it when we see her today.”
+
+“Our aunt is mute. How will you talk to her?”
+
+“Amuda do you not converse with your mother?”
+
+“I talk to her in sign language. I have used to it since birth. Even so, it is sometimes difficult to speak of new things with her.”
+
+“Elder-aunt and I talk similarly in signs. What we cannot convey by signs, we say things by drawing pictures.”
+
+“Oh! What a sadness it is that in one family both sisters are born deaf-mute. How sad must be the parents who gave birth to them!”
+
+“It was not just that. Apparently when they were children, both sisters would be constantly quarrelling with each other. That is why our grandfather went to live on Ghost island with the elder daughter. Apparently, our grandfather was very fond of our elder-aunt, because some astrologer had predicted when she was born, that she had the fortune to become a queen. He was greatly saddened when he found that she was deaf-mute as she was growing up.
+
+While conversing in this fashion they had entered the forest. Even after searching for her for quite some time, they did not find the mute-queen.
+
+Poonkuzlali sad, “Amuda we are unable to find my aunt because you are with me. She is hiding herself because she sees you.”
+
+“Well, that is my luck today! Nothing I thought about is successful.  Shall I leave now?” asked Sendan Amudan.
+
+“How will you go. I will have to lead you out of this forest.”
+
+An unnatural voice was heard somewhere in the forest. It did not seem to be the sound of either human or beast. They heard that sound two or three times. Some forest deer began to run towards that sound. Poonkuzlali stopped to think, “Amuda, come after me without making any sound.”
+
+They walked towards the direction from which they had heard that peculiar sound. Suddenly they saw a most astonishing sight. The mute-queen was leaning back against a tree. She had some tender shoots in her hands. Seven or eight deer stood around her. They jostled each other to eat the shoots from her hands. A small fawn was sitting straddled across her shoulders, gazing at her with big wide eyes.
+
+Amudan and Poonkuzlali waited silently watching this astonishing scene for some time. The fawn spotted them first and jumped off the shoulders. The other deer had now spotted the two of them. They stood ready to leap away if the humans came any nearer. The mute-queen saw them and made another peculiar sound. On hearing that all the deer jumped and raw away.
+
+“My aunt does not speak the language of humans. She is very well versed in the language of animals.”  Poonkuzlali made signs that her aunt could see. The mute-queen did not run away; she signed in reply to Poonkuzlali. As soon as her niece came close, she hugged her affectionately and kissed her forehead. Sendan Amudan continued to wait a little further away.  Aunt and niece conversed in sign language for a little.  Poonkuzlali called for Amudan to come closer. The mute-queen looked him up and down for some time and then placed her palm on his head as if in blessing. She removed her palm from his head, took hold of Poonkuzlali’s hand and dragged her along. They soon reached the banks of the canal. She sat down on the bank and made signs that Poonkuzlali should leave.
+
+“Come Amuda. Let us go home. My aunt say she will not come and that I should bring her some food here.” As they walked towards the lighthouse, Amudan asked “Poonkuzlali, what do you say to me, about what I spoke earlier?”
+
+She replied, “I did think of coming to Tanjavur with you. But that is not possible now. My mute-aunt wants to see her darling adopted son. I have to go to Nagai Port again to take her there. If you come with me, my aunt may not like it and keep running away. I would not be able to learn about various secrets that I wish to know from her.”
+
+Amudan sighed heavily, “That is my only fortune! If that is so, let me say bye to you right here.”
+
+“No, No. Come home and eat a meal with us and take leave of my father, your uncle, and the others at home. If not, they will keep chiding me!”
+
+As they walked back, they noticed two others, a man and a woman talking to each other behind a tall bush.
+
+“Aha! That looks like my sister-in-law, Raakammal. Her secrets will never cease!  Who are these fellows who have come now? Are they those spies from the Pandiya country? Or are they someone else?” Poonkuzlali was mumbling to herself.
+
+Raakammal came out from behind that bush. She was a little shocked to see Poonkuzlali.  But she hid her confusion and came forward to ask, “Where did you get lost all these days Poonkuzlali? Your father and brother were so very upset and worried.”
+
+“Why must they worry? This is not the first time that I have been away from home.”
+
+“This time you took your aunt’s son, your cousin with you. They worried that you both will get married without saying a word to anyone!”
+
+“Sister-in-law, how many times have I told you not to talk to me in this stupid, silly fashion. If you continue one more time in this fashion…”
+“No! My dear girl, No. What do I care if you marry your aunt’s son? Do I care if you marry a prince? Your elder-aunt arrived from Lanka and was looking for you. Have you seen her?” asked Raakammal.
+
+“No. I  have not yet seen her,” replied Poonkuzlali.
+
+Before they got home, when she had an opportunity to talk privately, she told Sendan Amudan, “Cousin, be careful. My sister-in-law is one with the spies from Pandiya country. She will try to dig into you and make you speak; do not answer her questioning.”
+
+“I shall become mute for the short time that I am going to be here.”
+
+Late afternoon, Poonkuzlali once again plied her boat over the canal going towards Nagai Port. Her mute-aunt was seated in the boat. Whenever Poonkuzlali was with her mute-aunt she would feel mentally peaceful and calm. Their similar emotions made them feel comforted by each other. However, this time Poonkuzlali did not feel such calm. She kept remembering how she had carried the unconscious Prince in this same boat on this same canal a few days ago. The thought that she had faced so very many difficulties just to hand over the Prince to another Princess, pierced her heart with a sharp jolt.
+
+Her heart melted when she remembered telling Sendan Amudan, “Go home!”  as if pushing him away! More than all this, the words of warning spoken by her father that morning kept coming back to her.
+
+“My dear child, it may be better if you control your goings and comings a little.  All sorts of new men are coming here. I am not sure of their intentions or why they are coming here. All sorts of intrigues are afoot in the country. Do not become enmeshed in such plots. Our family is forever bound to the family of the Royal Chozlas. Do not forget that!”
+
+Her father’s warning words and the secretive behavior of her sister-in-law together made Poonkuzlali feel a dread that she had never felt before. Had those new men come in search of her? Perhaps by following her they would try to find the hiding place of Ponni’s Beloved Prince? If it were to be revealed because of her, what a huge treachery that would be!
+
+As if to increase her worries, there were all sorts of noises heard in the bushes along the canal banks. There was no breeze; as if all the directions had conspired and imprisoned the winds. Then why are there sounds of trees and leaves rustling in the groves beyond the canal bank. The mute-queen had no such worries; she could not hear a thing. There was no point in consulting her about it. But the mute-queen had some other unusual sensory faculties. Her sixth sense made her aware of things that could not be seen or heard.  No danger would come upon her without being recognized by her mute-aunt.
+
+But what is this? My aunt is also looking up into the canal bank again and again. Is some danger following us? The reason for her aunt looking up at the canal bank became clear very soon. It cleared away Poonkuzlali’s fears. There were five or six deer gathered at one spot half hidden but gazing at the boat. They were not looking at the boat; they were gazing at the mute-queen!
+
+Aha! There is no creation in the whole wide world as beautiful as a deer! Why did God who created such deer, also create humans? There are men who hunt and kill such beautiful creatures. Poonkuzlali who was being astonished by the deer had slowed down and completely stopped rowing. A peculiar noise rose from the mute-queen. It was not like the noise she made in the morning; this sound was mingled with warning and fear. The dear turned and began to run away upon hearing that sound. At that same time an arrow flew from some hidden spot and pierced a deer. The deer pierced by the sharp arrow began wailing in pain. The mute-queen jumped onto the shore and ran towards the wounded deer.
+
+At that same moment all the bushes around the wounded deer became alive with noise. About seven or eight men came and surrounded her in one instant. The men carried weapons and spears! Raakammal who had been their guide showing the way was a little further away.
+
+The mute-queen tried to escape and was unable to do so. When she realized that it was impossible to escape, she became still. Two men came closer and bound her hands together with some rope. All this happened within minutes even as Poonkuzlali was watching. She ran from the boat screaming and shouting with an oar raised high, as soon as she saw her aunt being bound with ropes. Five of six of the men surrounding the mute-queen came towards Poonkuzlali. They caught her, dragged her and threw her into the boat and bound her tight with ropes. They then turned back and with the mute-queen who was now silently going with them vanished from sight.
+
+***
+
+Chapter 19 - Laughter And Fire
+Poonkuzlali hurriedly tried to free herself from the bindings that tied her to the boat. It was not an easy task. Wretched fiends! They had wound the rope this and that way and knot upon knot tightened all. Her little knife was in the bottom of that boat. If only she could free one hand, she could reach the knife and free herself. But those sinners had bound both her wrists together at her back. With great effort she bent down and gripped the knife with her teeth and somehow hacked at the rope. The bindings loosened a little. Finally, after much effort she freed one hand. After that it was easier to free herself from the rope.
+
+By the time she freed herself completely from the bindings it was almost half an hour. She heard footsteps on the bank. And then a shadow. Perhaps one of the men who had bound her was coming back! Or they might have left a man behind, to make sure that she did not free herself and escape. As soon as she could see him, she would throw her knife at him and kill him; so, determined, she held her knife in readiness.
+
+But what a disappointment! She could hear Sendan Amudan calling her name, “Poonkuzlali, Poonkuzlali!”
+
+In the next minute she could she his frightened face peering down from the bank. She tucked the knife in to her waist. Amudan too had seen her by now. “Poonkuzlali are you alive?” he came running.
+
+“You are unhappy that I am still alive! If you feel like that kill me with your own hands before you go! But where will you have the courage to do even that!”
+
+“Oh Lord Shiva, Shiva! Why do you speak such cruel words? Why would I kill you? You are the one killing me with your words,” said Amudan.
+
+“Then, why did you not come a little earlier? Did you know how I suffered before I could free myself from these ropes.” She tried to stand up but lost her balance because of the ropes that lay crisscrossed at her feet. Amudan shrieked and hurried to hold her and prevent her from falling.
+
+“Oh  dear! Did the wretched sinner tie you up like this and leave you? You have welts all over you!”
+
+“You are so concerned now. Why could you not have come earlier?”
+
+“Why do you keep saying that again and again.  How was I to know that you were in such a danger? You chased me away ‘go, go!’ and I was going on my way…”
+“Why did you come back? Perhaps to cremate and perform my last rites if I had died!”
+
+“Lord Shiva keeps the poison in his throat. You have poison in your tongue. Your sister-in-law said that some danger might have befallen you. Hearing that, I came running. Your words are a reward for that!”
+
+By now Poonkuzlali had come upon the bank from the boat. “I was about to throw this knife on you. You escaped. I will use this same knife and first kill my sister-in-law before I do anything else. Where is she that wretch?”
+
+“Why do you jump from me to her? Why this anger about her? Was it a mistake that she told me about you?”
+
+“She is the one who betrayed my aunt. You too saw her, standing half hidden talking to someone secretly.”
+
+“You think wrong. I am not sure with whom she was talking secrets; but one thing is sure that she was not the one who betrayed your aunt. Those men who abducted your aunt, they had tied your sister-in-law tightly to a tree. They have hit her on her head and wounded her before they left.”
+
+“What kind of a story is this? Unbelievable. She has fooled you; why did you come back? Where did you see my sister-in-law? Tell me everything,” asked Poonkuzlali with some concern.
+
+Sendan Amudan elaborated and told her everything he knew.  He had been going down the road leading towards Tanjavur. He was going rather reluctantly and slowly because he did not wish to part from Poonkuzlali. He heard some distressed noises and cries from the dense forest growth beside the road. Sounds of several persons hurrying onwards. Amudan hid himself behind a tree. About seven or eight men, holding spears in their hands,  came out of the forest suddenly and entered the royal road. It seemed as if there was a woman in their midst. When there was a slight parting among the men, he could see that the woman in their midst was like Poonkuzlali’s mute-aunt. Sendan Amudan decided he was imagining things as it could not possibly be their aunt.
+
+Even after the group of men had gone past on the road, he could hear loud cries of a woman from within the woods. At first Sendan Amudan thought, why bother, it is no concern of mine, let me go on my way. But his heart would not let him do so. He wished to find out who was crying out, render any help that he could if they needed anything. So, he went towards the direction from which those cries were coming. He saw Raakammal tied to a tree. Blood was pouring down from her head all over her face making it look hideous. He was afraid to even go near her. Somehow, he gathered his courage and went close and unbound the knots tying her. He was asking her, ‘who did this atrocity to you? Why did they do this to you? Who were those men who came on to the royal road just now? I thought I saw a woman going in their midst. Who was she?’ he asked her all these questions.
+
+Raakammal replied, ‘Yes, Thambi, they are binding and dragging away your elder-aunt. I tried to stop them; that is why those men hit me and tied me up like this. Your uncle’s daughter and your elder-aunt were going somewhere in the boat. They had dragged your aunt from that boat and bound her. I don’t know what happened to Poonkuzlali. Go, run to her and see if you can help.’
+Stunned by her words, Sendan Amudan was about to run towards the canal. Raakammal called out  ‘just a moment Thambi. Where were that mute-ghost and Poonkuzlali going in the boat? Do you know anything? Why did they leave you behind? Where are you going all by yourself now?’ she asked.
+
+Sendan Amudan did not like her questioning tone particularly her referring to their aunt as the mute-ghost. He replied that he would explain later and began running towards the canal  He was in a dreadful fright; would those men have attacked Poonkuzlali and wounded her, perhaps have even killed her? He was hurrying with such concerns. He was somewhat becalmed upon seeing Poonkuzlali alive and that she had no bloody wounds.
+
+He then asked, “Poonkuzlali what do you say now? isn’t it a mistake to be angry with your brother’s wife?”
+
+“From what you describe, it appears that I was mistaken. Where did you leave her, my sister-in-law? Come let us go there.”
+
+“How can you be sure that she is still at that spot?”
+
+“She must be somewhere nearby, if not at that spot. Or she will come in search of us. Did she not ask you where I was going with my aunt in the boat?”
+
+“Yes, she did ask that.”
+
+“You did not answer her. Are you sure that you did not reply?”
+
+“I am sure, because I was disgusted with her calling my aunt a mute-ghost, I did not feel like answering her. I came away.”
+
+“Do not answer her or say anything even if she asks with kind words! Why does she want to know where my aunt and I were going? There must be something behind her questions. Amuda, we cannot be sure that there is no connection between those men who took away my aunt and this my sister-in-law. They might have collected information from my brother’s wife and once their aim was done, they might have beat her up. Even if that is not true, my sister-in-law must have followed us with some other ulterior motive. Let us be cautious with her. Let us not trust her completely.”
+
+“Poonkuzlali, you had said that your brother becomes mute in front of your sister-in-law. I too shall follow him and become mute. You say whatever needs to be said.” Amudan answered Poonkuzlali thus.
+
+Poonkuzlali laughed on hearing his words. He said, “Poonkuzlali, my ears are pleased to hear you laugh. It is pleasing like the sweet Thevaram poems of saint Thiru-Naavukk-arasar.”
+
+She said, “I laughed by some accident. Do not be fooled by this laugh of mine. My heart is filled with fire; embers are about to flare up.”
+
+“There is nothing more soothing to quench the rage in one’s heart than the oceanlike grace of our divine Lord!” said Sendan Amudan.
+
+***
+
+Chapter 20 - Once Again, The Doctor's Son
+Poonkuzlali and her cousin Sendan Amudan walked down a forest path, silently for some time. She sighed long and hard saying, “Amuda there must be some connection between you and me for many births on end.”
+
+“Who is worried about a prior birth now? If there is anything good to say about this present birth, tell me,” said Sendan Amudan.
+
+“They say that bonds that tied us together in previous births will continue to this birth. That must be true. Earlier this afternoon, when we parted, I thought that we will never see each other anymore. Within an hour we meet again.”
+
+“Don’t be concerned about that! Once we have crossed this forest and get to the royal roadway to Tanjavur, I shall go onwards on my way and you may go wherever you wish.”
+
+“I am not going to let you go alone like that! Once we find and talk to my sister-in-law, I shall go with you to Tanjavur.  I am going to seek justice for this calamity that has befallen my aunt.”
+
+“Poonkuzlali, do you think it is easy to gain the presence of the Emperor? People like us cannot even enter Tanjavur Fort.”
+
+“Why can we not? If the doors of the fortress do not open, I shall shatter them open. If that were not possible, I shall climb and jump over the fortress walls.”
+
+“What will you do about the men who will be guarding the gates?”
+
+“Hearing the racket I create, they will be unnerved and take me to the Emperor.”
+
+“One cannot easily scare the younger Lord Pazluvoor in such  a fashion. People in and around Tanjavur say that even Yama, the Lord of Death cannot approach the Emperor without Lord Kalanthaka Pazluvoor’s permission. I have even heard people remark that it is because of him that the  Emperor is still living.”
+
+“If I cannot meet the Emperor, I shall meet the Lords of Pazluvoor. I shall ask them if there is any redress for this atrocity! If they do not address my appeal to my satisfaction, I shall go to Prime Minister Aniruddha; if that is of no use, I shall go to Pazlayarai and appeal to the queens there. I shall not stop at any place till I find out the fate of my aunt. I shall not sleep day or night, till I find redress for this injustice done to my aunt. My sister-in-law called my aunt a mute-ghost! I will turn into a rampaging ghoul and roam all over the country and towns. I shall scream, ‘justice, justice’ and wander about. Amuda will you too come with me?”
+
+“I will surely come with you Poonkuzlali. If you wish it, I will come with you. However, why do you let your mind become muddled like this? You have gone someplace else, too far away. The most important thing for now is to find our aunt and save her, Don’t we need to free her from the wicked fellows who captured her? Don’t we need to let your father, your brother know of this?”
+
+“Amuda, my aunt has divine powers; none can harm her in any way. She will burn them down with her eyes just like Damayanthi of the old tales who burned down the hunter. That is why I am not too worried about her. But in this Chozla empire, in broad daylight what an atrocity has taken place! To seek redress for this is my first aim. People say that justice prevails in this righteous kingdom since the times of Emperor Paranthaka. They talk with pride about how a tiger and a cow drank water at the same waterhole during the peaceful reign of King Gandara Aditya. The heralds drum announcements that during the reign of Sundara Chozla even an unattended maiden can walk about day or night without fear. In this kingdom, with such fame, what outrage is this that they abduct and take away in broad daylight, an old woman, a woman who can neither hear or speak. I am not that worried about my aunt. What happened today to my aunt can happen to me tomorrow; it can happen to any young girl in this country!”
+
+Sendan Amudan interrupted her saying, “Yes there is such lawlessness in this country now. Since Sundara Chozla became bedridden, justice has turned upside down. There is no protection. Danger awaits young maidens everywhere. Therefore, it is better that all these young maidens get married quickly.”
+
+Poonkuzlali laughed gleefully. “Amuda, if a young maiden marries you, will you be able to protect her? Do you know how to wield a sword and fight the enemy?”
+
+“I have learned to pluck flowers and string garlands. I have learned to sing songs in their praise and worship the divine. I have not learned to lift a sword or to fight. So, what! Did you not teach me to pick up an oar and row the boat? Like that, I too shall learn to wield a sword and fight a war. When Lord Madurandaka wants to ascend the throne and rule a kingdom, what is impossible about my leaning sword-fighting?” asked Amudan.
+
+By now they had reached the tree where Poonkuzlali’s sister-in-law had been bound. They did not find that good woman there! Sendan Amudan pointed out the blood drops on the ground that had fallen from that woman’s wounded head.
+
+“They really beat her up badly! It is clear that she did not spy on behalf of those wretched men who took away my aunt. But I must find out who she was spying for, and why and about what?” said Poonkuzlali.
+
+“Cousin, listen to me! Everything that has happened here seems an unexplained mystery. Secrets within secrets seem to twirl around. Everything seems to be a complication that touches royalty and the rule of this kingdom. Why should you and I worry about this? Why should we get involved in this tricky situation?”
+
+“What does it matter Amuda? However complicated, whatever the political implication, whatsoever the mystery, how can we not worry and act about something that touches my aunt? How can you not be thinking about your elder-aunt?”
+
+“I spoke what occurred to my thinking. Poonkuzlali, remember what I told you? I saw seven or eight men surrounding a woman and walking away. I said that it may be my elder-aunt; From the way she was walking, it did not seem as if they were forcing her to go with them. She seemed to be going willingly, casually….”
+
+“Yes, that could be so. It is the nature of my aunt, Amuda. She might have gone willingly with them to find out where they were taking her and why. If she had not been willing, she would have escaped from a thousand men. None can imprison her , be it a guarded fortress, or an underground dungeon. That is why I said that I was not too worried about this peril that befell my aunt. My most important aim is to seek redress for this unjust act against my aunt. This injustice did not happen just today. It was grave and deceitful injustice meted out to her, twenty-five years ago! I have no peace till there is remedy for that.”
+
+“Oh! Gracious Lord! What an impossible task in which you have let your heart and mind become involved?” sighed Amudan.
+
+Soon they heard voices in the distance; it seemed to be a woman’s voice. They saw some people near the main road going towards Tanjavur. A feeling of disgust flooded Poonkuzlali’s face when she recognized the man talking to her sister-in-law Raakammal as Pinakapani, the Pazlayarai doctor’s son.
+
+Raakammal said, “Ah! Dear Girl, you have survived! I was afraid that they might have killed you and left you. Look at this: what a big wound on my head because I tried to save your aunt! I was asking this young doctor if he can suggest any medicine for my wound.”
+
+Pinakapani said, “If the Karaiyar’s daughter too has been wounded, I could prescribe and heal her too.”
+
+Poonkuzlali did not reply to him but asked, “Sister-in-law, do you know which way they went, those men who abducted my aunt?”
+
+“I did not see. This young doctor says that they went by way of the Tanjavur road.”
+
+“Tell my father, that Amudan and I are going in search of her. Come Amuda,” Poonkuzlali was ready to leave that spot immediately.
+
+The doctor’s son spoke up, “Poonkuzlali, please wait! You cannot follow them. Those men had horses a little further from here, and are riding away. I have my horse, I can ride as fast as the wind, as fast as thought and go catch up with them and find out where they are going. In return you must help me about one thing.  Where were you and your aunt planning to go in the boat? Just tell me that.”
+
+Poonkuzlali said, “Sister-in-law, I do not need this man’s help. We are leaving. Just let my father know that I am going with Amudan.”
+
+Pinakapani did not give up even then, “Aha! Look at the pride of this Karaiyar girl! She does not want my help! Girl! Why are you so angry with me? Was it I, who came to obstruct you marrying the Prince? You deceived me and took away that man in your boat; it is that man of the Vaanar clan, Vandiya Devan who pushed your beloved Prince into the ocean and killed him. What is the point in being angry with me? Ha, ha, hah!” he started snorting loudly in ghoulish laughter.
+
+With eyes emitting fiery embers, Poonkuzlali glanced at him once and took hold of Amudan’s hand and dragged him away on to the road.
+
+After they had walked on the road for a while she said, “Amuda after you have learned the use of a sword, the first thing that you must do is to take the life of this young doctor. He should be the first sacrifice to your sword!”
+
+They walked all day and night, Amudan and Poonkuzlali as they went towards Tanjavur. All along the way they asked about the seven or eight horseman who had gone ahead with a woman with them. For half the distance they had some information. After that nothing. Even so, they decided to go as far as Tanjavur and search for her.
+
+Sendan Amudan was overjoyed with this journey. Walking along with Poonkuzlali, talking to her was one reason for the happiness. The other was because he was learning to use a sword. He had procured a sword from a smithy known to Poonkuzlali near Kodi Karai. He swirled it as they walked on. He imagined an enemy approaching and wielded that sword awkwardly this way and that. At those times Poonkuzlali taught him how to hold the sword and how swirl it and to strike with it.
+
+Because of this, the journey was delightful for both of them. Only when the ramparts of Tanjavur fort became visible in the distance did Poonkuzlali begin to worry about how to achieve her plans. Sendan Amudan shared her worries. It would be a tremendous effort to even enter the fort; then how were they to achieve all that Poonkuzlali wanted? Sendan Amudan remembered all the tricks and cunning skills employed by Vandiya Devan. Why can I not have even one tenth of that man’s cunning? What if that Vandiya Devan himself were here with us now?
+
+Sendan Amudan began to ponder, ‘what would Vandiya Devan do at such a juncture?’ At that time, they saw a shuttered palanquin going along the road. The sun was setting in the western horizon and dusk was about to fall. The curtains of the palanquin were emblazoned with the palm tree symbol.
+
+“Aha! This looks like the palanquin of the young Queen of Pazluvoor! If one could meet her before she enters the fort and get a signet ring or a pass to go into the fort how convenient it would be!” thought Amudan. He shared his thoughts with Poonkuzlali. She too thought that it was a good idea. But how were they to meet the Queen inside the shuttered palanquin? Footmen, guards, were walking ahead and behind the palanquin. They would stop anyone trying to approach.
+
+“Don’t worry Amuda. We  have at least half a league more before we reach the fortress gates.  We are sure to get some opportunity by then,” said Poonkuzlali.
+
+And a most unexpected opportunity did come about!
+
+***
+
+Chapter 21 – Privilege Of Palanquin Rides
+The rainy season did not begin at the usual time that year. Twice it appeared as if the monsoon was coming but the rains stopped abruptly. The flow of water in the river Cauvery and its various branches started to come down. Crops in freshly planted paddies began to wilt without water. “It is all because of this comet in the sky,” said the people.
+
+“It appears as if all sorts of adversity are about to engulf our country. Confusion in political affairs; no news of the young Prince. And in addition, it seems as if the skies will cheat us!” Sendan Amudan and Poonkuzlali heard all such comments all along their way to Tanjavur. Lack of rain was very convenient to their journey. The sun shone sharply since morning that day. It had become unbearably sultry by midafternoon.  Even as they walked beneath the shade giving trees along the road, they were drenched in sweat. People commented to each other, “This does not feel like the cool months of Aippasi. It feels like the summer in Vaikaasi month.”
+
+Shortly after the palanquin with the symbols of Pazluvoor nobility had gone past,  suddenly, a cool breeze began to blow. The leaves on the trees along the road began to rustle noisily. It appeared to darken towards the north-east. Dark clouds gathered in the horizon. Very soon those huge clouds began to race forward jostling each other like a herd of elephants gone rogue. The soft breeze turned into a heavy wind. Raindrops fell screaming from the wind. Very soon the downpour became heavy, swishing and swooshing, noisily. One could not describe the distress of those wayside trees in this sudden storm. Tree branches began to noisily ‘creak crack crackle,’ break and fall down. Birds that had sheltered in those branches, ‘screeched’ and flew in all directions. People going along the road too scattered in all directions. Some ran to escape the wind and rain. Others feared that they would be knocked dead by those falling tree branches, and ran. Others ran in fear of the thunder that seemed to rip open the entire universe. Within a short while after the rain had started, the day was gone and night was taking its place.
+
+Sendan Amudan and Poonkuzlali gave up their intention of entering Tanjavur fort on that day. It would be good if they could reach Amudan’s cottage in the middle of the flower gardens in the outskirts before night. They encouraged each other to not fear the darkness in that rainstorm, and walked on carefully.
+
+“Poonkuzlali, you have seen huge storms and tidal waves in the middle of the ocean; you can sail your boat through mountain high waves. How come you are afraid of this rainstorm?” asked Sendan Amudan.
+
+“However big the storm or high the waves, in the middle of the ocean a tree does not fall on our head. If at all anything it is just a thunderclap that will fall!” said that brave boat-girl.
+
+Before she could close her mouth after those words, they heard a large tree break and fall creaking noisily farther ahead. Sendan Amudan took hold of her hand firmly and stopped her from going further.
+
+“There is no point in hurrying tonight; there are many rest pavilions all along this road in this area. Let us wait in one of those pavilions now and go on after the fury of this storm has come down a little,” said Sendan Amudan.
+
+“We can do that. But, how are we to find a pavilion in this darkness?” asked Poonkuzlali.
+
+“We can find one such spot, when the lightning lights up everything. We must watch carefully on both sides of this road,” said Amudan.
+
+A lightning flashed making the skies and the earth turn golden even as it made the eyes squint. “There I can see a pavilion,” said Sendan Amudan. Poonkuzlali also had spotted that building; she also saw that a large tree branch had fallen across the road ahead. It appeared as if some people were caught under the fallen branch. She asked, “Amuda did you see that fallen branch? And under it ….”
+
+“Yes, I saw that; let that fate not happen to us. Let us quickly seek shelter in that pavilion,” saying this he took hold of Poonkuzlali’s hand and dragged her towards the pavilion.
+
+They were soon in the shelter. They wrung their clothes that were dripping wet, trying to squeeze out the water. Poonkuzlali wrung her long tresses trying to squeeze out the water. The dripping water ran in little rivulets down from the floor to the ground. “Oh! Dear! We have made the floor of this pavilion wet!” she said.
+
+“Nothing will happen to the pavilion because of that! It will not catch a fever or cold! You are drenched wet, what can we do?”
+
+“I was born and raised on the sea. My other name is ‘Ocean Princess.’ This rain water will not harm me,” said Poonkuzlali.
+
+At that moment, her heart leaped from the roadside pavilion near Tanjavur Fort to Choodamani Buddhist Vihara in Nagai Port. He who gave her the title and called her by that name for the first time, was in that monastery. The words of Sendan Amudan saying, “my garden cottage is not far from here; we can go there after this rain stops. My mother will look after you!” fell only partly in her ears.
+
+Another bright flash of lightning lit up the scene that they had seen partly earlier on; it startled both of them. More or less across from the pavilion, the branches of a large banyan tree were uprooted and had fallen across the road. The spreading branches and roots of that tree were pulled helter-skelter, and lay randomly all over the road along with soggy leaves and other debris. Two horses and five or six men were caught amidst those branches and roots. Other men were trying to help free those who were caught like that. They were hurriedly moving aside the branches and leaves. They could hear the calls for help and cries of pain here and there drowned in the sound of rain, “Oh! Dear!” “Father, Mother” “Here, over there.”  something else more than all this caught the attention of Amudan and Poonkuzlali.
+
+A palanquin had been placed on the ground a little away from the fallen tree branches. Only two men stood by its side. The others had gone to help the men trapped under the tree.
+
+“Amuda, did you see that palanquin?” asked Poonkuzlali.
+
+“I see it; looks like the palanquin of the young Queen of Pazluvoor.”
+
+“Why didn’t that tree fall on top of that palanquin!?!”
+
+“Good Lord, why do you say that? You had said that you would meet the Queen of Pazluvoor and achieve you aims with her help!”
+
+“Yes. I said that. Even so, I do not like that Pazluvoor Queen really much!”
+
+“Does a tree have to break and fall upon her just because you do not like her?”
+
+“Why did the tree have to fall upon ordinary folk? Why can’t it fall upon the heads of the nobility? Let that go for now! Shall we go close to that palanquin and try talking to the young Queen now? Shall we ask for her help to get into the fort?”
+
+“Fantastic! You found a perfect moment and a perfect place to speak to her! If we go near that palanquin in this dark rain, they may think we are coming to rob her and beat us up!”
+
+“If only I could meet that Queen, the rest will be easy,” said Poonkuzlali.
+
+“How is that?”
+
+“I will say that my sister-in-law Raakammal sent me. Or I will say that the Sorcerer sent me.”
+
+“Good Idea! Only if we can approach her; but look, look Poonkuzlali!”
+
+Another flash of lightning showed two men lifting up the palanquin; were they about to leave? No, no. The palanquin was coming towards the pavilion. Very soon the palanquin was at the front of the wayside pavilion. The men placed it down on the porch, away from the rain.
+
+“The Queen is coming in search of us!” declared Poonkuzlali.
+
+Amudan took hold of her hand and tried to move towards the back of that building. Poonkuzlali refused to move away.
+
+“Who is there?” asked an authoritative voice loudly.
+
+Understanding it to be the voice of one of the men who carried the palanquin, Poonkuzlali replied, “Don’t worry Brother! We too are travelers along this road, just like you folk. We have taken shelter from the rain in this pavilion.”
+
+“Fine, fine! Don’t come near this palanquin,” said the same voice.
+
+“Why would we come near the palanquin? Shouldn’t we have acquired much good fortune for the privilege of riding in palanquins?” asked Poonkuzlali.
+
+Sendan Amudan started saying, “Even poet Valluvar wrote  about this; talking about the consequences of the actions in a prior birth…”
+“Stop it. Shut your mouth and keep quiet. How many of you are there?” asked the footman.
+
+“We are just two of us. Even if another hundred come, they can take shelter from the rain in this pavilion.” Amudan spoke what he thought was the truth. He did not realize that there was a third man hidden behind the interior pillars of that pavilion.
+
+The footman was telling his companion the other footman, “I said so, much earlier, when the rain started. We should shelter under some pavilion, I said. No one listened. That is why we are in this trouble now.”
+
+“Who could tell that this may happen. We thought that we could be inside the fort before the rain increased. At least the tree did not fall on the palanquin,” said the other footman.
+
+Again, another flash of lightning. Both Sendan Amudan and Poonkuzlali had their eyes fixed on the palanquin. So, they were able to see that a woman inside that palanquin had parted the curtains and was peering towards them. They noticed that the woman who looked at them recognized them and smiled at them. The next instant darkness once again enveloped the surroundings and the pavilion.
+
+Poonkuzlali asked very softly, “Amuda did you see?”
+
+“Yes, I did.”
+
+“Who was in the palanquin?”
+
+“Was it not the young Queen of Pazluvoor?”
+
+“Is that what it seemed like, to you?”
+
+“It looked like Pazluvoor’s Queen; But I had a slight doubt.”
+
+“I have no doubt; I am sure.”
+
+“What is sure?”
+
+“It is not the Queen of Pazluvoor. It is my crazy aunt, the Queen of the forest who is inside.”
+
+“Shhh! Don’t speak so loudly!”
+
+“If I do not speak loudly, how am I to get my job done?”
+
+“What job?”
+
+“The reason why we came this far; that job! We have found our aunt; don’t we need to free her and take her away?”
+
+“That is not possible now, Poonkuzlali. Let us see where the palanquin is going. Then we can think and find a way to free her.”
+
+“You are talking about letting go of what is in our hand and trying to catch that which is far away. That is not possible. We must free our aunt right now. If you are afraid, stay away.”
+
+“Shouldn’t your aunt agree to be freed? She is riding comfortably in that palanquin. Where is she going? Why? Who has ordered her to be captured like this? Don’t we need to find out all this?”
+
+“What if they take her to the dungeon prisons. If that happens, we cannot do anything!”
+
+“Why not? I myself have been in those dungeon prisons and come free! I too have some connections within the palace. I can somehow free your aunt. Be quiet now.”
+
+Poonkuzlali decided that she must be patient. At that moment something totally unexpected happened. The curtains of the palanquin parted wider. A figure stepped out of that palanquin. Like a cat, it softly stepped towards them in the next moment. Since it was very dark in the pavilion, none of this was seen by the footmen waiting near the steps.
+
+Even in that darkness, Poonkuzlali could recognize her aunt the mute-queen. The mute-queen took hold of both their hands and dragged them further inside the pavilion. She hugged and kissed Poonkuzlali showing her happiness. They then spoke in sign language for a little while. How did they communicate with each other in that darkness? How did each understand the other? We have no skill to explain that!
+
+Poonkuzlali said to Amudan, “did you understand what my aunt was saying? She is asking me to get into that palanquin and go with them. She is asking you to take her to your house.”
+
+“What is your opinion Poonkuzlali?”
+
+“I am going to do as my aunt asks. It is the best way to find out who ordered her to be abducted.”
+
+“Think Poonkuzlali. The idea is good; but what danger lies behind it?”
+
+“Amuda! Do not worry. There can be no harm to me by doing what my aunt asks. If needed I have this knife in my waistband.” Poonkuzlali hugged her aunt once again and walked silently just like her aunt. She stepped into the palanquin and closed the curtains.
+
+***
+
+Chapter 22 - Aniruddha Is Disappointed
+Prime Minister Anirudda Brahma Raya had stayed back in Tanjavur for the past several days. Many persons were coming to meet with him: government officials, feudatory chieftains, army commanders, ambassadors from foreign countries, representatives of trade guilds, temple administrators, scholars in southern and northern languages – all such people sought his audience. Because of this, the front parts of his palace were always crowded with people.  Mr. Aniruddha did not  maintain a separate contingent of personal guards for himself. His retinue too was very limited. Because of this there was no reason for quarrels to arise between his men and those of the Lords Pazluvoor.
+
+Even so, younger Lord Pazluvoor was grumbling. Security had become lax after the Prime Minister had come to stay in Tanjavur! All sorts of fellows were getting into the fort on the pretext of wanting to meet the Prime Minister. Because the mansion of the Prime Minister was next to the Royal Palace of the Emperor, crowds were increasing in the neighborhood of the Palace. Many were coming in, showing passes and the signet ring of the Prime Minister, saying they had business with him and came to meet the minister.
+
+Lord Kalanthaka Pazluvoor wanted to control all these activities to some extent. But he did not have the courage to go pick a word-duel directly face to face with the Prime Minister. If the Elder Lord Pazluvoor were here, they could have thought about it together, and found a way to do something. Younger Lord Kalanthaka felt handicapped, as if his arm was broken, because the Elder Lord Pazluvoor had gone to Kadamboor at such a time as this.
+
+Not only was he collecting all and sundry to crowd the fort and endangering security, the Prime Minister was also sending apparently polite requests for help, but in reality, was ordering him about!
+
+Some days ago, he had asked for some men to be sent to Kodi Karai. Lord Kalanthaka had obliged by lending some of his men. Yesterday he had sent word that he needed transport for a noble woman coming from Thiru-vaiyaru and asked if he could help with a shuttered palanquin from Pazluvoor palace along with bearers and guards. Younger Lord Pazluvoor fulfilled this request too! But in his mind, he was mulling over the idea ‘This Brahma Rayan is involved in some scheme or conspiracy. Who is the noble woman who has to be transported in a closed palanquin in this fashion? Why is she coming here? I must somehow find out the details! Oh, that my brother is not here at such a time as this!’ he fussed in his mind.
+
+There was one other man who was eager to find out who had actually arrived at the Prime Ministers’ mansion in the covered palanquin. It was none other than the treasured apprentice of the Prime Minister, Azlvar-adiyan Nambi.
+
+On the day after the big storm, after completing all his morning rituals of bath, breakfast, prayer, religious ceremonies and such the Prime Minister arrived in the chambers at the front of his mansion. He sent the servant to go outside and check who had come to meet him that day. When he heard that one of the persons waiting was Azlvar-adiyan, he ordered that he be brought in immediately.
+
+Azlvar-adiyan came in quickly and stood before his master meekly and with humility.
+
+“Thirumalai what about the matter on which I sent you?” asked the Prime Minister.
+
+“My Master, forgive me. I have come back unsuccessful,” said Azlvar-adiyan.
+
+“In a way it was expected. Were you even able to meet Aditya Karikala?”
+
+“I did meet him, Sir. I gave him all the messages you had asked me to give to him. Nothing was useful. I could not prevent the Prince from going to Kadamboor Fort.”
+
+“Is the Prince at Kadamboor now?”
+
+“Yes Master. I saw him enter Sambuvaraya’s Palace; only after I had been sure of that, did I return. Sambuvaraya gave a royal welcome to the Prince. One cannot describe the enthusiasm of the people from all the surrounding areas.”
+
+“All that is expected. Who else has come to Kadamboor Palace?”
+
+“The Prince was accompanied by Parthiban Pallava and Vallavarayan Vandiya Devan. The Elder Lord Pazluvoor  had come from here accompanied by his Young Queen. I heard that various chieftains from the principalities of  Middle Territories and Thiru-munaipadi areas were invited.”
+
+“Thiru-Kovalur Malayaman?”
+
+“He came with the Prince, up to the banks of River Mani-muttha and then went back.”
+
+“That brave old man will not stay quiet. By now he would have started collecting an army. I hear that the Elder Velir of Kodumbalur is coming from the south with a large army. Only God must protect this Kingdom from harm befalling it. Thirumalai, on your way here, what were the people talking about. Did you hear anything in particular?” asked the Prime Minister.
+
+“Most of the talk was about the sea accident that has happened to the Young Prince. People are very angry with the nobles of Pazluvoor. Others lay the blame upon you too.”
+
+“Yes. Yes. They have reason to lay the blame upon me. Thirumalai I am thinking of soon relinquishing this job of being the Prime Minister.”
+
+“Master, if you do any such thing, I too shall be free. I will go about singing the hymnals composed by the Azlvar  Saints and travel all around the country and spend my time happily. When are you planning to give up your duties, Sir?”
+
+“I am going to try one last attempt at safeguarding the kingdom. Once that is complete, I will give up this job.”
+
+“What attempt is that my Master?”
+
+“I have climbed the first step in that effort. Thirumalai, I have succeeded in a particular job that you gave up as being impossible.”
+
+“There is nothing surprising about that Sir! What job was it, Sir?”
+
+“Did I not tell you to find and bring back a mute-lady who was wandering like a mad-nobody in Eezlam Island? You came back saying that you were not able to do that, remember?” asked Mr. Anirudda.
+
+“Yes, my master, that mute-lady …”
+“We have brought her to our palace last night!”
+
+“Aha! What a surprise! Surprise of surprises! How did you manage that Sir?”
+
+“I expected that mute-woman to come to Kodi Karai to find out if the Younger Prince survived  or not. I had sent some men to capture her if she came there. Fortunately, she came without giving too much trouble. Listen to this funny thing Thirumalai --  I arranged to bring her here from Thiru-vaiyaru in a covered palanquin.  I sent the palanquin of Pazluvoor’s young Queen for that!” Said the Prime Minister.
+
+“Sir, last evening there was a big storm and heavy rain.”
+
+“Yes, there were some obstacles on the way because of that! I too was worried. I was easy only after the palanquin arrived after midnight.”
+
+“Oh! Was it midnight? Did you wait up that late to accord a welcome?”
+
+“I was awake, but I did not go to welcome her. I had the women in my household welcome her. I was worried; she is a crazy woman, what if she creates a problem? Nothing like that happened. She ate well and went to sleep immediately. Thirumalai, to tell you the truth I am somewhat afraid of meeting that woman. It is good that you are here now.”
+
+“My Master, I too am very eager to see that woman.”
+
+“Then come along with me, let us go to the women’s apartments and see her. She knows you from before; she also knows that you are a friend of the Younger Prince. She might be a little more comfortable with you.”
+
+Master and disciple went towards the women’s apartments towards the back of the palace. Mr. Anirudda ordered the servant maids to bring the lady who had come the previous night.
+
+The maids led that woman into their presence. Mr. Anirudda took one look at her and was totally shocked. A smile played upon Azlvar-adiyan’s face.
+
+***
+
+Chapter 23 - Can The Mute Talk?
+
+Mr. Anirudda looked at Poonkuzlali for some time; called the maids who led her to come closer. He asked them something in a very soft voice. After they had replied, he asked them to leave the room. He then looked at Azlvar-adiyan and said, “Thirumalai it appears as if there is some mistake.”
+
+“Yes, Sir. I too think so.”
+
+“This is a young girl; she may only be about twenty or so years old.”
+
+“May be not even that!”
+
+“The lady I was expecting should be about forty or so years old.”
+
+“Perhaps a little older.”
+
+“Yes, yes. You have seen Mandakini Devi in Lanka, have you not?”
+
+“Yes, Sir. I saw her and tried to bring her here as you had ordered; but I could not do so.”
+
+“This girl does not even look like Mandakini Devi, does she?”
+
+“No, my Master, She is definitely not her.”
+
+“Then, who is this girl? How did she arrive here?”
+
+“Why not ask her, Sir?”
+
+“What is the point is asking a deaf-mute?”
+
+“Master,  is she mute….?”
+
+“That is what I questioned  the maids about. They said that she has not spoken a single word since she arrived here.”
+
+“Master, who did you send to identify her and bring here?”
+
+“Aha! Did that idiot make some mistake?”
+
+“Which idiot Sir? It is not like you to send some idiot on such important missions.”
+
+“He seemed smart. There was that youth who was fighting with that Vaanar nobleman, Vandiya Devan when I recently went to Pazlayarai.”
+
+“Yes Pinakapani, the son of Pazlayarai Doctor.”
+
+“Yes, it was him! After I had sent you and Vallavarayan to Kanchi, I had that man freed from prison and brought to me. I thought that he would be suitable for our contingent of spies and sent him to Kodi Karai. He said that he had experience of having been to Kodi Karai.”
+
+“Did that man bring this girl here?”
+
+“I had given him all the identification correctly. He had brought her to Thiru-vaiyaru and sent me word that the mission was successful.”
+
+“Sir, where is that intelligent spy who succeeded in this venture in which  I could not succeed. Would it not be wise to question him about this girl?”
+
+“Yes, that is so. Unfortunately, an unexpected accident happened to him last night.”
+
+“Oh, ho, ho! What accident, to him? How did that happen?”
+
+“He was following the palanquin. Since I had ordered that they should enter Tanjavur Fort after dark, they started from Thiru-vaiyaru at dusk, and were coming close to the fort before nightfall. You know about that sudden storm….”
+
+“Yes, Sir. I too had to shelter for some time  in a wayside rest-pavilion, to escape the storm.”
+
+“When the palanquin and men were close to the fort, a large tree was completely uprooted and it had fallen across the road. Luckily, it did not fall on the palanquin. It fell upon the men who were accompanying the palanquin. Pinakapani, the doctor’s son was caught under those fallen branches.”
+
+When the Prime Minister was giving all these details, a woman’s voice said, “Was it just a tree branch that fell upon that fiend’s head? Did not a thunderbolt strike him!?” asked the enraged voice.
+
+Prime Minister Anirudda looked at Poonkuzlali with some surprise. Even as he continued looking at her , he asked, “Thirumalai, was it this girl who spoke just now?”
+
+“Yes, Sir. It seems so.”
+
+“What is this miracle? Can the deaf hear? Could the mute speak?” asked Anirudda Brahma Raya.
+
+“Yes, it is truly a miracle that the deaf begin to hear and the mute start talking. However, if you, who art a devotee of the all-powerful Lord Vishnu,  wish it to be so, anything is possible. What the Azlvar saints have spoken is that….”
+
+“Enough, enough. Do not drag Azlvar saints here and bother them. This did not happen because of the Grace of Lord Vishnu. There has been some mistake. This girl has deceived us. Who is she? What is her intention? Why did she pretend to be a deaf-mute all this time?”
+
+“Master, why don’t we ask this girl herself?”
+
+“My dear man, from the smile dancing on  your face, I think you perhaps know something …. Fine, I shall question her myself. Girl, you are not deaf, are you? Can you hear what I am saying?” asked Mr. Aniruddha.
+
+“Sir, I sometimes wished I was deaf. But I am happy that I can hear very well now. I heard that the tree broke and fell upon that wretch of a doctor’s son, haven’t I? My Lord, did he die and get lost forever?” asked Poonkuzlali.
+
+“Aha! You are able to hear and you are speaking! You are not a mute.” Said Mr. Aniruddha.
+
+“This girl is definitely not mute,” spoke up the assistant.
+
+“Aha! You have now found out that I am not mute. What I have heard must be true, that the most intelligent person in the entire Chozla  empire is the Prime Minister!” said Poonkuzlali.
+
+“Girl! Are you making fun of me? Be careful! If you were not mute, why did you not speak since you came here last night? Why did you act as if you were mute? Speak the truth!” said the Prime Minister Anirudda.
+
+“Sir, till I came here last night I was one who knew how to speak.  Some even called me a chatterbox. When I saw this palace of the Prime Minister and the royal welcome given to me here, I was so astonished that I became speechless! The women in this palace spoke to me in sign language.  Thinking that all of them were speechless mutes, I too replied in sign language. After hearing you speak, I remembered that I too could speak.”
+
+“The is surely no doubt that you are truly a chatterbox. I am surprised to imagine how that young doctor got hold of you and brought you here. Even if he is an idiot, he is smart!”
+
+“My Lord, that sinner did not catch me and bring me here. If he had tried, by now he would be journeying to the land of the Lord of Death.” After saying this Poonkuzlali pulled out the knife tucked in her waistband and showed it.
+
+“Girl! May you be blessed! Tuck your knife back in your waist. Why are you so angry with that fellow? You are saying that he did not abduct you.”
+
+“He  did not capture me. But his men tied me up and bound me to my boat. They tied my sister-in-law to a tree. In spite of all this, that wretch of a young doctor swore that he had nothing to do with all this!”
+
+“At least he had some sense! He behaved just as I had instructed.”
+
+“My Lord, Sir, Mr. Prime Minister! Was it you who sent that vile fellow? Were you the one who ordered them to abduct my aunt, a hapless speechless woman?”
+
+“Aunt! The daughter of Karaiyar folk, Mandakini is your aunt! That means you….? What are you to the Lighthouse Keeper Mr. Tyaga-Vidangar?” asked the Prime Minister.
+
+“Sir, I am his dearest daughter!”
+
+“Aha! I did not know till this day that Tyaga-Vidangar has a chatterbox of a daughter like you.”
+
+“Sir, Please do not tell anyone about that!”
+
+“Why? Girl, why?”
+
+“It is common knowledge all over the country that there is nothing unknown to the Prime Minister of the Chozla Empire. If it were to come about that there was something unknown to you, will it not affect the respect that people have for you?”
+
+“Girl, I am not worried about the respect or regard for me. Just tell me about one other thing that is not known to me. You said that they had   taken your aunt captive; where is she now? How did you get into the palanquin I had sent? Where did you get in?”
+
+“Sir, why did you send men to abduct a speechless mute like my aunt?”
+
+“My daughter! I cannot share that information with you. It is big, related to political matters.”
+
+“Father! then I too cannot give you answers to your questions.”
+
+“There are ways of forcing you to answer.”
+
+“They will not work with me!”
+
+“Girl! I will send you to the dungeon prisons.”
+
+“I cannot be shut up in any dungeon prison.”
+
+“Someone sent to the dungeons, never comes back!”
+
+“I know a fellow who came out!  Sir, even yesterday I was  talking to Sendan Amudan as we journeyed here.”
+
+“Who is he, this Sendan Amudan?”
+
+“He is the son of my other aunt. He and I together, were coming here from Kodi Karai.”
+
+“Why, my daughter?”
+
+“I had a long time wish to see this Tanjavur fort and the mansions and palaces here. I was also eager to see Emperor Sundara Chozla. They said that the Emperor was not well? How is he now? Sir, can I see him?”
+
+“He is just the same; there is no improvement in his health. So, you can forget about wanting to see him.”
+
+“How can I forget? I must see the Emperor. I must see him and tell him about the atrocities in his kingdom, of helpless women in his kingdom being abducted without consent.”
+
+“Girl, I have no time to spend in this sort of useless debate with you. I did not order to have you captured forcefully.  How did you get into the palanquin sent by me? Tell me at least that. Did anyone force you to get into the palanquin?”
+
+“No. My Lord, no in that one matter. When we were coming near Tanjavur Fort, this palanquin was just sitting there, empty. Because it was raining, I myself decided to get into it.”
+
+The Prime Minister turned to his assistant Azlvar-adiyan and said, “I am beginning to understand the situation somewhat. On the road when it was stormy and rainy, they must have set down that palanquin somewhere. She had her aunt step out and then got in to the palanquin. Since the man I sent was unconscious because of the tree that fell upon him,  he could not notice this.  The bearers and footmen did not notice it. This must have happened rather close to the fortress gates. Thirumalai, do you think my surmise to be correct?”
+
+“My Lord, it happened just the way you surmised just now. I saw it happen with my own eyes.”
+
+“You saw It! What is this? Why did you keep your mouth shut all this time? Answer quickly!”
+
+“Yesterday, early in the night, in the rainy darkness, I was coming towards the fortress gates. There was the furious storm and sudden rain. Trees on the roadside were breaking and falling. I decided to wait in one of the travelers’ rest pavilions along the road. Soon after I had sought shelter in one such pavilion, this girl and a young man came there. She said it was her aunt’s son; could be the same man. In the brightness shed by the lightning, I saw rudraksha prayer beads around his neck. Thinking that though young, he must be an erudite Saiva devotee, I wished to tell him about the greatness of lord Vishnu; it would be a good way to pass the time, I thought. By then, they had brought a palanquin and placed it near the front of that same pavilion. I could discern the palmtree symbol of Pazluvoor on the curtains of that palanquin. A woman stepped out of that palanquin and came close to these two. In the dark interior of that pavilion, the three of them seemed to talk to each other by signs. Then, I saw this girl go and get into the palanquin. I could make out in the lightning that the woman who had got out was different from the one that got in. The bearers, did not notice any of this. Later after the rain had stopped, they carried the palanquin and went away.”
+
+“Ah! That is how they hoodwinked me. And all this time you have been quiet without saying anything! What did the other two do after that?”
+
+“After the palanquin had left, they too left. I too started to go on my way.”
+
+“Thirumalai, why were you quiet watching all this? Why did you not stop her aunt? Have you also joined them in their scheming?”
+
+“Wrong accusation, my master, wrong accusation! I am not one to betray in that fashion. At first, I did not realize that all this was your arrangement. Since the palanquin was  from Pazluvoor mansion, I thought it may be some scheme  being carried out by the Younger Lord Pazluvoor. Moreover, would I be able to stop Mandakini Devi from doing anything? We could build damns and stop storm winds; how can one deter that blessed woman? I was one who had tried in Lanka and failed. Moreover, that lady can recognize my face; she might run away after seeing me. After that no one will be able to find her.”
+
+“Considering all this, it appears that the doctor’s son was pretty smart and capable. He had brought her here this far, did he not?”
+
+“My Master, I feel that your surmise on this matter is incorrect. Mandakini devi must have come willingly for her own reason. She must have changed her mind after nearing Tanjavur.”
+
+“Maybe, perhaps. Even so that Karaiyar’s daughter could not have gone too far. The storm and rain continued all night long. She must be here somewhere nearby. Thirumalai she must be found somehow. Perhaps this girl may know where she might be staying.”
+
+“Daughter, what is your name?” asked Mr. Anirudda.
+
+“Poonkuzlali, Sir”
+“Aha! Beautiful name. There is none as skillful as Mr. Tyaga-vidangar in choosing names.   Poonkuzlali, you must know where your aunt might be staying. If you know it, speak. There will be no harm done to her.”
+
+Poonkuzlali seemed to think about it for a little,  “My Lord, I think I know where my aunt might be now; if you could explain, why you ordered her to be captured, I too can reveal her whereabouts.”
+
+“It is a big political matter Poonkuzlali. A secret about the palace. I cannot tell you.”
+
+“I too cannot tell you.”
+
+“It is impossible to talk to this girl!”
+
+“Sir, if you could fulfil one condition …” said Poonkuzlali.
+
+“Oh ho! This girl levies conditions upon me! What is it?”
+
+“If you would place my aunt on the throne of Tanjavur and bestow the jeweled crown upon her head, I will bring her to you myself.”
+
+“Thirumalai, this girl has gone crazy!”
+
+“My Master, did you recognize it just now? There is no need to ask her anything. I know where her aunt is now. Her cousin lives in a garden on the outskirts of the fort. He and his mother are in service providing flowers to the Thali-kulattar temple. The woman you are searching for is in that place. If you send some men with me, I will bring her here,” said Azlvar-adiyan.
+
+Poonkuzlali looked at him as if she wished to burn him down! “If you do anything like that, I shall immediately go to the Emperor’s palace and appeal. I will make sure that all the town knows of the atrocities you commit.”
+
+“Thirumalai, we may need to send her down to the dungeon prisons; there seems to be no other way!” said Mr. Anirudda Brahma raya.
+
+“Sir there is no need to send this girl to the dungeons. Instead of that we could send her to the palace of the Younger Pirati Kundavai.  The Younger Pirati is now in Tanjavur, is she not? The Princess may be able to cure this girl’s craziness. The Princess may have some errands or jobs for this girl!”
+
+“Why do you say that, Thirumalai? What can the Younger Pirati have to do with this girl? What job can she do for the Princess?”
+
+“Master, it is not unknown to you. The storm that raged last night, has wreaked havoc along the Chozla coast. Messengers from all directions are waiting outside your chambers.”
+
+“Yes, I will need to meet all of them now; before that I tried to talk to this girl and have spent too much time. It would have been better if she had been born mute!”
+
+Poonkuzlali, mumbled “Yes you could commit all sorts of violence without being questioned!”
+
+Azlvar-adiyan continued, “I hear that there is a great danger to Nagai Port. They say that the sea boiled over in a big storm wave and has drowned the whole town.”
+
+On hearing those words both Poonkuzlali and the Prime Minister were stunned!
+
+“The Younger Pirati herself may be coming here to consult with you about that!” finished Azlvar-adiyan.
+
+Before he had finished speaking, they could hear sounds of praise and applauding cries hailing the royals outside the palace.
+
+“Thirumalai, when did you become clairvoyant? It sounds like the Younger Pirati is coming here.” After saying this, Mr. Anirudda stood up and walked towards the front doors of his palace.
+
+Before he had gone too far, Kundavai and Vanathi entered the palace through the same doors.
+
+On seeing Poonkuzlali standing there, the anxiety dwelling on the Younger Pirati’s face changed; h
+er face now showed surprise and happiness.
+
+***
+
+***
+
+Main Characters
+Aditya Karikala -- Crown Prince of the Chozla Empire, Sundara Chozla's eldest son.
+
+Anirudda Brahma-raya -- The Prime Minister and confidant of Sundara Chozla.
+
+Arinjaya Chozla -- Sundara Chozla's father, King Gandara Aditya's younger brother, died after ruling for merely one year
+Arulmozli Varma -- Sundara Chozla's younger son.
+
+Astrologer of Kudanthai -- An astrologer patronized by Kundavai, a spy of sorts.
+
+Azlvar-adiyan Nambi, Thirumalai Appan -- A follower of the Vaishnava faith, step brother of Esanya Bhattar, a spy. Nandini is his adopted sister.
+
+Chandramati -- Manimekalai’s maid and confidant.
+
+Esanya Bhattar -- A priest of Pazlayarai, elder brother of Azlvar-adiyan Nambi. Had been tutor of Kundavai.
+
+Gandara Aditya -- Sundara Chozla's elder uncle, a devout follower of the Saiva faith, ruled before Arinjaya Chozla.
+
+Idumban Kari -- A footman from Kadamboor, a conspirator against Chozla royalty, member of a gang sympathetic to Pandiyas.
+
+Kalyani of Vaithumba -- Widow of King Arinjaya Chozla, a famous beauty, Sundara Chozla's mother.
+
+Kandamaran -- A young nobleman, son of Sambuvaraya of Kadamboor.
+
+Karuthiruman, the madman -- A prisoner with a past and a story.
+
+Kirama Vithan Revadasan -- Pandiya Conspirator who knew Singhala language; Raakammal’s father.
+
+Kundavai, Younger Pirati -- Sundara Chozla's daughter. Royal princess.
+
+Lord Pazluvoor, the Elder, Ambalavan -- An important and powerful chieftain, Officer of Taxation, Food Supply and Finance, brother of Kalanthaka, Nandini's husband.
+
+Lord Pazluvoor, the Younger, Kalanthaka -- Commander of Tanjavur Fort, Captain of the Guard Corps.
+
+Lord Velir of Kodumbalur, the Elder, Bhoothi Vikrama Kesari -- An important chieftain of the Chozla Empire, Commander of Chozla Armies in Lanka. Elder-uncle to Vanathi.
+
+Lord Velir of Kodumbalur, the Younger, Paranthaka -- Younger Lord of Kodumbalur, Vanathi's father who lost his life in a battle in Lanka.
+
+Madurandaka Deva -- A Chozla Prince, son of Gandara Aditya and Sembiyan Madevi, a few years older than Aditya Karikala.
+
+Malayaman Milad-udayar of Thiru-Kovalur -- A nobleman, a Chieftain of the Chozla Empire, Empress Vanamadevi's father and grandfather to Karikala, Arulmozli and Kundavai.
+
+Mandakini -- Deaf-mute woman who wanders the seashores and forests of Lanka. Vaani Ammai’s Sister.
+
+Manimekalai -- Kandamaran's younger sister and daughter of Kadamboor Sambuvaraya.
+
+Mazlava-raya -- A nobleman, Sembiyan Madevi's brother.
+
+Munai Raya -- A nobleman, not very confident in Lord Pazluvoor's schemes.
+
+Murugaiyyan -- Kodi Karai lighthouse keeper’s son, Poonkuzlali’s brother and husband of Raakammal; a boatman.
+
+Nallavan Sattanar -- Court poet at Tanjavur.
+
+Nandini, Young-Queen of Pazluvoor -- An extraordinarily beautiful woman with a mysterious past, Azlvar-adiyan’s adopted sister.
+
+Parameswaran -- Pandiya Conspirator; Thevaralan dancer.
+
+Parthiban Pallava -- A nobleman of the Pallava clan, Crown Prince Aditya Karikala's confidant.
+
+Pinakapani -- Pazlayarai Doctors’ Son
+Poonkuzlali -- Daughter of the Lighthouse Keeper of Kodi Karai, Sendan Amudan's cousin.
+
+Raakammal -- Kodi Karai Boatman’s wife, sympathetic to Pandiya cause.
+
+Ravidasa Brahmadirajan, the Sorcerer -- Leader of the Pandiya conspirators, a former retainer of Veera-pandiya, Pandiya Aabathudavi body guard who had a mysterious hold over Nandini
+Sambuvaraya of Kadamboor, Sengannan -- A nobleman; Chozla feudatory; crony of Lord Pazluvoor.
+
+Sembiyan Madevi, Elder Pirati -- Widow of King Gandara Aditya, Madurandaka Deva’s mother, fond of Sundara Chozla and his children, devout.
+
+Sendan Amudan -- A flower vendor of Tanjore, lived with his deaf-mute mother in the outskirts of the city.
+
+Soman Samban -- A conspirator against Chozla royalty, member of Ravidasa's gang, sympathetic to Pandiyas.
+
+Sundara Chozla Paranthaka -- Emperor of the Chozla Kingdom.
+
+Tyaga-Vidangar -- Lighthouse keeper at Kodi Karai. Poonkuzlali’s father.
+
+Vanamadevi of Thiru-Kovalur -- The Queen Consort, wife of Sundara Chozla, mother to Karikala, Kundavai & Arulmozli.
+
+Vanathi Devi -- A young noblewoman of the Kodumbalur clan, Kundavai's friend, in love with Prince Arulmozli.
+
+Vandiya Devan Vallavarayan -- A scion of the Vaanar clan of Vallam, Aditya Karikala's friend and messenger.
+
+Vaani Ammai -- A deaf-mute woman, garden keeper living on the outskirts of Tanjore. Amudan's Mother. Mandakini’s sister.
+
+Vasuki -- Nandini's maid.
+
+Veera-pandiya -- Pandiya King vanquished and killed by Prince Aditya Karikala.
+
+-------
+
+Glossary of Terms
+Aadi -- A month of the Tamil calendar, about July-August
+Aanai -- Elephant
+Aavani -- A month of the Tamil calendar, about August-September
+Aippasi – a month in the Tamil Calendar, about October-November
+Aiyyo, acchachcho -- Exclamatory expressions denoting, fear, despair, grief, amazement, regret, etc. similar to, “oh dear.”
+
+Advaita -- A philosophy, belief in the non-dual nature of God
+Agil -- Agar wood; fragrant wood
+Akka -- Elder sister, a respectful greeting for an older girl
+Amma -- Mother, a respectful greeting for women, both old and young
+Ankush -- A goad used by elephant drivers
+Anna -- Elder brother, respectful address for older men
+Araya, raya, arasa -- King, chieftain, Raja
+Ayya -- Father, respectful mode of address for men particularly a revered or elderly person
+Ayyanaar -- Village guardian deities made of gigantic terracotta painted figures; shown riding horses, elephants
+Bharata Natyam -- Classical dance style
+Chakra -- Discus
+Champaka – Fragrant Magnolia
+Chanakya -- A medieval personality of political cunning
+Devi, Deva -- Lady, Lord
+Eezlam  -- Tamil name for Lanka or present-day Sri Lanka
+Iruvatchi -- A fragrant flower of jasmine family
+Jaamam -- A period of time 3 hours long;  1 Jaamam = 7½ Nazli; 1 Nazli = 24 minutes.
+
+Jaggery -- Unrefined or brown sugar
+Kaadal -- Love
+Kaadam -- A league or about 10 miles
+Kaalaa-mukhas -- Ascetic followers of Shiva, a fanatic sect
+Kaavi -- Reddish, ocher dye
+Kadal -- Sea
+Kadamba -- A flower
+Kama -- Love, Passion
+Kapaalika -- An ascetic sect of Saiva Faith
+Karadi -- 1. A musical instrument 2. Bear
+Karagam -- Folk dance with balancing decorated pots
+Karaiyar -- Coastal, fisherfolk
+Karpaga -- A cornucopia, tree of plenty from the heavens
+Karppu -- Sanctity of a married woman. Chastity
+Kavi -- 1. Poet 2. Monkey
+Kinnara -- Demi-divinities; heavenly musicians
+Kolam -- Decorative drawings of rice flour
+Konnai, Konrai  -- A flowering tree; yellow laburnum flowers
+Koothu -- Dance
+Kovai fruit -- Ripe fruit of the scarlet gourd or ivy gourd
+Kulam -- Clan, family group
+Kumkum -- Red powder, used to decorate the forehead
+Kummi -- A folk dance of women circling while clapping hands
+Kunrimani -- A tiny red-black berry or bead
+Kural -- Ancient Tamil couplets
+Kuravai Koothu -- Dance of the Forest folk, often vigorous, dance by maidens weaving flower garlands
+Maalai -- Garland
+Malai -- Mountain
+Maari Amman -- A village deity, a rural Goddess
+Marudai -- A shade giving tree, a colloquial name for Madurai City
+Mattalam -- Drum
+Maya, Maaya -- Deception, unreal
+Moringa -- A leafy tree, bears drumstick like long fruit
+Musth -- A natural periodic condition even in trained male elephants that make them go aggressive and unpredictable
+Mu-ttholl-ayiram -- A collection of romantic verse in Tamil
+Muzlai -- Cave
+Naadaswaram -- Elongated windpipe like musical instrument that produces a loud melody; a wind-horn
+Naadu -- Country
+Naamam -- A vertical, religious mark worn by followers of Vishnu
+Naanal -- A sedge like grass
+Naavalo, naaval -- taunts proclaiming victory or battle-cries
+Nandavana -- Garden
+Nappinnai -- Tamil name for Radha of Northern India
+Netri-chutti -- Forehead ornament
+Nilaa-muttram -- A courtyard, plaza or gathering place
+Paadal Petra Sthalam -- A place recognized in songs composed by saints
+Padai Veedu -- Army housing
+Padinettam Perukku -- Eighteenth day flood festival
+Palli Padai -- Memorial temple
+Panchayat -- Council of Village Elders, often five persons
+Parai -- A kind of country drum, an announcement
+Pattinam -- City or Town, often a suffix for a Port Town. Ur is inland town.
+
+Perumal -- Lord, God
+Pirati -- Lady, Royal Princess
+Pitam, Peetam, matam -- Monastic seat
+Punnai -- A tree with yellow flowers
+Rudraksha -- A multifaceted bead, a sacred berry
+Saelai -- Loose pleated garment of women worn with one loose end thrown over a shoulder
+Saiva -- A denomination of Hinduism, follower of Shiva
+Salli  -- A musical instrument
+Selvan -- Beloved, Darling (masculine), Son
+Selvi -- Beloved, Darling (feminine), Daughter
+Semakalam -- Cymbal like metal drum played in temples to announce the hour of time
+Silappadikaram -- A Tamil Epic
+Sindhu -- Folk song
+Tamarind -- A shade giving tree bearing a sour fruit
+Thambi -- Younger brother, mode of address for young men
+Thaye -- Mother, mode of respectful address for women
+Thaazlai -- A fragrant cactus; screw-pine
+Themmangu -- Folk Song
+Thevar-aalan,  -- Male Divine dancer, spoke oracles if possessed
+Thevar-aatti -- Female Divine dancer, spoke oracles if possessed
+Thevaram -- Devotional Poems
+Thiru -- An honorific prefix; if it is attached to the name of a town, it usually indicated that the town was blessed in songs composed by saints of the faith tradition. Used as an addressing-prefix ex., Mr., Senor, Revered
+Thiru-vai-mozli -- Devotional Poems
+Thinnai -- A raised platform or dais on the front porch of houses in South India. Often used like a living room; for family gatherings, seating visitors, and sleeping in the night.
+
+Udukku -- Small palm held drum
+Ur, Oor -- Town or civilized place as opposed to untamed forest or Kaadu; pattinam is port town
+Uriyadi -- A game to get the prize-pot tied to a tall pole.
+
+Vaikaasi – a tamil month ,about May-June
+Vaetti -- Loose lower garment of men
+Vaishnava -- A denomination of Hinduism, follower of Vishnu
+Vamsa -- Dynasty
+Veenai -- A stringed musical instrument
+Velan Attam -- A semi-religious dance, usually by a man
+Villu-pattu -- Folk songs accompanying a string instrument, story telling
+Vinnagara -- Vishnu temple
+Yaazl -- A stringed musical instrument
+
+****
+
+About the Author
+Indra Neelameggham loves literature. She lives in the United States
+This translation is an attempt to capture the beauty of Tamil in English.
+
+This novel by Kalki captured her teen imagination and wanted to share the incredible experience with the whole wide world.
+
+Indra suggests:
+Enjoy the first reading to get the story
+The second reading to enjoy the language of Kalki
+The third reading to explore the incredible history and culture of the Tamils.
+
+And then, if possible, read the original in Tamil.
+
+Indra writes, reads, gives talks and just enjoys life.
+
+She is glad to have had the opportunity to be the first person to translate Ponniyin Selvan in to English [1990s.]
+Connect With Author
+Contact Email: nealer0@yahoo.com
+Website: https://indllc.wixsite.com/indrasponniyinselvan
+
+----------------------------------------
+
+Ponniyin Celvan of Kalki Krishnamurthi
+English Translation by Indra Neelameggham
+Part IVB : Jeweled Crown  [Chapters 24-46]
+Translated  By :  Indra Neelameggham, South Jordan, Utah, 2022
+Translation first edition 2022
+© Copyright 2022 Indra Neelameggham
+All rights reserved by the owner of this translation. No portion of this work may be reproduced
+in any media, transferred in any form, sold, resold, or given away without permission
+from the author or agent of this translation. Non-commercial use in any media for encouraging
+appreciation of this literary work is permitted with prior permission and due acknowledgment.
+
+Published by Indra Neelameggham
+Thank you for respecting the hard work of this author
+Acknowledgment : Neale R Neelameggham for Proofing, Editing, Motivating and Much More
+
+---------------
+
+Kalki's Ponniyin Selvan - Part IV B
+Jeweled Crown- Ponni's Beloved Part IV  -  Contents
+A Guide To Pronunciation
+A Note on the Chozla's
+Imperial Chozlas – Dynasty Chart
+Map 1. Chozla Country
+Map 2. Cauvery Delta
+Map 3. Kodi Karai and Northern Lanka
+
+--------------
+
+A Guide To Pronunciation
+More or less phonetic spelling is used for proper names, places, and literary works. Tamil words are
+used when inevitable. English spelling for place names uses the more popular anglicized version --
+when applicable.
+
+The letters zl are used to denote the Tamil alphabet/sound.
+
+There is no known way to symbolize this in English. Thus, the name is written as Chozla. It can be
+pronounced with the Z silent as in Chola, Paluvoor etc.
+
+It was felt that this style may be more comfortable than more traditional spellings such as Chozha
+or Chozhla.
+
+Usage of certain terms and words uses the older archaic form rather than modern American
+/internet usage. One such example: Maid is used to mean young girl rather than servant; maiden
+could have been used, but was not used in the rendering earlier.
+
+Spelling is American English rather than UK English.
+
+For further details on Chozla history of this period, refer to Colas by Prof K.A. Nilakanta Sastri,
+Madras University Historical Series 9, 1955, reprinted 1984, University of Madras, India.
+
+The Glossary at the end gives explanatory notes for some Tamil words.
+
+The Gallery in the website has pictures to understand some cultural features
+[Ex. Thinnai] and more.
+
+Website: https://indllc.wixsite.com/indrasponniyinselvan
+
+------------
+
+A Note on the Chozla's
+The Imperial Chozla period is considered a Golden Age in South Indian History. The Chozlas ruled
+between the 9th and 13th century. The heartland of their nation was the fertile Cauvery delta with the
+Rivers Kollidam and Agniaru as its northern and southern boundaries. The territories considered
+as that of the Pallavas in the north as well as the Pandiya lands in the south comprised the
+beginnings of the Chozla Empire.
+
+One of the earliest Chozla kings was Karikala (c AD 150) who was son of Ilan-chet-chenni `Who
+had wonderful chariots drawn by Arab horses.' He ruled from Kaviri-pattinam and had well
+established trade with seafaring Yavanas (Greeks-Romans), Arabs, Egyptians and Chinese.
+Karikala built several dams across the Cauvery. In the Cauvery delta `The space on which one
+elephant could lie down produced enough to feed seven.' Ship-building and temple architecture
+were established arts. Foreigners were numerous in sea-ports. Yavanas were employed as palace
+guards and to police the streets. Curiously wrought iron lamps, wine, gold coins and horses were
+important imports. Food grain, cotton cloth, black pepper, other spices, timber, gemstones,
+and perfumes were exported. The practice of erecting `hero-stones' as memorials for warriors
+who died on the battlefield was common during this Sangam Period, and it continued for several
+centuries.
+
+By the ninth century, the delta region of the Cauvery basin was already densely populated; nevertheless, it was still in the process of being cleared of forest and being settled. Politically the Cauvery delta was still a frontier region between the settled lands of the Pallavas in the north and Pandiyas in the south.
+
+Imperial Chozla's began their expansion under Vijayala (AD 841-878). He captured Tanjavur (AD 850) and built a temple for the Goddess Nishumba-sudini (Durga). He was at that time a feudatory of the Pallavas.  His son Aditya I, gained complete independence after the battle (AD 885) of Sri-Puram-biyam near Kumbakonam. He captured the Pallava territories after a battle in AD 903. His son Paranthaka I, ruled for 48 years (907-955). The dreams of these monarchs suffered a setback due to the invasion by Rashtrakutas from the north: the Chozlas were crushed in the battle of Thakkolam, North Arcot (949 AD). The next thirty years were a period of confusion. Gandara Aditya (AD 949-957) and Arinjaya (AD 957) ruled for short periods. Sundara Chozla (AD 957-973) did regain a large extent of his territories. His last years were crowned by tragedy and internal strife; Uttama Chozla (AD 970- 985), son of Gandara Aditya was presumed to have conspired to murder the crown Prince Aditya II and forced the father to recognize him as the heir in preference over the younger son Arulmozli (later Raja Raja I). Raja Raja I (985-1014) recovered vast territories including Lanka and began an unchecked expansion lasting for centuries.    Conquest beyond the seas was achieved by Rajendra I (1012-1044) who went as far as Bengal, Burma, the Islands of the Malayan Archipelago, and the Siamese Peninsula. Chozla influence went even further and the Bay of Bengal was but a ‘lake for the Chozla navies’ who controlled the pirates and had sway over very prosperous trade routes.
+
+Kulottunga I is said to have established embassies with Imperial China. Several hundred years later, during the last years of Kulottunga III (1178-1218), Jatavarman Sundara Pandiya I, and later his son Maravarman Kulasekhara Pandiya entered the heartland of the Chozla country. After that the empire struggled for its very existence. Upon the death of Rajendra III (1279) the Chozla territories were absorbed into the Pandiya Kingdom.
+
+*********** **************** ************
+
+Imperial Chozlas – Dynasty Chart
+Map 1. Chozla Country
+Map 2. Cauvery Delta
+Map 3. Kodi Karai and Northern Lanka
+
+----------
+
+Contents
+The Story So Far In The First Three Parts
+Ch. 24 – The Princess is Anxious
+Ch. 25 - Anirudda's Misdeed
+Ch. 26 – Confusion On The Streets
+Chapter 27 - In The Treasure Vault
+Chapter 28 - Underground Passage
+Chapter 29 - Beholding Royalty
+Chapter 30 – Accusation
+Chapter 31 - Dreams Early In The Night
+Chapter 32 - “Why Do You Torture Me?”
+
+Chapter 33 - Guardian Deity Of Chozla Clan
+Chapter 34 – Ravana In Danger
+Chapter 35 - Emperor's Anger
+Chapter 36 - Late In The Night
+Chapter 37 - Confusion At Kadamboor
+Chapter 38 - Nandini Refused
+Chapter 39 - Danger Approaches
+Chapter 40 - Water Sport
+Chapter 41 - Karikala’s Killing Rage
+Chapter 42 - She Is Not Human
+Chapter 43 - Where Is The Leopard?
+
+Chapter 44 - Love And Blame
+Chapter 45 - You Are My Sister!
+
+Chapter 46 - The Boat Moved
+Main Characters	i
+Glossary of Terms	iii
+About the Author	vi
+Connect With Author	vi
+
+----------------
+
+The Story So Far In The First Three Parts
+Arulmozli Varma who was later famous in history as Rajaraja I, was Sundara Chozla’s second son.
+When he was a child and had gone on a pleasure trip with the family, boating on the Cauvery, he
+had looked down to pick a flower floating on the water and had fallen into the Cauvery.  When
+everyone was agitated looking for the child, a woman lifted the child from the river floods, left him
+on the boat and vanished. Everyone felt that Mother Cauvery herself had come and rescued the
+child. Everyone in the palace, and country began calling him Ponni’s Beloved Prince, darling child
+of the Cauvery also known as Ponni.
+
+The Prince was also very popular having captured the hearts of all the people of the Chozla kingdom. His sister, Kundavai Devi, known as the Younger Pirati or royal Princess was even more popular. She had immense affection for her brother. She absolutely believed that this younger brother would attain immense fame and honors in the future even though he had no rights to the Chozla throne. She wanted her friend, living with her and other noblewomen at Pazlayarai, Vanathi of Kodumbalur to be married to Arulmozli.
+
+Arulmozli obeyed every wish of his sister. At her urging he had gone to the battlefront in Lanka and gained fame as a brave warrior. The men of the Chozla battalion were free with nothing to do after King Mahinda of Lanka had retreated to his Rohana Mountain fortress. The Prince undertook various projects that pleased the people of Lanka.  Most importantly, he arranged to renovate the many ancient Buddhist monuments in the old, war-devastated capital Anuradhapura.  Overjoyed by this, one sect of the Buddhist congregations in Lanka came forward and offered the Throne and Crown of Lanka to Arulmozli. The Prince however declined to accept.
+
+The Prince became acquainted with a deaf-mute elderly woman who wandered the ruins and forests of Lanka, as if she was crazy, a nobody. He came to know that she was the woman who had saved him from drowning in the Cauvery when he was a child. From pictures she drew he came to understand her history, to some extent. He understood how, his father Sundara had been castaway on an island near Lanka and had lived on that island for some time. His father had fallen in love with the mute woman and lived with her on that island. Arulmozli made some conclusions about the twins born to that mute woman.
+
+Sundara Chozla was paralyzed and lay bedridden in the palace at Tanjavur. For some time now, a comet, the Dhoomaketu was filling the late-night skies. People of the Chozla country were worried about the omen of the comet, and felt that danger threated someone in the royal family. Many believed that the last days of Sundara Chozla were nearing. The debate all over the country was who would be crowned to rule after him.
+
+Sundara Chozla’s eldest son and the Crown Prince Aditya Karikala lived in Kanchi at that time. He was very brave. After defeating the Pandiya king and making him retreat from the battlefield, the Prince followed him to his hiding place. He chopped of the head of that Pandiyan King and brought it to Tanjavur. He went to Kanchi as a representative of Sundara Chozla and as commander of northern forces. However, the Prince had no peace in his mind. The reason for that was a girl named Nandini.
+
+When they were children Aditya and Nandini had been playmates, friends. She had been raised in the house of a temple priest. Later her family had moved to the Pandiya country. In his last days, King Veera Pandiya had been hiding in her home. When Aditya had raised his sword to chop off Veera Pandiya’s head, Nandini intervened and begged him not to do so. Karikala ignored her pleas and killed Veera Pandiya. After that incident, Nandini’s tear laden face appeared in his dreams and when he was awake and tortured Aditya Karikala’s mind, giving him no peace.
+
+At that time the two lords of Pazluvoor wielded much power in the Chozla empire. The Elder Lord Pazluvoor was a veteran of many battles and wore more that sixty-four wound marks on his body. He was the finance minister of the kingdom. His rule was law in the land. His brother the younger Lord Pazluvoor was the commander of Tanjavur fort. None could meet with the Emperor without their permission.
+
+Sometime after the death of Veera Pandiya, Nandini married Lord Pazluvoor even though he was in his late sixties. The old man was enslaved by her enchanting beauty that had a mesmerizing charisma. Many others fell prey to her allure. At Nandini’s instigation, old man Pazluvoor developed a dislike for Aditya Karikala and his siblings. He decided that after Sundara Chozla, the crown should be given to Madurandaka Deva rather than to Karikala. He garnered the support of Kadamboor Sambuvaraya and other powerful chieftains for his cause.
+
+Madurandaka was the son of devout Gandara Aditya who was the elder uncle of Sundara Chozla. Gandara Aditya’s wife Sembiyan Madevi, was the epitome of Saiva devotion. When King Gandara Aditya died, Madurandaka was a babe in arms. His mother raised him in the path of Saiva devotion. And in his younger days, Madurandaka too had no interest in worldly affairs. After he married a daughter of the Younger Lord of Pazluvoor, and upon the encouragement by Nandini, he became interested in ruling the kingdom. After a while the interest became an obsession.  The Lords of Pazluvoor and others in support, favored Madurandaka’s rights to the Throne.
+
+There were two other chieftain families in the Chozla kingdom: Thiru-kovalur Malayaman and the Velirs of Kodumbalur who refused to acknowledge these new claims. They stood firm on the side of the children of Sundara Chozla.
+
+Sundara Chozla understood all these undercurrents in his empire. He did not wish for the Chozla empire to be reduced to nothing after his time. He wanted to consult with his sons and come to a peaceful conclusion. He was ready to bequeath the throne to Madurandaka. But, Sembiyan Madevi, Madurandaka’s mother did not support that idea. That elderly Lady tried to change Madurandaka away from wanting the kingdom.
+
+Aditya Karikala, did not wish to go to Tanjavur which was under the control of the Lords Pazluvoor. He sent a letter to his father asking that his father should come to Kanchi and stay in the new golden palace he had built for him. A brave young man called Vandiya Devan Vallavarayan carried the letters and messages. That young man during the journey, went to Kadamboor to meet his friend Kandamaran and stayed with him for a night. He overheard the secret conspiracy planned against Aditya Karikala. In that same place he became acquainted with Azlvar-adiyan Nambi, a fanatic follower of the Vaishnava faith. Later he finds out that Nambi was a confidential spy reporting to Prime Minister Anirudda.
+
+The Prime Minister Anbil Anirudda Brahma-raya was a childhood friend of Sundara Chozla. He knew the secrets of all the Chozla families.  His dream was that the empire should grow and spread and attain great fame. He wished that Chozla warriors should conquer lands beyond the Ganges even till the old rivers of the Sindhu. He felt that the Chozlas would assist in deterring the barbaric hordes invading from beyond the north western mountains causing loss of law and order and desecration of Hindu faith in the blessed regions of the Gangetic plains. The squabbles in the kingdom would ruin his dreams. He wished to stop the internal conflicts and find an amicable solution. Though he knew the secrets of everything happening in the country, he did not reveal this knowledge to anyone.
+
+Vandiya Devan who carried the letters to Tanjavur, met Princess Kundavai at the house of the Astrologer of Kudanthai. Even at that first meeting both he and Kundavai found that they had a liking for each other. Later there were other occasions that helped that affection grow. Carrying a letter given by Kundavai, Vandiya Devan crossed the seas to go to Lanka. He met Prince Arulmozli and gave him the letters in which Kundavai had written, ‘there is great danger to the kingdom. Come quickly.’ The Prince who held his sister in great esteem and affection was getting ready to oblige her wishes. At that same time, he had two other messages. Parthiban Pallava sent by Kanchi Karikala wanted the Prince to go with him to Kanchi. The Lords Pazluvoor had sent two armed ships with orders from the Emperor to arrest Arulmozli, (for the treason of coveting Lankas throne) and bring him to Tanjavur. Lord Pazluvoor who was angry about Kundavai did not wish for the Prince to meet her.
+
+Prince Arulmozli wished to honor his father’s orders first. The ship carrying him was engulfed in a whirlwind in the middle of the sea.  In order to rescue his friend Vandiya Devan, the Prince jumped into the stormy sea in the middle of that whirlwind. They floated in the sea holding on to a log that had fallen from one of the ships that had been shattered in the storm.  A boat girl named Poonkuzlali saved them when she was plying her boat in the morning after the storm.
+
+Even while floating in the sea, the Prince was gripped by a severe fever and shivering sickness; It was a fever that was endemic in several parts of Lanka. Poonkuzlali and her cousin Sendan Amudan carried the Prince in her boat and took him to the safety of Choodamani Buddhist Vihara in Nagai Port. Vandiya Devan went to Pazlayarai and reported all these details to Kundavai. At the same time, they came to know that Aditya Karikala had been invited to Kadamboor fort for a banquet. They also had the news that Nandini and Lord Pazluvoor too were going to Kadamboor.
+
+Prime Minister Anirudda and Kundavai believed that if Karikala and Nandini were to meet, something untoward could happen. They wished to prevent such a meeting.  Kundavai sent Vandiya Devan to Karikala: he should try his utmost to prevent the meeting, if not, he should be like a body armor and guard Prince Karikala.
+
+Vandiya Devan finds out some details about another very mysterious and terrifying conspiracy – in the middle of the forest at Thiru-Puram-biyam.
+
+Nandini and others, including Ravidasa the Sorcerer were at that meeting. There was also a very young child in that place. They placed that child upon an old tarnished throne and swore a terrible oath. They had given a shining, sharp sword to that child and asked him to choose one among them to execute their plans of revenge. The child gave the sword to Nandini, who accepted and said she would fulfil the task herself. Ravidasa and the other men wanted to sacrifice –kill- Vandiya Devan in that forest as he knew too many of their secrets. Nandini stopped them. They tied him up and left him there in the darkness. Azlvar-adiyan who had put on a masquerade as a Kaalaa-mukha Saiva acetic came and led Vandiya Devan out of that terrifying forest.
+
+Madurandaka went on a ride by himself, wanting to attend a convention of the frightful Kaalaa-mukhas, hoping to garner their support for is cause. His horse bolted and threw him under a tree. Prime Minister Anirudda chanced to see him under the tree when he was traveling to his home town; he helped the prince and took him home to treat him for sprains and bruises caused by the fall.
+
+Kundavai and Vanathi went to the town of Aanai-mangalam near Nagaipattinam. They met prince Arulmozli at the Nandi Pavilion on the canal. Kundavai insisted that the young Prince should remain at the Buddhist monastery for some more time because of the restless disturbances in the country. It would also help him regain his strength after the poison fever and shivering sickness that had gripped him. Poonkuzlali in the boat heard the three of them laughing about something and was filled by a jealous rage. Sendan Amudan tried to calm her down.
+
+Because of the news that Ponni’s Beloved Prince might have drowned at sea, the whole Chozla empire and even beyond was in turmoil.
+
+------------
+
+Chapter 23 - Can The Mute Talk?
+
+Mr. Anirudda looked at Poonkuzlali for some time; called the maids who led her to come closer. He asked them something in a very soft voice. After they had replied, he asked them to leave the room. He then looked at Azlvar-adiyan and said, “Thirumalai it appears as if there is some mistake.”
+
+“Yes, Sir. I too think so.”
+
+“This is a young girl; she may only be about twenty or so years old.”
+
+“May be not even that!”
+
+“The lady I was expecting should be about forty or so years old.”
+
+“Perhaps a little older.”
+
+“Yes, yes. You have seen Mandakini Devi in Lanka, have you not?”
+
+“Yes, Sir. I saw her and tried to bring her here as you had ordered; but I could not do so.”
+
+“This girl does not even look like Mandakini Devi, does she?”
+
+“No, my Master, She is definitely not her.”
+
+“Then, who is this girl? How did she arrive here?”
+
+“Why not ask her, Sir?”
+
+“What is the point is asking a deaf-mute?”
+
+“Master,  is she mute….?”
+
+“That is what I questioned  the maids about. They said that she has not spoken a single word since she arrived here.”
+
+“Master, who did you send to identify her and bring here?”
+
+“Aha! Did that idiot make some mistake?”
+
+“Which idiot Sir? It is not like you to send some idiot on such important missions.”
+
+“He seemed smart. There was that youth who was fighting with that Vaanar nobleman, Vandiya Devan when I recently went to Pazlayarai.”
+
+“Yes Pinakapani, the son of Pazlayarai Doctor.”
+
+“Yes, it was him! After I had sent you and Vallavarayan to Kanchi, I had that man freed from prison and brought to me. I thought that he would be suitable for our contingent of spies and sent him to Kodi Karai. He said that he had experience of having been to Kodi Karai.”
+
+“Did that man bring this girl here?”
+
+“I had given him all the identification correctly. He had brought her to Thiru-vaiyaru and sent me word that the mission was successful.”
+
+“Sir, where is that intelligent spy who succeeded in this venture in which  I could not succeed. Would it not be wise to question him about this girl?”
+
+“Yes, that is so. Unfortunately, an unexpected accident happened to him last night.”
+
+“Oh, ho, ho! What accident, to him? How did that happen?”
+
+“He was following the palanquin. Since I had ordered that they should enter Tanjavur Fort after dark, they started from Thiru-vaiyaru at dusk, and were coming close to the fort before nightfall. You know about that sudden storm….”
+
+“Yes, Sir. I too had to shelter for some time  in a wayside rest-pavilion, to escape the storm.”
+
+“When the palanquin and men were close to the fort, a large tree was completely uprooted and it had fallen across the road. Luckily, it did not fall on the palanquin. It fell upon the men who were accompanying the palanquin. Pinakapani, the doctor’s son was caught under those fallen branches.”
+
+When the Prime Minister was giving all these details, a woman’s voice said, “Was it just a tree branch that fell upon that fiend’s head? Did not a thunderbolt strike him!?” asked the enraged voice.
+
+Prime Minister Anirudda looked at Poonkuzlali with some surprise. Even as he continued looking at her , he asked, “Thirumalai, was it this girl who spoke just now?”
+
+“Yes, Sir. It seems so.”
+
+“What is this miracle? Can the deaf hear? Could the mute speak?” asked Anirudda Brahma Raya.
+
+“Yes, it is truly a miracle that the deaf begin to hear and the mute start talking. However, if you, who art a devotee of the all-powerful Lord Vishnu,  wish it to be so, anything is possible. What the Azlvar saints have spoken is that….”
+
+“Enough, enough. Do not drag Azlvar saints here and bother them. This did not happen because of the Grace of Lord Vishnu. There has been some mistake. This girl has deceived us. Who is she? What is her intention? Why did she pretend to be a deaf-mute all this time?”
+
+“Master, why don’t we ask this girl herself?”
+
+“My dear man, from the smile dancing on  your face, I think you perhaps know something …. Fine, I shall question her myself. Girl, you are not deaf, are you? Can you hear what I am saying?” asked Mr. Aniruddha.
+
+“Sir, I sometimes wished I was deaf. But I am happy that I can hear very well now. I heard that the tree broke and fell upon that wretch of a doctor’s son, haven’t I? My Lord, did he die and get lost forever?” asked Poonkuzlali.
+
+“Aha! You are able to hear and you are speaking! You are not a mute.” Said Mr. Aniruddha.
+
+“This girl is definitely not mute,” spoke up the assistant.
+
+“Aha! You have now found out that I am not mute. What I have heard must be true, that the most intelligent person in the entire Chozla  empire is the Prime Minister!” said Poonkuzlali.
+
+“Girl! Are you making fun of me? Be careful! If you were not mute, why did you not speak since you came here last night? Why did you act as if you were mute? Speak the truth!” said the Prime Minister Anirudda.
+
+“Sir, till I came here last night I was one who knew how to speak.  Some even called me a chatterbox. When I saw this palace of the Prime Minister and the royal welcome given to me here, I was so astonished that I became speechless! The women in this palace spoke to me in sign language.  Thinking that all of them were speechless mutes, I too replied in sign language. After hearing you speak, I remembered that I too could speak.”
+
+“The is surely no doubt that you are truly a chatterbox. I am surprised to imagine how that young doctor got hold of you and brought you here. Even if he is an idiot, he is smart!”
+
+“My Lord, that sinner did not catch me and bring me here. If he had tried, by now he would be journeying to the land of the Lord of Death.” After saying this Poonkuzlali pulled out the knife tucked in her waistband and showed it.
+
+“Girl! May you be blessed! Tuck your knife back in your waist. Why are you so angry with that fellow? You are saying that he did not abduct you.”
+
+“He  did not capture me. But his men tied me up and bound me to my boat. They tied my sister-in-law to a tree. In spite of all this, that wretch of a young doctor swore that he had nothing to do with all this!”
+
+“At least he had some sense! He behaved just as I had instructed.”
+
+“My Lord, Sir, Mr. Prime Minister! Was it you who sent that vile fellow? Were you the one who ordered them to abduct my aunt, a hapless speechless woman?”
+
+“Aunt! The daughter of Karaiyar folk, Mandakini is your aunt! That means you….? What are you to the Lighthouse Keeper Mr. Tyaga-Vidangar?” asked the Prime Minister.
+
+“Sir, I am his dearest daughter!”
+
+“Aha! I did not know till this day that Tyaga-Vidangar has a chatterbox of a daughter like you.”
+
+“Sir, Please do not tell anyone about that!”
+
+“Why? Girl, why?”
+
+“It is common knowledge all over the country that there is nothing unknown to the Prime Minister of the Chozla Empire. If it were to come about that there was something unknown to you, will it not affect the respect that people have for you?”
+
+“Girl, I am not worried about the respect or regard for me. Just tell me about one other thing that is not known to me. You said that they had   taken your aunt captive; where is she now? How did you get into the palanquin I had sent? Where did you get in?”
+
+“Sir, why did you send men to abduct a speechless mute like my aunt?”
+
+“My daughter! I cannot share that information with you. It is big, related to political matters.”
+
+“Father! then I too cannot give you answers to your questions.”
+
+“There are ways of forcing you to answer.”
+
+“They will not work with me!”
+
+“Girl! I will send you to the dungeon prisons.”
+
+“I cannot be shut up in any dungeon prison.”
+
+“Someone sent to the dungeons, never comes back!”
+
+“I know a fellow who came out!  Sir, even yesterday I was  talking to Sendan Amudan as we journeyed here.”
+
+“Who is he, this Sendan Amudan?”
+
+“He is the son of my other aunt. He and I together, were coming here from Kodi Karai.”
+
+“Why, my daughter?”
+
+“I had a long time wish to see this Tanjavur fort and the mansions and palaces here. I was also eager to see Emperor Sundara Chozla. They said that the Emperor was not well? How is he now? Sir, can I see him?”
+
+“He is just the same; there is no improvement in his health. So, you can forget about wanting to see him.”
+
+“How can I forget? I must see the Emperor. I must see him and tell him about the atrocities in his kingdom, of helpless women in his kingdom being abducted without consent.”
+
+“Girl, I have no time to spend in this sort of useless debate with you. I did not order to have you captured forcefully.  How did you get into the palanquin sent by me? Tell me at least that. Did anyone force you to get into the palanquin?”
+
+“No. My Lord, no in that one matter. When we were coming near Tanjavur Fort, this palanquin was just sitting there, empty. Because it was raining, I myself decided to get into it.”
+
+The Prime Minister turned to his assistant Azlvar-adiyan and said, “I am beginning to understand the situation somewhat. On the road when it was stormy and rainy, they must have set down that palanquin somewhere. She had her aunt step out and then got in to the palanquin. Since the man I sent was unconscious because of the tree that fell upon him,  he could not notice this.  The bearers and footmen did not notice it. This must have happened rather close to the fortress gates. Thirumalai, do you think my surmise to be correct?”
+
+“My Lord, it happened just the way you surmised just now. I saw it happen with my own eyes.”
+
+“You saw It! What is this? Why did you keep your mouth shut all this time? Answer quickly!”
+
+“Yesterday, early in the night, in the rainy darkness, I was coming towards the fortress gates. There was the furious storm and sudden rain. Trees on the roadside were breaking and falling. I decided to wait in one of the travelers’ rest pavilions along the road. Soon after I had sought shelter in one such pavilion, this girl and a young man came there. She said it was her aunt’s son; could be the same man. In the brightness shed by the lightning, I saw rudraksha prayer beads around his neck. Thinking that though young, he must be an erudite Saiva devotee, I wished to tell him about the greatness of lord Vishnu; it would be a good way to pass the time, I thought. By then, they had brought a palanquin and placed it near the front of that same pavilion. I could discern the palmtree symbol of Pazluvoor on the curtains of that palanquin. A woman stepped out of that palanquin and came close to these two. In the dark interior of that pavilion, the three of them seemed to talk to each other by signs. Then, I saw this girl go and get into the palanquin. I could make out in the lightning that the woman who had got out was different from the one that got in. The bearers, did not notice any of this. Later after the rain had stopped, they carried the palanquin and went away.”
+
+“Ah! That is how they hoodwinked me. And all this time you have been quiet without saying anything! What did the other two do after that?”
+
+“After the palanquin had left, they too left. I too started to go on my way.”
+
+“Thirumalai, why were you quiet watching all this? Why did you not stop her aunt? Have you also joined them in their scheming?”
+
+“Wrong accusation, my master, wrong accusation! I am not one to betray in that fashion. At first, I did not realize that all this was your arrangement. Since the palanquin was  from Pazluvoor mansion, I thought it may be some scheme  being carried out by the Younger Lord Pazluvoor. Moreover, would I be able to stop Mandakini Devi from doing anything? We could build damns and stop storm winds; how can one deter that blessed woman? I was one who had tried in Lanka and failed. Moreover, that lady can recognize my face; she might run away after seeing me. After that no one will be able to find her.”
+
+“Considering all this, it appears that the doctor’s son was pretty smart and capable. He had brought her here this far, did he not?”
+
+“My Master, I feel that your surmise on this matter is incorrect. Mandakini devi must have come willingly for her own reason. She must have changed her mind after nearing Tanjavur.”
+
+“Maybe, perhaps. Even so that Karaiyar’s daughter could not have gone too far. The storm and rain continued all night long. She must be here somewhere nearby. Thirumalai she must be found somehow. Perhaps this girl may know where she might be staying.”
+
+“Daughter, what is your name?” asked Mr. Anirudda.
+
+“Poonkuzlali, Sir”
+“Aha! Beautiful name. There is none as skillful as Mr. Tyaga-vidangar in choosing names.   Poonkuzlali, you must know where your aunt might be staying. If you know it, speak. There will be no harm done to her.”
+
+Poonkuzlali seemed to think about it for a little,  “My Lord, I think I know where my aunt might be now; if you could explain, why you ordered her to be captured, I too can reveal her whereabouts.”
+
+“It is a big political matter Poonkuzlali. A secret about the palace. I cannot tell you.”
+
+“I too cannot tell you.”
+
+“It is impossible to talk to this girl!”
+
+“Sir, if you could fulfil one condition …” said Poonkuzlali.
+
+“Oh ho! This girl levies conditions upon me! What is it?”
+
+“If you would place my aunt on the throne of Tanjavur and bestow the jeweled crown upon her head, I will bring her to you myself.”
+
+“Thirumalai, this girl has gone crazy!”
+
+“My Master, did you recognize it just now? There is no need to ask her anything. I know where her aunt is now. Her cousin lives in a garden on the outskirts of the fort. He and his mother are in service providing flowers to the Thali-kulattar temple. The woman you are searching for is in that place. If you send some men with me, I will bring her here,” said Azlvar-adiyan.
+
+Poonkuzlali looked at him as if she wished to burn him down! “If you do anything like that, I shall immediately go to the Emperor’s palace and appeal. I will make sure that all the town knows of the atrocities you commit.”
+
+“Thirumalai, we may need to send her down to the dungeon prisons; there seems to be no other way!” said Mr. Anirudda Brahma raya.
+
+“Sir there is no need to send this girl to the dungeons. Instead of that we could send her to the palace of the Younger Pirati Kundavai.  The Younger Pirati is now in Tanjavur, is she not? The Princess may be able to cure this girl’s craziness. The Princess may have some errands or jobs for this girl!”
+
+“Why do you say that, Thirumalai? What can the Younger Pirati have to do with this girl? What job can she do for the Princess?”
+
+“Master, it is not unknown to you. The storm that raged last night, has wreaked havoc along the Chozla coast. Messengers from all directions are waiting outside your chambers.”
+
+“Yes, I will need to meet all of them now; before that I tried to talk to this girl and have spent too much time. It would have been better if she had been born mute!”
+
+Poonkuzlali, mumbled “Yes you could commit all sorts of violence without being questioned!”
+
+Azlvar-adiyan continued, “I hear that there is a great danger to Nagai Port. They say that the sea boiled over in a big storm wave and has drowned the whole town.”
+
+On hearing those words both Poonkuzlali and the Prime Minister were stunned!
+
+“The Younger Pirati herself may be coming here to consult with you about that!” finished Azlvar-adiyan.
+
+Before he had finished speaking, they could hear sounds of praise and applauding cries hailing the royals outside the palace.
+
+“Thirumalai, when did you become clairvoyant? It sounds like the Younger Pirati is coming here.” After saying this, Mr. Anirudda stood up and walked towards the front doors of his palace.
+
+Before he had gone too far, Kundavai and Vanathi entered the palace through the same doors.
+
+On seeing Poonkuzlali standing there, the anxiety dwelling on the Younger Pirati’s face changed; h
+er face now showed surprise and happiness.
+
+***
+
+Chapter 24 – The Princess is Anxious
+The Prime Minister welcomed the Princess and her friend with due honors and had them seated; then he too sat down asking, “Princess if you had sent word that you wished to see me, I would have come to you. Why have you come in such a hurry? Is the Emperor well?”
+
+“The Emperor’s health is as usual. Sir, but his mind is not well. The storm last night has affected his mindset very much. He could not sleep all night long. He kept lamenting often about the fate of the poor and those living in hutments; he kept talking about how they must have suffered. He asked m
+e to go see you the first thing in the morning. He wished to make arrangements to help those who suffered disaster and loss because of the storm. I came here mainly to tell you about that,” said Kundavai Pirati.
+
+“My dear lady, what can a humble man like me do? You are aware that all  I have is the title of being Prime Minister! Elder  Lord Pazluvoor is away from town now. He must have locked secure the treasure vault. Even Kalanthaka his brother cannot open the treasure vault without his permission. How can I arrange to help those suffering losses? You must have seen the many persons waiting outside. I am somewhat ashamed to even meet with them. I was hesitating to speak about this,” the Prime Minister sang a song of lack of resources.
+
+“Sir, do not worry about that. I will release my personal wealth and belongings. My mother is also ready to do so. We can take the treasure in the Emperors palace. That is what the emperor wants you to do. We must make some arrangements at least  as a temporary relief for the poor and those in distress.” Kundavai spoke with true concern.
+
+“Your  personal wealth will be like puffed grain given to satisfy an elephant’s hunger! The storm last night ravaged all of Chozla lands. I have not even received all of the reports about the situation in every place. Here is this fellow, my most capable assistant,  he is saying something that is most frightful. I believe that the sea surged in a giant wave and has drowned everything all along the coast from Kodi Karai to Nagai Port.”
+
+Mr. Aniruddha noticed how the faces all three women in that room changed to reflect a great fright; he then uttered some words  of solace.
+
+“But I am not ready to believe the stories. They maybe mere rumors. Such rumors spread after any storm. It is too early to get a report from the coastal areas. Even horse-riding messengers can reach here only after noon. Meanwhile, let us make arrangements to organize any help we can render.”
+
+Kundavai somehow collected her thoughts that were causing her distress and confusion, and she said,  “Sir, the rumor about Nagai Port reached me too. I came here to discuss that with you. We had just recently arranged for grants to Choodamani Vihara. If the Vihara was damaged by the rising sea, poor men, what will those monks do?” even as she spoke, Kundavai was looking at Poonkuzlali.
+
+She also asked, “Sir, how did this girl come here? Isn’t she Poonkuzlali, the daughter of Kodi Karai Tyaga-vidangar the lighthouse-keeper?”
+
+“Yes, she is the daughter of Mr. Tyaga-vidangar. But she is not gentle and soft spoken like that gentleman. She is a very troublesome girl; she causes much disruption by involving herself in things that do not concern her,” said the Prime Minister.
+
+Kundavai Devi was worried in a different way. Perhaps this minister has summoned this girl here to find out about Prince Arulmozli. He is an expert in conniving and drawing out secrets. Either way, I must speak on behalf of Poonkuzlali; having so decided, Kundavai said, “I did not think any such thing. She is a very good girl. Come closer my dear, tell me why the Prime Minister is so angry with you? Did you bother him about anything?”
+
+Poonkuzlali came closer to the Princess and said, “My Lady, you must ask the Prime Minister, yourself. Ask if I bothered him, or did he bother me?”
+
+“Oho! You too seem to be angry!  Come sit by me girl!” The Younger Pirati made her sit next to her. Kundavai then turned to the Prime Minister and asked, “Sir why did you summon her here? Is it anything very important?”
+
+“My lady, I did not summon this girl. I did not even know that there was such a strong-willed girl like her. It was she herself …” the minister seemed to hesitate.
+
+“My Lady, why is the minister hesitating; ask him to say the rest!” said Poonkuzlali.
+
+He replied, “she came by herself; in search of her aunt.”
+
+“Who is her aunt? Is it Sendan Amudan’s mother? Their cottage is outside the fortress in the gardens, is it not so?”
+
+“No; it is not Amudan’s mother. She has another mute-aunt.  Princess, it is some information, that you too should be aware of. There is a mute-woman who wanders alone in the forests of Eezlam as if she is mad. I wished to have that lady here, for a very important reason. I went into a great deal of trouble to have her brought here. I was successful, in the end. At that time…”
+Kundavai Devi became indescribably agitated, “is it true? Is that woman here now? I must see her immediately!” she rose from her seat even as she spoke.
+
+“Forgive me Princess; when success was imminent, this girl intervened and spoiled the affair,” replied the Minister.
+
+Kundavai, sat down again with great regret saying “Poonkuzlali, is this true? What have you done!”
+
+“My Lady, Ask this gentleman about the method he employed to bring my aunt here. Then you will not find fault with me.”
+
+The Prime Minister then recounted everything that had happened.
+
+The Princess asked, “that means she must be somewhere near this fortress. Can we not search for her?”
+
+“Fortunately, we do not need to search. My assistant tells me that he saw her this morning at Sendan Amudan’s cottage,”  said Prime Minister Anirudda.
+
+“Then, why do we delay unnecessarily? Let us worry about everything else later. Let us go together and bring her here. If you do not wish to go, I shall go by myself. Vanathi, get up, let us go.”
+
+Azlvar-adiyan intervened, “My lady you must think a little before acting. If she sees a crowd of new people approaching her, that woman might be frightened to run away. After that, we may be able to contain a storm but not catch her!”
+
+“Yes, what Thirumalai says is true. If she sees all of us, her  aunt is sure to run away and all our effort will be wasted.  What is your advice, Thirumalai?” asked the Prime Minister.
+
+“Ask this girl to go by herself and bring her here. There are only two persons in this whole world who can keep that lady in line. This girl is one of them,” advised Azlvar-adiyan. Upon the Prime Minister asking, “Who is the other person?” Azlvar-Adiyan, hesitated and spoke reluctantly,  “The other person … there is rumor adrift all over the country that he has drowned at sea!”
+
+Kundavai pretended not to heed him; she asked, “Poonkuzlali, go soon and bring your aunt here. There will be no harm to her in this place. I need to meet your aunt as soon as possible for a very important reason. Will you help me in this matter?”
+
+“Yes, My Lady. I will try. Anyway, this Prime Minister should not have used this stratagem. If I had known earlier, …”
+“Yes, such mishaps happen because of us hiding things. I realize that myself and I worry about that. Go bring your aunt here quickly. After that I have another important job for you,” said the Younger Pirati.
+
+Mr. Anirudda ordered, “Thirumalai, you go with this girl. If you have any trouble in getting in by the main fortress gates, bring them to our palace by our secret way.”
+
+After Poonkuzlali and Azlvar-adiyan were gone, Kundavai said to the Prime Minister, “Sir please speak to the persons gathered in your front offices, and send them away with any assurances you can give. I need to consult you about some very, very important matters.”
+
+Anirudda left the chamber with these words, “I shall be back directly, My Lady. I too have some things about which I need to discuss with you.”
+
+Vanathi who had been silent all this time now spoke up. “Akka, what is that important task that you have for Poonkuzlali?  Are you going to send her to Nagai Port again?”
+
+“Yes Vanathi. Don’t you worry unnecessarily. No harm will befall Ponni’s Beloved Prince.”
+
+“Can I go to Nagai Port with her Akka?”
+
+“What will you do by going there? I will have to send someone else to take care of you!”
+
+“Akka, that boat-girl does not like me even one bit.”
+
+“How did you figure that!”
+
+“She did not talk to me at all!”
+
+“You did not talk to her; and she did not talk to you.”
+
+“I was looking at her face quite often; she did not even turn to look at me! For some reason, she is angry about me!”
+
+“Yes, my dear Vanathi; All the unmarried girls in  the country are likely to be angry with you. There is no point in you worrying about that,” said Kundavai.
+
+***
+
+Chapter 25 - Anirudda's Misdeed
+Prime Minister Anirudda spoke with the various persons waiting for him in the front offices of his mansion and then sent them away. He hurried back inside to the chamber where Kundavai was waiting for him.
+
+“My Lady, I have made some arrangements; to the extent that I was able to. I have sent men in all directions to estimate and report on the damage caused by the storm. I have sent word to the Younger Lord Pazluvoor, asking him open our treasury resources and to transfer its management to both of us.”
+
+“Sir I have heard that there is a secret treasure trove in a hidden vault near the Pazluvoor mansions. Is it true that there is countless wealth accumulated in that hidden vault? The Elder Pirati had told me about it once.”
+
+“That dear lady had visions to open that vault and use the treasure within to build and renovate a thousand temples! I myself have never been to that secret dungeon vault. Someone accidentally going there is unlikely to come back alive.” Thus said the Prime Minister.
+
+“Let us not worry about that now. Will these two be able to bring that mute-mother here? I am worried that ‘what is in the hand will not get to the mouth!’”
+“My Lady, what do you know about that honored woman? How did you come to know? Why are you so anxious about her?” he asked.
+
+“Sir, some days ago the Emperor himself told me about her.”
+
+“What!?! Did he say that she was alive?”
+
+“No Sir. He told me about things that happened twenty-five years ago. He thought that she was dead. That is why his mind is in anguish.  He said, that it was you who had found out that the mute-mother had jumped into the sea and died. It was you who came back to tell him that. Then how did you find out that she was still alive?”
+
+“I was about to ask you that question! How did you come to know that, my Lady?”
+
+“Why not? I can tell you.  That noble gallant of the Vaanar clan who went to Lanka and came back, he told me first; then my brother Arulmozli…” as if she had realized her mistake, Kundavai covered her mouth with her palm.
+
+“My Lady, if you prefer not to tell me anything about Prince Arulmozli, you do not have to tell me. I will completely forget that you uttered his name just now.”
+
+“No, Sir! I have come here with the intention of telling you everything. I have realized that hiding secrets is merely as cause for distress and there is no benefit in such a cover up. I realized that very clearly last night. Sir, the sea has not swallowed my younger brother. The Ocean King saved Ponni’s Beloved Prince and cast him ashore. He is now at the Buddhist monastery in Nagai Port. I had gone to Nagai just to see him. I had a doubt that you knew all this.”
+
+“Your suspicion is correct; however, I did not reveal to you that I knew! I have been resolved to never interfere in your activities, even though I venture into the affairs of others. I have ordered my men to do the same. I trust and believe that whatever you do will be appropriate.  I and Malayaman and that Kodumbalur Velir have often talked about this; ‘If only the Younger Pirati had been born a man; she would have brought the whole world  under the Chozla royal canopy and ruled it independently!’”
+“Yes, I did have such thoughts. Even though I am a woman, I believed that my dreams would be achieved through my brothers. I have now given up such dreams! Sir, I am now convinced that women should never interfere in affairs of the state, or in politics. Look at this terrible consequence of my having my brother stay in the Choodamani Vihara.”
+
+“Nothing has happened. Would The Ocean King who saved him in the middle of the stormy sea, harm him on land?”
+
+“Sir, can you come immediately to my father and soothe his fears?”
+
+“Aha! Does the Emperor know that the Younger Prince is in Choodamani Vihara?”
+
+“I told him last night. I had to tell him.”
+
+“Ah! I might have been better if it were not disclosed for a few more days. I had been thinking that you had made a good arrangement. My Lady, all of Chozla country is in a big turmoil.  The chaos and confusion resulting from yesterday’s storm was an outward expression; the unrest raging in the hearts of Chozla people has been festering  for some time now. People are very angry about Lord Madurandaka and the nobles of Pazluvoor. They think that the Emperor has been imprisoned. They are aware that ships had been dispatched to take the young Prince prisoner and bring him home. Many believe that Pazluvoor nobles caused the Prince to drown in the sea. If the people realize that the Young Prince is in the heartland already, there is sure to be a fiery uprising. They will instigate a huge agitation demanding that the crown be placed on the Prince’s head immediately! Pazluvoor nobles are waiting for a cause to start a civil war. The Elder Velir of Kodumbalur has collected a huge army and is coming towards Tanjavur. My Lady, I am afraid that a flood of blood will flow in this Chozla heartland. I am afraid that this huge empire will be destroyed because of rivalry between brothers. I have been praying to my chosen divinity, Lord Ranganatha, day and night, that no such calamity should occur.”
+
+“That has been in my prayers too. I have given up my wish to have either of my brothers ascend the throne of this kingdom. As far as I am concerned, I have no objection now, to crown Madurandaka.”
+
+“You have no objection, My lady. But people have objections. Our emperor should live on this earth for many more years to come. However, if fate decrees otherwise and if something were to happen to him now, that very day this Chozla kingdom will turn into a bloody battlefield.”
+
+“Sir, I too am very worried that such a calamity may befall us very soon. Last night the Emperor’s condition took a turn for the worse. That is why I had to tell him that Arulmozli was safe, and calm him down. Even though I told him, he did not believe me. He thought that I was just comforting him. He babbles without sense, in delusion that the ghost of the woman who died long ago is haunting us, that it is seeking revenge upon his sons.”
+
+“Oh, Gracious Divinity! What extreme tragedy is this?  Please tell me in detail what transpired yesterday.”
+
+“That is why I came to you Sir. I wanted to tell all and seek your guidance. The last time I had come here to establish the Sundara Chozla infirmary, he shared that old history with me. He told me how when he was castaway on a remote island in the northern coast of Eezlam, a girl of the Karaiyar fisherfolk had saved him from being mauled by a bear. He then told me how he lived on that island with that girl, for a few months, as if he were in paradise. After that he was rescued and brought back to Tanjavur and anointed as the crown Prince, he told me. He said that he had seen that Karaiyar’s daughter, in the crowds  gathered in front of the palace; he had asked you, his best friend, to go find her. And that you had gone in search of her till Kodi Karai, and had come back reporting that she had jumped into the sea and died. He then said that the ghost of that woman comes often, to haunt him and trouble him; and the haunting incidents have increased lately. All this he said.”
+
+“My Lady, did you believe all that?”
+
+“The story retold by my father was so unbelievable that I was very confused in my mind. I thought that it may be his delusion, that thing about the ghost of the dead woman coming to haunt him. Afterwards, when I thought about several things, I had some other doubts. One night Vanathi had gone to see what was happening when she heard the Emperor’s call for help. She was shocked to see a figure that looked like the young Queen of Pazluvoor, standing in front of the Emperor, and in that shock, she fell down in a faint. After that it occurred to me that there must be some relationship between Pazluvoor Nandini and the Karaiyar woman. My doubts were confirmed after I heard what Vandiya Devan and my brother had to say. Sir, is it possible that Nandini is a daughter of that mute-woman?”
+
+“My Lady, I too can only surmise and guess just like you. One has to consider the possibility based on the similarity in their looks. Can we be sure with just that  similarity? Nandini could perhaps be the youngest sister of the mute-lady. There are three persons living who know all the true details.”
+
+“Who are they Sir?”
+
+“One is the Elder Pirati Sembiyan Madevi. There is some secret in her heart that is causing her distress. Unless she herself tells us what that is, we cannot ask or find out.  I know that the Elder Pirati, shared that secret with the great soul who was her husband Gandara Aditya, when he was on his death bed. Gandara Aditya started to speak about it with me. Before he could utter two words, his breath stopped.”
+
+“Who are the other two persons?”
+
+“The other two persons are mute, who have no speech; they are Sendan Amudan’s mother and his elder-aunt. Of those two, we cannot learn anything from Sendan Amudan’s mother. She is devoted to Sembiyan Madevi. As long as the Elder Pirati is alive, the woman will not reveal anything. That is why I had engaged in the great effort to bring the elder sister Mandakini Devi from Lanka.”
+
+“Aha! Is that Karaiyar woman named Mandakini? When did you know that she was still alive?”
+
+“My Lady, that was known to me since the past twenty-five years.”
+
+“What? What is this? You did not tell my father even though you know this for twenty-five years? Sir, are you not aware of the mental anguish suffered by my father because he thought that she was dead?”
+
+“I know, My Lady, I know.”
+
+“You did not tell him the truth even after knowing about his anguish?”
+
+Prime Minister Anirudda sighed deeply. His face reflected the immense struggle in his heart. He then spoke thus:
+
+“My Lady, twenty-five years ago,  I committed a crime. I am  speaking about that for the first time, with you.  Your father had asked me to go find the Karaiyar girl.  I went with swift horsemen and reached Kodi Karai. There we found that she had fallen from atop that lighthouse in to the tumultuous sea. The people who had witnessed that horrible scene told us. Tyaga-vidangar spoke in a shaken voice and faltering words. I came back and reported all to my friend in  Tanjavur.”
+
+“Where is your crime in this, Sir?”
+
+“This is the crime. The girl fell into the sea but, she did not drown in it. In that tumultuous sea there was a fisherman, who saw her and rescued her; he took her into his boat and saved her life. He came ashore very far away from Kodi Karai. On my way back, I saw that boat come ashore. I found out who the girl in his boat was. I gave a lot of money to that boat-man and asked him to take her safely to Lanka and stay there with her. He agreed and left. I came back to Tanjavur and reported that the Karaiyar girl had fallen into the sea and had died. I knowingly committed that crime, thinking that I was doing your father a favor. I did not think that my crime would result in such extreme misfortune after all these years.”
+
+Kundavai interrupted the Prime Minister and said, “Sir even if you committed that crime, you did so with the thought of doing a good thing for my father. After that, did you hear about that Karaiyar girl?”
+
+“Yes, I did hear about her periodically. After he was anointed Crown Prince, Sundara Chozla went to the battle front near Madurai. I went to the pilgrimage center Kasi in the north. I stayed there for some years and learned the arts and sciences of Vedanta and came back. I was surprised to notice one day in Pazlayarai, that Mr. Esanya Bhattar’s father was talking in privacy with that woman. He shared a surprising story with me. He said that the mute woman had come to stay in the gardens of the Elder Pirati for some days. She had delivered twins and abandoned them in the garden before she ran away. Sometimes she would think of her babies and come secretly to see them. I asked him about those babies and he refused tell me anything more. It seemed to be a secret known only to Lady Sembiyan Madevi. I too let it be, thinking it might be better to not dig into too many details. My Lady, do you remember when Arulmozli fell into the Cauvery when he was very young, and how everyone thinks that Mother Cauvery rescued him back to safety? Even at that time I thought that it might be that Karaiyar woman of the fisherfolk who saved him from the river floods.” Thus spoke Mr. Anirudda.
+
+“Your surmise is true. Arulmozli met that lady in Eezlam and came to tell me that. But, listen to this jest. Do you know what my father thinks? He thinks it  is that woman who fell to her death in the sea, that is coming back as a ghost and seeking revenge on his children. When the storm was raging outside last night, a heavier storm seethed in my father’s heart. He did not sleep the whole night; and would not let me sleep either. He, spoke of the old stories again. ‘That revengeful woman who fell into the sea is the one seeking revenge upon me now. She is the one who drowned my Arulmozli at sea and killed him. She will not let Karikala be, till she takes her revenge on him too.’ He raved and ranted in this fashion. ‘Why don’t you take me Oh, Lord of Death when at least one of my dear son’s is alive?’ he wailed. However much I tried comforting him, he would not be calmed. That is when I had to tell him that Arulmozli was safe in the Buddhist Vihara at Nagaipattinam,”  explained Kundavai.
+
+“Did the Emperor feel comforted after hearing that?”
+
+“That did not happen; after that, his mind became even more deranged. At first, he did not even believe what I said. After I assured him that I had gone and seen him personally, he believed. He asked why I had not brought him back here. I explained that my brother has not regained his strength after the shivering fever  and sickness and I would soon make arrangements for him to be here. I tried to hint about the confusion that may arise in the kingdom if he comes here now. Once he heard that, his mindset took a different turn. ‘This kingdom is the death-curse for my sons. If it becomes clear that this kingdom is not for them, my sons are sure to live comfortably, happily. That is why I am so eager to have them brought here, to be by my side,’ he said.  Suddenly another fright took hold of his mind. Last night the whole palace was shaken up because of the storm. My father became more irrational after one tumultuous roll of thunder had sounded and stopped. ‘My dear daughter, I am not going to see Arulmozli anymore. I know very well about the storm winds and whirlwinds that arise and blow over the southern seas. This storm blowing like this here, is sure t make the sea rise in tidal waves as tall as coconut palms. The sea will froth and rise to come and drown everything far inside land. Once, long ago, the sea took away Kaviri-pattinam; it might do the same and drown Nagai port also. Moreover, the Buddhist vihara situated between the canal and the sea will never survive intact. That revenge filled ghost of the Karaiyar woman could not kill my son at sea. She is now going to take her revenge on land and kill my son. I will go right now and stop her and save my son!’ with such cries he tried to rise. Weakened by that effort he fell back on his bed. Sir, if those sobbing cries of my father had been heard, even stones and mountains will melt.” Thus spoke the Younger Pirati Kundavai; tears were streaming down her face, in waves, as she said all this.
+
+***
+
+Chapter 26 – Confusion On The Streets
+Vanathi also began to sob when she saw Kundavai Pirati in tears. Even the  iron hard heart of Anirudda Brahma Raya who had seen many a sorrow and happiness in life, softened.
+
+“My dear, I a sinner, am the cause, for the many difficulties being experienced by the Emperor. I am not sure of how I shall atone for my sins!” he said.
+
+“Sir, there is nothing that you do not know; yet, let me say what I think.  If my father is told that the mute-woman of the fisherfolk is not dead, that she is still alive, his distress will be relieved and he will find mental peace. I came to you, to tell you this. I came to ask you to make arrangements to somehow find my elder-mother. However, you have already made the effort,” said the younger Pirati.
+
+“Yes, My dear! I too had come to the same conclusion. I had determined to let the Emperor know that Mandakini Devi is alive. If I were to just inform him, he would not believe me. How  am I to convince him to believe that everything that I had said before is untrue and what I am saying now is true? That is the reason why I wanted to bring that lady here. I would tell him about it after she was here; he would then have to believe upon seeing her in person. I had  gone to Lanka mainly because of this matter. However, the noblemen of Pazluvoor have told the Emperor that I went to Lanka to conspire with your younger brother and the Elder Velir of Kodumbalur. In order to prove that it is not true, I shall bring Mandakini Devi before your father.”
+
+“Sir, if you bring her to his presence, suddenly like that, it may result in harm to my father. We have to inform him of the details and then bring her to his presence.”
+
+“Yes, yes. That was my intention. I thought that after Mandakini had arrived at my house, I would go to the Emperor and tell him. I was planning to go over to the Palace this morning. Tyaga-Vidangar’s daughter interfered in between and made me disappointed. I will one day punish that strong willed-girl appropriately,” said the Prime Minister.
+
+“Oh, dear! Please do not do anything like that! I do not  know whether she is faultless or if she is strong-willed; but it is Poonkuzlali who saved my brother from drowning in the sea.”
+
+“Say that God saved him. My dear, it is the Grace of the Lord who Reposes on the Milky Ocean, Lord Vishnu, that saved him. Without the Lords Grace, what can this young girl do? If the science of astrology is true, if the effect of planets and stars hold true, no fire, ocean, storm or earthquake can harm the Prince….”
+
+“Yes, with God’s Grace, nothing will happen; However, Divinity’s powers manifest through humans. I plan to send Poonkuzlali to Nagai Port once again. Sir, however, if you think otherwise, if you think we can ask Arulmozli to come here openly ….” Kundavai did not finish her thoughts.
+
+“No, my dear, No. Till a decision is made about who gets the throne, it is better that the public do not know anything about Arulmozli Varma. I am going to ask your father for a final choice today. If we are to crown Madurandaka, it is better that  your brother Arulmozli goes back to Lanka. As long as Arulmozli is here, the people will never accept the crown being given to Madurandaka. The Chozla region will turn into a battlefield; all these rivers of Chozla heartland will be flooded with blood.”
+
+“Sir, in that case, is it not better to send Poonkuzlali and Sendan Amudan to Nagai Pattinam?”
+
+“That is the best. If the Emperor insists Arulmozli can come secretly to Tanjavur and go back.”
+
+“True; yes! Once the Emperor realizes that both Mandakini Devi and Arulmozli are still alive, he will have peace of mind.”
+
+“You father does not have any concerns about the Elder Prince, does he?”
+
+“No, none. My father believes that there is no one in this world who can endanger Aditya Karikala. What do you think Sir?” asked Kundavai.
+
+“I do not have any such trust. The elder Prince is very daring and brave on a battlefield. It is not difficult to betray him and deceive him in other matters. The Pazluvoor nobles bear enmity towards him. The young Queen of Pazluvoor is scheming some frightening, secret ploy against him. I sent my assistant to the Prince, to tell him all this information. It was of no use. We have invited him to come to Tanjavur so many times and he has refused; now he has gone  to Kadamboor Palace,” said Mr. Anirudda.
+
+“Sir, I too have sent word to my brother, that Pazluvoor Nandini might be our elder sister. I have asked the Vaanar nobleman to remain beside my brother and guard him. If only Lord Vallava was here now, we could have asked him to go to Nagai Pattinam!” said Kundavai.
+
+“And I would have sent my assistant Thirumalai to go with him to help him from untoward dangers and mishaps; Even now, if you are sending Poonkuzlali, I plan to send Thirumalai with her.”
+
+“They have not yet come back, from where we sent them. If my elder-mother comes, three fourths of the worry in my heart will be resolved. Sir, you will meet my father and tell him about her as soon as she arrives; you will do that won’t you? I have to tell my mother the whole story from the very beginning…”
+“Aha! How many troubles for the daughter of Malayaman! And when the old man of Thiru-Kovalur gets to know all these details, I am worried about what he would do. He, Malayaman may start up saying he would destroy this whole kingdom, if he comes to hear that the crown is not for  his grandson!”
+
+“Leave the job of handling my grandfather to me. Here is this girl Vanathi, I am worried about her Elder Uncle. He has hopes that a Kodumbalur noblewoman would one day sit upon the Chozla throne! This girl too, has such wishes in her heart….”
+
+Vanathi spoke up with anger in her voice, “Akka! ….”
+
+Before Vanathi could continue speaking, Poonkuzlali entered the chamber. All three were somewhat startled to see her come alone.
+
+The Prime Minister asked in a tense voice, “Daughter of the Karaiyar folk, where is your aunt? Where is Thirumalai?”
+
+“Sir, my pride is wounded. I have not been able to bring my aunt here as I promised,” said Poonkuzlali.
+
+“Was she gone before you went there? Or did she refuse to come with you? That means ….”
+
+“No sir, we were able to bring her into this fort. It was after that, that my aunt got caught in the crowds and is now lost!” said Poonkuzlali. She then retold all the details of all that had happened.
+
+Fortunately, Mandakini Devi was still in Sendan Amudan’s house. Several incidents had happened to make her stay there. In the storm of the previous night Amudan’s cottage and gardens were totally wrecked. A large tree in the garden had fallen on the roof of their cottage. Sendan Amudan who had been drenched in the rain, was now gripped by a burning fever and was bedridden, gibbering  in a delirium. Both sisters were busy in clearing the tree branches over the roof and bringing some order to the cottage. Mandakini was very happy to see Poonkuzlali; she was hesitant about Azlvar-adiyan. She seemed comforted on hearing that he was a friend. On the way there, Poonkuzlali and Azlvar-adiyan had discussed a strategy on what and how to tell Mandakini all the details so that they could convince her to go with them. Poonkuzlali spoke to her aunt accordingly, in sign language. She told her aunt that the Emperor was ill and bedridden; he might leave this earthly life at any time;  before he draws his last breath, he wished to see Mandakini one more time. Even over all these years the Emperor had not forgotten the mute-woman of the island. If he saw her, he might regain new strength and perhaps live a little longer! This is what Poonkuzlali conveyed to her aunt by sign language. She further explained that the Prime Minister Anirudda had sent men to capture her and bring her to Tanjavur for this purpose.
+
+Poonkuzlali explained that she had stayed in the Prime Minister’s mansion this previous night. The beloved daughter of the Emperor, Kundavai Devi was waiting in the Prime Minister’s mansion to take the mute-queen to her father’s bedside. After Mandakini had somewhat understood all this, she agreed to go with Poonkuzlali and Thirumalai. When they reached the fortress gates, the Velaikara Battalion was just entering the fort. They stood aside and waited to let the contingent go in. Mandakini was watching those soldiers with great interest without blinking an eye.
+
+A huge crowd tried entering the fort by following the Velaikara Battalion; the guards were trying unsuccessfully, to stop the crowds by shutting the gates. “Let us not get caught in this crowd. There is a special underground passage way to get in and go directly to the Prime Minister’s mansion. Let us go by that way,” said Thirumalai. Poonkuzlali tried to explain this to her aunt. The mute-aunt did not notice that and continued to get in with the crowds at the gate. Thirumalai and Poonkuzlali followed her.
+
+Once they had come inside the fort, Thirumalai suggested another special route to get to the palace. But her aunt did not seem to heed that. She mingled with the crowds. They were both surprised to see this behavior in her who usually shied away from crowds. After they had walked in this fashion for a little distance, some persons in the crowd began to look at Mandakini in particular. They started saying to each other, “doesn’t this woman look like the Young Queen of Pazluvoor?” Thirumalai and Poonkuzlali began to worry about those comments. They tried to go and stand in front of Mandakini and stop her. Some fellows who noticed Azlvar-adiyan remarked, “Who is this Vaishnava fellow? Bothering womenfolk?” Some of the soldiers at the tail end of the Velaikara battalion heard these comments and turned around. They cleared the people crowding around the mute-lady. Thirumalai and Poonkuzlali were also forced away and they had to stand aside. One of the soldiers asked Mandakini, “Mother who are you? Who is bothering you? Point him out, we will hang him right here! Tell us.” The mute-queen stood without replying.  She could not reply to more questions posed by some others.
+
+By then one fellow started saying, “Does she not look like the Young Queen of Pazluvoor?” Another said, “It must be her; that is why she is so smug.” “The whole Pazluvoor lot are full of arrogance,” said another. All this was happening close to the palace of the Younger Lord Pazluvoor; so, some of the Pazluvoor guards came forward to find out what was going on. They heard the Velaikara soldier saying “the whole Pazluvoor lot are arrogant!” “Hey! Who is that fellow insulting our Pazluvoor lot? Let him step in front of me!” said the Pazluvoor footman. A Velaikara man stepped forward, “It was me fellow!  What can you do, you fellow?” “You fellows are the ones full of pride; the time has come for your pride to be chastised!”  another man in the crowd added, “Oh, ho! Are you talking in this fashion because you have drowned our Prince in the ocean? It is because of sinners like you being alive that the storm blew last night and the whole country is in ruins.” The Pazluvoor man replied angrily, “What did you say!!”  and tried to attack that man. The Velaikara soldier tried to stop them.
+
+After that the crowd because raucous, getting into to fisticuffs with each other and raising loud cheers: some said, “long life to the most generous Pazluvoor nobles.” Others said, “Long Life to Sundara Chozla who owns all three nations!” Other voice also arose saying, “Victory to Kodumbalur Velirs!” “long life to Malayaman of Thiru-Kovalur.” At that time, Lord Kalanthaka Pazluvoor himself came riding into their midst. On seeing him, the crowd scattered in all four directions. The Velaikara men marched onwards. The Pazluvoor footmen surrounded their Lord and tried to explain what had happened. Poonkuzlali and Azlvar-adiyan had stepped away from the road to one side. They looked all around and could not find Mandakini Devi.
+
+“Oh dear! What is this? What has happened? What sort of a bizarre  administration is this in the Capital City? How are we to find my aunt? Would some dangers have befallen her? Has someone taken her prisoner?” Poonkuzlali began to worry in this fashion. They searched everywhere after Lord Kalanthaka and his men had gone away. They did not find Mandakini. Thirumalai said to her, “I shall look for her some more. You go to the Prime Minister and the Princess and tell them what has happened. It is not sufficient that just the two of us search for her. The Prime Minister and the Princess may make some arrangements.” When Poonkuzlali hesitated, Azlvar-adiyan said once again, “Listen to me, nothing could have happened to your aunt. She has spotted some familiar face in the crowd. I think this because she was concentrated in looking at one direction the whole time. That is why she mingled with the crowd to come in here. She is sure to have followed that person now. We will find her. You go and tell the Prime Minister.” Poonkuzlali then came to the Prime Minister’s mansion.
+
+Kundavai became very worried on hearing all this. The Prime Minister did not seem very concerned. “Did you notice Princess? The monster of chaos and riot is awaiting an opportunity at any time! Do you realize this? If the news that Arulmozli is alive becomes public, fires will rage everywhere in the kingdom.”
+
+“Nothing will happen as long as you are Prime Minister; now tell me what we can do about elder-mother. My fears seem to be coming true. How are we to find her now?” she asked.
+
+“You need not be concerned about that. Once she has come inside, she cannot leave this fort without my knowledge. Let me make arrangements for that. I will also arrange to search for her. Mandakini Devi herself will not leave this place without seeing the Emperor.
+
+***
+
+Chapter 27 - In The Treasure Vault
+It now becomes crucial that we follow that best among women, Mandakini Devi, from the spot that she was parted from Poonkuzlali on the streets. Azlvar-adiyan’s surmise of why she might have been lost in the confusion and crowds in the street inside Tanjavur Fort, was correct. Mandakini had spotted Ravidasa the Sorcerer in the  crowds that had followed the Velaikara Battalion as they entered the fort in the morning. Those who do not have the use of certain sensory faculties, usually have heightened sensory perception in other ways. Mandakini could not hear; she had no speech; but her eyes were sharp.  Poonkuzlali and Azlvar-adiyan were looking at her all the time and failed to spot the sorcerer mingling in the crowds. He was seen by Mandakini.
+
+Mandakini also had the  intuition and sensitivity to become aware of good and bad that might occur soon. She realized that Ravidasa was coming to that fort with some evil intention. She knew that Ravidasa had tried to kill Arulmozli Varma in Lanka. Even as she walked as part of the crowds on Tanjavur streets, her eyes did not lose sight of Ravidasa.
+
+At the height of the confusion in the street, Lord Kalanthaka had come riding on his horse and the crowds had scattered quickly.  Mandakini noticed Ravidasa and another man go hastily into a small side street. She kept the direction in mind and quickly went towards that street and  entered it.
+
+All this happened within a minute; Azlvar-adiyan and Poonkuzlali pushed around by the scattering crowds missed keeping an eye on her. Even as Mandakini hurried through that side street she looked back once or twice to see if Azlvar-adiyan and Poonkuzlali were following her. She could not see them; following Ravidasa was more important she felt.
+
+Ravidasa and his companion took the same streets by which Vandiya Devan, earlier in this saga, had escaped from Lord Kalanthaka’s men. We have also met Ravidasa’s companion earlier. He was Soman Samban whom we had seen at the meeting of the terrorists in the forest at Thiru-Puram-biyam. The two men hurried through the by-lanes and alleyways. They hastened on, jumping over and not minding the trees and branches which had fallen and at times blocked the lanes and pathways. They did not mind the muddy pools of water collected here and there after the storm. Since the breeze was still blowing, tree branches and leaves moved with a swishing sound. Water drops fell noisily upon them from those trees. They did not have even a jot of a doubt, that someone might be following them. So, they did not bother to look behind, just hurried on. Even if they had looked around, they would not have spotted Mandakini Devi. Finally, their hurried walk brought them to the tall surrounding walls behind Elder Lord Pazluvoor’s mansions. A tall uprooted tree had broken and fallen across that wall. They easily climbed up the branches of that tree and jumped over the wall and into the garden on the other side. Mandakini who was watching them followed suit in a short while, climbing onto the branches and got down into the garden over the wall.
+
+Ravidasa had Soman Samban wait in the garden, and went towards Lord Pazluvoor’s mansion. The mansion seemed empty because both the Lord and his Queen were not there. Only the sounds of women chattering could be heard. Two of the servant girls came out to the steps and looked at the several trees that had broken and fallen, “Aha this is like the Ashoka Vana garden destroyed by the monkey Hanuman in the myth!” Another girl said, “If our Sita Devi were here to see this, she would have been very saddened.” After conversing in this fashion for a while, the girls were about to go back into the mansion.  Ravidasa pouted his lips and made a sound like the call of an owl. Both girls looked around; Ravidasa was well hidden.  “Look at this girl! An owl calls in broad daylight! The owl  has lost its senses in the harsh storm of last night!” The other girl did not reply.
+
+The girl who had gone away without replying to her companion came back after some time. She took the walkway and came to the flower arbor in between the Pazluvoor mansion and the treasure vault building. Our readers might recall that it was in this flower arbor that our hero Vandiya Devan had met Nandini. That maid servant came and stood in that place and peered into the garden. She heard the owl hoot again. She  walked towards that sound. Ravidasa stepped forward from his hiding place behind a tree. He glared at her with eyes that seemed to have a magnetic pull!
+
+She asked, “Sorcerer! You have come! The Young Queen is not even here; why have you come?”
+
+“Girl, I have come because the Young Queen has sent me here.”
+
+“You did not stop haunting her even in the place she has gone! Why did you come here now? If someone comes to know ….”
+
+“What does it matter if someone knows?”
+
+“Don’t say that. The Younger Lord Pazluvoor suspects us. He called me one day and warned me seriously. He has ordered that if the Sorcerer comes again, we are to report to him.”
+
+“Let that fellow get lost! The time has come for all of them. You don’t worry about that. I need the keys to the underground vault mansion. Go bring it to me quickly,” said Ravidasa.
+
+“Oh dear, I cannot!”
+
+“Look here: this is the signet ring of your mistress.” Ravidasa showed the signet ring of the Young Queen.
+
+“Who knows where and how you stole this ring!”
+
+“You wretched sinner! Are you calling me a thief? You have seen how your Young Queen shakes with fright in front of me; are you saying such words even after seeing that? Watch it; tonight itself, nine apparitions will come and snatch you and take you even when you are alive, to the cremation grounds….”
+
+“No, no! let your ghosts and apparitions stay with you. Why do I care?  Because you are showing the signet ring of the Young Queen, I will bring what you ask.  But don’t be in a hurry.  The girls are coming out here often to look at the devastation in this garden after the storm. I will bring you the key when everybody is eating. Be patient until then.”
+
+“Fine! Bring some food for me too; it is two days since I ate; bring a lot of food!” said Ravidasa. After the serving maid had gone, Ravidasa and Soma Samban sat down on a fallen tree truck and talked amongst themselves. Without being seen by them, Mandakini also sat down a little further away, well hidden. She did not hear or understand any of the conversation between Ravidasa and the servant girl. But she guessed something was going to happen.
+
+After a long time that girl came back. Ravidasa got up and went to her; he took the food bundle and the bunch of keys she had brought.  They walked down the foot path to the flower arbor  and then onwards towards the vault mansion. First one key, a second and then a third; after turning all the keys, the lock opened. It was pitch dark inside that mansion.
+
+“Oh! I forgot! How to go inside this dark room without any light? Go bring me a lamp or a torch.”
+
+“How am I to bring a lamp or torch in broad daylight? What if someone sees and suspects?” she asked.
+
+“That I do not know? Are you saying that you do not have the smarts to do even that? Go bring some light, a lamp or a torch. If you do not do that, I will send twelve flame mouthed ogres tonight to y…..”
+
+“Oh, stop it! I will try somehow!”
+
+“By then, I can finish eating.”
+
+After the girl had gone back to the palace, he turned back into the garden to Soman Samban. Ravidasa gave the food bundle to Soman Samban and said, “You might have to remain in the vault for two or three days.  You might need to wait for the correct opportunity; so, keep this food with you. Pick up your spear and come with me silently. She has gone to bring me some light; you must get into the vault mansion before she comes back.”
+
+Both men walked quickly. Mandakini  followed without them being aware.
+
+***
+
+Chapter 28 - Underground Passage
+After looking around on all sides, Ravidasa went forward and showed the open doorway to the vault to Soman Samban and asked him to go inside.
+
+“At first you cannot see anything in the darkness; don’t stand by the door because of that. Go in a few steps at least, and wait.” As soon as Soman Samban stepped into the dark mansion it seemed as if darkness had swallowed him. After that, Ravidasa walked back along the footpath and came to stand in Nandini’s flower arbor. He stood there looking at the big mansion of Lord Pazluvoor. If anyone other than the servant girl came out, he might have to hide, perhaps go inside the dark mansion and close its door.
+
+When Ravidasa stood gazing at the main palace,  Mandakini walked up softly without making any noise and entered the vault mansion by the open doorway. The darkness of that vault mansion was nothing to her who had roamed the dark jungles at midnight many times. Within a few short moments, she was able to see. She noticed that the man who had come with Ravidasa had walked into a big pillar ahead and was in agony. She walked in a direction opposite to him and found some steps going down. The underground passage was going downwards; she walked down and stood at the base of those steps.
+
+Soman Samban must have heard a noise, he called out “Who is that? Who is that?” His call floated out softly through the open doorway and fell upon Ravidasa’s ears. At the same time, Ravidasa saw the palace serving girl come with a lighted torch. He wanted to go ahead and warn Soman Samban; walking quickly he stepped into the dark mansion and asked, “Sambava. Where are you?  Did you call for me?”
+
+“Yes, I had called out.”
+
+“In a hurry already? What if someone had heard your voice outside? Were you worried that I would leave you here like this and go away?”
+
+“No, no. I called out to ask you about something,” he then came closer to Ravidasa. They could see a bright torchlight outside the doorway. “Oh, the girl has come back with a torch light. She might see you. Go, go. Go far away and hide behind a pillar. Quick!” warned  Ravidasa. Soman Samban hurried away.
+
+The servant girl came with a lit torch to stand near the door way. She called, “Sorcerer, Sorcerer! Where did you go?”
+
+“I did not go anywhere; just waiting for you.” She came closer to her and took the torch from her hands. “Girl! Lock the door from outside.  Come back in about half an hour with the keys. Knock on the door, if I answer, open the door. Make sure that no one is around when you open the door.” He gave her instructions.
+
+“That is alright Sorcerer; but I am warning you. The younger Lord Pazluvoor suspects something. If you are caught, don’t give me up,” requested that serving maid.
+
+“Girl, don’t be worried unnecessarily. I told you before, the end times are here for that Kalanthaka.” (Note: play on the meaning of the name Kalanthaka - one who ends all time, Lord of destruction.)
+“Why are you asking me to come back and open this door? There is a way to go out from the underground passage, you know that.”
+
+“That exit won’t be useful today. The River Vettaru is in full flood. You go and come back in exactly half an hour.”
+
+The girl went out and locked the door. Ravidasa locked the bolt from inside. With the torch held high, he hurried towards the spot where Soman Samban was standing. “Sambava, you wanted to ask me something. Ask now.”
+
+“Did you come in here before this?” asked Soman Samban.
+
+“Why one time, I have been here many times. Where do you think all the treasures we have collected have come from?”
+
+“I do not mean that. Just now after you had left me here and gone out, again did …”
+“I am coming in just now.”
+
+“Did you come in here in between?”
+
+“I  came  neither in between nor in the edge! Why do you ask?”
+
+“Soon after you had stepped out, the light from the doorway vanished for one moment. I banged my head against that pillar.”
+
+“Perhaps the door swung close and back by itself.”
+
+“It seemed as if a figure had stepped in here; I even heard footsteps.”
+
+“Your Imagination. This underground  passage way is like that. We can see shadows in the dark. Suddenly lights will appear and go out. All sorts of funny noises will be heard. Some who entered here have died with mere fright. Their skeletons are scattered all over the passage. This fellow of Pazluvoor has deliberately left the skeletons remain here. If someone who should not do so, enters here, they will perhaps die of fright.”
+
+“Can anyone enter here without it being known?”
+
+“Normally no one can; I do not think anyone but me has entered without authorization. Even I came in here only with the help of the Young Queen or her maid.”
+
+“Then you talked about the skeletons of men!”
+
+“Oh that! If that nobleman Pazluvoor wishes to punish someone horribly, he would leave that doorway slightly ajar. People who have heard of the secret treasure trove would enter with a greed for wealth. They do not leave the place.”
+
+“Are you saying except you, no unauthorized fellow who entered here has left this place?”
+
+“Yes, it was so till recently. Now I have my doubts about two persons.”
+
+“I think I know who you mean. You are speaking about Vallavarayan and Kandamaran.”
+
+“Yes.”
+
+“We have let them remain alive, until now.”
+
+“How many times do I have to explain. The young Queen has left Vandiya Devan alive for a very important reason. When the clansmen of Sundara Chozla perish, Vandiya Devan too will die. Come! Come! Let me show you the many passage ways in this hidden mansion. Be very careful about one thing. There is a chamber inside here where the Chozlas have stored mounds and mounds of various gemstones they have accumulated over hundreds of years. Don’t get caught in that chamber. If you fall enamored of those gemstones, you will forget the job on which you have come here.”
+
+“About whom do you utter such words? I too have sworn a pledge over the headless body of Veera-pandiya!”
+
+“Who denied that? When I saw those mounds of gems, even my mind was slightly shaken. That is why I am warning you. Let it be, come, I will first show you the passage going into the Chozla palace. After I show you that and leave, you can explore the other passages at your leisure. It might come in useful at a later time.”
+
+Ravidasa walked ahead with the lit torch in his hand. Soman Samban walked next to him. They walked down the same passage way that had been taken by Lord Pazluvoor and Nandini that time long ago. In the light of that smoky torch the pillars and the shadows cast by them in that passage way appeared like large dark ghouls and goblins. The large bats dwelling in that darkness seemed like frightening vampires. Here and there, they could see huge spider webs with giant spiders in their midst. On the floor there were curiously shaped  creatures that scurried away hastily  or crawled slowly. Just as Ravidasa had described, they could hear various weird sounds. The storm winds blowing outside, somehow echoed inside there.
+
+Soman Samban stopped suddenly, startled, “Ravidasa, did you hear something, like footsteps?” he asked.
+
+“Why not? Of course, I hear our own footsteps. Don’t panic unnecessarily. If you are so scared, even now when I am beside you, how will you remain here for two or three days?” asked Ravidasa.
+
+“I am not afraid. Instead of being frightened by mindless mirages after you have left, is it not better to get things clear when you are here? You had said that some who had entered these passages died here….”
+
+“Yes, their ghosts are sure to wander around here. So, what? Ghosts and goblins cry in fright upon seeing men like us. That youngster Vandiya Devan somehow tarried in this underground chamber without being afraid and escaped from here. Why should you and I who have so many frightening ghouls and ghosts be afraid here?”
+
+“Forget ghouls and ghosts; who needs to be afraid of those phantoms? Other creatures, poisonous organisms might be here, can’t they?”
+
+“Are you going to be frightened by snakes and scorpions? They will go hide in their burrows if they see us!”
+
+“Even so, I am concerned about staying in here for two or three days! Ravidasa, if  I get an opportunity earlier itself, shall …..” started Soman Samban.
+
+“No, Don’t! Do not make that mistake. This is Tuesday; you must wait Wednesday and Thursday. Watch and find out when Sundara Chozla is left alone. His consort the Queen, is always by his side. On Friday night she is sure to go to the temple of Goddess Durga. It is on that night that you should finish your task. It is on Friday that the clan of Sundara Chozla will be annihilated. If things do not follow the sequence things will go awry,” declared Ravidasa.
+
+While talking in this fashion, both were hurrying ahead. Soman  Samban was looking all around as they walked. The mute queen who followed them silently darting from one pillar to another, hiding in the shadows was not seen by them. They finally arrived at the other end of the underground passageway.
+
+There was a big wall in front of them. There appeared to be no exit whatsoever anywhere on that wall. Way up high above, there was a narrow window like slit allowing some light to come in. Ravidasa gave the torch into Soman Sambavan’s hand; he started clambering up that wall by taking hold of small protrusions and cavities on that tall wall. After watching for a while through that window he suddenly slid down quickly.
+
+“Should I jump out by that window? Is that the only way?” asked Soman Samban.
+
+“No, no; only a rat can pass through that opening up there! But if you look through that window you can see the Chozla palace; and a very important place in that palace will be visible.”
+
+“Is it the chamber where Sundara Chozla is bedridden?” asked Samban.
+
+“Yes, you can look through this opening and find out if there are people milling about near him. Now, come with me. Watch me carefully and see what I do.” Ravidasa then jumped down from the wall ledge. He peered around and spotted a circular stone on which he pressed down with one foot; he took hold of a square stone with both his hands and pushed it. A passage way opened below.
+
+“Good Lord!  A secret passage within this secret passage!” wondered Soman Samban.
+
+“None but Lord Pazluvoor and his Queen know about this passage; I am the third person to know about it; and now, you know. Have you noted how to open the passage way?” asked Ravidasa. They both descended  down the steps and went ahead. The torch-light faded very soon.
+
+The mute-queen ran up there in one leap. She peered into the opening of the secret passageway. She took one step to go down that way; thinking otherwise, she stepped back  quickly. She kept thinking for some minutes and looked at the opening high up in the wall that Ravidasa had looked at. She leaped up and climbed that wall just like Ravidasa had done, using hand holds and footholds. Upon reaching the window slit, she climbed upon the ledge and sat down and looked out. The gardens reached up to that wall; and beyond was a beautiful palace. Her body shivered on seeing that palace. Her intuition made her aware that people more pleasing to her than her own life were in that place. She also realized that the men going down that secret passage had evil intentions towards the people dear to her. She prayed to the divinity dwelling in her inner heart that she should have the skill to stop the evil intentions of those men.
+
+Just as she was about to clamber down, she saw a surprising scene on the terraces above the palace. Ravidasa and Soman Samban who had been in the dark passageway had climbed upon that terrace and were hiding behind some pillars. They were peering into the palace chambers. Because it was daytime, the terrace pavilion was clearly visible. There was no torch in Ravidasa’s hand; Soman Samban had a spear in his hand.
+
+Ravidasa took hold of that spear and peered into the palace chamber while taking aim with the spear. The mute queen felt as if her heart had stopped that very minute. Luckily, Ravidasa did not throw the spear. He acted as if he would throw it  and gave back the spear to Soman Samban. Both disappeared from view in the next moment.
+
+The mute-queen climbed down the wall and stood hidden, looking at the opening to the secret passage. Very soon torch light appeared in that passage opening. Both men came up and closed the secret opening.
+
+“You made note of the way to open this? Did you?”
+
+“I did. You need not worry any more. I will surely complete the task that I have agreed to undertake. Sundara Chozla’s life will come to an end this Friday.  And all of you should complete your assigned tasks in the same way.” Thus spoke Samban.
+
+“The young Queen will take care of Karikala. There is no need to worry about that. It appears that the other tiger cub has escaped the ocean and is hiding at Nagai Port. But he will not escape this time. The two female ghosts that were protecting him are now in Tanjavur. I saw that boat-girl and the dumb female in the crowds. Even that Veera Vaishnava betrayer is here. Therefore, the young tiger cub cannot escape. I plan to send Kirama-vithan to Nagai. Sundara Chozla’s clan will cease to exist after this Friday!”
+
+“Then Madurandaka will remain?”
+
+“Let that foolish fellow remain. It is good if a fellow like that is on the Chozla throne for some time. The Pandiya King needs to grow up and come of age to rule.” Both men hurried back the way they had come, talking in this fashion.
+
+***
+
+Chapter 29 - Beholding Royalty
+After they were gone from view, the mute-queen came to the spot where the entry to the secret passage had opened. She looked everywhere but could not find the opening. She had been too far away when Ravidasa had shown the secret of opening it and  she had not seen  how to open the exit. Mandakini decided to wait in the same spot because she was sure that at least one of those men was sure to come back.
+
+Her expectation was not wasted. Soman Samban came back after sending Ravidasa out. He still held the torch in his hand though it had begun to grow dimmer. He had spoken quite bravely with Ravidasa; it was obvious that his fear of the place was not gone entirely, from the way he looked around every which way. He came with some anxiety, and sat down  near the entryway to the passage to the palace grounds. Very soon the light from the torch had gone out. After that he kept looking often at the window slit high above on the wall.
+
+The light coming through that window began to dim and go out. Light was gone, indicating that the sun had set outside. He started to open the secret passage entryway once again. This time, Mandakini came closer and stood near him. A passageway opened on the floor and Soman Samban stepped into it. At that minute, very near him, a long ‘shkreetch’ wailing sound was heard. Soman Samban had heard and seen many frightening things in his life. He had never heard an inhuman ‘screetch’ sound like that before. It appeared as if there were ghosts and if such ghosts had a voice, it was the voice of such a creature!
+
+When he heard that sound for the first time, he hesitated. He waited till the echo of that sound died down. When he heard that wailing sound again for the second time, every hair on his body stood on end, drenching him in fear. He lost his confidence on hearing it the third time, very close…. He began running in that dark mansion, blindly, with no idea of direction.
+
+As soon as he was gone, the mute-queen stepped into the passage-way. After a few steps the floor was level. She walked very swiftly along that passage. Even if Soman Samban had seen her get into the opening and had come back, he could not have caught up with her. She was walking very quickly; the passage seemed like the long dark road to the abode of sinners. Even such a road came to an end. It ended at another tall wall. High above, there seemed to be some sort of gap. Her hands  felt a few steps. When she climbed up those steps her head suddenly hit the ceiling. She could see some small lattice like openings in the space between where the steps ended and the ceiling where her head bumped. She squeezed through one such opening and came out. All around her were huge figures of monsters and gargoyles. She was not stunned by those statues as she had seen many big statues like that in Lanka.  She took careful notice of the spot where she had exited the secret passage. Ravana with his ten heads and twenty arms was gouging and picking up Mount Kailasa. God Shiva and his wife Goddess Parvathi were seated above the mountain. The ground where Ravana had picked up the mountain was  hollow. His twenty arms were holding the mountain aloft. She figured out that she had emerged into that sculpture court by squeezing through the slit between two of Ravana’s arms.
+
+No one looking at that sculpture ordinarily could even guess that there was a passage from between those arms. It would never occur to anyone to get down into the hollow left by the mountain and examine the spot. It seemed to be a good spot to hide if the need arose. After looking at the wonders of that sculpture and the passage behind it for some time, Mandakini wandered around that sculpture court. Her sharp eyes, used to the darkness of night, could easily see all the figures in  that place.  On one side was a panel showing one of the Chozla ancestors, Emperor Sibi, hacking away his own flesh to give to a falcon in order to save the life of a pigeon. Because they were descendants of that king, the  Chozlas were known as Sembiyans. After looking at that sculpture for some time, Mandakini moved away.
+
+There was another scene  -- A huge figure of Lord Shiva with river Ganges descending from his matted locks. King Bhagiratha was standing humbly with folded palms near that place. The river that fell to earth entered the huge mouth of a seer and emerged from his ears. A short seer was filling his water pot from the river that had emerged. He must be the seer known as Rishi Agasthiya. He emptied his water pot on another hillock. The river emerging from the water pot began growing bigger as it flowed on. When they had sculpted these scenes, they must have made arrangements for real water to flow in the channels of the sculpture Ganges and Cauvery. There was no water now; the river Cauvery wound its way through many forests and glades; there were several temples on both banks of that Cauvery; finally, when the river reached the end where it had to merge with the ocean, there was a wall that was enclosing all of that sculpture court. Suspecting something, Mandakini placed her palm at that spot and pushed at the wall. A small panel door opened. She stepped out of that doorway.
+
+She had emerged onto a palace garden. Beyond the garden but close by, one could see the many turrets and balconies of the palace. On looking around in the faint light of dusk she could make sure that no one was about.  Like in the Pazluvoor gardens, many trees had fallen, with broken branches, in this place too. Even if someone had been in the garden, they were unlikely to have noticed that she had come out of the sculpture court. She waited near the wall of that sculpture court till the night became darker. Perhaps that messenger of death holding the spear, a minion of Yama the lord of death, might come that way. So, she kept looking into that sculpture court often.
+
+One by one, the lights in the palace began to glow. Very soon all of the palace appeared as one shining light. Lamps from inside the lower chambers shed light outside the windows. Lamps on the terrace pavilions competed with the stars to light up everything. Mandakini felt, “Oh dear, this night light seems more dangerous than daylight.” She looked in all directions around that palace.
+
+She recognized that the palace courtyards near the sculpture court alone did not have too many lamps. Those wicked men, who had tried in Lanka to kill the beloved child that she had saved from Cauvery floods, those men had stood on the upper terrace pavilion of this mansion. This is the spot where the man  Ravidasa, had borrowed the spear and had taken aim at someone inside. Fortunately, there were not too many lamps on that terrace. Why was it so? Anyway, that is good. It may become obvious soon.
+
+After dusk was done and darkness enveloped the palace gardens, Mandakini ran, with the swiftness of a deer running in fear, from the sculpture court to the main palace. That rear portion of the palace had several circular courts surrounded by pillars supporting circular walkways and stairwells leading to the upper terraces. In the verandahs there were all sorts of things: huge cauldrons and pans to cook food for large banquets,  palanquins that had fallen in disrepair, broken throne like seats and such. After wandering amidst those items for some time, finally Mandakini was emboldened to climb the stairs leading to the upper terrace. Just like below, on this level too there were circular promenades and beautifully carved pillars supporting ceilings, roofs of balconies and large gathering spaces. Mandakini wandered around those upper stories which seemed to be completely devoid of human beings. She was very hesitant to go towards the balconies looking towards the middle spaces. At one place she saw brilliant light shine forth from below. She approached that spot cautiously, hiding herself behind pillars. She looked down from there.
+
+What did see? Aha! It was a sight from which she could not avert her eyes.  It was large and wide chamber with very tall ceilings. In the middle on a beautifully carved bed there was a person leaning back and lying down. There were four women and two men standing around him. From their posture and demeanor, it was obvious that all of them had great reverence and devotion  for the person on the bed. Still further away stood two serving maids even more respectfully. There was only one lamp in that room. It was placed on a lamp post near the bed, emitting faint light. Mandakini first looked at all the persons standing around.  She recognized one of them as her brother’s daughter Poonkuzlali, her dear niece, as precious as life;  She had seen others at various times while she had been hidden. However, she could not be sure about who they were. Very hesitantly, after looking at all those people standing around, Mandakini looked at the person on the bed. For one moment it appeared as if her heart had stopped.
+
+Yes! It was the same person. So many years ago, almost eons ago, when she had been a young girl running about and playing in the forests, the person who had come ashore from a raft, the man who had captured her heart and her mind; he who had made Ghost Island where she had lived turn into a paradise for some time. He was the one taken away by the large group of men who had come in a big ship.  ‘Aha! How he has changed now!’
+Mandakini had seen him many times, without him being aware since that time which could have been a previous birth!  When he had gone on pleasure boats down the Cauvery, she had watched hidden  behind bushes on the banks. She had stood one among crowds in the cities when he came by, riding on a golden chariot drawn by white horses. But it has been some time since she saw him last.  How he has changed in that short while! Face is covered by a beard and hair.  Cheeks are hollow and shrunken dry. Wrinkles on his brow. Oh, what has happened to the mesmerizing looks of his eyes? God! Can people change in this way?
+
+The mute-queen had seen many men on Lanka gripped by the poisonous shivering fever,  after many days of suffering when they were about to die.  His charismatic face which used to shine like a golden sun,  has changed thus.  Have his last days come close?
+
+Suddenly Mandakini remembered that frightening scene she had witnessed earlier in the day. She was standing at the same spot that the assassin Ravidasa and his friend had stood and taken aim with their spear. Perhaps  they were practicing their aim to throw the spear at the man on that bed?
+
+Remembering that, Mandakini felt her whole-body tremble like a rattle. Her eyes were closing in a faint. She held on tightly to the pillar and placed her food down firmly and steadied herself.
+
+***
+
+Chapter 30 – Accusation
+Sundara Chozla’s heart and mind had grown considerably weary in recent days. Kundavai’s words to the Prime Minister that he had not slept even one bit on the night of the storm, was in no way exaggerated. Even that whole day, his mind was restless. The younger Lord of Pazluvoor who came to see him in the afternoon increased his distress. Most importantly, he had heaped several accusations against the Prime Minister. He declared that after the arrival of the Prime Minister, all security measures at Tanjavur Fort were wrecked. On the pretext of visiting the Prime Minister, all sorts of persons were entering the fort. This might jeopardize the very security of the Emperor. On hearing these two accusations the Emperor smiled to himself. He did not consider the matter very important.
+
+However, further accusations heaped by Lord Kalanthaka could not be ignored easily. An altercation between the crowds that had come in that day and the men of the Velaikara Battalion had erupted and was about to become a huge fracas. Fortunately, as he happened to get there, he could calm down both factions and send them on their way before things got out of hand.
+
+It was common knowledge all over the country that the Prime Minister was a man of good conduct, honor and integrity. However, his behavior was quite contrary to this reputation. Not only had he forcefully abducted some woman in Kodi Karai and brought her here, but he had used the palanquin and footmen from Pazluvoor palace for that purpose. Without knowing the details, Kalanthaka had sent the men and the palanquin when requested. If some infamy were to befall, it might fall upon the reputation of the Pazluvoor nobility and this concerned Lord Kalanthaka.
+
+Finally, he gave details about some questionable, suspicious activity that had occurred. “I had been concerned when I knew that some nefarious character calling himself a sorcerer or soothsayer  was coming often to the mansion of the elder Lord Pazluvoor. I was hesitant to take action because he was coming to visit the Young Queen. Even so, I had appointed a spy inside that palace to keep an eye on things. That spy  came and reported to me that today he saw some fellow jump over the surrounding wall of the rear gardens of Pazluvoor mansions. I sent some men immediately to apprehend the fellow. They physically found a man in the gardens, arrested him and brought him over;  On examining who he was, I found that he was the favorite apprentice and assistant of the Prime Minister, one Azlvar-adiyan Nambi! He refused to answer when I questioned, ‘Why did you jump over the wall?’ He claimed that it was on the orders of the Prime Minister! If this Aniruddha Brahma-raya does all such things, how can I be responsible for the safety of Tanjavur Fort? The Emperor became much more confused in mind because of these statements and petitions by Lord Kalanthaka. “Let it be; Anirudda Brahma Raya is coming to visit me this evening. I shall inquire into all this.  Particularly his order to forcefully abduct  a woman at Kodi Karai and bring her here, has wounded my heart. Commander, are you sure that it is true? You have no doubts about that, have you?” asked Sundara Chozla.
+
+“I have no doubts. The Palanquin bearers and footmen came and reported to me after midnight last night. They were caught in the storm as they came closer to Tanjavur Fort. Apparently, a tree that had been uprooted and fallen across the road had caused some injuries to some of the men. They said it was a great good fortune that the tree did not fall upon the palanquin. Luckily,  we have not become part to the heinous crime of killing a woman! In addition to inquiring about this, I request the Emperor to question the matter of Azlvar-Adiyan in depth.” After all such words, Lord Kalanthaka took leave of the Emperor. The younger Lord Pazluvoor did not wish to remain there when Mr. Aniruddha came to see the Emperor. The Prime Minister may start asking irreverent and unconnected questions of him; and he would be flummoxed, feared the Commander. Moreover, the Prime Minister may raise the question of opening up the treasury for aid of the people suffering after the storm, right in front of the Emperor, and get the royal permissions. That would become a big problem. How can I show my face to my elder brother if that happens?
+
+The Emperor was awaiting Mr. Anirudda’s visit since early morning. But the Prime Minister arrived only just before sunset. The Minister’s strong temperament was shaken; his careful plans had gone astray. He was postponing his visit to the palace thinking that he may get some news about Mandakini and that he could visit the Emperor after that. Late in the afternoon, Azlvar-adiyan came to report a somewhat embarrassing situation. He had apparently gone down a narrow lane thinking that the mute-woman could have gone that way, and as it had appeared as if a woman had jumped over the security wall of Pazluvoor mansion, he thought it might be the mute-queen; he too had climbed the wall and jumped into the garden intending to search in there for her. Before he could begin searching, Pazluvoor guards had come and arrested him. “I could not tell them the real reason; I had to mention your name and get released!” said Azlvar-adiyan.
+
+This information worried the Prime Minister to a great extent. “When there are so many mansions in this Tanjavur Fort, why did she have to enter the Pazluvoor mansion? I cannot even arrange openly to search those gardens! Let me think! In a way it is good that the Elder Lord Pazluvoor is not in town. Let me arrange for guards around that mansion. I have a confidant inside that mansion; let me send word to him. Oh, what a predicament this boat-girl has caused!”
+
+“My Lord, even if the boat-girl had not intervened, there was no guarantee that the mute-woman would have conformed to your orders. She would surely have run away somehow,” opined Azlvar-adiyan.
+
+“I still have some hope. Having come this far, she will not go away without seeing the Emperor. Let us try the best we can. I cannot delay anymore to go and meet the Emperor. You too come along with me and bring that boat-girl too. We need to inform the Empower of all details about both the Princes. If the boat-girl who saved the Younger Prince tells him directly, the Emperor will believe more readily.” Thus spoke the Prime Minister.
+
+Mr. Aniruddha the Prime Minister, along  with his assistant Azlvar-adiyan and Poonkuzlali went to the palace of Sundara Chozla.  Princess Kundavai and Vanathi were waiting for them at the entrance to that palace. The news that they could not find the mute-queen  caused Kundavai to be uneasy. Her concern increased when she heard that the mute-woman had gone into the gardens of Pazluvoor palace. She was now worried that some drastic danger might befall as a result of that.
+
+“Sir I have heard that there is a secret underground passage in the Pazluvoor mansion. What if she leaves the fort by that tunnel?” asked Kundavai of the Prime Minister.
+
+The Prime Minister remembered Vandiya Devan. He said, “Thaye! Will it be that easy to find that passage?  Not everyone is fortunate like the brave young man of the Vaanar clan. I shall make arrangements to post some guards outside the fort near those exits.”
+
+Leaving Azlvar-adiyan and Poonkuzlali with the Princess, the Prime Minister went to see the Emperor in his bedchamber. He greeted the Emperor and Queen Vanamadevi who was seated near the bed in the usual respectful manner; he explained that he could not visit earlier because he had to make enquiries and arrangements for the relief of those affected by the storm all over the Chozla lands.
+
+The Emperor seemed to be somewhat satisfied and calmed upon hearing the details of those arrangements.
+
+“It is good that at least you are here at this time when our minister in charge of the treasury is not here! However, what is this that I hear? Apparently, you have abducted some woman at Kodi Karai and brought her here by force? My Commander of this fort reported this to me. Brahma Raya, I did not expect such behavior of you! Perhaps there was some very important reason behind that. If so, let me know what it is?  Or, have every one of you decided that since I am bedridden and ill, there is no need to tell me anything or consult me about anything? Kundavai is telling me that Arulmozli did not drown in the sea, but survived and came ashore and that he is now in the Buddha Vihara at Nagai Pattinam. Am I supposed to feel happy about that, or should I feel saddened? I am not sure! When he came ashore why did he not come over here? Why has no one told me till now that he survived and is safe?  Prime Minister --  All kinds of things are happening without my knowledge. Many incidents are happening in my Kingdom without me being aware of all. In such a situation, perhaps it may be better not to be alive ….” when Sundara Chozla continued speaking in this fashion, his voice grew hoarse with sadness and tears brimmed in his eyes.
+
+Mr. Anirudda who was listening politely, thinking it would not be respectful to interrupt, now spoke up. “My Lord, please stop! The friendship between you and me is more than forty years old. In all these years, I have not done anything that was against your welfare. I will not do any such thing in the future too.  I might have avoided telling you about one or two matters thinking that I should not trouble you unnecessarily. If that was a crime, please forgive me. I will now answer all your questions. Kindly be calm, Sir!” asked the Prime Minister with humility.
+
+“Prime Minister, I have no more mental peace for me in this life. I am not sure if I shall find peace of mind in my next birth! When my children and the Prime Minister who is my best friend conspire against me….”
+
+“My Lord, you will soon become aware of who is conspiring against you. I am not part of that heinous crime. I hold this office of Prime Minister, in name only;  I have told you many times before that I shall give up this office to Elder Lord Pazluvoor. Even now, I am ready to do that. If you are unsatisfied with me for even any small reason, …”
+“Yes, Minister, yes! You are all ready to abandon  me and go away at any time! The only person who is going to stay with me till my breath leaves my body and who is going to die with me, is this daughter of Malayaman. Among many sins that I have committed, I must have done some good deed too. That is why I have her as my life companion!” said Sundara Chozla the Emperor.
+
+On hearing these words Vanamadevi, who was seated by the Emperor on the bed, was overcome with sobs and started crying. She stood up immediately and went into the next room.
+
+“My Lord Emperor, every word that you utter about Malayaman’s daughter is the truth. The children born of her, are also completely devoted to you; their love and affection for you is incomparable.”
+
+“However, they do not heed my words or obey my orders. They do all kinds of things without me being aware. And you too join with them! You already knew that Arulmozli survived from the storm at sea and is in the Buddha Vihara at Nagai Pattinam. Why did you not inform me about that?”
+
+“Forgive me My Lord; I was not aware of that, or sure till yesterday. I was sure that no harm would befall the Younger Prince. Everything predicted by the astrologers at the time of his birth cannot become false!”
+
+“Prime Minister, there is no end to the harm caused by this science of astrology! I am thinking of banishing all astrologers from my kingdom! Because of the predictions based on Arulmozli’s horoscope everyone is trying to place him on the throne even when I am alive! Are you not one of them?”
+
+“My Lord, I promise you, I am not. Contrarily, I felt that it may be better if the Younger Prince does not even come into Chozla country for some time. I had told the same to the young Prince when I went to Lanka. When I came back, Lord Pazluvoor’s men had arrived in Lanka to arrest the Prince and bring him. You had approved that. Since this news has spread all over the country and in towns, people are very angry with the noblemen of Pazluvoor. It has been the talk among people that the nobles of Pazluvoor had deliberately sunk the ship which was carrying the Prince coming home, and thus killed him.”
+
+“Lies, Minister; utter lies. Parthibhan Pallava has come and reported everything to me. The Prince did not come on the ships sent by Lord Pazluvoor. He was on board the ship of Parthiban Pallava. While on the way, he willingly jumped into the ocean. He wanted to save some other fellow on another ship that was on fire; he did not listen even when Parthibhan tried stopping him, but jumped into the stormy sea. When I think about it now, I feel that everything is one big lie, a conspiracy to fool me. What hurts me most is to find that Kundavai is also involved in this conspiracy. I believed that Kundavai will be by my side even if the whole world turns against me. I revealed to her all histories that an ordinary father would be hesitant to speak with a daughter……”
+“My Lord Emperor, even if the whole world swears that the Younger Pirati is conspiring against you, I will not believe that; neither should you believe it. If the Younger Pirati has not spoken to you about something, there must be a good reason for that. The is no falsehood in the fact that the younger Prince jumped into the sea to save his friend. The boat-girl who saved the Prince and his friend from the sea and reached them to the shore, is here in the next room. She also personally witnessed what happened in Lanka. Shall I call her in, to come speak to you, my Lord?” asked Mr. Aniruddha.
+
+The Emperor answered eagerly, “Is that so? Call her in immediately. Prime Minister, is she the girl whom you ordered to be abducted from Kodi Karai?”
+
+“The girl who arrived in the Pazluvoor palanquin is waiting in the next room. Let me call her now,” saying this the Prime Minister went near the door and clapped his palms; on  hearing the signal, Poonkuzlali and Azlvar-adiyan entered the chamber.
+
+***
+
+Chapter 31 - Dreams Early In The Night
+The Emperor regarded Poonkuzlali keenly and then asked, “I have never seen this girl before, have I? but her face seems somewhat familiar, Brahma-raya who is this girl?”
+
+“She is the daughter of Mr. Tyaga-vidangar the lighthouse keeper at Kodi Karai; her name is Poonkuzlali.”
+
+“Aha! That could be the reason!” said the Emperor, he then mumbled to himself, “She has the looks of her aunt; but not exactly, very different.”
+
+His faint mumbling was heard by Poonkuzlali. She had never seen the Emperor until that day. She had heard that he was as handsome as the God of Love; she had formed some opinion of how the father of The Prince would look like. Now, she was shocked to look upon the Emperor, disfigured by illness of the body and mind. She felt ashamed of her thoughts to pick a quarrel with him about having abandoned her aunt. She had even forgotten to greet the Emperor properly because of a certain surprise, shyness, and fright; she just stood there.
+
+The Emperor looked at her and asked, “Girl is your father Tyaga-vidangar well?”
+
+Poonkuzlali regained her senses; she became aware that she was in the presence of an Emperor who ruled under one canopy all the lands from Lanka to the borders of River Krishna. She immediately fell to the ground, bowing, and stood up with palms folded in humble greeting.
+
+Sundara Chozla looked at Aniruddha Brahma raya and asked, “can this girl talk? Or is she mute like her aunt?” his face was shriveled with heartfelt sadness.
+
+“Sir, this girl can speak; she can speak enough for nine women! She is stunned into silence upon seeing you and because she is in your presence.”
+
+“Yes, everyone becomes silent upon seeing me; no one tells me anything.” He then looked at Poonkuzlali and said, “Girl, my Prime Minister tells me that you rescued my son the Prince from a stormy sea and brought him ashore. Is that true?”
+
+Poonkuzlali spoke very hesitantly, “Yes my Lord; if I made any mistake …”
+The Emperor laughed; his laughter sounded frightful.  “Brahma-raya did you hear the words of this girl?’ ‘if it was any mistake!’ she says! Perhaps I wished that my son drowned in the sea! Someone must have told her that I am such an ogre. Prime Minister is this what all my people in my kingdom, think of me?”
+
+“My Lord, she mumbled something in her fear; please do not regard these words. Girl, this whole Chozla kingdom is beholden to you for having rescued and saved the Prince. The Emperor too is truly happy. You can ask for and get any reward you wish, for this service. For now, tell the Emperor everything that has happened. Speak without being afraid.”
+
+“First, let her explain something. She claims to have saved the Prince from the sea. How did she know that he was the Prince? Has she seen him before?” Asked the Emperor.
+
+“Yes, my Lord. I had seen the Prince some time ago, on a few instances when he went on the ships bound for Lanka, along with many soldiers. On one such instance he had addressed me as ‘Ocean Princess’” said Poonkuzlali.
+
+“Aha! This girl is now able to speak!”
+
+Poonkuzlali then narrated, often prompted by the Prime Minister’s questions, everything that happened from when she had taken Vandiya Devan to Lanka and how  she had rescued the Prince and had taken him to Choodamani Vihara in Nagai Port.  But she did not say anything about Mandakini Devi as the Prime Minister had already alerted her.
+
+After listening to everything she had to say the Emperor said, “Girl, you have rendered incomparable service to the Chozla clans. No reward will suffice for this service.  Let me ask you one thing; answer me. Why did you not bring the Prince here after bringing him ashore? Why did you take him to Nagai Port?”
+
+“My Lord, the Prince was unconscious and in the grip of the poison fever. We took him to the Buddhist monastery in Nagai Port because we heard that there were good doctors over there. We knew that the monks there were well intentioned towards the Prince. In the condition he was, we could only take him by boat; we could not have carried him on horseback or by wagon.”
+
+“Lord Pazluvoor  was at Kodi Karai at that time. Why did you not report to him?”
+
+Poonkuzlali was hesitant at first; she then spoke with confidence. “My Lord Emperor, the whole country knows that the nobles of Pazluvoor are enemies of  the Prince. In that situation, how can our minds be ready to give him up to those noblemen?”
+
+“Oh yes, yes. It is not just the Pazluvoor nobles who are enemies to my sons. Even I am an enemy! That is what the world thinks. Let us forget that for a moment. Prime Minister, the storm that struck here yesterday. It would have been much more severe at Nagai Port. My heart is pounding with worry that some further mishap has befallen my son.”
+
+“My Lord,  this Chozla country is fortunate. The times are good times for the Chozlas. Therefore, ….” Started Brahma raya.
+
+“Yes, the Chozla country is fortunate; however, I am unfortunate. Before I close my eyes finally, I wish to see both my sons at least one more time ….”
+
+“Sir, Please so not speak in this fashion. Who else is as fortunate as you who have given birth to such sons and a daughter as you have? Here, I will instantly arrange to send men. I will also send my assistant Thirumalai to bring the Prince here safely.”
+
+Upon hearing these words, the Emperor turned to look at Azlvar-adiyan. “Oh! Has this man been here all this time? It was about him that the Younger Lord Pazluvoor had complained. Is he the one who jumped into the gardens of Pazluvoor mansion?”
+
+“My Lord, there is a good reason for that. Please permit me to explain all that to you tomorrow. You are already tired this night,” said the Prime Minister. At the same time Malayaman’s daughter, the Queen, Kundavai and Vanathi had all entered the room.
+
+The Queen addressed the Prime Minister, “Let us take a break with this today. The doctors have strict orders that the Emperor should not tire himself unnecessarily.” She then said, “I hear that this girl sings beautifully; ask her to sing a Thevaram song. The Emperor likes to hear singing and music”
+“Yes, my Lady, My assistant Thirumalai also sings the songs composed by Azlvar saints very well. I shall ask them to sing.”
+
+Poonkuzlali then sang the Thevaram composed by Saint Appar, which began with the words, “Do not discard me and set me aside as if I were the Lord of Death; I have done many a misdeed due to ignorance; I pray now at thine feet day and night even as I am in pain in with burning in my stomach, Oh Lord Shiva who rides the Bull Nandi, ...”  (Appar had composed the verse after he was relived of an incurable stomach ache by ashes sacred to Lord Shiva.)
+Azlvar-adiyan sang the hymn ‘I saw the divine one; I saw the divinity in form!”
+
+As soon as the singing began, Sundara Chozla closed his eyes. Very soon his face became calm and peaceful. Breath came steadily, softly. It was apparent that he had fallen asleep. Since dusk was approaching, the servant girls brought lamps and placed them nearby. Everybody left those chambers including the Prime Minister. The Queen Vanamadevi remained by the Emperors bedside for some time. Kundavai, standing in the doorway leading to the next room signed to her, so she too stood up and went out. Silence prevailed  in the room except for the sounds of deep breathing by the emperor, heard softly.
+
+Sundara Chozla slipped into a deep slumber in the early hours of that evening because he had not slept all of the previous night and because he had heard the soothing,  sweet melodies sung by Poonkuzlali and Azlvar-adiyan. But his sleep was not restful without any thoughts. Old remembrances, new thoughts, true happenings, imaginary feelings of the heart, all these took the form of dreams and made him experience various curious happenings.
+
+Poonkuzlali and he were on a boat floating above a calm blue sea. She was rowing the boat and singing a sweet melody with the roar of the ocean as a background drone.
+
+Do not tire or be depressed dear heart
+All your desires will one day be fulfilled.
+
+A long night gripped by deep darkness
+Is surely seen to be followed by the blossoming daylight
+The earth will shake awake
+Lotus buds will laugh open as bees and such celebrate
+and the gold red sun too will rise.
+
+Sundara Chozla was filled with delight on hearing that song. The depression in his heart was gone and happiness prevailed. He kept urging her, “Sing more! Sing some more!” her boat continued floating onwards on that deep sea.
+
+Suddenly, darkness surrounded everything; strong storm winds began to blow. Huge mountains of waves rose and fell on the sea that was calm till now.  The boat that had been rocking gently like a cradle till now, was being tossed into turbulence  reaching the cloud worlds and deep gorges. The sails on the boat were torn to rags and carried away by the winds. But the boat did not capsize; it managed somehow, to stay afloat. Emperor Sundara Chozla was admiring with surprise and gladness, the skill of Poonkuzlali handling the boat.
+
+The storm winds stopped as suddenly as they had come. The turbulent sea quietened slowly and soon became calm once again. Far in the eastern horizon one could see signs of sunrise. In a short while a golden sun rose and made the whole sea shimmer in gold. In the far distance one could glimpse green coconut grove covered islands. The call of sweet birdsongs arose from those islands. Sundara Chozla recognized them as islands along the coast of Lanka.  He remembered meeting Mandakini on one such island on a previous birth. He was looking at that island and saying, ‘Poonkuzlali you have finally brought me to paradise. How am I to thank you for this?’ as Poonkuzlali had not answered he turned to look at her. He was totally stunned! It was not Poonkuzlali on the other side of that boat. It was Mandakini, looking just as she had looked thirty years ago.
+
+“Mandakini, is it you? Is it truly you?  Are you the one who has brought me here disguised as Poonkuzlali?” he asked. He remembered that she would not hear anything that he spoke. But Mandakini smiled as if she had understood by reading the movement of his lips. He tried to stand up to go near her. He was unable to get up; he remembered that his legs had gone useless.
+
+“Mandakini, I have become ill. I cannot come to you. It is you who must come near me. Look at me Mandakini, now I will not go away leaving you behind even if anyone comes calling me, to make me a king of all three known worlds. Let us not go to this island near Lanka. People will keep coming here.  Row the boat to the  middle of the sea. Let us go far, far away,  beyond the seven seas, towards the edge of the islands far away,” said Sundara Chozla. Mandakini smiled as if she understood everything he said.
+
+In a boat beautifully decorated and shaped like a king swan, the Emperor Sundara Chozla his Queen along with his children were going on a pleasure trip on the river Cauvery. Expert musicians were singing. Sundara Chozla was immersed in that flood of music and had closed his eyes in happiness. On hearing sudden shouts of “Oh dear! Oh dear!” he opened his eyes to look around. Several voices wailed, “we cannot see the child, where is Arulmozli? We cannot see him!” Sundara Chozla looked about hastily. Some woman had taken his beloved Arulmozli in her hands and was trying to push him down into the floods of the Cauvery and trying to drown him! Gripped by unthinkable terror, Sundara Chozla tried to jump into the river. He could see the face of that woman in that instant. He realized that it was the face of Mandakini that had turned ugly. His whole body seemed to lose all life and become immobile. Instead of jumping into the river, he fell with a thud on the deck in a faint.
+
+In the shock of that fall, Sundar a Chozla woke from his dream filled sleep. In that night which was rather cool because of the storms and rains, his whole body was sweating. He was somewhat calmed, as if a huge weight had been lifted from his heart, when he realized that all that he had been seeing all this time were just dreams. There was no one in his room. Only a small lamp was shining light. The others must be in the next room since he had fallen asleep. He was about to clap his hands and call for them. Let me wait, let me recover from the shock of the dreams, before I call them, he thought.
+
+He heard a soft noise on the upper balcony. What was that? He turned his face, to look towards that noise. It seemed as if a figure was trying to slide down on the edge holding on to a pillar supporting the upper terrace balcony.
+
+***
+
+Chapter 32 - “Why Do You Torture Me?”
+
+Sundara Chozla was totally surprised. What was that sliding down the pillar from the edge of the balcony of the upper terrace? Why is it coming? Remembering the confusing dreams, he had just had, he wondered if this too was part of that dream! Have I not woken completely from sleep? To clear his doubts, he once again closed his eyes tight; after one such minute he opened his eyes again and looked towards that pillar. There was nothing there now! It must have been a delusion of his mind.
+
+He tried remembering everything that had happened before he fell asleep. The Prime minister, his assistant Thirumalai, Tyaga-vidangar’s daughter who sang with such a melodious voice – all of them must have gone away after he fell asleep. As usual the serving maids and his Queen, Malayaman’s daughter, must be waiting in the next room. Perhaps his darling daughter is with them. He worried somewhat about his words about Kundavai that he had said to the Prime Minister. Kundavai was very intelligent, smart and forward thinking. She has asked the Prince to stay on at Nagai Pattinam to avoid further confusion in the kingdom. It is my mistake to think wrong of that. Sundara Chozla was aware that his faculties were not as sharp as they should be, since some time now. What was the point in being angry with Kundavai? It would be best to act according to her advice. But now the most important thing is to get the Prince to come here from Nagai Port. Dear God! Hope there is no further danger to him because of the storm. I must ask Kundavai about that right away…. intending to call the people in the next room, he was about to clap his hands….
+
+What is this? It seems that someone is walking about near his head. The footsteps are very soft like a cat walking… Who was it? The Queen? His daughter Kundavai? A serving maid? Are they walking softly so that they would not disturb his sleep?
+
+He asked softly, “Who is that?” There was no response to his question. “ Who is that? Come here in front of me!” he said in a louder voice. No answer to even that!
+
+An idea occurred to Sundara Chozla. It confused and frightened him. Perhaps it was her! Could it be her ghost? That fiend who appeared in his dreams, has she come in person now? She used to come to torture him only around midnight, dressed well in jewels and silks. Has she come early, in this dusk now? Or perhaps it is already midnight? Have I been asleep that long? Is that why the Queen and Kundavai are not here…. Have the servants gone to sleep? Oh dear! Why do they leave me alone like this! If it is that fiend, the daughter of those Karaiyar fisherfolk, she will not let me rest easily. Till my heart boils and shrivels in torture, she will not go!
+
+You wretched fiend, if it is really you, come in front of me! Torture me as much as you wish and then leave me. Why are you taking my life by wandering above my head-stead without me being able to see you. Come in front of me! Are you here asking for a blood sacrifice? Come, come now! You used to carry a knife in your waistband; kill me with that knife which you used against forest animas like tigers and bears. Kill me and leave, do not do anything to my children. Do not take revenge upon them for my crimes. They have not betrayed you in any way. I am the one who betrayed you. Did I ask you to climb the lighthouse tower and jump into the sea? You did that terrible deed yourself and now you haunt me!
+
+Sundara Chozla realized that a figure was standing very close beyond his head. He began to shiver in fright. His stomach rose and choked his heart. His eyes were about to burst in fright. It was her coming and standing near him; there is no doubt. It is her ghost standing near my head. ‘Finally, she has come, just as I had thought, to take blood revenge on me! She is going to strike my heart with her knife and kill me. Or is she going to squeeze my throat with her bare hands and kill me? Any which way, let its intensions be fulfilled. There is no use in my living any longer for anyone. If that ghost takes revenge on me, it will surely let my children go safe.  If only I could look up and see beyond my head, her ghost may be visible to me,’ so thought Sundara Chozla.
+
+The figure was so close to his head; even its shadow seemed to fall upon his face. He wanted to look up but did not have the courage to do so. “I am going to close my eyes tight; let it have its way and do what it wants and go away!” he decided and closed his eyes.
+
+He waited for a while; there was no knife struck on his heart as he had expected. Neither  did the apparition squeeze his throat with its hands. It seemed as if the apparition that had been behind his head had now moved away.
+
+“Aha!” the Karaiyar woman will not let me go so easily; she is sure to keep me alive and torture me till I die as she wishes. Perhaps today she has vanished before she showed herself to me. Let me call someone. If someone comes, she is sure to go away from this room.
+
+“Where is everyone? Where have you all gone?” he cried loudly and opened his eyes to look around.
+
+“Aha!” who is that in front? Standing at the foot of my bed? It is her! There is no doubt! It is the ghost of that mute. The ghost is standing with hair flowing wild and unkempt! Blood seems to be dripping from its forehead! Perhaps it is saying, ‘I have come to take blood revenge!’
+Sundara Chozla kept looking at the ghost and began screaming in a loud voice, speaking with rage, “You mute ghost! You tortured me even when alive without speaking a single word And even now you are killing me without saying a word. Why have you come? Tell me. If you wish to take blood revenge, kill me and go. Why are you just standing there? Why is you face so pathetic? Have you come to ask me something? tell me then! You cannot open your mouth and speak … tell me by signs ….  Don’t torture me by just standing there. Why are your eyes brimming with tears? Why are you crying now? I cannot stand it; tell me if you wish to say something to me! Or get lost! Go, go away … won’t  you go away? What do you want to do to me? You were the one who tried to push my darling son into the floods of the Cauvery and tried to kill him. With God’s grace, your intention was not fulfilled. Your intention will not succeed, you fiend! Why are you still standing there? Gazing at me as if my heart would split! Go! Go away! Will you not go? Wont you go?  Here, I will make you go away …. See…”
+Sundara Chozla was looking for some object close to his hand even as he uttered the words. A small oil wick lamp made of five metals was within reach. He grabbed that lamp, aimed it at the face of ghost Mandakini and flung it with all force, screaming, “go away ghost, go away!” The lamp with a burning wick swirled like the discus thrown by Lord Thirumal and went spinning towards the form of the woman.
+
+A loud wail emerged from the mouth of the woman that Sundara Chozla mistook for a ghost. Every breath in his body, every tendon, every bone, every nerve and muscle froze to become almost lifeless.
+
+The lamp did not hit her face; it fell a little in front and began to roll noisily ‘tanang tadang’ with a metallic sound. The small lamp went out. Luckily another lamp was burning bright in another corner of the room. Peering in that half-light Sundara Chozla realized that the figure of Mandakini-ghost was still standing before him. For a moment her face was filled with a great unexplainable pity. The Ghost looked at him as if for one final look, with unfathomable yearning and was about to turn and go away.
+
+It was in that instant that a doubt arose for the first time in Sundara Chozla’s heart. Is this really Mandakini’s ghost? Or is it another woman who resembles her totally? Or is it a twin sister? Or, perhaps…. perhaps it is she herself? Is she not dead? Is she still alive? Was I mistaken in my thinking? Oh! If it is really her, how cruel of me to throw the lamp at her!?! Her face which was full of pity for one instant changed to such deep sadness. Was she distressed by my cruelty? There, she is turning away ready to leave… She is looking around for an exit….
+
+“Woman! Are you Mandakini the daughter of Karaiyar fisherfolk? Or, are you her ghost? Or are you a sister born with her? Stop, Stop, do not go; tell me the truth before you leave!”
+
+When Sundara Chozla was shouting and crying out these words loudly, several persons came into that room hurriedly. Sundara Chozla recognized in one second that his Queen Malayaman’s Daughter, Kundavai, Vanathi, Poonkuzlali, the Prime minister and his apprentice Azlvar-adiyan had all come into the room.
+
+“Stop her! Stop her from running away. Ask her who she is and why she came here?” he cried.
+
+All those people who had come in were stunned immobile for one moment. They were frightened by the dreadful look on the emperor’s face and the fright in his terrified voice. Seeing Mandakini in that place drowned them in a flood of surprise. They stood motionless unable to decide what to do. The Prime Minister realized the situation and somehow guessed how it could have happened. He looked at Poonkuzlali and asked her, “Girl is this your aunt?”
+
+“Yes Sir,” she replied.
+
+“Thirumalai why are you standing like a tree! Mandakini Devi is about to run away; stop her; it is the order of the Emperor!”
+
+For the first time in his life, Thirumalai refused to obey the orders of his master. “Sir, instead of this, order me, to stop a storm wind!” he said.
+
+Poonkuzlali had not been quiet all this time; she ran forward in one leap and held on to the shoulders of her aunt; Mandakini shook her loose and ran. Azlvar-adiyan did something immediately. He ran to the door from which all of them  had come in and pulled it close bolting it shut. He then stood in front of the door spreading his arms wide, so that no one could open it. Mandakini looked around with eyes widened in fear, like a deer surrounded by hunters. She decided that there was no exit to escape; the only way was the way she had come down. From her glance towards the upper balcony the others realized her intention.
+
+Sundara Chozla continued to shout, “Hold her, catch her and stop her. Ask her why she came? On whom and what revenge she seeks? Ask her!”
+
+Poonkuzlali ran close to her aunt who was about to climb up that pillar to get to the terrace; instead of holding her, Poonkuzlali made some signs with her fingers. As if she had understood, Mandakini pointed towards the lamp that had fallen to the floor. Kundavai who was noticing all this asked, “Father! Was it you who threw the lamp at elder-mother?”
+
+“Yes daughter! I could not bear the look that the ghost cast upon me. I threw the lamp at it!”
+
+“Father, this is no ghost or ghoul; she is the revered woman and is alive. Father, elder-mother had never died. Ask the Prime Minister; he will tell you everything. Kundavai then looked towards Poonkuzlali and Mandakini who seemed to be arguing about something. She went quickly towards them.
+
+Sundara Chozla agitatedly tried to get up from his bed even as he was shouting, “daughter, do not go near her; that ogre will harm you somehow.”
+
+Queen Vanamadevi held his shoulders comfortingly and made him lie down. “My Lord please be calm; nothing will happen to your daughter!” she said.
+
+***
+
+Chapter 33 - Guardian Deity Of the Chozla Clan
+Mandakini stared at Kundavai who had come close. The younger Pirati did something no one expected. She fell to the ground and bowed to Mandakini touching her feet reverently. Tears welled up in Mandakini’s eyes. She bent down, touching Kundavai, lifting her up, hugging her. Kundavai threaded her hand with Mandakini’s hand up to her shoulder in a hug; and then walked her towards the bed of the Emperor. It was only now that the Empress Queen Vanamadevi had a good look at Mandakini’s face. She noticed the blood on her forehead.
+
+“My Lord! Was it you who threw the lamp and wounded her?  Oh! What have you done!” she cried.
+
+“No, no. the lamp I threw did not touch her. She came and stood here with the bloody wound even before that. But this fiend might accuse me, if she so wishes. And all of you might believe her! You are all on her side. Malayaman’s daughter! Even you seem to be partial to her. Do you know who she is?” asked Sundara Chozla.
+
+“I know My Lord. She is the guardian deity of our clan. She is the one who saved my darling son from drowning in the Cauvery.”
+
+“Aha! Do you too believe that? Did Kundavai tell you that?”
+
+“I speak of that which I saw with my own eyes. Kundavai also was a young child at that time. What could she know? Not only did this lady rescue Arulmozli, she is the guardian deity who saved your life and gave you back to the Chozla nation. She is the divine woman who saved you from the wild bear on Ghost Island.”
+
+“Oh, good Lord! Do you know of those details too? Did you also know that she is alive all these years?”
+
+“I have known this for some time now;  after knowing about her, I have been asking our Prime Minister to bring her here from Lanka.”
+
+“Anirudda, what is this that the Queen speaks about? Is she really the daughter of the Karaiyar fisherfolk? Is she really alive? Is it a falsehood that she is dead? Was it mere delusion that I believed that her ghost was haunting me? My mind is already very confused; don’t you all make me completely crazy!” said the Emperor.
+
+“My Lord, it is true that she is the daughter of Karaiyar fisherfolk. It is also true that she did not die. My Lord Emperor, I have committed a big crime. There can be no forgiveness for my crime. Even so if by your kindness, your mercy ….” Anirudda was trying to explain.
+
+“Prime Minister, I now understand.  She is the one whom you ordered to be abducted at Kodi Karai and brought here forcefully. It is not true what you said, that the boat-girl came in the palanquin.”
+
+“King of Kings, you must forgive me!”
+
+“Aha! You ask forgiveness! I am sure it has never happened since the creation of this world that a fellow called king of kings, emperor, has been fooled like me! Why do such things happen without my knowledge? Why not tell me ahead of time? You were talking to me for such a long time even earlier this evening. Why did you not tell me then? Prime Minister, I am beginning to comprehend everything. What the nobles of Pazluvoor say is correct. You are all together, conspiring against me.”
+
+“It is true that we schemed. But we did not plot against you. We thought that we should somehow bring this Karaiyar woman to you. I came to that conclusion after hearing from the Queen that your mind was in great distress because of the thought that she fell to her death into the sea. The Queen herself ordered me to do so. It was no easy task to bring her to you. I thought that it may be difficult for you to accept that she was alive, if I just say that to you; I thought I could tell you after bringing her to this town somehow. Last evening, when they were almost near the gates of the fort, Mandakini Devi vanished. This girl came in the palanquin instead of her. This whole day we were busy searching for Mandakini Devi. My assistant Thirumalai, jumped over the walls of Pazluvoor gardens after he had seen her jump into those palace gardens. But we could not find her. Pazluvoor footmen arrested Thirumalai and brough him to me. My Lord, I beg of you to forgive my apprentice for this crime of his.”
+
+“Is this the only crime that needs to be forgiven? There seems to be much more! Then tell me all!”
+
+“After that, even after we had waited till this evening, even after searching Pazluvoor mansion and gardens, we could not find her. Just now when you were taking a nap, we were all in the next room, talking about her. We were wondering about where she might have gone into hiding; how were we to explain all this to you and who should be telling you all this. Meantime, she herself has somehow come into your presence. It was as if opportunity presented itself, like a sweet fruit slipping into cream!”
+
+The emperor finally turned to look towards the spot where Mandakini was standing. He noticed that Kundavai and Poonkuzlali had wiped the blood on her forehead with a wet cloth and were applying a soothing paste of medicinal herbs and sandalwood on the wound.
+
+He asked, “Daughter of Tyaga-vidangar, can you ask her and find out how your aunt was wounded?”
+
+Poonkuzlali stepped forward and said, “I asked her My Lord! But my aunt’s reply does not make any sense to me.”
+
+“What does she say? Is she saying that the wound was because I threw the lamp at her?”
+
+“Oh, no. No. She says that she was wounded because she bumped into a mountain. She says that she did not notice that she had blood on her face.”
+
+Sundara Chozla did a very unusual thing in that moment. He began laughing jubilantly. It had been several years since the others had seen him laugh like that. He seemed to burst into laughter again and again after thinking of something. All of them began to look at him with some worry.
+
+“Prime Minister, why do you all look at me like this; I have not newly gone crazy. It is my old madness still lingering! Don’t you all understand the reason for my laughter? She is saying that she was wounded by bumping into a mountain in this fertile delta of the Chozla heartland! I am laughing on thinking about that! Why talk of mountains, we cannot even find a stone to carve a small statue in these regions! Even if someone wants to drop a stone on the head of the Chozla Emperor, they will not be able to find any granite, even for that! She apparently says that she bumped into a mountain! Which mountain did she bump into? Poonkuzlali ask her clearly!”
+
+Vanathi had been listening to all this; her face suddenly brightened. She came forward a few steps and bowed to the Emperor. “Sire, an idea occurs to me; if you order me, I can speak," she said.
+
+“Daughter of the Velirs, have you been here all this time? I did not even notice you. In all this hullaballoo it  is a surprise that you did not fall down in a faint. What is the idea that occurs to you? About what? Speak!”
+
+“I have an idea about what this lady says, that she bumped into a mountain. Sir,” said Vanathi.
+
+“Well, what is it?  You are a smart girl. You might have figured some reason! Has she come all the way here with the bleeding wound, after bumping into stone mountains in Lanka?”
+
+“No, My Lord. There is a sculpture court in the gardens of this palace. In that court there is a sculpture of a big Kailasa mountain being lifted up by Ravana. She perhaps bumped into that mountain.”
+
+Everyone was drowned by an ocean of surprise on hearing these words of Vanathi. ‘Yes, it is possible; that is what it must be’ they said to each other.
+
+Kundavai caressed Vanathi’s forehead and cracked her knuckles as if to ward off an evil eye! “My darling friend, how smart you are! What none of us remembered , occurred to you!” she said.
+
+Poonkuzlali watched all this with anger; she turned to her aunt and signed to her.
+
+“Yes. She says it is that mountain in the sculpture court. If I had seen that sculpture pavilion before, the idea would have occurred to me too.”
+
+The Emperor was gazing at Mandakini. “Yes, she must have lost her way and in the confusion, bumped into the mountain in the sculpture court. We don’t know where she wanted to go while searching for a way. Finally, she has arrived here!”
+
+The Prime Minister started speaking, “She must have looked for a way to come to you. I have no doubt about that. I was telling all these people. She will not go away from here before she has seen you.”
+
+“I do not believe this, Prime Minister. If she had wanted to see me, would she not have come earlier?  Would she not have come in all these twenty-five and odd years? Why wait all this time before coming? Why come and haunt me like a ghost? Yes. Yes, I did think that she was a ghost. Is it not true? She is wandering the forests and mountains of Lanka like a ghost. I have spent all these years in the pleasures of living in a palace! How am I to describe the seriousness, and power of this fault? How often have I not hallucinated in fear seeing an apparition like her. Who knows! Perhaps she came secretly like she did now,  to see me and went away. And I was terrified thinking it was a ghost! Twenty-five years! Twenty-five eons!”
+
+The Emperor who was mumbling in this fashion as if talking to himself, suddenly turned towards the Prime Minister, “You asked forgiveness saying that you had committed a crime. What crime was that?” he asked angrily.
+
+“How can it serve justice to ask the criminal about the crime?”
+
+“Then who else can we question? There is no need to ask anyone; the answer is evident in your face. You came and reported to me that she jumped into the sea and died. That was a falsehood. You have guarded that lie for twenty-five years. And I believed you. Aniruddha, truly your crime is heinous!”
+
+“I am not the only one responsible for that, Emperor. This daughter of the Karaiyar folk is also responsible. It is true that she jumped into the sea. She gained a rebirth. She took a pledge that we should not tell you that she is still alive. She threatened to kill herself again, if I did not give her that pledge. You can ask her yourself and find out if all this is true.”
+
+“I do not have to ask her; it must be true. However, there is nothing false about my saying that all of you are conspiring against me!” said Sundara Chozla.
+
+“There is no forgiveness for my crime; I am not asking to be forgiven. The burden in my mind weighing me all these years is now removed. Please permit me now, Sire, to take my leave. Permit me to go to Thiru-Arangam and spend my days in serving God Sri Ranganatha.”
+
+“That is not possible. Brahma-raya, because of your misdeed all those years ago, there is much confusion now. Only after you have solved all this can you go to serve Lord Sri Ranganatha,”  spoke the Emperor.
+
+***
+
+Chapter 34 – Ravana In Danger
+Sundara Chozla looked at his darling daughter and said, “Kundavai I need to discuss some details about the administration of this kingdom with the Prime Minister. All of you go and do whatever you usually do. When you go, take ‘this’ too with you; Let your mother remain by my side for a while.”
+
+The Emperor referred to Mandakini as ‘this;’ his disgust with her was obvious from the way he spoke of her.
+
+Kundavai looked at her father with some disappointment. Her father noticed that and said, “It may be better if we can find out is the mountain she bumped into, is it the Kailasa mountain in the sculpture court? Go find out by taking her there. I cannot tolerate seeing her standing here.”
+
+Kundavai took Mandakini’s hand in hers and prepared to leave with her, disappointment clouding her face. Malayaman’s daughter Vanamadevi came up to her daughter Kundavai and said something in her ear, so that only Kundavai could hear. “My child, she now looks unkempt and repulsive to behold. What is the point in being upset with your father? Go show all your expertise in fashion and beautification on her. Let us see!”
+
+Kundavai expressed her agreement with a smile and led Mandakini away from that room. Vanathi and Poonkuzlali went with her.
+
+Sundara Chozla looked at his Prime Minister and his Queen alternating from one to the other, again and again. “I do not know why the two of you plotted together to do this thing. It is a big mistake if you thought that it would make me happy. Prime Minister, why did you make such an effort and capture this uncivilized and uncouth creature and bring her here from Kodi Karai? At least now, tell me the truth; do not hide anything from me anymore,” he said.
+
+The Prime Minister Aniruddha began speaking in voice choked with emotion:
+
+“I shall not repeat the mistake that I committed before now. I will not be party to hide anything from you anymore. I made all this effort in the hope that truth will be revealed. Your mind was suffering with the thought that because of you a woman fell to her death in the sea. For a long time till recently I thought, that you had forgotten that incident. I soon realized that distress became embedded in your heart and increased the pain in your feelings as the days went by. The Queen explained to me that you would often dream about that incident and cry out in pain. Even more than you, the Queen herself was undergoing extreme distress. She consulted with  me about it some time back. And we decided to make this effort. We wished to bring her in front of you to clear your mind of the painful thoughts that she had died because of you. We thought that you would believe us telling you that she was still alive, only if you saw her personally. If that was a crime, kindly forgive us Gracious Lord.”
+
+Sundara Chozla spoke angrily on hearing this:
+
+“Yes! it is a crime; a huge crime! She has been haunting me as a ghost all these times. She came in my dreams and tortured me. Instead of a ghost you have brought before me a lunatic, wild thing. Did you think that it would make me happy? Never! If you had spoken to me before doing this, I would have definitely asked  you to give up the idea of bringing  her here. Let it go! Anyway, what is done is done. You have with great difficulty brought this mute-lunatic woman here. How are you planning and when do you plan to send her away?” on such questions by the Emperor, Anirudda became truly dumbstruck!
+
+The Queen Vanamadevi now spoke, “My Revered Lord,  I have no intention of sending away my sister from here. She will stay with me here in my palace. I will think of her as a sister born elder to me, revere her, and care for her!”
+
+“My dear you need not try to prove your regard for me in such a fashion. I know you as my beloved wife in all these twenty-five years, more chaste and venerable than Kannagi of yore! I know you have even ignored your much-loved children, to be by my side since I have fallen ill; you observe penances and prayers for my sake. There is no need for you to demonstrate your love and regard for me by bringing this uncouth lunatic who wandered in forests, into this palace. My dear! Daughter of Malayaman, listen to me, Prime Minister, you too listen to me: Sometime long ago, in an uninhabited island where I was cast ashore, I saw this mute-lunatic. Yes, it is true I loved her then. I am not denying that. There is no  greater mistake than you both believing that I am still yearning for her. There were many reasons why I was in love with her at that time. That love has changed in these twenty-five years in to disgust and hate. She has tortured my thoughts while I was awake and in my dreams. I cannot even bear the thought that she is in this palace! Send her away from here before you do anything else. I thought she was a ghost and threw the lamp at her. I do not know what I would have done if I had realized that she is alive!”
+
+The Queen and the Prime Minister were shaken to the core, on hearing these cruel and harsh words of the Emperor, spoken with anger and hatred. They had never expected that the Emperor would speak and act in this fashion. Mr. Aniruddha had thought that emperor would chide him and perhaps even punish him for the old crime. The Queen on her part had thought that even if he did not speak openly about it, the Emperor would in his heart of hearts be filled with happiness, and truly appreciate her magnanimous gesture. Her Lord’s cruel words made her feel disappointed, somewhat angry and even hateful.
+
+As if to crown all his brutal, pitiless words, Sundara Chozla continued, “Chee! Who in this world would have felt a loss if this crazy-mute had not lived? How much better it would have been if she had truly died when she fell into the sea; good riddance! Which total idiot picked her up and saved her from the sea as if he had nothing else to do?
+
+Queen Vanamadevi was unable to tolerate his words anymore; in an emotional, passionate voice she said, “My Lord, please do not speak such words! It is the greatest sin! Many elders and revered  souls have repeatedly spoken that being thankless is a great sin. If you wish you can forget how this best among women had saved your life. How can we forget that she saved our most beloved son Arulmozli? Even if you forget that, I cannot. I shall remain beholden to this divine lady for all fourteen births destined for me.”
+
+“Devi, you repeat that old story!” Before he could continue, Vanamadevi interrupted her husband.
+
+“It is not a story, My Lord. Arulmozli himself spoke of her. He said that the lady who had rescued him from the floods of the Cauvery had protected and saved him from many dangers in Lanka. Fortunately, he has come to Nagai Port and is safe there. Ask them to bring him here. You speak to him and find out for yourself.”
+
+“Yes, it is true that Arulmozli is in Nagai Port; But how can we be sure that he is safe? Perhaps he was affected by yesterday’s big storm. Prime Minister, I am not calm in my heart.  I feel that some unexplainable danger is about to strike my clan. At this time, I take it as a bad omen that this  crazy-mute woman is here.”
+
+“My Lord it is no bad omen that the daughter of the Karaiyar fisherfolk is here at this time. It is a good omen. Her being here is a safeguard to all our clan. The Goddess Durga-parameswari to whom I pray at all times, has been gracious to me and sent this lady here.”
+
+“Never! Goddess Durga has not sent her. Lord Saturn, Sanischara, the harbinger of all bad fortune has sent her! Send that lunatic away from here before you do anything else; if you cannot do that,  I must undertake to do so myself….”
+
+“My Dear Lord, please be gracious to give me this boon. Please give permission for her to remain here in this palace till Arulmozli comes here.” Thus asked the Queen, in an emotional voice and bowed to touch his feet.
+
+Sundara Chozla turned to ask, “Prime Minister Sir! Did you hear this? Did you hear this boon that this Daughter of Malayaman, this innocent who believes every white liquid is pure milk, is asking of me? Oh! Good Lord! Can there be such an innocent in this whole wide world? She never has asked me for anything! And she now goes and asks me for such a boon! My heart cannot refuse her! But every minute that the crazy-mute woman spends in this palace will be a hellish torture for me. Therefore, make arrangements to get the Prince here as soon as possible.”
+
+“Yes, My lord. I will do as you ask. Shall I send elephants and cavalry along with footmen to bring him here openly? Or …”
+“You are asking if you should bring him here secretly, in disguise! You think chaos will erupt in this Chozla country if he comes here openly.”
+
+“I not only think that, I am sure of it. People are angry because of many reasons. All they need is some tiny spark. Immediately, their anger will erupt and encompass all; we cannot guarantee what might happen to the Pazluvoor nobles and Lord Madurandaka.”
+
+“What kind of words are these Prime Minister? If people behave so disgracefully, what has happened to our Chozla armed forces?”
+
+“The confusion and anger are the greatest in our armed forces. The mobs may be quietened after some shouting and disturbance.  The armed men will destroy Tanjavur Fort; imprison the Lords of Pazluvoor and Lord Madurandaka. They will place the most gallant, the most brave warrior Arulmozli Varma, who conquered Lanka, on this throne and then think what to do next.”
+
+“And you too, have a secret wish in your heart that it should happen that way. The people wander in confusion by believing stories made up by foolish Astrologers! Get this engraved clearly in you heart and mind. Madurandaka the son of my revered Elder-Uncle, Grandsire Gandara Aditya, has the true rights to this Chozla throne.  I have decided to anoint him and crown him. I do not care if the people object!  I do not care if divinities and the three great Gods come and try to stop me! I will not listen.  If my sons stand against this ….”
+
+“My Lord nothing like that can happen. Your sons will never, at any time stand against your wishes. Arulmozli has no wish for kingdoms. They offered him the Jeweled Crown and Throne of Lanka and he refused it. Would such a man go against your words? And Karikala is no different. You chose to elevate him and anoint him as Crown Prince. He agreed as it was your wish. Do we need to recount his bravery and gallantry? If he wished it, he could conquer a large empire for himself with the might of his sword. He has no wish to rule a kingdom. All you need to do is tell him what you really wish for, just one word!”
+
+“He is dancing around without coming here all these days despite the many messages we have sent him, because he is afraid that I might say such a word, and that he will need to heed that word!”
+
+“My Lord Emperor, the Crown Prince has built a golden palace for you in Kanchi City and is waiting for you to go there…”
+“I know what he is waiting for! Like Kamsa of mythology,  who imprisoned his parents, he is waiting to throw us in prison and ascend the Chozla throne! Who knows what palace he has built? Golden Palace or a wax palace that can burn down with us in it!”
+
+“My Lord it is truly brutal and torturous for you to be speaking in this way about Karikala!” said Vanamadevi.
+
+“They have poisoned his heart this much!” said Mr. Anirudda.
+
+“It is none other. It is Karikala himself who has poisoned my mind. If he is truly my son, why has he not come to me even though I have sent word to him so many times?” asked Sundara Chozla.
+
+“There could be some other good reasons?”
+
+“Fine, you can guess a good reason and tell me!”
+
+“The rumor all over the country is that if Karikala crossed the Kollidam and comes south, the Lords of Pazluvoor would arrest him.”
+
+“People have turned my son’s mind by saying such things.  Her father Thiru-Kovalur Malayaman is one such fellow; and that Velir of Kodumbalur is another fellow! And you too have joined with them perhaps, what do I know!”
+
+“My Lord, it is not my nature to speak ill of anyone when they are away. You spoke just now about danger; that you are worried in your heart about some impending danger. What you feel in your heart is very true. There is grave danger coming towards the Chozla clan. The danger is coming in two ways.  There are two grave conspiracies in  this country now. The nobles of Pazluvoor and Kadamboor …”
+“Mr. Anirudda, stop this. The noblemen of Pazluvoor have served Chozla royals for more than a hundred years. Elder Lord Pazluvoor has fought in twenty-four battles and bears sixty-four war-wounds on his body! Instead of saying that such a man is conspiring against the Chozla clans, one can believe that the sun has gone dark and fire is raging on ocean waters.”
+
+“My Lord, eclipses darken the sun. Volcanoes burn from under the ocean. I am not about to talk about all that. I have never said that Lords Pazluvoor are conspiring against Chozla clans. They are trying really hard to crown Madurandaka.”
+
+“What is wrong if they think of crowning Madurandaka who is the son of the very devout Gandara Aditya? The right to this throne truly belongs to Madurandaka.”
+
+“That is exactly what I am saying. Moreover, you yourself have come forward to give the throne to Madurandaka. When this is the case where is the fault in Lord Pazluvoor?  He is just making an effort to fulfil your wish.”
+
+“They have now earned my gratitude even more!”
+
+“My Lord they are also undertaking certain activities that do not have your approval. They have been discussing the option of dividing the Chozla kingdom in two; everything south of the Cauvery to Madurandaka and the lands to the north for Karikala. The idea is being discussed today in Sambuvaraya’s Fort. My Lord, this Kingdom that has been enlarged for the last hundred years by your forefathers, this Chozla empire established from Lanka to the shores of the Godavari by Vijayala, Aditya Chozla, Paranthaka the great, My Lord are you agreeable to divide this large empire?”
+
+“Prime Minister, I will never agree to that. Before dividing this kingdom, I will ask them to chop me down. I cannot believe that Lord Pazluvoor has embarked on such a venture. Perhaps he has agreed to that idea thinking that I may wish to give at least half the kingdom to my son. When he knows that it is not to my liking, he will give up the idea. Prime Minister, I will crown Madurandaka without reducing even a finger’s breath of the kingdom. I don’t care if my children oppose that or even if Lord Pazluvoor  is against that. I will not listen to such counsel.”
+
+“My Lord, you need not care if Lord Pazluvoor opposes it. Your sons do not care to do so. They are not the opposition to giving the crown to Madurandaka. The opposition comes from a higher authority. The objection is coming from the divine lady who is revered by you, by me and by all the Chozla people. I tried talking to her even a few days ago.”
+
+“You are talking about Lady Sembiyan Madevi. Someone has spoilt that great lady’s mind. The Elder Pirati perhaps thinks that I wish to crown my sons! Prime Minister please arrange for her to come here immediately. I will make her change her mind.”
+
+“My Lord, it is not that easy. Revered Lord Gandara Aditya has given strict orders to his wife before he departed from us. I was near him when he was about to die. ‘there is a very important reason for not crowning Madurandaka. My life’s partner knows the reason.’ That is what your Elder-Sire said.”
+
+“Prime Minister, is there really some such objection? Do you know what that could be?”
+
+“If I were aware, would I wait till you ask Sir! You need to have the Elder Pirati come here and find out the reason from her by yourself.”
+
+“Yes, that is one thing that keeps bothering me. Make arrangements for the Elder Pirati to come here immediately. I will solve whatever the objection  it is. Who can we send to invite her here? Why not send my daughter Kundavai herself? My dear, go ask your daughter to come here now," Sundara Chozla said these words to his wife.
+
+Even though the Queen was listening to the conversation between the Prime Minister and her husband with half an ear, all her thoughts were on the mute- queen who had left that room earlier. Therefore, when the emperor asked her to go fetch Kundavai, she hurried to the inner apartments. When she reached the women’s apartment, she found that at the girls, Kundavai, Vanathi and Poonkuzlali were in some greatly disturbed state. The Queen immediately understood the reason for that. She could not find the mute-queen in those rooms. When asked, Kundavai explained, “Mother it was no easy task to follow your requests. Even so the three of us insisted and forced Mandakini Devi to have a bath. We dressed her in new clothes. Vanathi was dressing her hair, while Poonkuzlali was threading a string of flowers. I went into the other room to bring some jewelry. I heard these girls cry out even as I was choosing the ornaments. When I hurried back, I cold not see Mandakini  Devi. As soon as Vanathi had tied up her hair, Mandakini suddenly jumped up and ran away. We could not find her in these apartments. We are still looking for her.”
+
+The Queen smiled on hearing this. She asked, “After you had dressed her and made her up, was there a mirror before her?”
+
+Vanathi replied, “Yes it was there, a little further from her.”
+
+“She might have felt shy on seeing her made up face in the mirror. She might have run away to hide somewhere. Search properly, some more, everywhere. She might have gone to hide in the palace gardens. It is usual for her to jump across walls or go through window openings.” So said the Queen.
+
+They went to look for her in the gardens. Their worry increased when they could not find the mute-queen anywhere. When they were wondering if they should go and tell the Prime Minister and the Emperor, they heard a sound ‘clang, claannng’ from somewhere as if something was being hit. It was like the sound of an iron sculptor’s chisel being hit on a granite stone by a hammer. Upon listening to the sound and realizing that it was coming from the sculpture court, they bade a serving maid to bring a lamp; all of them went to the sculpture pavilion. They saw a curious scene in the sculpture court. Mandakini who was now dressed somewhat fashionably, was holding a long-handled hammer and striking again and again at Lord Ravana’s hands that were holding up Mount Kailasa. It was a sculpture made of very strong granite; her efforts did not seem to have harmed Lord Ravana! But he was most likely to be harmed very soon. If two or three of his hands were broken, the whole mountain would be displaced and come  down upon his several heads even more firmly. The heads may even shatter into smithereens. It was in such a dangerous situation for the sculpture that Kundavai and the other women came into the court. On seeing them come in, Mandakini dropped the hammer in her hands and stood looking at them with a smile.
+
+Every one who came to that sculpture court, except Poonkuzlali, thought, ‘It is true that she is a crazed woman. There is nothing surprising that the Emperor is disgusted with her.”
+
+The Queen looked at them and alerted them saying, “Girls, do not speak of this in the presence of the Emperor.”
+
+***
+
+Chapter 35 - Emperor's Anger
+A furious argument was taking place between the Emperor Sundara Chozla and Prime Minister Aniruddha at the same time when the womenfolk had found Mandakini in the sculpture court.
+
+As soon as the Queen had stepped out, Mr. Anirudda said, “My Lord Emperor,  I was hesitant about speaking of certain things when the womenfolk were here. I must speak of those matters now. The Aabathudavi guards of Veera-Pandya are still roaming secretly in our Chozla lands. They are awaiting the right time to go into action to fulfil their violent oaths of revenge.”
+
+“There is nothing new about that; it is known to me. That is why the noblemen of Pazluvoor have put in extra measures of security for me,” said the Emperor with a sarcastic laugh.
+
+“You know about the Aabathudavis. But it is unlikely that you know about the fact that the financial resources to fund their activities is being expended from the treasury of this Chozla kingdom.”
+
+“Aha! What rumor or made-up story is this?”
+
+“I must tell you about even more bizarre made-up stories. Newly minted gold coins from Elder Lord Pazluvoor’s treasure vault were poured in a mound in the middle of a gang of the Aabathudavis when they met in secret. My assistant Thirumalai who saw it with his own eyes is here; if you so desire, he can speak in detail about that….”
+
+“No need. Pazluvoor nobles of several generations have given their blood and allegiance for the welfare of the Chozlas. Even if King Arischandra of legend, who never spoke a lie, comes to tell me that they gave gold from my treasury to the treacherous terrorists, I will not believe that.”
+
+“Forgive me sir. I am not heaping such an accusation of treason upon the Lords of Pazluvoor. Is it not possible that gold coins from their treasury is being given to the terrorists without their knowledge?”
+
+“How can that be possible? Can life be taken without the knowledge of Yama, the Lord of Death?”
+
+“If Lord Yama in his old age had married a young maiden, that too is possible.”
+
+“I too did not particularly care about Lord Pazluvoor getting married at this age; I spoke to him about that. But I cannot tolerate such treasonous accusations being heaped upon him because of that.”
+
+“Sir, I am not accusing Lord Pazluvoor of treason. I accuse the Young Queen to whom he is married.”
+
+“One can somehow tolerate accusations heaped upon menfolk. You accusing an unfortunate, orphan girl, falls upon my ears like piercing iron rods. Deplorable!”
+
+“However, deplorable it is to hear, I must speak to you of some truths about the Young Queen of Pazluvoor. Because I did not share a certain truth with you at the correct time much sorrow has resulted. You were angry about it a little while ago. Please listen to me a little patiently.”
+
+The Emperor smiled to hear these clever words of his Prime Minister. “You are turning my own words against me. There is no connection between what we spoke and this thing that you are speaking of. Go ahead, tell me. I shall listen.”
+
+“The Young Queen Nandini, arrived at the Pazluvoor mansions about three years ago. Since then, certain sorcerers have started coming and going to Pazluvoor mansions. The Younger Lord Pazluvoor, Kalanthaka, knows of this. He is not happy about these visits by sorcerers. Even so, not having the courage to speak against his elder brother, he has been keeping quiet.”
+
+“If we think of brothers, it should be like them!”
+
+“Because of devotion to one’s elder brother there should be no danger to the kingdom?”
+
+“What danger has now befallen the kingdom because of this? Will the kingdom be destroyed because a foolish young girl, in her superstitious belief,  calls upon a sorcerer to cast spells? Are you saying that I have fallen ill because of spells cast by the Young Queen of Pazluvoor?”
+
+“My lord the men coming to see the Young Queen are not truly sorcerers! I suspect them to be conspiring terrorists masquerading as sorcerers. I suspect that it is through them that the gold from the treasury is being distributed.”
+
+“One may suspect anything of anyone!  Do you have any proof?”
+
+“My Lord, My King of Kings, if we were to examine the Pazluvoor mansions and the treasure vault today, we may be able to find proof.”
+
+“No one has told me anything as displeasing as this, till this day. Anirudda, you are a dear friend to only me. Lord Pazluvoor has been a dear friend of Chozla royals for the last three generations! He is like iron armor for the Chozlas. He is as dangerous to our enemies as the thunderbolt weapon of Indra the King of heavens. How can we search the mansion of such a man, when he is not present? Instead of believing that Lord Pazluvoor has given place to terrorists in his mansion, I would more readily believe that Malayaman’s Daughter is giving me poison saying that it is medicine!”
+
+“My lord this is not happening with the knowledge of Lord Pazluvoor. He is not aware of what is happening in front of his eyes that have been blinded by passionate infatuation. Without his knowledge, his mansion has become the headquarters of extremist groups. There is reason to believe that the Young Queen of Pazluvoor is part of such plotting groups.”
+
+“What other accusations are you going to heap upon that unfortunate girl?”
+
+“Some nights ago, in the middle of Thiru-Puram-biyam forest, in the ruins of Prithvipathi’s palli padai memorial, a coronation ceremony took place. They sat a boy younger than five years of age upon a throne and crowned him as the King or the Pandiyas and as the Emperor of the Chozla Kingdom. Those who participated in this ceremony took a frightening pledge to annihilate the very rootstock of Chozla clans.”
+
+“Prime Minister, are you thinking that you can frighten me by such information? Were you expecting my legs and hands to start shivering?”
+
+“No, my Lord, no. I did not think  much of that farce of a ceremony. I just wished to inform you that the Young Queen of Pazluvoor was in the midst of  those gangsters who took those pledges that night.”
+
+“Who is the smart spy who was near them and saw all this and came to report it all to you? Was it your favorite apprentice who is standing over there? Was it him?”
+
+“He could reach that place only after all those things had already happened. The person who saw it all in person was Vandiya Devan of the Vaanar Clan.”
+
+“Are you talking about that spy who came here once and then escaped and ran away?”
+
+“He is not a spy My Lord. He is a confidant and friend of your dear son Karikala.”
+
+“There are all sorts of friends for Karikala! One does not speak in the same fashion as another. Perhaps what he reported is true. We cannot do anything about that now. Lord Pazluvoor  is also not here now. His queen is also not here. We can inquire about it all after they come back. Prime Minister, after what you have spoken is such detail about the Young Queen, I have a strong desire to meet this astonishing young woman. Because of my disgust about the affair, when Lord Pazluvoor came back after marrying her, I told him not to present her to me. Perhaps she has become angry about me because of that? When Lord Pazluvoor returns, this time I will ask him to present her to me and calm down her anger about me.”
+
+“Emperor, I too wish for that! There are several other important reasons to appease Nandini Devi’s anger. Till Nandini comes back, I ask that the mute-queen from Lanka be permitted to remain in this palace.”
+
+“Aha! Now you have crowned her the Queen of Lanka!  Let it be! What is the connection between her and the Young Queen of Pazluvoor?”
+
+“That is what we need to find out. My Lord, if they were to meet each other in person, perhaps we may find out the connection! Perhaps the anger of Nandini Devi towards the Chozlas will change.”
+
+“Prime Minister, I am surprised that you are so worried about the enmity of a young woman.”
+
+“There is reason to be worried about the enmity and anger of Nandini Devi. I am concerned whether it is appropriate for me to speak to you about that.”
+
+“Who else will speak to me when you yourself hesitate? Do not leave out anything; tell me everything.”
+
+The Prime Minister was lost in thought for a few minutes, he then spoke, “My Lord what I am about to tell now is a very confusing matter. I am not sure if it is appropriate to speak with you. But please listen to me patiently. Those who have seen both Mandakini Devi and Nandini Devi have been surprised by the similarity of their appearances.”
+
+“There are many such surprising facets in our world. One tree looks just like another! One crazy person looks just like another mad person.”
+
+“A tree does not put on a disguise and masquerade as another tree. One crazy person does not pretend to be the ghost of another mad person and come to frighten and distress the Emperor.”
+
+“What are you saying Prime Minister?!?”
+
+“You have been distressed thinking that Mandakini Devi’s was coming to haunt you at night time.”
+
+“Are you saying that it was not her ghost, it was she herself who came?”
+
+“No, no. I am saying that the Young Queen was acting like Mandakini’s ghost and haunting you.”
+
+Sundara Chozla sat up a little and with a very angry voice said, “ If what you are saying now is proved to be correct, I will with my own hands squeeze that fiend’s neck and  …”
+“My Lord, please! Don’t not utter any such oaths in your own words!” the Prime Minister spoke hurriedly.
+
+“Why? What is this pity you have for her? What matters what I do to her who tortured me in this fashion?” asked Sundara Chozla passionately.
+
+The Prime Minister was hesitant, “however much she tormented, if the tormentor was a close relative,  … perhaps if she was one’s own daughter…”
+“Prime Minister, what nonsensical blabbering is this?” asked Sundara Chozla.
+
+“My Lord, I have truly tested your patience. Punish me for that as you wish! But please do not talk of punishing Nandini Devi. She is not only the wedded wife of the Lord Pazluvoor, the minister of taxation, treasurer of the Chozla Empire; she is also the daughter of Sundara Chozla the emperor of the three nations. Who has the right to punish her for what crime?” asked Mr. Anirudda.
+
+On hearing this, Sundara Chozla looked at him for some minutes and then burst out laughing.
+
+“My Lord, today is truly a good day. I have heard you laugh more than twice.”
+
+“Brahma-raya, I was thinking until now that there is only one mad woman in this palace. I now realize that you are more crazy than her! She is mute and mad. You are a crazy prattler of words!” Sundara Chozla continued to laugh again and again thinking of these words.
+
+***
+
+Chapter 36 - Late In The Night
+The women entered the chamber even as Sundara Chozla continued to laugh. First came the Queen Vanamadevi. Behind her was Mandakini Devi held on both her sides by Kundavai and Vanathi and almost dragged along; behind them was Poonkuzlali and a serving maid, all coming in as if in a procession. The Emperor’s laughter cheered them somewhat. Mandakini looked at him for a second and then looked down; she kept doing so. Her beautification was now complete. Kundavai Pirati was famous in those days for her fashion and dressing skills.  Chieftains and noble families would send their daughters to live with her at Pazlayarai, as part of her court of friends, so that they too could learn the fashion and polish of  the polite world. Kundavai had used all her expertise upon getting the mute-queen dressed. Perhaps because of some unknown instinctive feeling in her heart, she had bound Mandakini’s tresses in a fashion similar to Nandini’s style, a one-sided coiffure. When the dressing was complete, all the women realized how exactly like Nandini she looked! Even the age difference of twenty-odd years was not apparent because she was an active, healthy woman who wandered in the forests and seashores of Lanka. Those women led Mandakini to the Emperors presence with some pride. Each of them had a reason to be proud about this.
+
+During the historical times of this story, it was common for kings and chieftains to take several wives at the same time. War and battlefields were a constant. Men of the royal and noble families were at some battle field or other at all times. In order to ensure the succession and continuity of the clan and family, these royals and chieftains married several women at the same time. It was considered as a mark of good character for the chief queen or the first wife to not become jealous of the junior wives; they were expected to take them into their friendly fold. It was in this fashion that Vanamadevi was enthusiastic. Kundavai was proud to exhibit her cosmetic decorating  skills: she had made a crazy looking unkempt woman appear as an incomparable young beauty. Poonkuzlali was exultant that her aunt was being given such a royal welcome in the palace. These palace women were behaving very contrary to her preconceived notions!
+
+The Emperor looked upon the procession of these women who came with happy, proud faces. His laughter died immediately. Mandakini’s new appearance astonished him greatly. As if to check if what he was seeing was true, he closed his eyes with his palm and opened them to look again.
+
+His mind was registering all that the Prime Minister had been telling him. He became fully aware of the resemblance of the midnight apparition that had been haunting him in recent months and Mandakini in his presence now.  He also noticed several differences. A wish rose to occupy his heart; he must research this mystery in all detail and get to know the truth. The disgust he had felt about Mandakini had not changed. He decided not to express that disgust.
+
+“Prime Minister, I just said that you are crazy. All that madness and delusion is in me. From today not only the doctor must come visit me every day, but we need to get an exorcist or sorcerer too. It does not matter even if we get hold of that sorcerer who comes to see Pazluvoor Nandini, and make him come see me!” he spoke in a soft voice.
+
+Aniruddha was startled, he prayed in his heart, ‘Let none of those sorcerers come anywhere near the Emperor!’ He then began speaking, “My Lord, why do we need sorcerers and exorcists. Neither do we need chants and spells. There is no greater sacred word than the name of Lord Sri Narayana.”
+
+“Father, they said that  you asked for me. You wanted me to go to Pazlayarai. Should all of us go?” asked Kundavai.
+
+Instead of answering her, Sundara Chozla looked at his Prime Minister, “Anirudda, I have changed my mind. For some reason all these women seem to be very joyous. They are glad as if a new daughter-in-law has come into their house! I do not wish to separate them at this time. As you said just now, let them all remain here itself for some days. Lady Sembiyan Madevi has a great respect for and confidence in you. So, you can go personally and escort her here from Pazlayarai. Send your assistant to Nagai Port. I shall tell Lord Kalanthaka myself, to arrange to get Lord Pazluvoor and his Queen back here as soon as possible.”
+
+“That is a good plan My Lord. It may be some days before everyone can reach here. Because of yesterday’s storm and rain all the rivers are running in full flood,” concurred the Prime Minister.
+
+“There is no harm. We who waited so long will not lose anything by waiting a few more days. If we can arrange to have Karikala also come here, we can discuss and finalize everything. If he continues to refuse to come here, I may have to go to him! We can think about that later. You go tomorrow and bring the Elder Pirati here. Before you go, pay some attention for the relief of people suffering hardship because of this storm. We have forgotten the most important duty in administration of a people by getting enmeshed in our family problems,” said the Emperor.
+
+“I have not forgotten that my Lord. All arrangement will be made. You can rest without worry.” The Prime Minister took leave of his Emperor and left.
+
+That night Sundara Chozla truly experienced a calm that he had not felt for a long time. A heavy burden that had been oppressing his heart for a long time was now lifted upon knowing that Mandakini of the Karaiyar fisherfolk had not died. The news that Arulmozli was at Nagai Port also comforted him. He had confidence that Choodamani Vihara monastery was a well-built strong building and that no harm would fall upon people staying in it.
+
+He was amused by the suggestion of Anirudda that the Young Queen of Pazluvoor could be his daughter. This blossomed as a smile on his face. He remained conversing with his Queen and the other women. He congratulated Kundavai on her decorative skills. “You have turned an uncouth forest creature who appeared disgusting, into a heavenly nymph like Indrani.  Did you find just this old woman to practice your skill? You should have spent your efforts on a young girl like this Vanathi here.” He was teasing his daughter. He then spoke to Poonkuzlali and learned various other details about his son Arulmozli.
+
+Finally at the end Poonkuzlali asked, “My Lord, may I ask permission to go back to Kodi Karai. May I leave tomorrow? I have no more worry about my aunt anymore.”
+
+“You said that your cousin, the son of your other aunt, is gripped by fever and on a sick bed. Are you not worried about him? Do not be in such a hurry to go back. Stay for a few days before you go.”
+
+Poonkuzlali remained silent.
+
+That night Sundara Chozla slept well. He did not dream too much either. Whatever dream occurred was not a nightmare; they were pleasant dreams. His womenfolk too slept calmly in the room next to his chamber. The only one among them who was not restful and who did not sleep was Mandakini. All the events of the day had created a huge turmoil in her mind. Most importantly, her thoughts wavered between the treasure vault and the underground passage. Her effort to close the exit from that underground passage by breaking the hands of the Ravana sculpture did not succeed. She kept thinking about it and her mind was restless without any solace. She kept looking around in the dim light of the night lamp in that room. Most importantly she was looking at the window frame-work on the balcony like apertures of the upper levels looking down into their rooms.
+
+It  was soon past midnight. Late night had started; soon it was past the third period of the night. At that time, she could see a figure in the window embrasure of the upper level. A frightening horrible face was trying to hide beside that window and was looking down into that room.  She somehow recognized that face. Startled by what she saw, she jumped up quickly. She peered at that window embrasure; the figure was not there. She walked up softly till the doorway of the next bedchamber and looked inside. She saw the Emperor sleeping comfortably in there. She examined the window lattice work of the upper balconies looking into that high ceilinged room. Noting was visible. She went back and awakened Poonkuzlali by gently touching her and shaking her. Poonkuzlali who was in deep sleep opened her eyes. She was shocked to see the expression on the mute-queen’s face. Her mute-aunt signed and asked Poonkuzlali to follow her. She had deep confidence and regard for aunt and so she rose without making any sound and followed her.
+
+As her mute-aunt hurried along the hallways towards the sculpture court, she picked up one of the night lamps burning in the hallway. Poonkuzlali became a little worried on reaching the sculpture court. Was she going to try and break the sculpture again? If she tried that, every one in that palace might be awakened by the noise and confirm that her aunt was truly mad. She must try and stop her if her aunt ventured in that effort. She followed her aunt into that sculpture court.
+
+Oh! What is this? One of the heads of that Ravana sculpture was moving! No, no it was not Ravana’s head. It was another head that could be seen in an alcove like opening above Ravana’s ten heads and below the Kailasa mountain he was lifting up. That head soon vanished; was it imagination? Half asleep dream? Or was it merely a shadow moving in the faint light of that hand lamp? She was not sure if aunt Mandakini had seen the same figure. But she was hurrying towards that sculpture; luckily, she did not seem to see the rock hammer lying on the floor nearby. She lifted the lamp and showed Poonkuzlali the dark spot above Ravana’s hands and heads, just below the mountain he was lifting. She saw an opening in there.
+
+What Poonkuzlali had guessed earlier was true. This was the exit or entry to a secret tunnel. It had been so skillfully crafted that no one could see that such an opening existed there. Her aunt had been trying earlier in the night to close that tunnel entrance. The others had stopped her, not understanding…
+Even as Poonkuzlali was mulling over such thoughts, her aunt made signs to her that she was to follow her. Then with the lamp in her hand she squeezed into that opening and stepped into the secret passage. Slowly her body disappeared and soon her head too vanished. The hand lamp too had become hidden. Just a faint light could be seen. Poonkuzlali too twisted and squeezed her body and stepped into that opening carefully without hitting her head on any of the stone work. Within minutes she had vanished; so did the lamplight. Darkness once again engulfed the sculpture court.
+
+In the morning when the Queen, Kundavai and Vanathi woke up and looked, they were bewildered at not finding Poonkuzlali or her mute aunt in their beds where they were supposed to be sleeping. Even after searching all over the palace, the gardens and sculpture court, they could not find them. None could decipher how they had vanished as if by magic. When informed, the Emperor was a little concerned at first. Later he said, “it is a good thing that those lunatics went away. It does not matter how they went!”
+
+In spite of these words, an unexplainable worry and fear took hold of his heart and mind.
+
+***
+
+Chapter 37 - Chaos At Kadamboor
+Since Aditya Karikala’s arrival at Kadamboor fort, the people who usually lived there as well as all the other guests had to spend their time as if they were standing on sharp thorns and walking on burning embers. No one could guess when and what kind of fiery missile would emerge from the Prince’s tongue. All were on tenterhooks.
+
+Karikala continued to make vague and pointed remarks about the conspiracy to elevate Madurandaka to the Chozla throne; this made every one edgy and anxious. Lord Pazluvoor could not bear this any longer. He insisted to Lord Sambuvaraya that they should openly tell him about the opinion of all the chieftains. Lord Sambuvaraya cautioned him, “Please be patient. Anyhow he has come here as our guest. He seems to be an utter brute. What would we do if something contrary to what we expect happens? We can tell him when we find an appropriate time.” He kept postponing the confrontation.
+
+Instead of leaving them in a quandary of how to broach the subject, one day, when all were gathered together, Aditya Karikala himself asked the question openly!
+
+“I came here mainly to ask the opinion of my Pazluvoor Grandfather and Kadamboor Uncle about a very important matter. I will ask now. Three years ago, my father made me the Crown Prince of the Chozlas and publicly anointed me and crowned me. All of you agreed to that. Now it appears that the Emperor has changed his opinion. He wants to place Madurandaka on the throne and crown him. He has been sending me invitation after invitation to go to Tanjavur to deal with this. I have been avoiding going there with excuse after excuse. Why must I go to Tanjavur? After going there, why must I go against my father’s commands openly? Isn’t it better to not go there at all? Pazluvoor Granddad! Kadamboor Uncle! You are the elders. You know all the details and legalities. You tell me this. Is it legal for my father to ask me to give up the kingdom on behalf of Madurandaka after all these years? Will it be a crime if I were to disobey?” When Aditya Karikala asked thus, clearly and openly, all were stunned.
+
+Lord Pazluvoor cleared his throat and began to speak thinking he could postpone giving an answer for at least some time. “Royal Prince you must have consulted with your Thiru-kovalur grandfather regarding this matter. What does Lord Malayaman say?”
+
+“Aha! All of you noblemen know the nature of that old man! Would he agree to give up the throne that belongs to his grandson for another? Instead of that he will chop me and my mother who gave birth to me into pieces. Lord Malayaman has already started collecting an army- to confirm the rights of his grandson for the throne. However I am not going to act just upon his opinion alone. I will act, in whichever way all of you gentlemen advice.” Thus answered Karikala as if he was an obedient soft-spoken son.
+
+Lord Pazluvoor was disappointed on hearing this, it was not what he expected and he was forced to answer, “We are not like Malayaman, who would urge a son to go against the wishes of the father. We are all bound to obey and act upon the orders of the Emperor whatever they may be. However, we do have the rights to explain what is just and legal. What the Emperor says about this matter cannot be discarded as being totally unjust or illegal. Neither can we say that Lord Madurandaka has no rights to this Chozla throne. Prince, since you ask openly, I shall speak with an open mind. The final decision is as you wish. We think that it is very dangerous to the Chozla empire if we let the debate on this matter continue or grow. It is good if we can come to some peaceful conclusion. The Chozla kingdom is not like what it was in days gone by; a narrow strip of land squeezed between two white water rivers! It spreads from the tip of Cape Kumari to the banks of River Krishna in the north. Even if we divide it in two, each would be a big empire. It would be justified to declare that all the lands south of the Kollidam for Lord Madurandaka and everything north of the river as belonging to you. This is our conclusion. If you agree to this, we could go forward to do what has to be done. I shall take the responsibility to convince the Emperor to accept this decision,” said Lord Pazluvoor.
+
+Aditya Karikala’s gleeful laughter on hearing this, filled Lord Pazluvoor’s being with rage.
+
+Karikala started sarcastically, “Oldman-Granddad, it is a great idea to split the Chozla Empire in two, in this fashion, so that nobles of Pazluvoor in the south and the Sambuvaraya in the north can wield their power. Yes, it is an appropriate reward for both your families who have served the Chozlas since the times of the father of my grandfather. However, I have no wish to split the Empire. Dividing and sharing the lands that have been inherited from generation after generation is the same as splitting and sharing one’s wedded wife! Perhaps it may be agreeable to old men like you! I will not agree.” When Karikala spoke such words, fiery embers of anger flew from Lord Pazluvoor’s eyes. Enraged, he stood up, ready to draw his sword from the scabbard on his side.
+
+Karikala continued, “What is this Granddad? You are getting up to leave? Listen to my idea completely and then leave. I have no wish to split the Chozla Empire. This Kingdom has grown to this stature because of the service of many; over five generations of my ancestors, your ancestors, me, you, all have worked very hard and sacrificed the lives of many gallant and brave men. It is a sin to divide this in two and make two small kingdoms. It will be reason for men like Rajaaditya who have attained the heavens of the brave to curse us. So, abandon this idea. I am ready to give up this entire Chozla empire to Madurandaka. It is just and legal! Madurandaka is the son of my elder-grandfather.  Therefore, instead of my father, Madurandaka should have been crowned. Because of Emperor Paranthaka’s arrangements, my father was forced to accept the crown. Let that blunder end with him. According to the law, ‘the son after the father,’ even though I have complete rights to this kingdom, I am ready to give up my entitlement.
+
+“But on one condition. I wish to have an army of three hundred thousand men so that I can venture on a campaign to conquer the north. I will need to be given all the equipment, arms and supplies for that large army along with food for one year; all this needs to be collected. I will also need three hundred large ships that can cross oceans. I shall make Parthiban my Commodore for the navy and have him come sailing along the coast while I will lead the army on land on a campaign of conquest. I and Parthiban will meet at the mouth of River Ganges. And we will go further north.
+
+“According to the bards, my ancestor with the same name as me, Karikala Valava, is said to have placed the Chozla tiger flag on the Himalayas.  That which my ancestors have achieved, I shall achieve now. With the strength of my sword and the strength of the shoulders of the men who go with me I shall become emperor of lands north of River Krishna that I conquer with my own might. If I were to die on a battlefield,  I shall happily go to the heavens meant for the brave, knowing that I have established the gallant fame of the Chozlas.
+
+“Pazluvoor Granddad, Kadamboor Uncle, what do you both say? Will you agree to meet this condition of mine?” Karikala asked this with pride and stopped talking. Both old men were totally stunned!
+
+Lord Pazluvoor started to reply falteringly, “Royal Prince, who are we to agree to your condition. We do not have the authority. It is the  Emperor who has to be consulted.”
+
+Karikala jumped up with rage and roared with the voice of thunder; “Oldman-Granddad, whom are you trying to fool in the name of the Emperor? You cannot hoodwink me! You have imprisoned my father in the palace and kept him as a puppet that dances to strings you manipulate. You think I am not aware of it all? Can anyone meet my father without the permission of Younger Lord Pazluvoor? Did my father willingly issue orders to arrest my younger brother in Lanka? Or was it on your insistence? A dear son, darling of the people, most gallant of our warriors – will any father willingly order that such a son should be arrested and dragged back to the capital? Today the people of the Chozla nation are all enraged, boiling with fury, angry about you Pazluvoor nobles saying that you arrested and brought the Young Prince on your ships and drowned him to die at sea….”
+
+“Prince, who is spreading such false slander and immense accusations? I shall cut off the tongue of the fellow and chop him to pieces,” roared Lord Pazluvoor.
+
+“If it is one person who is accusing, you could cut his body to pieces; what if it is the people, tens of thousands of thousands who are saying it? If you are going to punish all such people, this Chozla land will turn into a desert of dead bodies and a cremation ground.  The Chozla empire will then be an appropriate kingdom for the rule of Madurandaka who is a devout follower of Lord Shiva who is said to live and dance in cremation grounds!
+
+“Granddad, however, I did not believe such talk! People are idiots without any sense. When one fellow makes up as a story, it will be repeated without proper investigation by another, till it spreads. You are hereditary helpmates of our Chozla clans and you will never commit such a heinous deed! If Arulmozli drowned in the sea, it must be his destined fate! Perhaps he drowned and died at sea to throw mud into the mouths of all those astrologers, soothsayers, diviners and palm readers who kept declaring that he was ‘born to rule the three worlds.’ Oldman-Granddad, however powerful and brave a leader you may be, even you cannot rustle up a whirlwind in the middle of the sea and cause a thunderbolt to fall upon the ship’s mast to make it catch fire. Perhaps it was the work of those sorcerers from the Pandiya territories! You are not responsible for that! So you are not responsible for the fate of Arulmozli.
+
+“However, don’t keep telling me that you would answer ‘after consulting with the Emperor.’ And then you may go on to say that you will need to consult that Anbil Brahma-raya! The Emperor and our Prime Minister are merely bearing such titles for namesake! They cannot act or do anything against your wishes. Perhaps if you really wish to do so, you can tell me that you will answer after consulting with my young grandmother Nandini Devi of Pazluvoor!”
+
+On hearing this, Kandamaran suddenly jumped up to intervene, “Sir! Persons who have come as guests to our house, … about them ….” He started to say something, loudly, incoherently, faltering over his words.
+
+Karikala turned towards him with fiery eyes, laughing and cackling like Lord Shiva who had just annihilated the three flying worlds, “Kandamara! Is this your house? I forgot! I have also forgotten that you are the brave young man descended from the great Valvil Ori of Kolli Hills! Yes, yes; in your house particularly in your presence I must speak with caution and humility! What have I misspoken? What have I said about your guests in your house? Kandamara, why are your hands and legs shaking like this? Has the shivering fever that is rampant in Lanka come upon you? How can that be? You did not even go to Lanka!”
+
+Vandiya Devan spoke up, “My Lord Prince, Kandamaran does not have the shivering fever. Because you refer to the Young Queen of Pazluvoor as ‘grandmother,’ he is angry!”
+
+Kandamaran turned angrily towards Vandiya Devan with his hand on the hilt of his sword. Parthibhan held his hand and pulled him back, forcing him to sit down and whispered something in his ear. Kandamaran quietened down even though his hands and limbs were continuing to shake with anger.
+
+Prince Karikala looked at him and laughed before turning back to Lord Pazluvoor, “Dear old Granddad, this is nature; young bulls will sometimes jump up without control like this; you need not heed them! In relationship you are my grandfather; therefore the young queen must be my grandmother! My grandmother has no objection to my addressing her thus! Neither do you have objections. Why do these young fellows burn with rage? Let us forget that. We have gone somewhere away from what I started talking about.
+
+“My father…  do not lay the burden upon him. If you agree it is as if my father agreed. The treasury is in your hands; if the men were to hear that I am setting out to conquer the northern regions with an army, why three hundred thousand, ten times that many will rush forward to go with me. You should not find any difficulty to ready three hundred ships. You have to agree; Madurandaka must consent! That is all; what do you say?” asked Karikala again.
+
+Lord Pazluvoor was unsettled, short of breath, disoriented and perplexed; he cleared his throat trying to form words of reply, “Prince, even if I were to agree to this fascinating condition of yours, we need to surely get Lord Madurandaka’s acceptance. Can you set forth on your campaign without taking leave of the Emperor, your father? Therefore, let us all go to Tanjavur…”
+“That is impossible Granddad! If my father were to order differently, I may not be able to go against his wishes. And then, there is my mother the daughter of Malayaman. My sister Kundavai is also there. They will not like that I am giving up my throne, abdicating and going away towards far off lands. It would be difficult to overcome their wishes. Granddad, this matter needs to be settled in this Kadamboor Fort. You go to Tanjavur and bring Madurandaka here. After we have discussed and agreed, we can inform my father. When all arrangements for the campaign have been completed, I shall come for one day to Tanjavur and take leave of my parents and go. Or else, they can crown Madurandaka immediately and my parents can come to Kanchi. I shall have them live in the golden palace that I have built for them and then go north on my campaign.”
+
+Lord Pazluvoor looked at Lord Sambuvaraya; that nobleman was gazing at the ceiling. Realizing that he would get no help from that quarter, Lord Pazluvoor began, “Royal Prince, what can I say against your orders?”
+
+“Do not say they are orders, Granddad. How can I, a mere  youngster order you whose head has turned grey in the service of the Chozla’s? Say that you will fulfil my prayers!”
+
+Lord Pazluvoor said with a hoarse clearing of his voice, “So be it.”
+
+“Much thanks and salutations dear old Granddad! since you agree, go quickly and arrange for your journey. Bring Madurandaka here openly, seating him atop an elephant; or bring him in a golden open chariot. Don’t use the shuttered palanquin that belongs to my young grandmother this time,” saying this Karikala laughed mockingly.
+
+Karikala now turned towards the others. “Kandamara, your life is turning even more fortunate! More guests are coming to your house! Madurandaka Deva, who is going to become the Emperor after Sundara Chozla is going to come here! The lady who is likely to be crowned as his queen consort, the daughter of Kalanthaka, the Younger Lord Pazluvoor may also come along with him! Kadamboor Fort is going to be filled with all sorts of happenings and more activity. Let Pazluvoor Grandfather get started to go to Tanjavur. Let us go hunting.  Come! Once I was pretty skilled in handling a bow and arrow. They used to say ‘after Arjuna, it is Karikala!’ I have not touched the bow for three years and have forgotten how to use it skillfully. I must practice again. Parthiba, Vallava, all of you get ready! Where shall we go hunting? Shall we go to the Kolli Hills?”
+
+Lord Sambuvaraya who had not participated in any conversation till now, finally spoke,  “Prince the Kolli Hills are quite far away. There is no need to go that far. There is deep forest on the western shores of Lake Veera-Narayana. Some even call that forest as the Dark Forest as described in the epics. There are many wild animals that can be hunted in that forest. The exhibits in our Hunt Room were all hunted and killed there. This lakeside forest is very close to our Fort. If one leaves on the hunt early in the morning one could return home before night.”
+
+“Let us do that Sir!  As long as I am your guest in this mansion, your rule is my law! Shall we take your daughter Manimekalai along with us when we go hunting? It is merry and festive wherever she is present,” asked Aditya Karikala.
+
+“I have no objection. We can ask her,” said Sambuvaraya.
+
+Kandamaran spoke up, “Why take women when we go hunting? All our attention will be on making sure that they are safe! We cannot concentrate on the hunt. Moreover, someone must  remain behind to keep Lady Nandini company.”
+
+“Yes, of course yes. Kandamaran is always worried about my Pazluvoor Grandma Nandini. There is another problem if we take Manimekalai along. When she jumps and skips along, some hunter may mistake her for a deer and aim his arrows at her! Let the women remain behind in the palace. We can go hunting.  We must leave very early in the morning; let us be done with the dances and music early tonight. All of you go to bed early. Sir do not forget to alert the hunts-master and other men now itself. Vandiya Deva come, let us be gone!” saying this, Karikala took hold of Vandiya Devan’s hand and left, dragging him along with him.
+
+Parthiban and Kandamaran looked at them with some jealousy and just stood there.  Lord Sambuvaraya went to order the hunts-men and grooms to be ready for the morning. Lord Pazluvoor left to go towards the inner apartments in search of Nandini.
+
+(Note: Kalki used the term ‘paatta’ whenever Karikala referred to grandfather Pazluvoor. The implication being that it was slightly disrespectful and sarcastic though it could have been an affectionate expression used by a child. Earlier in this story when Karikala is talking to grandfather Malayaman, he addresses him as ‘thaatha,’  grandfather, with affection.)
+
+***
+
+Chapter 38 - Nandini Refused
+Lord Pazluvoor went to see Nandini in a somewhat good mood.
+
+Whatever hopes he had had, when he came to Kadamboor, none were successful till now. He had thought that if he could get a youngster like Karikala to come stay at Kadamboor, he would be able to make him fall in line by cajoling sweet talk and threatening intimidation. He had believed that the young man would be forced to obey whatever he and Sambuvaraya asked him to do. He was fully aware of the problems and dangers in giving all the Chozla Empire to Madurandaka and immediately crowning him. Malayaman in the north and Kodumbalur Velir in the south would surely be against that. And if Karikala was with them, internal strife was inevitable. Who would be able to predict how that would end?
+
+A majority of the people would be in favor of the sons of Sundara Chozla. Even Madurandaka’s mother is against him! Could one enter into this internal conflict by just depending on the strength or the support of fringe groups like the Kaalaa-mukhas? Unrest and disturbances are likely to erupt in various provinces north of the River Paalar and in the Pandiya and Chera territories. Therefore, for now, if one could divide the kingdom in half with Tanjavur as the capital for the South Chozla Empire for Madurandaka we can see what happens later! We can even look at the north and handle Malayaman up there. Karikala is a brute and a ruffian. He is most likely to get into some messy situation one day or other and die young! If that were to happen, all worries are solved! It is best to get this divided kingdom accepted. Lord Pazluvoor had come to this conclusion after discussing the situation with his Young Queen and had come to Kadamboor only after that. He had arranged to get Karikala brought there.
+
+However nothing turned out as he has expected. Instead of being obedient to the elders, Karikala was reprimanding, ordering, threatening and overwhelming the elders with no respect for anyone. Lord Pazluvoor could not tolerate his teasing banter, or the flippant remarks with double meaning. Particularly his addressing him often as an old man and referring to Nandini as a grandmother were causing him distress like poison dipped sharp arrows. Moreover, the behavior of this Sambuvaraya was not all that satisfactory! Instead of standing in his support and putting down the rude behavior of Karikala, Sambuvaraya mostly stayed silent with a closed mouth! Even if he did say something it was a faltering namby-pamby mumbling. Perhaps he is worried and behaving with caution so that nothing untoward should happen to this royal guest who has come to his mansion. Whatever the reason, Lord Pazluvoor felt that Sambuvaraya’s behavior was not satisfactory.
+
+It was not easy to discern the meaning of Karikala’s words today: how much of it was truth? How much of it was mockery? To what degree was it deceptive with one thought in mind and different words on his lips! Is he planning something very drastic after getting Madurandaka here? Who knows! Perhaps he will have Malayaman come here with a large army and lay siege to this Kadamboor fort!
+
+Considering all this, it is best to make this trip to Tanjavur and come back here. My brother is very intelligent. It would be good to consult him and get some ideas. Even if I bring Madurandaka here, I should be ready for any contingency and have Kalanthaka collect a large contingent of armed men and bring them to be positioned  on the banks of the Kollidam. Well whatever is happening in this, one thing is sure.  I should no longer let the Young Queen stay here and be subject to the bantering words of these young brutes. It is most important that I take her away and leave her in Tanjavur. This is a convenient opportunity for doing so; why let go of that?
+
+Lord Pazluvoor came to be in a good mood once he had come to this decision. He went towards Nandini’s chambers with a cheerful countenance. When had reached the doorstep to her rooms he heard  gleeful laughter from inside. For some reason the sounds of that laughter irritated him. Nandini never laughed like this in Tanjavur palace. Why this sudden joyousness? Why is she laughing? Who is that laughing with her?
+
+On entering the room he recognized the girl in there as Manimekalai. His mind was somewhat cleared. When she saw him, Manimekalai tried to control her laughter by covering her mouth with both her palms. Even then she could not control it; she ran out laughing from the room.
+
+Nandini’s laughter had died as soon as she saw Lord Pazluvoor. Her face once again looked majestic as usual. “My Lord, Welcome! Are all the deliberations over?”
+
+“Nandini, why did that girl laugh like that? Why did she run away laughing?”
+
+“Must I tell you that? Fine, let me tell. Some of the talks in the assembly room could be overheard by her when she was in the next room.  She laughed after telling me about Prince Karikala’s jesting words about grandpas and grandmas.”
+
+“Chee! Wicked girl! And you were laughing with her!”
+
+“Yes, I was laughing along with her. I was about to cry after she went away! You came in before that!” after saying this Nandini wiped the tears budding in her eyes.
+
+“Aha! It is my mistake in bringing you here to be amidst these fools. We shall leave for Tanjavur in the morning. Bear with it for this one night.”
+
+“Oh! We should leave for Tanjavur? Why? Is the task we came for completed?”
+
+Lord Pazluvoor then told Nandini about the decisions reached in the meeting that day. After listening to everything, Nandini said, “My Lord, you may go to Tanjavur and come back. I will not come. I have no intention of leaving this place till I teach a lesson to Aditya Karikala. That proud Prince should fall at your feet and ask forgiveness for the teasing words he spoke; or he must fall prey to your sword!”
+
+“Nandini, what is this that you say? How can such a sinful thought arise in your heart?”
+
+“Sir, what is the sinful thought? Is it sinful for me to think of seeking revenge on a man who speaks words of ridicule about the husband who took my hand in wedlock?”
+
+“No, Nandini; listen to this. Our Pazluvoor clan has had friendship ties with the Chozla clan for over six generations. Forgetting all that, can I raise a sword against that clan just because an ignoramus youth babbled something? Sundara Chozla’s son, the crown Prince as of today, how can I kill him with my own hands? What kind of words are these?” Lord Pazluvoor was perturbed.
+
+When he had heard Karikala’s scorching words, Lord Pazluvoor’s hands had many a time sought his sword. At those times, with great difficulty he had controlled his mind and hand. When Nandini openly spoke the thoughts that had risen in his mind, he was truly troubled.
+
+“Sir you have friendship with the Chozla’s for six generations. You have relationship ties. Therefore it is but natural that you would hesitate to lift your sword. But  I have no such relationship; in no way am I bound to the Chozla’s. If Aditya Karikala does not bow down to you and seek forgiveness, I will take a sword in my hands and kill him myself!” said Nandini. Her eyes turned red and brows scrunched, changing the whole appearance of her face.
+
+***
+
+Chapter 39 - Danger Approaches
+Lord Pazluvoor laughed softly; He thought he was laughing, in jest on hearing Nandini’s words. That room and everything in that room  trembled with his laughter!
+
+He felt a certain pride in his heart on hearing Nandini say that she would take a sword in her own hands and kill anyone who insulted him. Knowing that Nandini had such a concern in guarding his dignity, he felt a certain arrogance, a conceit grow within him. On one hand his heart wished to hear her saying such words more and more; on the other he felt that he should appear as if he did not wish such words to be uttered by her.
+
+“Sir, why do you laugh? Because you have no confidence in my words?”
+
+“Devi! I laughed thinking of how you would be able to lift a sword in your hands that are as delicate as mandara flowers! Moreover when a fellow like me is still alive, with my long arms ….”
+
+“Sir, I am aware of the glory and strength of  your hands. Hands long like an elephant’s trunk! Hands as strong as the Vajra thunderbolt weapon of heaven’s King Devendra. Hands that have chopped down thousands and thousands of enemies in the battlefield; hands that placed the jeweled crown upon the head of the Chozla Emperor and establish the integrity of his rule. There is no one who thinks of all this today. Times have arrived when youth born yesterday make fun of you, calling you ‘old.’ Like a King Serpent bound by sorcery into being sluggish, you remain quiet, bound by your allegiance and devotion to Chozla clans.  Yes, my hands are soft, clad in bracelets and fit only to string flower garlands. However, my hands have gained some strength because of taking  the hands of a gallant and brave man like you, in lawful wedding bonds, solemnized and witnessed by ritual fire. If a need arises to guard my karppu-chastity,  if need arises to establish the dignity of my husband, my hands to will gain strength to wield a sword. Look at this…”  With these words Nandini pulled out a trunk from under her bed. She opened the trunk and removed some clothing from the top. She lifted a sword lying underneath, shining brilliantly, carelessly with one hand and held it up high above her head.
+
+Lord Pazluvoor looked at it in astonishment for some time. He finally asked, “For how long have you had this in your trunk? I though that you stored your silks and jewelry in it!”
+
+Nandini replaced the sword in her trunk. “Yes, I store my silken clothes and jewelry in this trunk. The most important jewel that I have is this sword. It is here to protect my chastity and my husband’s dignity,” she said.
+
+“No occasion is likely to arise for you to use this, as long as I am alive!”
+
+“That is why I do not take this sword out of this box. Will not your strong shoulders that guard this Chozla empire which stretches from Lanka to Vengi be sufficient to guard your dignity? Will they not be able to guard an innocent girl like me? Even so, when you are busy with political matters and affairs of the kingdom, you cannot always be guarding me. Should I not be prepared to guard myself when I am separated from you?”
+
+“Devi, where is the need for that? Let bygones be bygones; I will never be separated rom you from now onwards!”
+
+“Sir, that is my wish too! However, this one time, you must be separated from me and go to Tanjavur and come back.”
+
+“What is this obstinacy?  Why should I leave here this once and go away?” When he asked this question, Lord Pazluvoor’s brows were knit with anger.
+
+“My lord, there are two reasons for that. If you now take me with you on this journey, the people here will make even more fun of us. ‘the old-man has no trust in his Young Queen!’ they will say! My blood boils even to think of that! The other reason is much more important. You have been saying all this time that Lord Sambuvaraya is your great friend. You believed it truly. Have you noticed the changes in his talk and behavior since the arrival of the Prince? Even if you missed noticing that, I have been watching it…”
+“I too have been seeing that. I am surprised and wondering about the cause for that change…”
+“You are innocent in your heart. So you are surprised. I have no surprises. It is the greedy nature of people, that is the reason for the change in Sambuvaraya. It was rumored that Prince Karikala never looked at women and that he was never going to get married. You must have noticed that his behavior is exactly opposite to that since he arrived here. He comes often to the women’s apartments. He speaks sweetly with lovey-dovey words; the reason for all this is that his heart has gone to Sambuvaraya’s daughter Manimekalai. Didn’t Lord Karikala even ask if he could take Manimekalai hunting? Lord Sambuvaraya is aware of all this; he has now forgotten all our earlier agreements. He has started dreaming of the days when his darling daughter will sit upon Tanjavur Throne as the Queen Consort!”
+
+“Yes, what you say is the likely reason. I did not even think in my dreams that Sambuvaraya is this despicable. It is not even two months since we met in this same mansion and all of us took an oath to place Madurandaka on Tanjavur’s Throne.  Chee Chee, what kind of a man is this, who forgets his pledge?” said an enraged Lord Pazluvoor.
+
+“My Lord, that is why I say that I shall not come with you to Tanjavur this time. I will keep an eye on what they are plotting when you are not here. If they scheme something, I will ensure that it will not succeed.”
+
+“Nandini, why must you get involved in all this?”
+
+“Shouldn’t a wife be interested in things in which her husband is interested? Why are we called life’s partners?”
+
+“However, how am I to leave you here in the midst of these rogues and brutes. I am not ready to do so.”
+
+“I am not without any protection here. Manimekalai is here; she will do anything for my sake.”
+
+“That seems to be true. I too noticed that your enchanting powers have enslaved her too. Even then, how long will that last? If Aditya Karikala tempts her about his ascending the throne and making her his queen...”
+
+“Sir, do not be concerned on that matter. Manimekalai will not accept even the position of being Indrani, the Queen Heavens without my approval. If I order her, ‘go kill Karikala with this sword!’ she will go do so immediately. You often speak of my mesmerizing prowess. That power of mine has completely taken hold of Manimekalai. If you so wish, I can prove that to you right now!” said Nandini.
+
+Lord Pazluvoor’s whole demeanor was shaken;  that old man spoke with trembling lips, choking voice and faltering tongue, “My dear, I am aware of your powers. But do not try to test anything like that with regard to Karikala. He is a youngster who knows not the way of the world. Let us not make a big issue of something he babbled without knowing what he was saying. If Karikala wishes to marry Manimekalai, let us not stand in his way.”
+
+“Sir  we may not object; but there is something called fate! Who can stop fate? Just as Manimekalai is fond of me, I too have become fond of her. I love her as if she was my younger sister. How can I agree to wed her to a fellow who is likely to die at a young age?” Her eyes seemed to be focused on something that was happening somewhere far away.
+
+Lord Pazluvoor became even more agitated: “Nandini, what words are these that you speak? I was at one time the commander of the Chozla Velaikara Battalion. I have sworn that I would protect the Emperor and his descendants even if I would have to give up my own life!”
+
+“Sir, I have not said that you should break that promise!”
+
+“If some harm were to befall Karikala because of you, that blame too will fall upon me. The world will chide me saying that an old man was unable to bear the teasing of a youngster and he committed high treason. The good name earned by my clan for the last six generations in guarding the Chozlas will be destroyed.”
+
+“Then, it is all the more important that you should leave this fort as soon as possible,” spoke Nandini in a mysterious voice.
+
+“Why do you say that?”
+
+“I was hesitating about how to say this to you. Now it is time to tell you all. Goddess Durga Parameswari had given me some unusual powers. You are aware of that. I had found out by my magical powers that Sundara Chozla had committed the sin of killing a woman in his younger days. And I proved it to you. Similarly my inner eyes see that the last days of Aditya Karikala are quickly approaching. It is not going to happen by your hands or by my hands. One thing is sure, the noose wielded by Lord Yama of Death is coming closer to him.
+
+“His end may happen when he goes hunting in the forest. Or it may happen when he is sleeping in the palace. It may happen because of wild beasts like bear; or he may die as a result of an arrow shot accidentally by his friends. His death may be the result of a knife wielded by the soft  hands of a woman. However, I promise that his death will not happen at my hands that have been taken in wedlock by you.
+
+“I stood on some wayside, an orphan in the midst of war; you married me openly, with the knowledge of the whole world, and made me the Young Queen. I will make sure that no blame falls upon you because of me. That is why you should not remain here at this time. I am insisting that you must go away. If any kind of accident befalls Karikala when you are here, the world will link you with that. Have they not heaped accusations upon you for Arulmozli Varma drowning in the sea? They will heap blame upon you for this too; even if you speak of it as an accident, they will ask why you did not prevent it. Even your diamond hard hands will not be able to prevent the accident that is about to happen to Karikala. That is why you must leave immediately. If you were to take me with you, unnecessary doubts may arise because of that too. They will say that you took me away because you were aware of it before the  accident happened. So, you must go alone. I shall remain here to make sure that no blame or infamy falls upon you whatever happens, whenever it happens. Sir, do you have that confidence in me?” Nandini asked in this fashion and gazed upon him with widened eyes as if peering into his heart. Poor fellow! That brave man was completely baffled by the arrows of Nandini’s words. He obeyed, disoriented by the arrows from her eyes. ***
+-------------
+
+Chapter 40 - Water Games
+About six hundred years before the events of this history, there were seven important chieftains in the Tamil country apart from the three kings(Chozla, Chera, Pandiya.) They were often referred by the title ‘Vallal’ which meant benevolent. Among the seven was, one named Ori who was the chieftain of the Kolli Hills. He had attained fame as incomparable in archery. If he were to bend his huge, strong, bow and pull the string to release his arrow, it would fly like Lord Rama’s arrow which pierced through seven tree trunks as described in the epic; Ori’s arrow was said to pierce through a tiger, and then pierce a stag, and then pierce a boar, and pierce the little rabbit and finally go through the bark of a tree! His expertise was celebrated by bards in this fashion. Thus he came to be called Valvil Ori, the expert Archer Ori.
+
+The Chera king who was powerful in those days, became angry with Valvil Ori. He sought the help of Thiru-Mudi-Kari Malayaman, the chieftain of  Thiru-Kovalur to attack Ori. Kari’s prowess was in no way lesser than that of Ori. Moreover, Malayaman Kari had the strength of a large army. Malayaman invaded the Kolli Hills, killed Valvil Ori and completely destroyed his Hill Fort.
+
+At that same time, a King named Adigaman Neduman Anji ruled the lands near that hill country. He was related to Ori. He wished to avenge the death of Ori by taking revenge on Malayaman Kari. Realizing that he may not be able to succeed by himself, he sought the help of the Chozla king named Killi Valavan who had some anger towards Malayaman Kari because of his friendship with the Chera and his growing armed powers. Chozla Killi Valava and Thagadoor Adigaman joined forces and attacked Malayaman Kari. Malayaman attained the heavens meant for the brave by dying in the battlefield. Chozla soldiers arrested two young sons of Kari. The Chozla and Adigaman who had wanted to destroy every family member of Malayaman,  ordered that those children should be buried up to their neck in the ground and that elephants should trample them to death! A bard who had been the recipient of the benevolence of Malayaman, arrived at that place at that time. He begged the Chozla king to spare the life of Malayaman’s children.
+
+“Oh King look over there. Look at the faces of those children buried up to their necks in the ground.  Look at the smiles on their faces. Those children think it some kind of fun, on seeing the trunk of that elephant swaying this way and that, looking at that huge elephant, not aware that it is about to trample them to death, they are laughing. Are you going to kill these faultless children? What sin did these two commit? Is it fair to punish the children for the mistakes of the father?” said the Bard.
+
+On hearing these words, the Chozla king changed his mind. He changed his orders and made them dig up the children from the ground. He then arranged to bring up those children in his own palace. When they attained the right age, he gave back the fiefdom of Thiru-kovalur to the older boy. Since then for several hundred years followed by hundred years, the descendants of Thiru-Kovalur Malayaman were grateful friends of the Chozla kings.
+
+That relationship was continuing till the times of Sundara Chozla. Sundara Chozla had married Vanamadevi the daughter of Malayaman and had made her his queen consort.
+
+Kolli Hill Ori and Tagadur Adigaman and all their descendants were all gone. Kadamboor Sambuvaraya’s claimed that they came from a side line of these families. Sambuvaraya’s did not forget the enmity borne by their ancestors against Thiru-Kovalur Malayaman. Thus it was natural that he had not cared that Malayaman’s grandson was to be crowned as the heir to the Chozla throne. Aditya Karikala’s arrogant behavior, his disregard of all the feudatory chieftains were even more reason for Sambuvaraya’s hatred to grow. That is why the Kadamboor Sambuvarayas were eagerly supporting the efforts to place Gandara Aditya’s son Madurandaka on the Chozla Throne.
+
+Lord Sambuvaraya’s mind slowly began to change from the day Karikala had arrived at Kadamboor. His darling daughter Manimekalai was the reason for this change. There were several indications to show that Manimekalai had captured the heart of Aditya Karikala. It had been the talk that Aditya Karikala never looked at women and that he was going to spend his life as a celibate bachelor! Such a Prince now went often to the palace courts of the women, talking and flirting with them. Karikala spoke of Manimekalai’s “smartness” and often praised her chic. Since Karikala’s arrival, Manimekalai too seemed to be full of good spirits. Elder Sambuvaraya thought that it was because she felt an affection for Karikala. Seeing them together, their joy and merriment, he too began to feel jubilant.
+
+If Karikala married Manimekalai, his beloved daughter would become the enthroned empress of the Chozla’s. A child born to her would become entitled to the Chozla throne! The pride and greatness that Thiru-Kovalur Malayaman enjoys today, will be his too, if that were to happen! Why should he himself be the obstruction to that?  Why should he come in the way of the greatness that was about to become the good fortune of his daughter?
+
+Yes, it was true that at one time Sambuvaraya had thought of giving Manimekalai in marriage to Madurandaka. But Madurandaka was already twice married. The daughter of the Younger Lord Pazluvoor was married to him and had also borne a male child already. If Madurandaka were to ascend the throne it was the Pazluvoor descendants that would have the right to the crown. Manimekalai would be reduced to living in Tanjavur palace, one among the many maiden’s and servants living there.
+
+If she married Aditya Karikala, she would become the Queen Consort. The throne would be for a child born to her!
+
+Trying to crown Madurandaka was an almost impossible task. People will oppose it. It would be possible to achieve the throne for Madurandaka only after going to war with Malayaman and Velir of Kodumbalur. Madurandaka’s mother herself seems to be opposed to the idea. Why should he support to undertake such an effort, full of such obstacles?
+
+That Aditya Karikala should be crowned next, is already decided. There would be no difficulty in getting that established. The only big obstacle is the interference of these nobles of Pazluvoor. Among them, the elder old-man is drowning in his infatuation for his young queen. Who know for how long he will remain alive? Why should I stick my neck into a very dangerous situation by trusting this old man?
+
+Yes, it is true that I swore an oath to support Madurandaka. So what? there are ways to get things done without going against that pledge. It is known that Madurandaka is an innocent who can be molded to anyone’s wish. Perhaps it would be possible to make him say it himself that he does not want the kingdom. Or we can insist that we need his mother’s consent.
+
+Sambuvaraya had begun thinking in such fashion. He enthusiastically encouraged the idea of Lord Pazluvoor going to Tanjavur. When he was not there, one could talk confidentially with Karikala and find out his intentions clearly; then it would be easy to act appropriately. So, he himself hurried Lord Pazluvoor and sent him on the way to Tanjavur with appropriate retinue.
+
+After Lord Pazluvoor had left on his journey, Aditya Karikala and his friends got ready to go hunting. Lord Sambuvaraya was quite willing to send Manimekalai and some of the other women from his palace along with them.  Kandamaran who had been watching all that was happening with a different set of  eyes, objected. He had realized that all the attention that Karikala paid to Manimekalai was because of Nandini. His hatred and disgust about Karikala grew because of this. It was not possible to explain all this to his father. Instead, he said, “what are we supposed to do  taking the women along with us when we go hunting? We will have time only to make sure that they are safe! Moreover this is the month of Aippasi, and a big storm may come up any time. The Lakeside forest will be inundated with rain water. The women will be in great discomfort.” Lord Sambuvaraya gave up the idea.
+
+Karikala left, taking along his friends Parthiban, Vandiya Devan, Kandamaran and some huntsmen.
+
+After all had left the palace was deserted. Nandini looked at Manimekalai saying, “When the men are at home it is a big hindrance; and if they go away somewhere, that too is difficult for us. We don’t even find something to joke and tease about!”
+
+“Yes, Akka we too should have gone on the hunt. I love to go on the hunt and watch. I have often gone with my father and my brother. But for some reason Kandamaran was full of objections today. Perhaps because you are not fond of hunting, he objected this way?”
+
+“Yes, I am not fond of hunting; I feel scared to even see blood. Kandamaran was not saying objections because of me! He stopped us going mainly to keep you and a guest in your house separate from each other,” said Nandini.
+
+Manimekalai’s  cheeks dimpled with shyness; she was looking at the floor for some time before she said, “Let the men get lost wherever they want. We don’t their company, Akka! Let us go to the lakeside water pavilion and enjoy some water play and come back.” When Nandini agreed, she told her father and made the needed arrangements for this.
+
+We had seen earlier that there were wide embankments and the mouths of seventy-two canals along the  eastern shores of Veera Narayana lake; there was no such wide bank along the western side. The dept of the lake became steadily lower and almost flat with the land on the west. Further west was thick forest growth. In that place where the lake depth kept becoming lower and lower, there were many small island-like mounds. Trees and creepers grew thick upon these islands. On one such island was built a water-side pavilion with steps to get to the water. The womenfolk from Kadamboor fort were used to come to the place to play in the water and spend a  pleasurable time over there. It was about two leagues around the lake to reach the spot if they were to take the land way. Or one would have to go there by boat and cross the lake. Because of this and as it was known that it was a place where the womenfolk of Lord Sambuvaraya were likely to go bathing there, no strangers ventured to that place.
+
+Nandini and Manimekalai came in a boat and reached that place. Two maids who knew how to row a boat came with them. They brought ingredients to cook a picnic lunch in that boat. When they reached the water steps of the pavilion, they went up and began to make preparations to cook. Nandini and Manimekalai sat on the steps for some time gossiping about this and that. Manimekalai was by nature an intelligent girl; mischievous and fond of teasing in fun. She mimicked various persons and acted out as if Lord Pazluvoor, Kandamaran, Karikala, Vandiya Devan, Parthiban and others talked. On seeing and hearing all that, Nandini was often bursting with laughter. But it was obvious that her mind was not fully with Manimekalai and often she was lost in some private thoughts of her own.
+
+Suddenly Manimekalai jumped and stood up saying, “Akka, we did not go hunting, but the hunt is coming in search of us!” crying these words she pulled out a knife she had hidden in her waistband.
+
+Nandini too was startled to stand up and look towards the direction that Manimekalai was looking. A leopard was seen sprawling on a low tree branch spreading and leaning down. The cat seemed to be debating if it should pounce on them or not as it looked at them. At the same time they heard in the distance, horses on the water galloping towards them.
+
+***
+
+Chapter 41 - Karikala’s Killing Rage
+Aditya Karikala had said that it was a long time since he had gone hunting and that he might have lost his skill in using a bow and shooting arrows. Those who saw him hunting that day in the Lakeside Forest near Veera Narayan Lake did not think so. Several wild animals of that forest fell prey to the arrows released from his bow. Rabbit and bear, deer and even leopard fell dead. When he could not spot any beast on the ground, his arrows flew towards the birds flying in the sky. Vultures and Raajali-eagles screamed and fell to the ground. As time went by, Karikala’s killing rage seemed to increase. The people who went with him did not have anything to do! Horsemen and  footmen  went in a large group raising a loud noise and made the forest beasts emerge from their lairs and scatter away in terror. That was all the help that others in that hunting party rendered.
+
+Karikala did not permit the others to even raise a sword or let an arrow fly against beasts that came to attack him. At one-point, Kandamaran shot an arrow at a bear that came rushing towards Karikala. Karikala turned to look at Kandamaran and said, “Kandamara were you aiming to kill the bear? Or were you trying to kill me?” ‘Grains of sesame and horse-gram puffed up on the flames of anger’ scorching on Kandamaran’s face; after that he did not even bother to raise his bow.
+
+They were all rather tired by the time the sun had reached its zenith. Everyone began to think, ‘we should rest a little while and then go home.’ However, Karikala continued to force his tired horse further into the forest.
+
+During all of that early part of the morning, Kandamaran was riding beside the Prince. After Karikala had asked him, ‘are you trying to kill me?’ he moved back and joined Parthiban who was riding behind. He started complaining to him about the roguish behavior, and brutal words of the Prince. Parthiban was tying to give some answers to explain things to him.  Finding it the appropriate time, Vandiya Devan approached the Prince. After that they both rode together in the front. Vandiya Devan had not brought a bow or arrows for it. He was not all that skilled in archery. He had brought just a spear. He was riding carefully, cautiously without interfering with Karikala’s hunting. He was in readiness to use his spear if any danger was likely. He had no need to use it till that mid-day.
+
+Kandamaran was saying to Parthiban, “isn’t this much of a hunting enough for today? It seems as if he would kill all the beasts in this forest within one day! We may have to go to Kolli Hills to quench his hunting rage. Tell him, ‘this is enough for today; let us turn homewards!’”
+Parthiban replied to Kandamaran, “Thambi! There is something boiling hot in the heart of the Prince. Is it an easy thing to give up a large empire? He is showing all that anger on this hunting spree. In a way it is for the best; otherwise, he would be pouncing on you or me. Let him tire out and say it himself, ‘enough!’ Let us both not interfere.
+
+At that moment they heard a loud growl making that whole forest and beyond tremble. The signs of terror played upon Kandamaran’s face. He shouted, “Oh! Wild Boar. Ask the Prince to stop!”
+
+“Why this much fear about a wild boar? When compared to the torment felt by the leopard and bear, how can this mere boar matter?” asked Parthiban Pallava.
+
+“You speak without knowing about this beast! The wild boar in this forest will reduce leopards and bear to shreds. It will bump an elephant and make it fall. Horses are nothing to the boar. Arrows and spears will merely graze over their thick hide and fall down but not pierce their bodies…. Sir! Sir! Stop!” Kandamaran was shouting.
+
+There was great commotion in the forest bush as if it were a small whirlwind. The next instant, two wild boars appearing like two baby elephants, with large black bodies came out. They stopped  for a second looking at the horses and the men riding them.
+
+Kandamaran was shouting, “be careful Sir! Be careful!”
+
+The huntsmen and beaters who had been following arrived at that spot by then. They started beating their drums – tharai and thappattai – as loudly as they could, calling ‘kaa, kooo, koo’ trying to divert the attention of those beasts.
+
+Who knows what those wild pigs were thinking of? Their piglets? Maybe forced to act instinctively to protect their young ones…. Or they might have been alarmed by the noise of those drums. Each of those boars began to run very fast in two different directions.
+
+Kandamaran said, “My Royal Prince let those beasts be gone! We cannot chase and kill wild boar without hunting dogs, at least hundreds of dogs.”
+
+Karikala did not seem to hear his words; he bent his bow and released the arrow. Seeing it pierce the skin of one boar, the Prince, made a triumphant noise, “Ahha!” The boar shook its body vigorously; the arrow came loose and fell to the ground. The boar began to run further into the scrub woods. Kandamaran laughed, with a heckling voice.
+
+The Prince looked at him, “Kandamara let us have a bet. Vandiya Devan and I will follow this boar, kill it and bring it back. You and Parthiban follow that other one and kill it and bring it back here. Without killing these two beasts we are not going back to the palace tonight.” Even before he finished he had urged his horse to sprint forward. Vandiya Devan followed him.
+
+They could see the wild hog for a while, where was it running, which way did it go…. The shrubs, bushes and vine on its path were trampled down. Then a small stream crossed their path. It was a channel that collected the rain water in the forest and eventually ran into the lake. Once they reached its bank, they could not make out the path that the boar had taken. Did it cross the rivulet and go into the thick woods? Or was it following the stream either on this side or the other bank? They could not discern that.
+
+Something that they saw on the wide expanse of the lake at the mouth of that stream attracted their attention. A boat was on the lake; they could make out that there were some women on it. But they could not recognize who they may be. At first it seemed as if the boat was coming towards them on the stream bank. Then it turned direction along the lake and went around towards a small island near the mouth of that stream and disappeared from view.
+
+“Vallava? Who could they be, coming in that boat? It seemed like some women,” said Karikala.
+
+“Yes, they looked like women, but I could not make out who they were,” replied Vandiya Devan.
+
+“Perhaps some women from Sambuvaraya’s household?”
+
+“Maybe. But why would they come this far?”
+
+“Yes, it cannot be them. …. This morning, did Lord Pazluvoor really leave the fort? Is that for sure?”
+
+“Yes, it is for sure Sir. I myself, saw the fort gates open and saw him riding away on an elephant.”
+
+“Was it just him leaving?”
+
+“Yes, it just the old man who left; the Young Queen did not go with him.”
+
+“Where are we going to see brave and gallant men like that old gentleman! We must mention my grandfather Malayaman also as one step after Lord Pazluvoor…”
+“Sir, I have heard about the bravery of those old timers from what others have spoken. I have seen your courage on the battlefield directly by myself. I am seeing it here in Kadamboor Mansion. How you have been making  the old men and the young men shiver in fright!” said Vandiya Devan.
+
+“Yes, that is true, the reason for my creating all that ruckus is coming closer and now my heart and body are shuddering. One cannot see a frightened coward like me in all of this Chozla nation!”
+
+“My Prince when we were hunting in the forest today, you did not seem to be frightened or shuddering. You made all the forest creatures, wild birds and the men following us shiver!”
+
+“Is all that to be counted as some kind of bravery or courage? An ordinary hunting dog can pounce on a tiger and kill it. The wild varaha-boar goes to fight an elephant. Is this hunting and killing any kind of true strength or courage? Vallava, listen to this: my tricks have borne fruit. Lord Pazluvoor has left his Queen Nandini alone and gone away. However, the thought of meeting her alone and talking to her makes me terrified.”
+
+“Sir, there is reason. Till now you had been thinking of the Young Queen of Pazluvoor in a certain fashion. Now you have come to know that she is your sister. She has joined the Pandiya plotters who are ready to destroy your clan. Yes, it is difficult to explain all this to her. Even I, when I had an opportunity, I could not tell to her!”
+
+“Friend, every detail of the facts that you found out and reported to me is shocking and disturbing. Even now I cannot believe it all. However, when I think of some old incidents, it appears as if it could be true. There was always a mystic veil between her and me. In those days, the Elder Pirati in Pazlayarai, Sembiyan Madevi, insisted and forbid me to have any relationship with Nandini. But she did not tell me all the truth. If she had told me, all this would not have happened,” lamented Karikala.
+
+“Perhaps Sembiyan Madevi did not know all the truth. She must have thought it was a baby borne and abandoned by some orphan mute woman. Perhaps she did not know that the young Queen of Pazluvoor was the daughter of Sundara Chozla,” said Vandiya Devan. ***
+
+------------
+
+Chapter 42 - She Is Not Human
+Prince Karikala was lost in thought for some time. Remembrances of his younger days came as wave upon wave, jostling and bubbling, dispersing to give way for other thoughts. He forced those waves of memory to stop and heaving a deep sigh, he said, “Let us not talk now of what is gone in the past. Let us talk about what must happen now. That is why I separated you from them and brought you to be alone with me. We have lost the bet and the wild boar has gone. Let us think of what is to be done and how it must be done and come to a decision. Even thinking of how to speak to Nandini about the relationship between her and me, drowns me in dread. I am not even able to look at her face directly.  Even if I accidentally look at her, she changes her countenance to be like how she appeared at that time when she was begging for Veera-pandiya’s life. Her looks are like a sword that is ripping my heart apart. I feel as if my heart would break on thinking that my sister fell in love with my enemy Veera-pandiya and begged me for his life.
+
+“Vallava, what do you think? Is it still possible that she does not know the truth? Do you think that she does not know that she is Sundara Chozla’s daughter and a sister to all of us? What do you think?”
+
+“Prince, if she was aware of all this, would she still be involved with those terrorists from the Pandiya country? Would she have placed a young child on a throne and crowned him as the king of the Pandiyas and as emperor of the Chozla territories, going against the Chozlas.  Would she have sworn pledges with a sword in her hand to safeguard that crowned prince? I saw all this with my own eyes at midnight happening at the Thiru-Puram-biyam palli padai memorial ruins.”
+
+“I am surprised that Nandini let you go alive after you saw all that!”
+
+“Sir, I am not really surprised. Could it be the natural mercy, a quality that dwells in all women?”
+
+“Vallava, you are an innocent! You have no idea about the intensity of deceit and treachery that dwells in the heart of a woman.  I do not know why she left you alive. My heart knows why she summoned me by writing  a letter to me.”
+
+“Prince what could be the reason for that?”
+
+“She has summoned me to kill me and avenge the killing of Veera Pandiya.”
+
+“Oh dear! That is why, suspecting that something untoward like that may happen, that the Prime Minister and the Younger Pirati, sent me to you in such a hurry. But you did not heed their warning to not go to Kadamboor.”
+
+“Vallava both the Prime Minister and my sister Kundavai are very very intelligent. But fate cannot be stopped even by them. Who knows if fate has brought me here to make true all those predictions by astrologers about Arulmozli! Vallava, earlier Kandamaran shot the arrow from behind me. Did he really aim at the bear or was he really aiming at me? Did you notice that?”
+
+“I did not notice Sir. However I will not believe on any day that Kandamaran is capable of such treachery. Is Kandamaran truly likely to kill a guest in his home, the Emperors son, by aiming an arrow from behind? Yes, it is true that I have no great opinion about Kandamaran’s intelligence. I carried him to safety when he was wounded by the knife on his back; while he was in a pool of blood, lost to the world, I saved his life. He thought that I struck him because he saw my face when he opened his eyes!  The enmity he bears against me since that day has not changed till today. Even though his intellect is somewhat dim, he is not capable of treacherous thoughts.”
+
+“Friend, you have no clue of the power of the spellbinding weapons let loose by a woman. It can change the best among men to become a traitor.”
+
+“Sir, I too am aware of the enchanting powers of women. Even so, I will never turn traitor on any day.”
+
+“Aha! Manimekalai is a good girl; she will never order you to treacherous deeds on any day!”
+
+“I do not speak of Manimekalai. Can eyes that have gazed upon the glorious full moon, find the light of a firefly attractive?”
+
+“Whom do you mean by referring to a full moon?”
+
+“Prince, please do not get angry with me! I speak of the Younger Pirati at Pazlayarai.”
+
+“Hey you upstart! Impertinent poke-nose! All the kings and princes of the entire world are performing penances to take the hand of Kundavai. Can you even think of such a sister of mine!”
+
+“Sir, emperors of this earth look upon and enjoy the cool beauty of the full moon; but the poor and the unfortunate too, stand under that moon and delight in its loveliness. Who can stop them?”
+
+“Yes, there is no point in getting angry with you. I sent you with my letter to my sister, knowing this could happen. You have completed your assignments to her satisfaction. But don’t reveal all this to Parthiban. He is dreaming about becoming a son-in-law of the Chozla’s and ruling the Thondai regions as a King!”
+
+“Sir, he could have been thinking in that fashion till recently. Now both Parthiban and Kandamaran are ready to do the slightest bidding of Nandini Devi!”
+
+“I too noticed that; that is why I am concerned about them.”
+
+“Thinking of all such situations, I feel that it is crucial that you meet with Young Queen Nandini as soon as you can, and tell her all the truth.”
+
+“My friend, I am not sure if I can gain the courage to do that. Why don’t you meet with her on my behalf and tell her everything?”
+
+“Prince, the Young Queen will not believe my telling her anything. At one time I had hoodwinked her, and escaped. Therefore, she may think that this too is some sort of scheming.”
+
+“How am I to meet Nandini in private? She is in the inner apartments in that palace!”
+
+“Sir, that can be arranged with Manimekalai’s help; I can bring that about.”
+
+“You seem to have Manimekalai in the palm of your hands! That is good; whatever happens,  my heart will be somewhat calmed if I can arrange to get that Manimekalai wed to you.”
+
+“Sir, I have begun to think of Manimekalai as my sister. I expect her to be many times more fortunate….”
+
+“What are you talking about?”
+
+“Are you not aware, Prince? I suspect that the young girl Manimekalai has found a spot in the heart of the Crown Prince of this Chozla Empire! Just a few moments ago I spoke not too well of this daughter of Sambuvaraya. I spoke those words merely to reveal the feelings in my heart to you. Except for the Younger Pirati, Kundavai, no other woman born on this earth is comparable to Manimekalai in intellect and character. If only you could marry Manimekalai, all our dilemmas will be gone. Sambuvaraya and his son Kandamaran will join our side. The nobles of Pazluvoor will become isolated. The powers of the Pazluvoor Young Queen will diminish. Lord Madurandaka will not even raise the topic about wanting the kingdom after that. We can once for all destroy these conspiracies by feudatory chieftains and the terrorist activities of Pandiya Aabathudavi men and become victorious.”
+
+“Everything sounds good, Thambi! I did not come to Kadamboor to get married. I feel in my heart that some grave danger is approaching me. I shall tell you now, listen.  When Lord Pazluvoor comes back with Madurandaka, he is sure to come with a large army.”
+
+“Sir, if that is true, why don’t we send word to Thiru-Kovalur Malayaman? Ask him to collect his large army and come here? Isn’t it better considering everything, to be forewarned and prepared?”
+
+“I am thinking about it. Do you know what occurs to me sometimes? I think we should reduce this Kadamboor fort to rubble and hang everyone of those chieftains who came to that meeting of treachery from the front ramparts of this fort. I control my anger because of thoughts of my father. If only you could have led him to safety at Kanchi!”
+
+“Prince it was a monumental task even to reach your letters to the Emperor.”
+
+“Yes; the Emperor is truly enmeshed in the wily coils of these Pazluvoor noblemen. Bats hang in the golden palace that I built for my parents in Kanchi. I do not know if I will have the good fortune to welcome them to that palace when I am still alive! I even have doubts if would leave this Kadamboor with my life….”
+
+“Prince the more you speak in this fashion it becomes important that we send word to Malayaman to come here with his army.”
+
+“I am thinking if I should send you to him on that mission.”
+
+‘Sir, please forgive me! Your sister has ordered me to not be parted from you for even one minute.”
+
+“And you are fulfilling her orders till today.”
+
+“Parthiban Pallava is here, doing nothing. He is bored with nothing to do.”
+
+“Yes, every minute that he is not able to see the Queen of Pazluvoor is like one eon for him!  I did not even in my dreams think that Parthibhan would be enslaved so badly by the charms of a woman. It is him that I must send to Malayaman.”
+
+“That seems a good idea Sir.”
+
+“And when he is not by my side, you are here to help if some danger threatens.”
+
+“Sir, whether someone is here or not, I do not think that there is anyone in the world, with the courage to intend harm to you. I am seeing for myself how these brave old men who conspired and talked in so many ways when you were not there, are now shivering and trembling in heart and body, faltering in their speech, when you are in front of them.”
+
+“Thambi, I am not afraid of any man who can lift a sword and fight. I am not even afraid of young men like Kandamaran, who might aim an arrow at me from behind.”
+
+“Sir, you speak once again in this fashion about Kandamaran!”
+
+“Listen to me Thambi! I am afraid of the deception buried deep in the heart of a woman. My heart beats with agitation whenever I wonder what thoughts she has buried in the depths of her mind. Every mysterious look she casts at me, is like sharp lances piercing my heart. My hands and legs lose strength on thinking of that.”
+
+‘Sir, I too agree that one must be afraid of the deceptions practiced by Lady Nandini. I am aware of the frightening hatred that dwells in the depths of her heart. Sometimes when I think of why she let me go alive, I am terrified about the deception that may be hidden behind. However, all this is because she does not know the truth. Would we need to worry even after we reveal to her that you are her brother?”
+
+“Are you thinking that way Vallava? You are smart; however you are an innocent when it comes to understanding the ways of women. Her anger against us will increase a hundred-fold when Nandini comes to hear that we are siblings. Her anger will not be appeased even if we tell her that we would crown her as the empress of the nation.”
+
+“Prince, if you think that way, assign that responsibility to me. I shall tell Nandini Devi the true history. I will try to calm her anger down.”
+
+“Even you cannot manage that my friend! No one can overcome Nandini’s anger. Listen to these words of mine. If we need to save our Chozla clan, either I should die or she must die; Or both of us must die! I will kill her with the same sword with which I killed Veera-pandiya.”
+
+“Prince what is this kind of frightening talk?”
+
+“What is wrong in taking one life to safeguard the welfare of an entire empire? Vallava, what if that life is a woman? So what even if she is a sister born with me? In truth she is no woman! She is an  unreal, enchanting  spell-binding ghoul! If I leave her alive, this Chozla Empire that is growing and spreading since Vijayala’s times will be wiped out without trace…. Oh! What is that?” Karikala asked with a suddenly terrified  voice and turned around.
+
+There was a big commotion among the forest bushes further away. They touched their horses to go nearer to see what was happening. They witnessed a most astonishing scene. A wild boar and a spotted leopard were fighting each other furiously.
+
+Karikala spoke, “ah! The fellow we came in search of; he is here!”
+
+“It appears as if the cheetah will leave no work for us!”
+
+“Is that what you think? Keep watching!”
+
+They both stayed watching that terrifying battle between that wild hog of the forest and the cheetah, without blinking an eyelid. The cat leaped upon the boar and tried attacking with its claws and teeth. The thick hide of that boar would not succumb to the nails and teeth of the leopard. Whenever the boar toppled the cat making it get caught in thorny bushes, the cheetah suffered.  The boar’s long curving teeth tore the leopard’s skin to tatters. Finally when the boar bumped the leopard, it fell to the ground and lay as if dead.
+
+Karikala, threaded his arrow onto his bow and was ready saying, “the boar has killed the leopard; it will now turn its attention upon us, be prepared.” His arrow flew to stick into the neck of that boar. It turned as it shook itself, eyeing the two horses and men upon those horses. It glanced at the leopard. Perhaps it thought that the cat was no longer capable of anything! It came rushing with full brute force, towards the horses. It attacked his horse before Karikala could place another arrow on his bow. The horse that tried to step back from the fury of that hurtling animal, had its hind legs caught in a tree root; it stumbled and fell down. Karikala was caught below that horse!
+
+The boar moved back and prepared to take a running leap towards that fallen horse.
+
+***
+
+Chapter 43 - Where Is The Leopard?
+
+Vandiya Devan saw the extent of the danger in which Aditya Karikala was caught in. Before the eye could blink, he goaded his horse to come closer and pushed the spear in his hand upon that boar. The spear struck the hide on the back of that boar. It shook its body and turned around. In the speed of that action, the spear in Vandiya Devan’s hands slipped. The spear which had merely grazed the back of that boar was shaken loose and it fell to the ground.
+
+The pig was now turning towards Vandiya Devan. He realized his dangerous situation. His horse would surely not be able to bear the attack of the boar. And his spear was not in his hand. The Prince was still trying to unentangle himself from beneath his horse. Only if he could jump onto some tree from above his horse would he be able to escape. ‘Cheee, chee! After escaping so many dangers, must he fall prey to a mere wild pig!’ Fortunately, there was a tree close by, bent low and spreading wide. He jumped from his horse and took hold of one of those low branches. Using all his strength from the feet to his head he leaped to get on that branch. That same instant the boar bumped into his horse, which stumbled wildly -- somehow it recovered, and then began to run away.
+
+Karikala was still prone under his horse. Vandiya Devan was upon his branch. The wild boar stood in the middle turning to look this way and that. Vandiya Devan thought that it was debating about which enemy to attack between the two. The Prince had still not freed himself from under the horse. Even if he was freed to stand up, would he be able to withstand the attack of that boar at that time? The Prince had no weapon that could be used immediately in his hands. He would have to bend his bow and shoot an arrow. He might even be badly hurt being caught under the hooves of his horse. Anyway it was important that he made some time for the Prince to collect himself. All this flashed though Vandiya Devan’s thoughts at lightning speed, even as he made up his mind.  He vigorously shook the branch of the tree on which he was, shouting loudly, “akaaa, ukooo, choo!”
+
+His trick worked. The boar turned and with brutal anger came rushing towards the tree on which he was swinging.  “Come! Let it come, let it dash itself against this tree!” even as he was thinking this, the tree branch broke, unable to bear his weight. Good Lord! What is this new danger what if I fall to the ground with this branch! The terrible sharp teeth of the boar would tear me to pieces. The only escape was to jump and get hold of another branch. He tried to leap to another branch. Since it was far away, he could get hold only with one hand. It was a thinner branch and began to bend even as his hand began to slip. ‘Fine, fine. The only recourse is to fall. Death must be instantaneous! No doubt in that! Somehow, in this final moment, I was able to save the Prince Aditya Karikala! I am sure the Princess will be happy when she hears about it. Would she shed one drop of tear to  mourn my death?’ His thoughts raced in this fashion.
+
+A horrible loud noise was reverberating; and his handhold finally slipped. Vandiya Devan closed his eyes tightly. And fell down ‘bang… thud…’ and as he fell, lost consciousness.
+
+When he regained his faculties and opened his eyes, Vandiya Devan saw that Prince Karikala was sprinkling water on him. He sat up immediately. “Prince, you are safe!?”
+
+“Yes, I am still alive because of your benevolence!”
+
+“What happened to the wild pig?”
+
+“There” at the spot where the Prince pointed, he could see that the boar was lying dead.
+
+Vandiya Devan was looking at it for some time, “My King, a beast that looks so small, what a mayhem it had created! Everything that Kandamaran had said about a wild boar is true! Finally, how did you manage to kill it?”
+
+“I did not kill it. Your spear and you together killed it,” said the Prince. Not seeming to understand the meaning of his words, Vandiya Devan looed at the Prince’s face. “Sir, you have made good use of my spear. I did not do anything; I was not able to help you at that dangerous time!
+
+“When you were shaking the tree branch and crying out loudly, I managed to get free from under my horse; I picked up your spear. Poor beast, I used all my raging anger upon this pig. When pierced by the spear it made that terrible screaming noise; I almost went deaf! It did not die just by the spear thrust. You slipped from the tree branch and fell on top of it. The boar died of that shock,” on saying this, Karikala began to laugh.
+
+Vandiya Devan too, began to laugh thinking of what had happened. He felt all over himself, “I escaped being hurt because I fell on top of this pig! I can now believe the old mythology that Lord Maha Vishnu took an avatar, incarnation, of a boar and killed the evil Hiranya-Aksha. What a brutish beast!”
+
+“Thambi, do not go on to evaluate the Varaha-avatar, boar incarnation, of Lord Vishnu by merely seeing this small wild boar. In the north, in the forests of Vindhya mountains, they speak of a boar with a single sharp horn. They say that it is often as big as a small elephant. If it had been such a pig and it had dashed against the tree on which you were clinging,  how that tree would have been tormented! Think of that!” said the Prince.
+
+“The tree would have been uprooted; the spear you threw would have been broken. Our fate would be in the past tense. Their job would have been spared for the enemies of the Chozla’s,” said Vandiya Devan.
+
+“Thambi, tell me the truth. You threw your spear as soon as my horse stumbled and fell. Did you throw your spear on the boar or did you throw it at me?”
+
+Enraged, Vandiya Devan asked, “Sir, are you really asking me this question? If you are suspicious like this, there was no need to kill that animal and save my life!”
+
+“Yes, yes. I should not be suspicious of you. If you had not shaken that tree branch and made such a racket, that boar would have become my Lord of Death. Even so, when you threw the spear, I felt a second of such a suspicion. These days I am suspicious of everything and everybody unnecessarily. I am not able to get rid of the feeling that Yama, the Lord of death, is constantly following me. I thought that Lord Yama had come to me in the form of this pig.”
+
+“In that case, it is a good thing. The Yama who was following you is now dead and gone! Why worry anymore? We have also won the bet we had with Kandamaran. All we need to do is drag this boar behind us. Shall we get going?” asked Vandiya Devan Vallavarayan.
+
+“Yes; we need to get going. But why the hurry? Let us rest a while here itself and we can go after the tiredness is gone.” Said the Prince.
+
+“This is the first time ever that I am hearing you say that you are tired! Yes, you must have suffered a lot, being caught under the hooves of the horse.”
+
+“That is nothing. The weariness in my heart is greater than any tiredness of the body. Do we need to take the forest paths and go back the long way, just as we had come? Must we  join up with those fools once again and travel with them? Instead of that, it will be better if we can cross this lake and go.”
+
+“Good Lord! Are you suggesting that we swim and cross this ocean like lake? Is your intention to save me from the boar, only to drown me in this water?”
+
+“Oh, yes. I remember that you cannot swim. Even I cannot swim across this huge lake. If we could find a boat it will be easy. Did we not see a boat earlier? It must have gone ashore somewhere near here. Why don’t we look for that?”
+
+“What shall we do with the horses? Shall we leave them behind to become prey to the beasts of this forest?” asked Vandiya Devan. Suddenly he jumped up as if he remembered something else. He asked, “Sir, where is the leopard?”
+
+“I too have forgotten that! Hope it is not hidden somewhere nearby! Instead of coming like a boar, Lord Yama can be following in the form of a leopard, can’t he?”
+
+They started looking around keenly for some time. Vandiya Devan pointed, “There!”
+
+That rivulet that took the water to the lake narrowed quite a bit, as it went north. Across the narrow rivulet of water, a tree had fallen long ago touching both banks.  The leopard was slowly crawling across that log bridge and reaching the farther bank. They both saw this and both had the same thought. “Oh dear, those women who had gone in the boat!” they cried out loudly. “Those women must have gone ashore on that island at the mouth of this rivulet,” said Vandiya Devan.
+
+“A wounded leopard is very dangerous,” said the Prince.
+
+“We will need to kill the leopard and take it with us along with that pig.”
+
+“How can we cross this stream? The horses will not go across the tree bridge?” asked the Prince.
+
+“The water level cannot be high; we can get in with the horses and cross.”
+
+Karikala’s horse also had stood up by then and gone to stand next to Vandiya Devan’s horse. Just like their masters, exchanging confidences, those two horses too must have exchanged thoughts about how they had escaped danger earlier.
+
+Both men leaped onto their respective horses; they made the horses get into the stream bed. Yes, it was true that there was not much water in that stream. But mud and muck was deep. The horses stumbled and got entangled in the mire as they went forward. Vandiya Devan thought of the sinkholes at Kodi Karai thinking, “this muck is nothing to be concerned about.” Gaining courage he was about to tell Karikala about those sinkholes.
+
+“Friend, you are speaking about the mud and mire that is external. What do you think of the mud and muck inside human minds? Are you aware that it is very difficult for a person to come ashore once their mind has become embogged in the mud of evil thoughts?” asked the Prince. Vandiya Devan realized that the Prince’s heart was truly mucked up like the mud in the river.
+
+The horses crossed to the other shore with great difficulty. They looked around carefully examining the forest on all sides as they went onwards. Karikala had his bow as well as arrows ready. Vandiya Devan too, held his spear in readiness to throw on the leopard.
+
+Suddenly overcoming the natural forest noises, they heard the loud screetch of a woman’s voice followed by shouts, “Amma, Amma! Leopard, leopard!”
+
+In the same instant that Manimekalai had spotted the leopard on the tree branch, one of the girls who was occupied with cooking inside the pavilion, also saw the leopard and screamed in that fashion.
+
+That was the voice heard by both friends on the horses and had made their hair stand on end with fear. They went fast, goading the horses to quicken, towards the point where they had heard the scream. What they saw on following one turn of the lakeshore, shocked and petrified both of them.
+
+When Nandini and Manimekalai had been getting ready to get into the water to bathe, the leopard had crossed and climbed a tree branch and was slowly climbing the tree. The leopard was only concerned in preserving its own life after it had been tired out, hurt and wounded in the fight with the boar. But no one except the leopard knew this!
+
+Aditya Karikala and Vandiya Devan both thought that the leopard was about to leap on the women standing near the waters-edge. Vandiya Devan hesitated to use his spear; what if by accident it fell upon one of the women, he was afraid. Karikala did not have any such concerns.  He threaded the bow and pulled the string to release the arrow aiming at the target. The arrow whizzed to strike the leopard’s, underbelly. Roaring frightfully, the leopard leaped upon the women on the other side.
+
+None could discern what had happened in that next minute; everything was one big confusion. Both women and the leopard had suddenly disappeared. After about a minute all three heads poked up over the water at different spots. Blood mixed with the lake water and turned it red.
+
+***
+
+Chapter 44 - Love And Revenge
+Both friends were looking with some anxiety at all the happenings described above. They jumped off their horses and ran along the shores of the water. By now the leopard had drifted away quite far. The way it was floating, it appeared as if it had finally given up its life. How much were the girls hurt by the leopard? They could not figure that out. They jumped into the water and began to go towards the women; at first, Vandiya Devan was aiming to go towards Manimekalai; he was afraid to go near Nandini.
+
+Nothing had happened to Manimekalai, she was not wounded. She had fallen into the water because of the speed with which the leopard had come. Having fallen without being prepared she was a little breathless; that was all. When she saw Vandiya Devan coming towards her, she became very emotional and closed her eyes tight.
+
+Karikala had pulled at Vandiya Devan’s hand and turned him to go towards Nandini and was coming towards Manimekalai. She did not realize that. She did not open her eyes and look till Karikala had gathered her in both his arms, carried her up the steps of that pavilion, and gently lowered her on the floor. She opened her eyes very slowly only when Karikala was placing his finger near her nose, checking if she was breathing. She opened her eyes with much love and eagerness thinking of letting Vandiya Devan know of her limitless love. On opening her eyes, she realized that it was Karikala’s face that was looking at her; jumping up hastily, she went to sit a little apart.
+
+Karikala burst out in gleeful laughter on seeing the disappointment on her face.
+
+“Manimekalai what is this jumping and leaping? Why such disgust on seeing me?”
+
+“Sir, if a strange man touches her, wont a girl feel shy?” asked Manimekalai.
+
+“Girl! Have you made me into a stranger? There is great effort going on for you and me to get married!” said Karikala.
+
+“My Lord, only after such efforts are successful can we become related. Till then, you are like a stranger,” replied Manimekalai.
+
+“Perhaps you could tell if that pleases you?”
+
+The noblewoman of Kadamboor thought about it for a little. “Sir, you hail from the Chozla clan; you are intelligent to know about everything. Is it proper for you to speak to a young girl like me in this fashion? It is to my father that you must pose such a question.”
+
+“Girl, if your father agrees, will you agree?”
+
+“After my father agrees, if he asks, I shall give an answer. I feel too shy to even speak with you on this matter. You saved me from being killed by the leopard and drowning in this water. Because I feel grateful to you for that reason, I am patient all this time….”
+
+Karikala laughed, “Manimekalai you are very smart. Very deep! Even so, you were disappointed. Because of that do not try to fool me.”
+
+“Sir, what words are these? Why would a naive girl like me try to fool you? Why? How?”
+
+“Why do you wastefully talk in this roundabout fashion? If Vandiya Devan had lifted you from the water and brought you up here, will you be speaking in this cruel manner? You thought it was Vandiya Devan and closed your eyes. And you opened your eyes, thinking it was him. Poor you! you were disappointed!”
+
+Manimekalai felt a little frightened mingled with her shyness. Some how she gathered courage and said, “My Lord King, you seem to know my heart’s desire. Even then, why do you test a foolish girl like me?”
+
+“Manimekalai, I know your heart’s desire; in the same way I also know Vandiya Devan’s heart. I am thinking because he may not be deserving of your pure love. Look over there; see the Young Queen and Vandiya Devan flirting. Look at the mirth on Nandini’s face.”
+
+Manimekalai looked towards the direction he was pointing. In that moment, the poison of jealousy mixed into the milk of her pure heart.
+
+Vandiya Devan and Nandini were talking to each other. The leopard’s claw had touched one of her shoulders and the wound was bleeding. Nandini did not close her eyes shut like Manimekalai. Neither was she in any hurry to be free of Vandiya Devan’s hands. On his part Vandiya Devan quickly lifted Nandini  down on to the floor as if dropping hot embers from his hands.  Even though she had been under water, her body was burning hot.
+
+An unexplainable fright took hold of Vandiya Devan’s heart. His body was trembling.
+
+Nandini asked with a smile, “Sir, why this much tension? Do you think I am the leopard? Or, did you think of saving the leopard and accidentally brought me ashore and are worried about that!”
+
+“Lady, please do not speak such cruel words. My heart was a bit taken aback, because I had to touch you and bring you ashore!”
+
+“It is a heart that is full of wrong intent; that is why  it is agitated!”
+
+“My Lady, I have not done anything wrong!”
+
+“Not done anything wrong?!! You sought my help to get into Tanjavur fort. I helped you by giving you my signet ring. Then you came secretly to my garden in the mansion. At that time too I saved you from being harmed. How have you repaid that? You ran away like a thief, without my knowledge and without telling me.  You promised to come back and see me after meeting the Princess at Pazlayarai. You did not honor that pledge. Are not all these crimes?”
+
+“I accept those as crimes. But there is reason for all that behavior. I am in service to others. I am bound by the orders of Prince Aditya Karikala. If you think about that, you will not find fault in my actions.”
+
+“Yes, even to save a woman from the jaws of a wild leopard, you need the order of Karikala. You need his permission to rescue a girl drowning in the water. I was watching. Ahaha! How eager the Prince was, to save Manimekalai. If I had drowned in this water, he would have been very happy. Without knowing his heart, you rescued me!”
+
+“Madam, please do not say such things. Because you sent him your letter, the Prince has come this far from Kanchi.”
+
+“But you came running in such a hurry to prevent him from coming here to me. You came with messages from the Younger Pirati. Your efforts did not succeed. All your efforts to interfere in my activities will go to waste  like this.”
+
+These words of Nandini confused his mind even more. In order to understand the hidden meanings in her words, he looked keenly at her face. He face showed nothing different; as usual it appeared with a beautiful smile.
+
+Nandini continued, “your face reflects the fact that you accept  your crimes. You were in my power that night of the new moon at the palli padai memorial.  All I needed to do was give a sign and my men would have killed you. I saved your life and sent you away that night too. You do not seem grateful even for that! I have not come across anyone else in this whole world who is such a thankless person as you.”
+
+“My Lady, this I promise you.  I have heartfelt thanks towards you in my heart of hearts.”
+
+“And even though it is several days since we came to this town, you have made no effort to express your thanks. How am I supposed to believe your words?”
+
+“I thought I would express my thoughts when I would be able to meet you in privacy. An opportunity did not arise, for that.”
+
+“You made no effort to create an opportunity for yourself. You did not even make a sign by the expression on your face or the look in your eyes. Why? All these days, why did you not even look my way?”
+
+“My lady you are the wedded wife of Lord Pazluvoor who is the Chozla Empire’s, most powerful treasury officer…”
+“Meaning that I am one who is married to an old man, you are jesting about me. Is that not true?”
+
+“Oh dear, if I jest about you, I will go to the worst purgatory!”
+
+“Don’t. It does not matter now. Whatever it is, please do not call me the wedded wife of Lord Pazluvoor. I am no wife to him ….”
+
+“Oh dear! What is this that you are saying?”
+
+“I am speaking the truth. If someone forcefully drags a woman and keeps her, can she become a wife?”
+
+“My lady you come from the chaste heritage of Tamil women. You will do nothing against the moral code of womanhood.”
+
+“I am fully aware of the moral code for women. In ancient Tamil lands, women who were in love in their hearts with a man, took that person to be their spouse. They did not agree to be forced in to marrying someone.”
+
+“However, you, …”
+“I know what you are about to say. You are asking how I agreed to this forced marriage with Lord Pazluvoor? I agreed because of a very important motive of mine. There is something else celebratory about Tamil women of ancient times. They will without fail take revenge for the injustice inflicted upon them. Sir, you did not help me to fulfil my love! Will you at least help me take revenge on my enemies?”
+
+These last words of Nandini made him suffocate and suffer as if at the same time a diamond hard weapon was splitting his heart and a ferocious thunderbolt was descending upon his head.
+
+“My Lady, My lady. What is this? Love, revenge? What is the connection between your love and me? What is the connection between and love and revenge?”
+
+“There is a connection. But there is no time to tell you about it now. There, the Prince and Manimekalai are coming close. If you come tomorrow, at midnight to the chambers where I am staying, I shall tell you.”
+
+“How can that be possible My Lady? You are in chambers in the well-guarded inner apartments of the palace. How am I to come there alone at midnight?”
+
+“Did you not escape from that very chamber in the inner courts of the palace, without anyone’s knowledge at one time before this? You could come by the same way you took when you left. If only you had the heart …”
+Vandiya Devan’s shocked astonishment was now complete.
+
+However there was no change in Nandini’s expression. As usual a smile played on her lips.
+
+***
+
+Chapter 45 - You Are My Sister!
+
+Manimekalai and the Prince walked up to the spot where Nandini  and Vandiya Devan were standing. Till they had come closer, Aditya Karikala was looking at Vandiya Devan. On coming close, he looked at Nandini directly. He saw the blood drops on the scratch lines on her cheek and shoulder.
+
+“Oh! That wretched cat has wounded you!”
+
+“Yes, Sir that leopard merely wounded my body; not my heart.” These words of Nandini pierced Karikala’s heart. Before he could say anything, Manimekalai had come to her with some agitation. “Yes, Akka, it has scratched you deeply! Fortunately I have brought some ointment. Come let me apply some…” said Manimekalai.
+
+“My dear sister, such scratches and wounds are nothing to me. I have had many such wounds and they have healed. Tell me if you have an ointment to heal the wound in the heart,” said Nandini.
+
+“Oh! Yes, Akka. I have that too.”  Manimekalai took hold of Nandini’s arm and led her into the room in that marble pavilion.
+
+Prince Karikala and Vandiya Devan walked back and went to sit on a large Marble bench placed beneath a spreading Mango tree.
+
+“Sir, the quicker we leave this place the better it will be. If we linger here for too long, Kandamaran and his father may misconstrue,” said Vandiya Devan.
+
+“Whoever wants can misinterpret and think what they want; will they chop off our heads or what? If these women do not misunderstand us, it is enough. We can take leave and go as soon as they come back,” said the Prince.
+
+Very soon Manimekalai and Nandini came wearing fresh clothes and well groomed. Salve had been applied on Nandini’s cheek and shoulder to hide the bloody scratches.
+
+“We were waiting to take leave of you, before we go,” said the Prince.
+
+“How can that be! It is past midday. You must stay with us and eat a meal with us before you go. If I let you go now, Sambuvaraya’s daughter will never forgive me,” said Nandini.
+
+“We will stay upon one condition. It appears that Manimekalai has applied an ointment for the scratches on you. She said she had a medicine salve for the wounds of the heart. If she would tell us what that is, we might stay,” said Karikala.
+
+“Instead of asking  her, can we guess at what that could be?” asked Nandini.
+
+“Perhaps she meant the fading of memories over time.”
+
+“I do not think so. There are wounds of the heart that do not heal with the passing of time,” said Nandini.
+
+Vandiya Devan spoke, “as far as women are concerned there is a good ointment for wounds of the heart! That is their tears!”
+
+“This nobleman of Vallam is forever awaiting a time to speak disrespectfully about women. He is not correct. If certain wounds of the heart happen, the ability to shed tears is lost. Then how can they be useful ointments?” asked Nandini.
+
+Vandiya Devan replied, “If both of us are wrong, what is your guess?”
+
+“Why not! I can tell you.  My Sister, the ointment that you speak of goes into our heart by way of our ears! Are you not talking of the ointment for the pain in the heart being pleasing music made by the strings of the Yaazl, or flute or a sweet voice?”
+
+“Yes Akka! How did you know?” asked Manimekalai.
+
+“I told you that I was a sorceress. I have the power to know what is in the hearts of others. Sirs, will you both accept that sweet music has such unusual properties?” asked Nandini.
+
+“Yes, Oh Yes. I also accept that it was our mistake that we could not guess that! I remember Kandamaran telling me that Manimekalai is an expert singer and that she can play the Yaazl instrument very well,” Karikala replied to Nandini.
+
+“If one were to have a brother, he should be like Kandamaran. Any day that he has not been able to sing the praises of his sister to someone is not a day for that nobleman of Kadamboor. He spoke the truth about Manimekalai’s musical expertise. Manimekalai has brought her Yaazl here. Luckily, she is not forced to  have merely me as her audience, for I have no insight about music. Sirs, today you both saved us innocents from becoming the food of that leopard;  should we not thank you appropriately for that? You must stay to eat food with us and drink the nectar of Manimekalai’s music before leaving.”’ Nandini insisted.
+
+Vandiya Deval signaled to the Prince ‘do not agree!’ He did not even see that. Karikala replied, “the wishes of you princesses, is our good fortune; so be it.”
+
+“Manimekalai, your wishes are now fulfilled.  Go see if the food is ready! If not, hurry them up!” she ordered.
+
+Manimekalai got up immediately and walked towards the other side where the cooking was going on. At the same time, Vandiya Devan also stood up and started looking around. Nandini, noticed him and said, “Just now I had said that I have magical  powers to know what is in the minds of people. Let us test that now! Shall I say what is in the heart of this noble Lord of Vallam?”
+
+Karikala laughingly replied, “Tell us; let us see!”
+
+“He is regretting greatly, thinking that it was a big mistake to kill the wild leopard and save these women! He is thinking that it would have been truly better if we two had gone into that leopard’s belly!”
+
+Karikala continued with a laugh asking, “Friend, are you thinking that?”
+
+“No, Sir; I think no such thing. But it is true that I am thinking of that leopard and these two ladies. I am drowning in surprise about how that leopard escaped with its life, after being caught by these two,” answered Vandiya Devan.
+
+“What are you blabbering, Thambi? The leopard escaped? Again? We saw the dead body of that leopard floating on the water. Where is it?” the Prince also stood up asking thus.
+
+“Look over there!” pointed Vandiya Devan.
+
+Just a calling distance from where they were sitting, they could see the water’s edge between tree branches. The boat in which the noblewomen had come was tied up over there. The leopard was trying to crawl into the boat by holding to its stern with its forelegs.
+
+“This leopard seems to have a very strong life” said Karikala.
+
+“Sir, come with me. Let us go kill it and come back. It is wrong to leave a wounded wild cat, alive.”
+
+“Oh great brave of the Vaanar clan! Why should you both be troubled about a wounded leopard? Let me call Manimekalai.  She will come back after killing the beast with the small knife in her waist.” Said Nandini with some sarcasm.
+
+“Did you hear this my friend? The Pazluvoor Queen has such a great opinion about our bravery and capability! Do you need me to go with you? Will you not go just by yourself?”
+
+“Or shall we send Manimekalai?!” added Nandini.
+
+“Yes, we can send Manimekalai; what if that girl applies ointments for the leopard’s wounds and nurses it back to life!” mumbled Vandiya Devan.
+
+“What are you thinking about?” asked the Prince.
+
+“I am wondering if I should cut off the head of that wounded leopard and bring it back, to offer it, at the feet of Pazluvoor’s Queen. To see if she would be satisfied at least after that!” Vandiya Devan walked away swiftly.
+
+“Did you hear what that fool was saying? Does one need much bravery to cut off the head of a wounded leopard?” asked Karikala as he continued to laugh. On seeing Nandini’s face his laughter stopped abruptly.
+
+“It is you who must express an opinion about that!” said Nandini softly.
+
+All of Karikala’s body shivered. With a quivering voice he said, “Nandini! You sent me a letter through Kandamaran. I came here because of that. Otherwise I would not have come.”
+
+“At least after all this time, you paid heed to my request! Thanks very much!”
+
+“I thought that you have forgotten all that which had happened in the past. I thought that you sent me the letter because of that.”
+
+“Can all that which happened in the past be forgotten? Sir, have you forgotten everything?”
+
+“It is not possible to forget, I agree. I too have not forgotten! You stood with tears streaming from your eyes, begging me for a boon. I did not grant your wish. I was in a craze at that time. I have not forgotten all that even now. Why did you send me a letter? Why did you ask me to come here?”
+
+“Sir, you have not come to Tanjavur, in the last three years. You have not even come to see your father who is unwell.”
+
+“Nandini, he is not father just to me!”
+
+“Yes, he is father to the Younger Pirati. He is father to Ponniyin Selvan too. But you father feels it most that he has not seen you. Someone seems to have told the Emperor that you have not come to see him because of me. Because of that he does not even see me. Sir, is it not enough? All the harm that you have done to me already? Must I now bear this accusation too?”
+
+“But that is true; I have not come to Tanjavur because of you.”
+
+“If that is so, I shall leave Tanjavur and go away. You can come to Tanjavur; sit on the throne of your father, crown yourself…”
+“Nandini, that is unlikely to happen. I have no liking for any throne now. Let Madurandaka sit on the throne, crown himself as emperor of the kingdom and rule the land.”
+
+“Sir, you know the abilities of Madurandaka very well. Can he sit on the throne and rule for even one day?”
+
+“If he is not capable, the Lords Pazluvoor are there to help him; you are there too.”
+
+“Sir I am able to understand your wishes very well now. I will  go away from Tanjavur, from Pazluvoor palace. … You can come to Tanjavur …”
+“No, no. you think wrong. I have no such thought in me. All the wrongs I committed against you before now, that is enough. I need not add the sin of having you chased out of Pazluvoor palace too.”
+
+“Sir, can we both not remain in Tanjavur? Is there not enough place in that bit city for both of us? There is no need for us to even see each other.”
+
+“It may be so; there may not be any need to see each other. But can we avoid thinking in our minds? You were the one who just said, that you cannot forget the past. You spoke of the wound in your heart. My heart too is wounded. I too cannot forget”
+“Maybe we cannot forget. Can we not forgive? Can you not forgive my mistakes even after all these years have one by?”
+
+“Nandini, you have done nothing that needs to be forgiven by me. I am the one who did wrong; I am the one who needs to ask forgiveness. Even when I started from Kanchi, I did so with thoughts of asking for your forgiveness. But something important  that I heard along the way, has made me underserving to even ask for forgiveness.”
+
+“Royal Prince,  it is most improper for you to ask me for any forgiveness. You are the son of the Emperor who rules this known world. I am an orphan girl abandoned by the father and mother who gave birth to me.”
+
+“No Nandini, No. You are not an orphan.”
+
+“Yes, Lord Pazluvoor, the Lord of the treasury, married me and recognized me as his young Queen. Still, …”
+“It is not just that Nandini; I hesitate, thinking how I can say this truth to you.”
+
+“You may say anything you wish, without any hesitation, to this pitiful girl. People passing by, get the courage, to tell me all sorts of things. They drag me in, to be hassled and laughed at.”
+
+“Nandini, if anyone behaves in that fashion to you anymore, I shall not tolerate it even for one moment. All you need to do is point, I shall send him to the realm of Lord Yama before I do anything else.”
+
+“You always showed this kindness towards me. You would even quarrel with your sister Pazlayarai Younger Pirati, taking my side in our younger days. She is your sister….”
+
+“Nandini, you too are my sister. Like Kundavai the Younger Pirati, you too are my sister. I am your brother.”
+
+“Royal Prince, since I married another, you have started thinking of me as your sister. That is reflective of the greatness of your clan. How can I consider as my brother a son of the Emperor, the son born to rule the world?”
+
+“You do not understand what I am saying Nandini. You are truly my sister. You are the daughter of the Emperor that rules all the three nations.”
+
+Nandini started laughing merrily, upon hearing this. “Is you brain addled? Or have I become crazy! I am not sure!” said Nandini.
+
+“It is no delusion or craziness”
+“Does it mean that you are jesting about me, this naïve girl!”
+
+“Look at me and speak Nandini; do you truly think that I am jesting?”
+
+“Sir, you look at my face and speak. Do I look like the Emperor’s daughter? Do I have the characteristics of royalty on my face?”
+
+“Nandini, I have looked at your face since we were five years of age! I have been wonderstruck by the incomparable beauty that shines on your face. Only now, I understand the reason for this. I found out on the road, midway to here, after I had left Kanchi. The whole world knows that among those married into the Chozla clans, none is comparable in beauty as Kalyani the daughter of Vaithumba kings. She is still alive, living in Pazlayarai. Even though she is over seventy years in age, the divine beauty that is reflected on her face will make us blink our eyes. All her beauty has now found abode in you. There is none of that beauty in me, in Kundavai or even in Arulmozli. Only you have inherited that from my father.”
+
+“Sir, what is this that you are saying. I must have truly become mentally deranged. Or, something must be wrong with my ears.”
+
+No, Nandini, no! There is no madness; there is nothing wrong with your ears. You are a daughter of my father; therefore you are my sister. Before the Emperor married my mother, he met and loved a woman, on an island near Lanka and lived with her, wedded in the style of Gandarva love. You are her daughter, therefore my sister,” Karikala spoke with a voice filled with passion and anger.
+
+Nandini kept looking at Aditya Karikala for some time as if she was greatly shocked. Her face seemed to clear slowly.
+
+“Sir is this the only news, information that you heard half way after starting from Kanchi? Asked Nandini.
+
+“Yes, Nandini, when I heard that, many things that were somewhat unclear before, began to make sense.”
+
+“Royal Prince, who is the one who brought this news to you? The nobleman from Vallam?”
+
+“Yes, it was him. But he did not tell me just by himself. Kundavai Pirati sent word through him.”
+
+“Aha! They have conspired in many a way since the beginning days, to separate you from me. Even now their conniving is not done!”
+
+“You think in error Nandini. There is no scheming in this. In our younger days, the efforts of the Elder Pirati Sembiyan Madevi, trying to separate us, did not make sense to me. I was very much angered by that. What a great sin from which she stopped us and saved us! I understand now. Perhaps she should have told the truth then. They have done much wrong to you by not speaking of this. They have wronged me too. Let bygones be bygone. Let us both forget what has happened. Even if we are not able to forget, let us forgive.”
+
+“Sir, did the nobleman of Vallam meet you on the road and tell you just this story? Did he tell you anything else?”
+
+“Nandini, why do you call it a story? Do you not believe it?”
+
+“Is it that easy to believe what you have said?  Could I have attained this state if I had been born the daughter of an emperor? Would I have suffered this much cruel distress? Fine, let us think that what Vandiya Devan said is true. Is that all he spoke about? Did he not say anything else?”
+
+Karikala hesitated a bit. After a while he said, “Yes, he told me about something else. He said that you have joined a group of Pandiya fanatics and schemers. He said that you have pledged to destroy the very rootstock of the Chozla clans. He said that you have a killing sword with the fish symbol on its hilt that you worship. He said that in the forest around the memorial ruins near Kollidam you placed some young boy on a throne and crowned him. Forget all that from now. You have the rights to all the glory of the Chozlas just like me. You are the daughter of Emperor Sundara Chozla; our dear sister. From now onwards my most important duty is to atone for all the wrong doing meted out to you till now.”
+
+‘Sir, you believe all this, don’t you? Then why did you wait all these days after coming to Kadamboor? Why did you not make an effort earlier, to meet me, and talk to me? Why?” asked Nandini.
+
+“It was because of the confusion in my mind. I needed time to make my mind accept this new  relationship between us. I was also waiting for the right opportunity to explain everything. Is this news that can be declared openly in front of everyone? Luckily, a wild hog and a spotted leopard created that opportunity for me today.”
+
+“Sir wild beasts of the forest are of course cruel. But they are not like humans who can do so much violence. I have realized that today.”
+
+“My Sister. You said a little while ago that you cannot forget all that which has happened. I too agreed. I asked that you should forgive even if you cannot forget. You have not answered me regarding that.”
+
+“Prince, I would forgive all the betrayals, crimes against me that you have committed; I might even forget them. But the betrayal of yours today, I shall never forget or forgive.”
+
+“Oh dear! What have I done today? I have done nothing against you knowingly today!”
+
+“I will tell you. Look over there. Look at that fiend of a fellow there.”
+
+“Do you mean Vallavarayan?”
+
+“Yes. It is him who is coming empty handed, instead of bringing the head of that leopard. He saw me one day in Tanjavur. He said that he would considerate it as his good fortune if my foot touches him. I did not even want to touch him with my foot and kick him! He ran away when I said that I would summon my footmen. Because I did not submit to his depraved wishes, he has fabricated such frightful tales and told them to you. He pledged that if I wished it, he would bring your head to me. He is afraid that I would repeat all this to you. That is why he tried to stop you on the way, and tried to prevent you from coming to Kadamboor. That is why he is wandering around with you, inseparable from you. Such a loathsome fellow, someone whom I was not ready to touch even with my foot, you made him hug my whole body and bring me ashore. And you stood watching that. How can I forget that? And how can I forgive that?”
+
+When Nandini began speaking such frightful words with eyes full of passionate anger, Karikala’s head  really began to swirl. The marble pavilion, the lake water, forest trees all of them began to swirl. He steadied himself, “Sister! Nandini!  Can what you say be true? I am now truly not able to decide what to believe. Can Vandiya Devan be this vile? Even a short while ago I was thinking of arranging for him to wed this innocent girl Manimekalai.” Thus spoke Karikala.
+
+“Sir, do not just believe what I say. You always do things in haste. Do not do that this time. Wait two days, and watch his behavior. You will understand everything all by yourself,” declared  Nandini.
+
+***
+
+Chapter 46 - The Boat Moved
+Vandiya Devan was hurrying back on one side; on the other side Manimekalai was saying, “Akka! The food is ready,” even as she was coming towards them.
+
+Karikala turned and looked on both sides and said, “Nandini it was not Vandiya Devan alone who tried to stop me from coming to Kadamboor. That Vaishnava Nambi, Azlvar-adiyan too brought similar messages. My father’s lifelong friend and the gentlemen who is revered by me, Prime Minister Anirudda too, had sent word.”
+
+“Prime Minister Anirudda, he is your father’s lifelong friend! He is therefore trying to get rid of your father’s life all by himself! He is someone revered by you! Therefore he is trying to make sure that you do not inherit the throne next.”
+
+“Why? Why?”
+
+“He thinks that you have no religious belief and that you are a frenzied brute. His wish is to crown your brother, have him convert to become a Vaishnava adherent, and all this Chozla Empire into a Vaishnava Land. His wishes came to nothing when your brother drowned in the sea.”
+
+“Where is the need for him in this, to try stopping me from coming to Kadamboor?”
+
+“I might reveal all his secret desires to you!”
+
+“How do you know his secret desires?”
+
+“Sir, have you forgotten that I am a sister to that Vaishnava Azlvar-adiyan?”
+
+“Are you really his sister, born his sibling? Are you asking me to believe that story”
+“I too do not believe that story; neither am I asking you to believe it. I was growing up in his father’s house. So he used to call me sister. That Vaishnava used to call me as an incarnation of the Vaishnava Azlvar Saint Andal! His wish is that I should go travelling with him from town to town and spread the word of Vaishnava faith!”
+
+“Did he want to turn you into a  Vaishnava nun, like a Buddhist nun?” asked Aditya Karikala.
+
+“Nothing like that. He wanted me to be married to him; and that we should go wandering from town to town singing the devotional songs of his faith. He also wished that I should give birth to many children to spread the Vaishnava way of life.”
+
+“Chee! That monkey faced  Thirumalai! And with you! Did he really want to make you, his wife?”
+
+“Sir, that is my misfortune! Perhaps it is the curse of the time of my birth. All men who come close to me, come with sinful intent.”
+
+“When we have the example of old-man Pazluvoor’s behavior, why blame others!”
+
+“Royal Prince! Please do not speak ill of Lord Pazluvoor within my hearing. He fell in love with me. He married me openly, so that the whole world is aware. He honored me, an orphan nobody, by making me his Queen and had me live in his palace.”
+
+“What was your wish Nandini? Do you really take him for your husband and revere him? Does it mean ….”
+
+“No, No! I am immensely grateful and obligated to him. I do not lead a married life with him; he too has not insisted. Sir, I was born in a poor household; abandoned as soon as I was born. I offered my heart to only one person. I never changed that…”
+“Nandini, who is that fortunate? No, no, do not speak of that! Who are you? Tell the truth! If you are not the daughter of my father, if you are not my sister, not even the sibling born with Azlvar-adiyan, who are you? Just tell me that alone! Nandini, if I do not know this, I will truly become insane,” said Karikala.
+
+“I too wish to tell you that. Your friend and my friend have come close now. Later when the opportunity occurs, I shall surely tell you.”
+
+The Pazluvoor Queen turned to look at Vandiya Devan who had come very close to them and said, ‘What is this Sir, you have come back empty handed? Where is the leopard’s head?”
+
+“My Lady, I did not have the good fortune to bring the leopard’s head and offer it at your feet,” said Vandiya Devan.
+
+“Ah! Is that the extent of your valor? You told me the poems about the greatness and prowess of your ancestors! You had said that they plucked the heads of all the three kings and planted them in their fields.”
+
+“What is that poem?” asked Karikala.
+
+Nandini looked at Vandiya Devan and asked, “Sir will you repeat those lines? Or shall I say them?”
+
+“Queen, I do not recall reciting any such poetry.”
+
+“You don’t remember! however, I remember very well. I will recite those lines, listen to me:
+
+Turning armies into the rich fertilizer,
+and holding their blood to water the crop,
+in muddy fields ploughed by war elephants,
+the heads of the three kings that he had plucked,
+Vaanan, the king of all worlds, he planted them in his field!
+
+How is the poem? Royal Prince, you plucked only the head of the Pandiya King! Apparently, the ancestors of this brave young man plucked the heads of the Chera, Pandiya and Chozla kings and transplanted them in their backyard fields!” spoke Nandini.
+
+Disgust and anger began to dance on the face of the Royal Prince. “Fantastic, tilling! Fantastic crop! He started laughing like the rumble of thunder.
+
+Vandiya Devan was not even able to look up into the face of Karikala. He began saying falteringly, “My Lady, I never recited a poem like this to you!”
+
+“So what? If you had not known before, at least now, learn about the greatness of you clan. You who are born from ancestors who cut off the heads of three crowned kings and planted those heads in their backyard field, you could not bring the head of a mere wounded leopard!” Spoke Nandini.
+
+“My Lady, unfortunately, that wounded leopard had already died. I did not like to cut off the head of a dead leopard.”
+
+Karikala asked, “How is that? I saw the leopard trying to crawl into that boat?”
+
+“Yes, I had pointed that out to you. It seems to have died after it crawled into the boat and lay down there. Perhaps it died because of remorse for having wounded the divine body of the Young Queen. Who knows!” said Vandiya Devan.
+
+The anger on Karikala’s face seemed to come down and a smile blossomed. “It could have died in the water! Why did it get into the boat and die?” asked Karikala.
+
+“Perhaps like me,  the leopard too did not like water. Death by water  frightens me most among all forms of death,” said Vandiya Devan.
+
+“Even then, you bravely jumped into the water just now! Maybe it was the kindness that you felt about us innocent women!”
+
+“Yes, My Lady. I get more frightened about women than about water. I jumped in because this prince insisted. To tell the truth, I now realize that there wasn’t any need for jumping in like that.”
+
+“Yes, yes! You are afraid of only you yourself falling into water and dying. You are not afraid to push someone down to drown and make them die!”  said Nandini.
+
+It was obvious from her expression that Manimekalai did not like any of this conversation. “Akka the cooked food will go cold; come let us go,” she said.
+
+All four began walking towards the marble pavilion. While walking Manimekalai looked at Vandiya Devan. She intuitively realized that he was troubled in his mind; the Prince and Nandini were somehow causing him distress. She tried to comfort him by her speaking eyes, “It does not matter who turns your enemy, I will always support you. Do not worry!”
+
+Vandiya Devan did not even turn to look towards her. He seemed to have drowned in the sea of his worries.
+
+****
+
+It is but natural that Nandini Devi’s deceitful words and the terrible accusation she had heaped upon Vandiya Devan might disgust our readers who have been following this story.
+
+However, if we recall whatever we had learned about her birth and life incidents, we would not be all that surprised.
+
+The characteristics and character of humans occur due to inheritance from the ancestors that is mingled in the nature of their blood. It changes due to surroundings, habits of a lifestyle and experiences.
+
+Mandakini who was mute and deaf had mostly lived in the forests. She had to be very careful to escape from forest creatures. In order to guard her own life she had to sometimes kill those forest beasts ruthlessly.  After a long time, her heart that was pure as milk seemed to give rise to a spring of the nectar of love. But soon that spring dried up; her heart became a dry desert. The play of fate gave her a huge disappointment. The shock made her even loose her mind. In time, the wound in her heart healed. The nectar of love came forth as  a fresh spring. All the love she had felt for Sundara Chozla, she now showered upon his beloved son Arulmozli, changing it into motherly love.
+
+Mandakini’s daughter Nandini inherited many of the characteristics of her mother. The world deceived the daughter much more than it had deceived the mother. Nandini was abandoned by her mother. She was raised in someone’s house.  Much more than the troubles caused by the wild beasts of the forest for the mother, the daughter faced cruelty by people in the civilized world. The insults heaped on her by the royal household during her young years took deep roots in her heart and turned into hatred worse than the greatest poison. The nectar of love that could have removed that poison was not available to her.
+
+Whenever she felt love for someone, they either ignored and avoided her; or died unfortunately. Those that had insulted her and those she hated, lived well and in great comfort. What other reasons do we need to find to understand why a girl’s heart turned more vicious than the greatest poison. There was no place for anything in her heart except for the thought of revenge against those who insulted and deceived her. The cunning skills needed for this, came into her blood even from when she was in her mother’s womb! Her experiences in life, the troubles she had to undergo, the disappointments, and frightening experiences totally destroyed the softer emotions such as kindness and love from her heart turning it harder than iron or granite.
+
+In order to fully understand the incidents that are about to take place later in this story, this author felt that this explanation of the character was needed and hence wrote it here.
+
+****
+
+They did not have any joyous conversation when they were eating their meal. Nandini, Karikala and Vandiya Devan were lost each in their own worries. Because of this Manimekalai was very anxious. She had arranged for this picnic and water games thinking of spending some happy  time with Nandini in joyful conversation. When the Prince and Vandiya Devan came and joined them unexpectedly, her enthusiasm doubled. Later the way the three of them were talking and behaving did not make her comfortable. Her childlike heart immediately forgot the distress she had felt on seeing Vandiya Devan and Nandini together. She comforted herself thinking that it was her own fault for thinking wrongly about them and for giving room to jealousy in her heart. The way the other three continued with anger in their faces and the way they spoke with deceit and double meanings were not understood by her; neither did she like any of it
+Therefore, as soon as they had eaten, Manimekalai asked, “Akka,  shall we start going back? Shall I ask them to bring the boat? Are these two persons coming with us? Or will they go back the same way they had come riding their horses?”
+
+Karikala came back to the present world from his thought world. “Oh, oh; How can we go back without listening to the Yaazl music by this girl? Never! Nandini, have you forgotten? Manimekalai, do not disappoint us!”
+
+“I have not forgotten. Seeing you and your friend, you both do not seem to be those who would enjoy music. You appear as if you are standing on thorns. Still, nothing wrong yet. Manimekalai, go get your Yaazl!”
+
+“Why Akka? Why are you asking me to play the Yaazl in front of people who are not interested?” Manimekalai fussed.
+
+“Nothing like that! The Prince is saying that he wants to hear you. If his friend does not like songs or music he can close his ears,” said Nandini.
+
+“Good Lord! I am in no way against the arts of song and music! The boat girl Poonkuzlali, in Kodi Karai sang a song,
+When the wave filled oceans are quiet?
+
+Why does the inner heart seethe thus?
+
+Even now my body thrills when I think of that,” said Vandiya Devan.
+
+“Some people like only the music by some persons. I am not sure if you would like my music!”  said Manimekalai.
+
+“Who cares if he does not like; I am here. Go bring your Yaazl,” said Karikala.
+
+Manimekalai went and brought her instrument. She sat upon the top most step of the water pavilion. She tightened the strings and tuned that Yaazl which had seven strings. It had a certain tone in one half and another on the upper half.  She played the instrument alone for some time, raining pleasing music. Aditya Karikala and Vandiya Devan truly forgot their other worries. Their hearts were given to the melody of the Yaazl and refreshed.
+
+Manimekalai added her sweet voice to the strings of the yaazl and began singing. She began with the divine songs composed by Appar, Sundarar and Sambandar.
+
+After a while the Prince said, “Manimekalai your singing is fabulous. But you have been singing all religious songs. I am not one who is very religious. I have given all the rights to worship of Shiva, to Madurandaka. Sing some love ballads!”
+
+Manimekalai’s beautiful cheeks dimpled with some shyness; she was a little hesitant. “Girl, why do you hesitate? If you sing love ballads now, I will not think that you are singing them for me; my friend will not think that you are singing them for him. So sing without hesitating,” urged Karikala.
+
+“And if anyone thinks such thoughts Manimekalai is not one to worry about that!” said Nandini.
+
+“What is this Akka? How can you tease me like this, when there are two men present?”
+
+“It is your mistake in thinking of them as men! How can we call them men, when they were not able to bring the head of a dead leopard? In ancient times they speak of brave gallants who would go catch a live tiger, open its jaws and pluck its teeth and bring it back to adorn the women they love. Those were the times. You sing for now. That song which you sang for me the other day, sing that,” said Nandini.
+
+Manimekalai began to play the yaazl as she sang the following song. For some reason, in this song,
+her voice was even more melodious and pleasing as it created a flood of nectar.
+
+Near those pleasure filled hillsides
+By the pleasing falls of sneaking waters
+Under the shade of a tree laden with many fruits
+That pleasure enjoined in holding my hand
+Was it but a dream my friend
+Was it real, my friend
+In the grove of Punnai trees
+In the evening light of shining gold
+He bade me come, he did and
+Spoke such sugar sweet words
+Was it but a dream my friend
+Is that marvel untrue
+Crossing all locks and guards
+Coming softly like a thief
+With love that has no limit
+Giving hugs and kisses
+Did all that truly happen
+Did we truly delight in that pleasure
+Thus sang Manimekalai, many more such verses in various tunes she put together. All the other three drowned in the flood of that beautiful music. Even Nandini who had turned her heart stone-hard because of various reasons, felt tears brimming in her eyes. Aditya Karikala had completely forgotten the world. As if awakening suddenly from a daze, Vandiya Devan was startled to often look at Manimekalai. At those times he realized she was looking at him unwaveringly; this made him even more shocked. “Oh dear! What harm have we done to this girl?” His heart felt distressed.
+
+They who were immersed in the floods of music and emotions did not notice that the wind was becoming  more and more harsh. They did not notice waves on the lake rippling and rising softly at first. They did not notice the waves becoming bigger and bigger. Only when the wind began to roar becoming a harsh storm and had ripped an old tree by its roots and toppled it noisily, did all four wake from the dream world and look around in a startled fashion. They notice that a severe storm was raging; the lake was boiling with big waves rising and falling with a roaring sound.
+
+Nandini cried out suddenly, “Oh where is the boat?”
+
+They could not see the boat where it had been tied earlier. On looking they could see the boat in the far distance being pushed by the waves moving away slowly, moving away.
+
+“Aiyyo! What are we to do now?” cried Nandini.
+
+“If you both can ride horses, you should go away. We both can manage,”  said Vandiya Devan.
+
+“Are you making a way for us to be killed by the forest trees breaking and falling on us in this storm?” asked Nandini
+“That is not necessary. Why don’t we all remain here till the fury of the storm blows over? What are we going to do by going home? There is enough food stuff to cook; Manimekalai is here to sing for us. I have not in recent times been as happy as this!” said Aditya Karikala.
+
+“Prince, that is not appropriate. What will Lord Sambuvaraya and Kandamaran think?” asked Vandiya Dean with worry.
+
+Nandini said, “He must have loosened the boat when he went to look for the leopard.”
+
+“Akka, why do you blame him wrongly? When he came back, we could see the boat on the shore. None of us need worry. When my father sees this big storm wind,  he would send bigger boats for us.”
+
+What Manimekalai said came to be true in a short while. Two large boats almost as big as a ship, came towards the island. Lord Sambuvaraya was on one of the boats. On seeing that all four of them were safe, he was happy. Taking all of them on board, both boats turned back on that lake now seething with huge waves. Except in Lord Sambuvaraya’s heart, a severe storm was blowing in the hearts of all four young persons, creating a tumult.***
+Ponni’s Beloved Part IV – A Jeweled Crown is completed.
+
+***
+
+Main Characters
+Aditya Karikala -- Crown Prince of the Chozla Empire, Sundara Chozla's eldest son.
+
+Anirudda Brahma-raya -- The Prime Minister and confidant of Sundara Chozla.
+
+Arinjaya Chozla -- Sundara Chozla's father, King Gandara Aditya's younger brother, died after ruling for merely one year
+Arulmozli Varma -- Sundara Chozla's younger son.
+
+Astrologer of Kudanthai -- An astrologer patronized by Kundavai, a spy of sorts.
+
+Azlvar-adiyan Nambi, Thirumalai Appan -- A follower of the Vaishnava faith, step brother of Esanya Bhattar, a spy. Nandini is his adopted sister.
+
+Chandramati -- Manimekalai’s maid and confidant.
+
+Esanya Bhattar -- A priest of Pazlayarai, elder brother of Azlvar-adiyan Nambi. Had been tutor of Kundavai.
+
+Gandara Aditya -- Sundara Chozla's elder uncle, a devout follower of the Saiva faith, ruled before Arinjaya Chozla.
+
+Idumban Kari -- A footman from Kadamboor, a conspirator against Chozla royalty, member of a gang sympathetic to Pandiyas.
+
+Kalyani of Vaithumba -- Widow of King Arinjaya Chozla, a famous beauty, Sundara Chozla's mother.
+
+Kandamaran -- A young nobleman, son of Sambuvaraya of Kadamboor.
+
+Karuthiruman, the madman -- A prisoner with a past and a story.
+
+Kirama Vithan Revadasan -- Pandiya Conspirator who knew Singhala language; Raakammal’s father.
+
+Kundavai, Younger Pirati -- Sundara Chozla's daughter. Royal princess.
+
+Lord Pazluvoor, the Elder, Ambalavan -- An important and powerful chieftain, Officer of Taxation, Food Supply and Finance, brother of Kalanthaka, Nandini's husband.
+
+Lord Pazluvoor, the Younger, Kalanthaka -- Commander of Tanjavur Fort, Captain of the Guard Corps.
+
+Lord Velir of Kodumbalur, the Elder, Bhoothi Vikrama Kesari -- An important chieftain of the Chozla Empire, Commander of Chozla Armies in Lanka. Elder-uncle to Vanathi.
+
+Lord Velir of Kodumbalur, the Younger, Paranthaka -- Younger Lord of Kodumbalur, Vanathi's father who lost his life in a battle in Lanka.
+
+Madurandaka Deva -- A Chozla Prince, son of Gandara Aditya and Sembiyan Madevi, a few years older than Aditya Karikala.
+
+Malayaman Milad-udayar of Thiru-Kovalur -- A nobleman, a Chieftain of the Chozla Empire, Empress Vanamadevi's father and grandfather to Karikala, Arulmozli and Kundavai.
+
+Mandakini -- Deaf-mute woman who wanders the seashores and forests of Lanka. Vaani Ammai’s Sister.
+
+Manimekalai -- Kandamaran's younger sister and daughter of Kadamboor Sambuvaraya.
+
+Mazlava-raya -- A nobleman, Sembiyan Madevi's brother.
+
+Munai Raya -- A nobleman, not very confident in Lord Pazluvoor's schemes.
+
+Murugaiyyan -- Kodi Karai lighthouse keeper’s son, Poonkuzlali’s brother and husband of Raakammal; a boatman.
+
+Nallavan Sattanar -- Court poet at Tanjavur.
+
+Nandini, Young-Queen of Pazluvoor -- An extraordinarily beautiful woman with a mysterious past, Azlvar-adiyan’s adopted sister.
+
+Parameswaran -- Pandiya Conspirator; Thevaralan dancer.
+
+Parthiban Pallava -- A nobleman of the Pallava clan, Crown Prince Aditya Karikala's confidant.
+
+Pinakapani -- Pazlayarai Doctors’ Son
+Poonkuzlali -- Daughter of the Lighthouse Keeper of Kodi Karai, Sendan Amudan's cousin.
+
+Raakammal -- Kodi Karai Boatman’s wife, sympathetic to Pandiya cause.
+
+Ravidasa Brahmadirajan, the Sorcerer -- Leader of the Pandiya conspirators, a former retainer of Veera-pandiya, Pandiya Aabathudavi body guard who had a mysterious hold over Nandini
+Sambuvaraya of Kadamboor, Sengannan -- A nobleman; Chozla feudatory; crony of Lord Pazluvoor.
+
+Sembiyan Madevi, Elder Pirati -- Widow of King Gandara Aditya, Madurandaka Deva’s mother, fond of Sundara Chozla and his children, devout.
+
+Sendan Amudan -- A flower vendor of Tanjore, lived with his deaf-mute mother in the outskirts of the city.
+
+Soman Samban -- A conspirator against Chozla royalty, member of Ravidasa's gang, sympathetic to Pandiyas.
+
+Sundara Chozla Paranthaka -- Emperor of the Chozla Kingdom.
+
+Tyaga-Vidangar -- Lighthouse keeper at Kodi Karai. Poonkuzlali’s father.
+
+Vanamadevi of Thiru-Kovalur -- The Queen Consort, wife of Sundara Chozla, mother to Karikala, Kundavai & Arulmozli.
+
+Vanathi Devi -- A young noblewoman of the Kodumbalur clan, Kundavai's friend, in love with Prince Arulmozli.
+
+Vandiya Devan Vallavarayan -- A scion of the Vaanar clan of Vallam, Aditya Karikala's friend and messenger.
+
+Vaani Ammai -- A deaf-mute woman, garden keeper living on the outskirts of Tanjore. Amudan's Mother. Mandakini’s sister.
+
+Vasuki -- Nandini's maid.
+
+Veera-pandiya -- Pandiya King vanquished and killed by Prince Aditya Karikala.
+
+-------
+
+Glossary of Terms
+Aadi -- A month of the Tamil calendar, about July-August
+Aanai -- Elephant
+Aavani -- A month of the Tamil calendar, about August-September
+Aippasi – a month in the Tamil Calendar, about October-November
+Aiyyo, acchachcho -- Exclamatory expressions denoting, fear, despair, grief, amazement, regret, etc. similar to, “oh dear.”
+
+Advaita -- A philosophy, belief in the non-dual nature of God
+Agil -- Agar wood; fragrant wood
+Akka -- Elder sister, a respectful greeting for an older girl
+Amma -- Mother, a respectful greeting for women, both old and young
+Ankush -- A goad used by elephant drivers
+Anna -- Elder brother, respectful address for older men
+Araya, raya, arasa -- King, chieftain, Raja
+Ayya -- Father, respectful mode of address for men particularly a revered or elderly person
+Ayyanaar -- Village guardian deities made of gigantic terracotta painted figures; shown riding horses, elephants
+Bharata Natyam -- Classical dance style
+Chakra -- Discus
+Champaka – Fragrant Magnolia
+Chanakya -- A medieval personality of political cunning
+Devi, Deva -- Lady, Lord
+Eezlam  -- Tamil name for Lanka or present-day Sri Lanka
+Iruvatchi -- A fragrant flower of jasmine family
+Jaamam -- A period of time 3 hours long;  1 Jaamam = 7½ Nazli; 1 Nazli = 24 minutes.
+
+Jaggery -- Unrefined or brown sugar
+Kaadal -- Love
+Kaadam -- A league or about 10 miles
+Kaalaa-mukhas -- Ascetic followers of Shiva, a fanatic sect
+Kaavi -- Reddish, ocher dye
+Kadal -- Sea
+Kadamba -- A flower
+Kama -- Love, Passion
+Kapaalika -- An ascetic sect of Saiva Faith
+Karadi -- 1. A musical instrument 2. Bear
+Karagam -- Folk dance with balancing decorated pots
+Karaiyar -- Coastal, fisherfolk
+Karpaga -- A cornucopia, tree of plenty from the heavens
+Karppu -- Sanctity of a married woman. Chastity
+Kavi -- 1. Poet 2. Monkey
+Kinnara -- Demi-divinities; heavenly musicians
+Kolam -- Decorative drawings of rice flour
+Konnai, Konrai  -- A flowering tree; yellow laburnum flowers
+Koothu -- Dance
+Kovai fruit -- Ripe fruit of the scarlet gourd or ivy gourd
+Kulam -- Clan, family group
+Kumkum -- Red powder, used to decorate the forehead
+Kummi -- A folk dance of women circling while clapping hands
+Kunrimani -- A tiny red-black berry or bead
+Kural -- Ancient Tamil couplets
+Kuravai Koothu -- Dance of the Forest folk, often vigorous, dance by maidens weaving flower garlands
+Maalai -- Garland
+Malai -- Mountain
+Maari Amman -- A village deity, a rural Goddess
+Marudai -- A shade giving tree, a colloquial name for Madurai City
+Mattalam -- Drum
+Maya, Maaya -- Deception, unreal
+Moringa -- A leafy tree, bears drumstick like long fruit
+Musth -- A natural periodic condition even in trained male elephants that make them go aggressive and unpredictable
+Mu-ttholl-ayiram -- A collection of romantic verse in Tamil
+Muzlai -- Cave
+Naadaswaram -- Elongated windpipe like musical instrument that produces a loud melody; a wind-horn
+Naadu -- Country
+Naamam -- A vertical, religious mark worn by followers of Vishnu
+Naanal -- A sedge like grass
+Naavalo, naaval -- taunts proclaiming victory or battle-cries
+Nandavana -- Garden
+Nappinnai -- Tamil name for Radha of Northern India
+Netri-chutti -- Forehead ornament
+Nilaa-muttram -- A courtyard, plaza or gathering place
+Paadal Petra Sthalam -- A place recognized in songs composed by saints
+Padai Veedu -- Army housing
+Padinettam Perukku -- Eighteenth day flood festival
+Palli Padai -- Memorial temple
+Panchayat -- Council of Village Elders, often five persons
+Parai -- A kind of country drum, an announcement
+Pattinam -- City or Town, often a suffix for a Port Town. Ur is inland town.
+
+Perumal -- Lord, God
+Pirati -- Lady, Royal Princess
+Pitam, Peetam, matam -- Monastic seat
+Punnai -- A tree with yellow flowers
+Rudraksha -- A multifaceted bead, a sacred berry
+Saelai -- Loose pleated garment of women worn with one loose end thrown over a shoulder
+Saiva -- A denomination of Hinduism, follower of Shiva
+Salli  -- A musical instrument
+Selvan -- Beloved, Darling (masculine), Son
+Selvi -- Beloved, Darling (feminine), Daughter
+Semakalam -- Cymbal like metal drum played in temples to announce the hour of time
+Silappadikaram -- A Tamil Epic
+Sindhu -- Folk song
+Tamarind -- A shade giving tree bearing a sour fruit
+Thambi -- Younger brother, mode of address for young men
+Thaye -- Mother, mode of respectful address for women
+Thaazlai -- A fragrant cactus; screw-pine
+Themmangu -- Folk Song
+Thevar-aalan,  -- Male Divine dancer, spoke oracles if possessed
+Thevar-aatti -- Female Divine dancer, spoke oracles if possessed
+Thevaram -- Devotional Poems
+Thiru -- An honorific prefix; if it is attached to the name of a town, it usually indicated that the town was blessed in songs composed by saints of the faith tradition. Used as an addressing-prefix ex., Mr., Senor, Revered
+Thiru-vai-mozli -- Devotional Poems
+Thinnai -- A raised platform or dais on the front porch of houses in South India. Often used like a living room; for family gatherings, seating visitors, and sleeping in the night.
+
+Udukku -- Small palm held drum
+Ur, Oor -- Town or civilized place as opposed to untamed forest or Kaadu; pattinam is port town
+Uriyadi -- A game to get the prize-pot tied to a tall pole.
+
+Vaikaasi – a tamil month ,about May-June
+Vaetti -- Loose lower garment of men
+Vaishnava -- A denomination of Hinduism, follower of Vishnu
+Vamsa -- Dynasty
+Veenai -- A stringed musical instrument
+Velan Attam -- A semi-religious dance, usually by a man
+Villu-pattu -- Folk songs accompanying a string instrument, story telling
+Vinnagara -- Vishnu temple
+Yaazl -- A stringed musical instrument
+
+****
+
+About the Author
+Indra Neelameggham loves literature. She lives in the United States
+This translation is an attempt to capture the beauty of Tamil in English.
+
+This novel by Kalki captured her teen imagination and wanted to share the incredible experience
+with the whole wide world.
+
+Indra suggests:
+Enjoy the first reading to get the story
+The second reading to enjoy the language of Kalki
+The third reading to explore the incredible history and culture of the Tamils.
+
+And then, if possible, read the original in Tamil.
+
+Indra writes, reads, gives talks and just enjoys life.
+
+She is glad to have had the opportunity to be the first person to translate Ponniyin Selvan in to English [1990s.]
+Connect With Author
+Contact Email: nealer0@yahoo.com
+Website: https://indllc.wixsite.com/indrasponniyinselvan
+
+-----
+
+---
+
+**Ponniyin Selvan - English Translation (Part 4: Jeweled Crown) - முற்றும்**

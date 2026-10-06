@@ -9,14 +9,14 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
-| 01 | `01_narrinai.txt` | **Narrinai** | [வாசிக்க ↗](01_narrinai.txt) |
-| 02 | `02_kurunthokai.txt` | **Kurunthokai** | [வாசிக்க ↗](02_kurunthokai.txt) |
-| 03 | `03_ainkurunooru.txt` | **Ainkurunooru** | [வாசிக்க ↗](03_ainkurunooru.txt) |
-| 04 | `04_pathitruppaththu.txt` | **Pathitruppaththu** | [வாசிக்க ↗](04_pathitruppaththu.txt) |
-| 05 | `05_paripaadal.txt` | **Paripaadal** | [வாசிக்க ↗](05_paripaadal.txt) |
-| 06 | `06_kaliththokai.txt` | **Kaliththokai** | [வாசிக்க ↗](06_kaliththokai.txt) |
-| 07 | `07_akanaanooru.txt` | **Akanaanooru** | [வாசிக்க ↗](07_akanaanooru.txt) |
-| 08 | `08_puranaanooru.txt` | **Puranaanooru** | [வாசிக்க ↗](08_puranaanooru.txt) |
+| 01 | `01_narrinai.md` | **Narrinai** | [வாசிக்க ↗](01_narrinai.md) |
+| 02 | `02_kurunthokai.md` | **Kurunthokai** | [வாசிக்க ↗](02_kurunthokai.md) |
+| 03 | `03_ainkurunooru.md` | **Ainkurunooru** | [வாசிக்க ↗](03_ainkurunooru.md) |
+| 04 | `04_pathitruppaththu.md` | **Pathitruppaththu** | [வாசிக்க ↗](04_pathitruppaththu.md) |
+| 05 | `05_paripaadal.md` | **Paripaadal** | [வாசிக்க ↗](05_paripaadal.md) |
+| 06 | `06_kaliththokai.md` | **Kaliththokai** | [வாசிக்க ↗](06_kaliththokai.md) |
+| 07 | `07_akanaanooru.md` | **Akanaanooru** | [வாசிக்க ↗](07_akanaanooru.md) |
+| 08 | `08_puranaanooru.md` | **Puranaanooru** | [வாசிக்க ↗](08_puranaanooru.md) |
 
 ---
 

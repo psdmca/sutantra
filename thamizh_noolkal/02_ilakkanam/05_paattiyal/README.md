@@ -9,7 +9,7 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
-| 01 | `01_navaneethap_paattiyal.txt` | **Navaneethap Paattiyal** | [வாசிக்க ↗](01_navaneethap_paattiyal.txt) |
+| 01 | `01_navaneethap_paattiyal.md` | **Navaneethap Paattiyal** | [வாசிக்க ↗](01_navaneethap_paattiyal.md) |
 
 ---
 

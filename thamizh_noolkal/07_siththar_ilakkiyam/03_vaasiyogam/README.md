@@ -9,7 +9,7 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
-| 01 | `01_iraamathevar_poojaavithi.txt` | **இராமதேவர் பூஜாவிதி** | [வாசிக்க ↗](01_iraamathevar_poojaavithi.txt) |
+| 01 | `01_iraamathevar_poojaavithi.md` | **இராமதேவர் பூஜாவிதி** | [வாசிக்க ↗](01_iraamathevar_poojaavithi.md) |
 
 ---
 

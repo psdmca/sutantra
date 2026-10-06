@@ -9,10 +9,10 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
-| 01 | `01_paranjothi_yaaththirai.txt` | **சிவகாமியின் சபதம் - பாகம் 1: பரஞ்சோதி யாத்திரை (கல்கி)** | [வாசிக்க ↗](01_paranjothi_yaaththirai.txt) |
-| 02 | `02_kaanjsi_murrukai.txt` | **சிவகாமியின் சபதம் - பாகம் 2: காஞ்சி முற்றுகை (கல்கி)** | [வாசிக்க ↗](02_kaanjsi_murrukai.txt) |
-| 03 | `03_pikshuvin_kaathal.txt` | **சிவகாமியின் சபதம் - பாகம் 3: பிக்ஷுவின் காதல் (கல்கி)** | [வாசிக்க ↗](03_pikshuvin_kaathal.txt) |
-| 04 | `04_sithaintha_kanavu.txt` | **சிவகாமியின் சபதம் - பாகம் 4: சிதைந்த கனவு (கல்கி)** | [வாசிக்க ↗](04_sithaintha_kanavu.txt) |
+| 01 | `01_paranjothi_yaaththirai.md` | **சிவகாமியின் சபதம் - பாகம் 1: பரஞ்சோதி யாத்திரை (கல்கி)** | [வாசிக்க ↗](01_paranjothi_yaaththirai.md) |
+| 02 | `02_kaanjsi_murrukai.md` | **சிவகாமியின் சபதம் - பாகம் 2: காஞ்சி முற்றுகை (கல்கி)** | [வாசிக்க ↗](02_kaanjsi_murrukai.md) |
+| 03 | `03_pikshuvin_kaathal.md` | **சிவகாமியின் சபதம் - பாகம் 3: பிக்ஷுவின் காதல் (கல்கி)** | [வாசிக்க ↗](03_pikshuvin_kaathal.md) |
+| 04 | `04_sithaintha_kanavu.md` | **சிவகாமியின் சபதம் - பாகம் 4: சிதைந்த கனவு (கல்கி)** | [வாசிக்க ↗](04_sithaintha_kanavu.md) |
 
 ---
 

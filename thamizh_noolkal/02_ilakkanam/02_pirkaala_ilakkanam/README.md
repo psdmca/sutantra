@@ -9,12 +9,12 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
-| 01 | `01_thonnool_vilakkam.txt` | **Ainthilakkanam Thonnool Vilakkam** | [வாசிக்க ↗](01_thonnool_vilakkam.txt) |
-| 02 | `02_nampi_akapporul.txt` | **Akapporul Vilakkam Naarkaviraasa Nampi** | [வாசிக்க ↗](02_nampi_akapporul.txt) |
-| 03 | `03_ilakkanas_surukkam.txt` | **Ilakkanas Surukkam** | [வாசிக்க ↗](03_ilakkanas_surukkam.txt) |
-| 04 | `04_iraiyanaar_akapporul.txt` | **Kalaviyal Ennum Iraiyanaar Akapporul** | [வாசிக்க ↗](04_iraiyanaar_akapporul.txt) |
-| 05 | `05_nannool.txt` | **Nannool** | [வாசிக்க ↗](05_nannool.txt) |
-| 06 | `06_neminaatham.txt` | **Neminaatham** | [வாசிக்க ↗](06_neminaatham.txt) |
+| 01 | `01_thonnool_vilakkam.md` | **Ainthilakkanam Thonnool Vilakkam** | [வாசிக்க ↗](01_thonnool_vilakkam.md) |
+| 02 | `02_nampi_akapporul.md` | **Akapporul Vilakkam Naarkaviraasa Nampi** | [வாசிக்க ↗](02_nampi_akapporul.md) |
+| 03 | `03_ilakkanas_surukkam.md` | **Ilakkanas Surukkam** | [வாசிக்க ↗](03_ilakkanas_surukkam.md) |
+| 04 | `04_iraiyanaar_akapporul.md` | **Kalaviyal Ennum Iraiyanaar Akapporul** | [வாசிக்க ↗](04_iraiyanaar_akapporul.md) |
+| 05 | `05_nannool.md` | **Nannool** | [வாசிக்க ↗](05_nannool.md) |
+| 06 | `06_neminaatham.md` | **Neminaatham** | [வாசிக்க ↗](06_neminaatham.md) |
 
 ---
 

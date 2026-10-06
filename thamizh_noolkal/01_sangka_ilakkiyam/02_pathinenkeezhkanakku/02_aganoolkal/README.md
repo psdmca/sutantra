@@ -9,13 +9,13 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
-| 01 | `01_kaar_naarpathu.txt` | **Kaar Naarpathu** | [வாசிக்க ↗](01_kaar_naarpathu.txt) |
-| 02 | `02_ainthinai_aimpathu.txt` | **Ainthinai Aimpathu** | [வாசிக்க ↗](02_ainthinai_aimpathu.txt) |
-| 03 | `03_ainthinai_ezhupathu.txt` | **Ainthinai Ezhupathu** | [வாசிக்க ↗](03_ainthinai_ezhupathu.txt) |
-| 04 | `04_thinaimozhi_aimpathu.txt` | **Thinaimozhi Aimpathu** | [வாசிக்க ↗](04_thinaimozhi_aimpathu.txt) |
-| 05 | `05_thinaimaalai_nootru_aimpathu.txt` | **Thinaimaalai Nootru Aimpathu** | [வாசிக்க ↗](05_thinaimaalai_nootru_aimpathu.txt) |
-| 06 | `06_kainnilai.txt` | **Kainnilai** | [வாசிக்க ↗](06_kainnilai.txt) |
-| 07 | `07_innilai.txt` | **Innilai** | [வாசிக்க ↗](07_innilai.txt) |
+| 01 | `01_kaar_naarpathu.md` | **Kaar Naarpathu** | [வாசிக்க ↗](01_kaar_naarpathu.md) |
+| 02 | `02_ainthinai_aimpathu.md` | **Ainthinai Aimpathu** | [வாசிக்க ↗](02_ainthinai_aimpathu.md) |
+| 03 | `03_ainthinai_ezhupathu.md` | **Ainthinai Ezhupathu** | [வாசிக்க ↗](03_ainthinai_ezhupathu.md) |
+| 04 | `04_thinaimozhi_aimpathu.md` | **Thinaimozhi Aimpathu** | [வாசிக்க ↗](04_thinaimozhi_aimpathu.md) |
+| 05 | `05_thinaimaalai_nootru_aimpathu.md` | **Thinaimaalai Nootru Aimpathu** | [வாசிக்க ↗](05_thinaimaalai_nootru_aimpathu.md) |
+| 06 | `06_kainnilai.md` | **Kainnilai** | [வாசிக்க ↗](06_kainnilai.md) |
+| 07 | `07_innilai.md` | **Innilai** | [வாசிக்க ↗](07_innilai.md) |
 
 ---
 

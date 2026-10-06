@@ -9,18 +9,18 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
-| 01 | `01_thevaaram.txt` | **Thevaaram Muthal Thirumurai** | [வாசிக்க ↗](01_thevaaram.txt) |
-| 02 | `02_thevaaram.txt` | **Thevaaram Irantaam Thirumurai** | [வாசிக்க ↗](02_thevaaram.txt) |
-| 03 | `03_thevaaram.txt` | **Thevaaram Moonraam Thirumurai** | [வாசிக்க ↗](03_thevaaram.txt) |
-| 04 | `04_thevaaram.txt` | **Thevaaram Naankaam Thirumurai** | [வாசிக்க ↗](04_thevaaram.txt) |
-| 05 | `05_thevaaram.txt` | **Thevaaram Ainthaam Thirumurai** | [வாசிக்க ↗](05_thevaaram.txt) |
-| 06 | `06_thevaaram.txt` | **Thevaaram Aaraam Thirumurai** | [வாசிக்க ↗](06_thevaaram.txt) |
-| 07 | `07_thevaaram.txt` | **Thevaaram Ezhaam Thirumurai** | [வாசிக்க ↗](07_thevaaram.txt) |
-| 08 | `08_thiruvaasakam.txt` | **Thiruvaasakam** | [வாசிக்க ↗](08_thiruvaasakam.txt) |
-| 09 | `09_thiruvisaippaa.txt` | **Thiruvisaippaa** | [வாசிக்க ↗](09_thiruvisaippaa.txt) |
-| 10 | `10_thirumanthiram.txt` | **Thirumanthiram** | [வாசிக்க ↗](10_thirumanthiram.txt) |
-| 11 | `11_pathinoraam_thirumurai.txt` | **Pathinoraam Thirumurai** | [வாசிக்க ↗](11_pathinoraam_thirumurai.txt) |
-| 12 | `12_periyapuraanam.txt` | **Periyapuraanam Thiruththontar Puraanam** | [வாசிக்க ↗](12_periyapuraanam.txt) |
+| 01 | `01_thevaaram.md` | **Thevaaram Muthal Thirumurai** | [வாசிக்க ↗](01_thevaaram.md) |
+| 02 | `02_thevaaram.md` | **Thevaaram Irantaam Thirumurai** | [வாசிக்க ↗](02_thevaaram.md) |
+| 03 | `03_thevaaram.md` | **Thevaaram Moonraam Thirumurai** | [வாசிக்க ↗](03_thevaaram.md) |
+| 04 | `04_thevaaram.md` | **Thevaaram Naankaam Thirumurai** | [வாசிக்க ↗](04_thevaaram.md) |
+| 05 | `05_thevaaram.md` | **Thevaaram Ainthaam Thirumurai** | [வாசிக்க ↗](05_thevaaram.md) |
+| 06 | `06_thevaaram.md` | **Thevaaram Aaraam Thirumurai** | [வாசிக்க ↗](06_thevaaram.md) |
+| 07 | `07_thevaaram.md` | **Thevaaram Ezhaam Thirumurai** | [வாசிக்க ↗](07_thevaaram.md) |
+| 08 | `08_thiruvaasakam.md` | **Thiruvaasakam** | [வாசிக்க ↗](08_thiruvaasakam.md) |
+| 09 | `09_thiruvisaippaa.md` | **Thiruvisaippaa** | [வாசிக்க ↗](09_thiruvisaippaa.md) |
+| 10 | `10_thirumanthiram.md` | **Thirumanthiram** | [வாசிக்க ↗](10_thirumanthiram.md) |
+| 11 | `11_pathinoraam_thirumurai.md` | **Pathinoraam Thirumurai** | [வாசிக்க ↗](11_pathinoraam_thirumurai.md) |
+| 12 | `12_periyapuraanam.md` | **Periyapuraanam Thiruththontar Puraanam** | [வாசிக்க ↗](12_periyapuraanam.md) |
 
 ---
 

@@ -9,17 +9,17 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
-| 01 | `01_thirukkural.txt` | **Thirukkural** | [வாசிக்க ↗](01_thirukkural.txt) |
-| 02 | `02_naalatiyaar.txt` | **Naalatiyaar** | [வாசிக்க ↗](02_naalatiyaar.txt) |
-| 03 | `03_naanmanikkadikai.txt` | **Naanmanikkadikai** | [வாசிக்க ↗](03_naanmanikkadikai.txt) |
-| 04 | `04_iniyavai_naarpathu.txt` | **Iniyavai Naarpathu** | [வாசிக்க ↗](04_iniyavai_naarpathu.txt) |
-| 05 | `05_innaa_naarpathu.txt` | **Innaa Naarpathu** | [வாசிக்க ↗](05_innaa_naarpathu.txt) |
-| 06 | `06_thirikadukam.txt` | **Thirikadukam** | [வாசிக்க ↗](06_thirikadukam.txt) |
-| 07 | `07_aasaarakkovai.txt` | **Aasaarakkovai** | [வாசிக்க ↗](07_aasaarakkovai.txt) |
-| 08 | `08_pazhamozhi_naanooru.txt` | **Pazhamozhi Naanooru** | [வாசிக்க ↗](08_pazhamozhi_naanooru.txt) |
-| 09 | `09_sirupanjchamoolam.txt` | **Sirupanjchamoolam** | [வாசிக்க ↗](09_sirupanjchamoolam.txt) |
-| 10 | `10_muthumozhikkaanjsi.txt` | **Muthumozhikkaanjsi** | [வாசிக்க ↗](10_muthumozhikkaanjsi.txt) |
-| 11 | `11_elaathi.txt` | **Elaathi** | [வாசிக்க ↗](11_elaathi.txt) |
+| 01 | `01_thirukkural.md` | **Thirukkural** | [வாசிக்க ↗](01_thirukkural.md) |
+| 02 | `02_naalatiyaar.md` | **Naalatiyaar** | [வாசிக்க ↗](02_naalatiyaar.md) |
+| 03 | `03_naanmanikkadikai.md` | **Naanmanikkadikai** | [வாசிக்க ↗](03_naanmanikkadikai.md) |
+| 04 | `04_iniyavai_naarpathu.md` | **Iniyavai Naarpathu** | [வாசிக்க ↗](04_iniyavai_naarpathu.md) |
+| 05 | `05_innaa_naarpathu.md` | **Innaa Naarpathu** | [வாசிக்க ↗](05_innaa_naarpathu.md) |
+| 06 | `06_thirikadukam.md` | **Thirikadukam** | [வாசிக்க ↗](06_thirikadukam.md) |
+| 07 | `07_aasaarakkovai.md` | **Aasaarakkovai** | [வாசிக்க ↗](07_aasaarakkovai.md) |
+| 08 | `08_pazhamozhi_naanooru.md` | **Pazhamozhi Naanooru** | [வாசிக்க ↗](08_pazhamozhi_naanooru.md) |
+| 09 | `09_sirupanjchamoolam.md` | **Sirupanjchamoolam** | [வாசிக்க ↗](09_sirupanjchamoolam.md) |
+| 10 | `10_muthumozhikkaanjsi.md` | **Muthumozhikkaanjsi** | [வாசிக்க ↗](10_muthumozhikkaanjsi.md) |
+| 11 | `11_elaathi.md` | **Elaathi** | [வாசிக்க ↗](11_elaathi.md) |
 
 ---
 

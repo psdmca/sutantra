@@ -18,7 +18,7 @@
 
 | எண் | நூல் கோப்பு (File Name) | நூலின் தலைப்பு (Title) | இணைப்பு |
 | :---: | :--- | :--- | :---: |
-| 01 | `03_pattanaththuppillaiyaar_puraanam.txt` | **Pattanaththuppillaiyaar Puraanam** | [வாசிக்க ↗](03_pattanaththuppillaiyaar_puraanam.txt) |
+| 01 | `03_pattanaththuppillaiyaar_puraanam.md` | **Pattanaththuppillaiyaar Puraanam** | [வாசிக்க ↗](03_pattanaththuppillaiyaar_puraanam.md) |
 
 ---
 
