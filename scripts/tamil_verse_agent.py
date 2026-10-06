@@ -50,7 +50,7 @@ def call_gemini_api(prompt, api_key, model="gemini-2.5-flash"):
 
 def strip_markers(text):
     """Strips all added markers to recover the exact original verse."""
-    return re.sub(r'[\+\-\~]', '', text)
+    return re.sub(r'[\+\~]', '', text)
 
 def wrap_markdown_lines(text, max_len=80):
     """Wraps prose and bullet lines to max_len characters without touching code blocks."""
