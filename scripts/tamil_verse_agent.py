@@ -48,6 +48,10 @@ def call_gemini_api(prompt, api_key, model="gemini-2.5-flash"):
     except Exception as e:
         raise RuntimeError(f"Network error calling Gemini API: {e}")
 
+def strip_markers(text):
+    """Strips all added markers to recover the exact original verse."""
+    return re.sub(r'[\+\-\~\,\;\?\!“”\"\'—]', '', text)
+
 def build_prompt(book_context, verse_header, verse_lines):
     """Builds the scholarly prompt for the AI model."""
     return f"""நீங்கள் ஒரு சிறந்த செவ்வியல் தமிழ் இலக்கிய அறிஞர் (Classical Tamil Literature Scholar).
@@ -67,12 +71,15 @@ def build_prompt(book_context, verse_header, verse_lines):
 #### 1. பாடல் (சொற்பிரிப்பு & சந்திப் பிரித்த பாடம்)
 ```tamil
 (செய்யுளைப் பிழையின்றி எளிதில் பொருள் விளங்கும்படி பின்வரும் குறியீடுகளைப் பயன்படுத்திச் சீரமைக்கப்பட்ட முழுமையான பாடல் வரிகள்:
-  - '+' : சொற்புணர்ச்சி / கூட்டுச் சொல் பிரிப்பு (எ.கா: தண்+தாது, தீம்+தேன், நீடு+தொறும்)
+  - '+' : சொற்புணர்ச்சி / கூட்டுச் சொல் பிரிப்பு (எ.கா: தண்+தாது, தீம்+தேன், நீடுதோறு)
   - '-' : இடைச்சொல் / விகுதி / உருபுப் பிரிப்பு (எ.கா: செல்வர்-கொல், தன்ன-கொல்)
   - '~' : செய்யுள் அளபெடை நீட்சி (எ.கா: அசை~இ, சிறா~அர், தரூ~உம், வெரூ~உம்)
   - '“...”' : செய்யுளில் வரும் நேரடிக் கூற்று / மேற்கோள்
   - '?' / '!' : வினா மற்றும் உணர்ச்சி முடிபுக் குறிகள்
-  - ',' / ';' / '—' : சொற்றொடர் அமைப்பு மற்றும் வாசிப்பு இடைநிறுத்தக் குறிகள்)
+  - ',' / ';' / '—' : சொற்றொடர் அமைப்பு மற்றும் வாசிப்பு இடைநிறுத்தக் குறிகள்
+
+  ★ கட்டாய மீள்தன்மை விதி (Reversibility Rule):
+  செய்யுளின் அசல் மூல எழுத்துக்களையோ, சொற்களையோ நீக்கவோ மாற்றவோ கூடாது. குறியீடுகளை மட்டுமே (+, -, ~, “...”, ?, !, ,, ;) மூல வரிகளுக்குள் பொருத்த வேண்டும். இக்குறியீடுகள் அனைத்தையும் நீக்கினால் (remove all markers), அசல் மூலச் செய்யுள் (original verse) ஓர் எழுத்து அல்லது இடைவெளி கூட மாறாமல் 100% துல்லியமாக மீளப்பெறப்பட வேண்டும்.)
 ```
 
 #### 2. அருஞ்சொற்பொருள் (Archaic & Complex Words Glossary)
@@ -199,18 +206,47 @@ def process_file(filepath, start_idx=None, end_idx=None, api_key=None, model="ge
         
     print(f"\n✅ Completed! Current file '{filepath}' updated with converted verses.")
 
+def verify_reversibility(filepath, start_idx=None, end_idx=None):
+    """Verifies that stripping all added markers perfectly recovers the original verse text."""
+    with open(filepath, "r", encoding="utf-8") as f:
+        content = f.read()
+    pattern = r"(?:^|\n)((\d+)\.\s+([^\n]+))\n\n(#### 1\. பாடல் \(சொற்பிரிப்பு & சந்திப் பிரித்த பாடம்\)\n```tamil\n(.*?)\n```)"
+    matches = list(re.finditer(pattern, content, re.DOTALL))
+    if not matches:
+        print("No formatted verses found to verify.")
+        return
+    print(f"Auditing reversibility on {len(matches)} formatted verse(s)...")
+    for m in matches:
+        num = int(m.group(2))
+        if start_idx and num < start_idx:
+            continue
+        if end_idx and num > end_idx:
+            continue
+        header = m.group(1)
+        annotated_code = m.group(5).strip()
+        stripped = strip_markers(annotated_code)
+        print(f"\n--- Verse {num}: {header} ---")
+        print("Annotated with markers:")
+        print(annotated_code)
+        print("\nRecovered by removing all markers:")
+        print(stripped)
+
 def main():
     parser = argparse.ArgumentParser(
-        description="Tamil Verse AI Agent: Converts classical verses into structured 4-part literary format in-place."
+        description="Tamil Verse AI Agent: Converts classical verses into structured literary format in-place."
     )
     parser.add_argument("filepath", help="Path to the Tamil literature markdown file to convert")
     parser.add_argument("--start", type=int, default=1, help="Start verse index (inclusive, default: 1)")
     parser.add_argument("--end", type=int, default=None, help="End verse index (inclusive, default: None)")
     parser.add_argument("--api-key", help="Gemini API key (or set via GEMINI_API_KEY env var)")
     parser.add_argument("--model", default="gemini-2.5-flash", help="AI model to use (default: gemini-2.5-flash)")
+    parser.add_argument("--verify", action="store_true", help="Audit and display stripped original verse for verification")
     
     args = parser.parse_args()
-    process_file(args.filepath, start_idx=args.start, end_idx=args.end, api_key=args.api_key, model=args.model)
+    if args.verify:
+        verify_reversibility(args.filepath, start_idx=args.start, end_idx=args.end)
+    else:
+        process_file(args.filepath, start_idx=args.start, end_idx=args.end, api_key=args.api_key, model=args.model)
 
 if __name__ == "__main__":
     main()
