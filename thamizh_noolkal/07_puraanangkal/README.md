@@ -1,0 +1,17 @@
+# 07. புராணங்கள் (தலபுராணங்கள் உள்ளிட்டவை)
+
+> **கோப்பகம் (Directory):** `thamizh_noolkal/07_puraanangkal`  
+> **மொத்த நூல்கள் (Total Texts):** **25**
+
+---
+
+## 📂 உட்பிரிவுகள் (Sub-categories)
+
+| எண் | உட்பிரிவு (Sub-directory) | தலைப்பு (Title) | நூல்கள் (Count) | இணைப்பு |
+| :---: | :--- | :--- | :---: | :---: |
+| 01 | `01_puraanangkal` | **புராணங்கள்** | 10 | [புராணங்கள் ↗](01_puraanangkal/README.md) |
+| 02 | `02_sthalapuraanangkal` | **தலபுராணங்கள்** | 15 | [தலபுராணங்கள் ↗](02_sthalapuraanangkal/README.md) |
+
+---
+
+[⬅️ முதன்மைப் பக்கத்திற்குத் திரும்புக (Back to Archive Index)](../README.md)
