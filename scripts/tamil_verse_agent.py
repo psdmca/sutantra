@@ -50,7 +50,51 @@ def call_gemini_api(prompt, api_key, model="gemini-2.5-flash"):
 
 def strip_markers(text):
     """Strips all added markers to recover the exact original verse."""
-    return re.sub(r'[\+\-\~\,\;\?\!“”\"\'—]', '', text)
+    return re.sub(r'[\+\-\~]', '', text)
+
+def wrap_markdown_lines(text, max_len=80):
+    """Wraps prose and bullet lines to max_len characters without touching code blocks."""
+    lines = text.split("\n")
+    out = []
+    in_code = False
+    for line in lines:
+        if line.strip().startswith("```"):
+            in_code = not in_code
+            out.append(line)
+            continue
+        if in_code or len(line) <= max_len:
+            out.append(line)
+            continue
+
+        prefix = ""
+        content = line
+        if line.startswith("> "):
+            prefix = "> "
+            content = line[2:]
+        elif line.startswith("- "):
+            prefix = "  "
+            content = line
+        else:
+            prefix = ""
+            content = line
+
+        words = content.split(" ")
+        cur = ""
+        first = True
+        for w in words:
+            candidate = (cur + " " + w).strip() if cur else w
+            line_pfx = prefix if (not first or not (line.startswith("- ") or line.startswith("> "))) else (line[:2] if (line.startswith("- ") or line.startswith("> ")) else "")
+            if len(line_pfx + candidate) <= max_len:
+                cur = candidate
+            else:
+                if cur:
+                    out.append(line_pfx + cur)
+                cur = w
+            first = False
+        if cur:
+            line_pfx = prefix if not (line.startswith("- ") or line.startswith("> ")) or out else (line[:2] if (line.startswith("- ") or line.startswith("> ")) else "")
+            out.append(line_pfx + cur)
+    return "\n".join(out)
 
 def build_prompt(book_context, verse_header, verse_lines):
     """Builds the scholarly prompt for the AI model."""
@@ -72,22 +116,22 @@ def build_prompt(book_context, verse_header, verse_lines):
 ```tamil
 (செய்யுளைப் பிழையின்றி எளிதில் பொருள் விளங்கும்படி பின்வரும் குறியீடுகளைப் பயன்படுத்திச் சீரமைக்கப்பட்ட முழுமையான பாடல் வரிகள்:
   - '+' : சொற்புணர்ச்சி / கூட்டுச் சொல் பிரிப்பு (எ.கா: தண்+தாது, தீம்+தேன், நீடுதோறு)
-  - '-' : இடைச்சொல் / விகுதி / உருபுப் பிரிப்பு (எ.கா: செல்வர்-கொல், தன்ன-கொல்)
-  - '~' : செய்யுள் அளபெடை நீட்சி (எ.கா: அசை~இ, சிறா~அர், தரூ~உம், வெரூ~உம்)
-  - '“...”' : செய்யுளில் வரும் நேரடிக் கூற்று / மேற்கோள்
-  - '?' / '!' : வினா மற்றும் உணர்ச்சி முடிபுக் குறிகள்
-  - ',' / ';' / '—' : சொற்றொடர் அமைப்பு மற்றும் வாசிப்பு இடைநிறுத்தக் குறிகள்
+  - '-' : இடைச்சொல் / விகுதி / உருபுப் பிரிப்பு (எ.கா: செல்வர்-கொல், தன்ன-கொல், அவை-தாம்)
+  - '~' : செய்யுள் அளபெடை நீட்சி (எ.கா: அசை~இ, சிறா~அர், தரூ~உம், எழூ~உதல்)
 
   ★ கட்டாய மீள்தன்மை விதி (Reversibility Rule):
-  செய்யுளின் அசல் மூல எழுத்துக்களையோ, சொற்களையோ நீக்கவோ மாற்றவோ கூடாது. குறியீடுகளை மட்டுமே (+, -, ~, “...”, ?, !, ,, ;) மூல வரிகளுக்குள் பொருத்த வேண்டும். இக்குறியீடுகள் அனைத்தையும் நீக்கினால் (remove all markers), அசல் மூலச் செய்யுள் (original verse) ஓர் எழுத்து அல்லது இடைவெளி கூட மாறாமல் 100% துல்லியமாக மீளப்பெறப்பட வேண்டும்.)
+  செய்யுளின் அசல் மூல எழுத்துக்களையோ, சொற்களையோ நீக்கவோ மாற்றவோ கூடாது. குறியீடுகளை மட்டுமே (+, -, ~) மூல வரிகளுக்குள் பொருத்த வேண்டும். இக்குறியீடுகள் அனைத்தையும் நீக்கினால் (remove all markers: '+', '-', '~'), அசல் மூலச் செய்யுள் (original verse) ஓர் எழுத்து அல்லது இடைவெளி கூட மாறாமல் 100% துல்லியமாக மீளப்பெறப்பட வேண்டும்.)
 ```
 
-#### 2. அருஞ்சொற்பொருள் (Archaic & Complex Words Glossary)
-- **(அருஞ்சொல்)** : (பொருள் / விளக்கம்)
-(செய்யுளில் அமைந்துள்ள அனைத்துக் கடினச் சொற்கள், சங்கச் சொற்களுக்கான தமிழ் விளக்கம்)
+#### 2. அருஞ்சொற்பொருள் (Simple Glossary)
+- **(அருஞ்சொல்)** : (எளிமையான நேரடிப் பொருள்)
+(கடினச் சொற்களுக்கு மிக எளிய, நேரடியான, சுருக்கமான விளக்கம் தருக)
 
 #### 3. எளிய உரை (Simple Modern Tamil Paraphrase)
-> (1, 2 ஆகியவற்றை அடிப்படையாகக் கொண்டு, திணை மற்றும் துறைப் பின்னணியுடன் கூடிய தெளிவான, நயமான நவீனத் தமிழ்ப் பொழிப்புரை)
+> (1, 2 ஆகியவற்றை அடிப்படையாகக் கொண்டு தெளிவான எளிய தமிழ் உரை)
+
+★ வரி நீளக் கட்டுப்பாடு (Line Length Rule):
+ஒவ்வொரு வரியும் கட்டாயமாக அதிகபட்சம் 80 எழுத்துக்களுக்குள் (max 80 characters per line) அமைய வேண்டும். நீண்ட உரை வரிகளை மடித்து (wrap) அடுத்த வரியில் தருக.
 """
 
 def extract_book_context(content):
@@ -104,31 +148,57 @@ def extract_book_context(content):
 def parse_verses(content):
     """
     Parses verse blocks from the file.
-    Matches verses starting with:
-      <number>. <thinai/details>
+    Supports both Anthology format (number. header\\n\\nbody)
+    and Sutra format (number. line 1\\nline 2...).
+    Avoids TOC before '## மூலப் பாடம்' if present.
     """
-    # Regex to capture verse header and lines up to the next verse or section
-    pattern = r"(?:^|\n)((\d+)\.\s+([^\n]+))\n\n((?:(?!\n\d+\.|\n###|\Z).)+)"
+    offset = 0
+    moolam_idx = content.find("## மூலப் பாடம்")
+    if moolam_idx != -1:
+        offset = moolam_idx
+        search_text = content[offset:]
+    else:
+        search_text = content
+
+    pattern = re.compile(
+        r"(?:^|\n)(?P<full_header>(?P<num>\d+)\.\s+(?P<first>[^\n]+))(?P<rest>(?:\n(?!\d+\.|\#[#\s]).*)*)",
+        re.M
+    )
+
     verses = []
-    for m in re.finditer(pattern, content, re.DOTALL):
-        full_match = m.group(0)
-        header = m.group(1).strip()
-        num = int(m.group(2))
-        body = m.group(4).strip()
-        start_pos = m.start()
-        end_pos = m.end()
-        
+    for m in pattern.finditer(search_text):
+        num = int(m.group("num"))
+        first_line = m.group("first").strip()
+        rest = m.group("rest")
+        start = offset + m.start()
+        if search_text[m.start()] == "\n":
+            start += 1
+        end = offset + m.end()
+
         # Check if already converted
-        already_converted = ("#### 1. பாடல்" in body) or ("#### 1. மூலப் பாடல்" in body)
-        
+        is_converted = ("#### 1. பாடல்" in rest) or ("#### 1. மூலப் பாடல்" in rest)
+
+        if "\n\n" in rest[:3] and not is_converted:
+            # Anthology format (e.g. 1. குறிஞ்சி - தோழி கூற்று\n\nபாடல் வரிகள்)
+            header = f"{num}. {first_line}"
+            verse_body = rest.strip()
+        elif is_converted:
+            header = f"{num}. {first_line}"
+            cb_match = re.search(r"```tamil\n(.*?)\n```", rest, re.DOTALL)
+            verse_body = cb_match.group(1).strip() if cb_match else rest.strip()
+        else:
+            # Sutra format (e.g. 1. எழுத்து எனப்படுப\nஅகரம் முதல்...)
+            header = f"{num}. {first_line}"
+            verse_body = (first_line + rest).strip()
+
         verses.append({
             "number": num,
             "header": header,
-            "body": body,
-            "start": start_pos,
-            "end": end_pos,
-            "full_match": full_match,
-            "already_converted": already_converted
+            "first_line": first_line,
+            "body": verse_body,
+            "start": start,
+            "end": end,
+            "already_converted": is_converted
         })
     return verses
 
@@ -194,7 +264,8 @@ def process_file(filepath, start_idx=None, end_idx=None, api_key=None, model="ge
         ai_response = call_gemini_api(prompt, resolved_api_key, model=model)
         
         # Construct the replacement block
-        replacement_block = f"\n{header}\n\n{ai_response.strip()}\n"
+        wrapped_response = wrap_markdown_lines(ai_response.strip(), max_len=80)
+        replacement_block = f"\n{header}\n\n{wrapped_response}\n"
         
         # Replace the verse slice in modified_content
         modified_content = modified_content[:v["start"]] + replacement_block + modified_content[v["end"]:]
